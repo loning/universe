@@ -396,23 +396,23 @@ This theoretical framework includes the following core documents, which together
 ### 基础理论 | Basic Theory
 
 - [基本概念](theories/basic_concepts.md) | [Basic Concepts](theories/basic_concepts.md)
-- [理论框架](theories/theoretical_framework.md) | [Theoretical Framework](theories/theoretical_framework.md)
+- [理论框架](theories/quantum_classical/README.md) | [Theoretical Framework](theories/quantum_classical/README.md)
 - [数学表述](theories/mathematical_formulations.md) | [Mathematical Formulations](theories/mathematical_formulations.md)
-- [观察者与意识](theories/observer_and_consciousness.md) | [Observer and Consciousness](theories/observer_and_consciousness.md)
+- [观察者与意识](theories/quantum_classical/quantum_observer.md) | [Observer and Consciousness](theories/quantum_classical/quantum_observer.md)
 - [宇宙与观察者的关系](theories/universe_observer_relationship.md) | [Universe-Observer Relationship](theories/universe_observer_relationship.md)
 
 ### 扩展理论 | Extended Theory
 
 - [观察者感知宇宙的机制](theories/observer_perception.md) | [Observer's Perception of the Universe](theories/observer_perception.md)
-- [宇宙结构与演化](theories/universe_structure.md) | [Universe Structure and Evolution](theories/universe_structure.md)
-- [意识的持久性与传递](theories/consciousness_persistence.md) | [Consciousness Persistence and Transmission](theories/consciousness_persistence.md)
-- [量子计算与人工意识](applications/quantum_computing_consciousness.md) | [Quantum Computing and Artificial Consciousness](applications/quantum_computing_consciousness.md)
+- [宇宙结构与演化](theories/quantum_classical/quantum_universe.md) | [Universe Structure and Evolution](theories/quantum_classical/quantum_universe.md)
+- [意识的持久性与传递](theories/quantum_classical/classical_consciousness.md) | [Consciousness Persistence and Transmission](theories/quantum_classical/classical_consciousness.md)
+- [量子计算与人工意识](theories/quantum_computing_consciousness.md) | [Quantum Computing and Artificial Consciousness](theories/quantum_computing_consciousness.md)
 
 ### 应用与解释 | Applications and Interpretations
 
-- [应用与启示](applications/applications_and_implications.md) | [Applications and Implications](applications/applications_and_implications.md)
-- [未解释的物理现象](applications/unexplained_phenomena.md) | [Unexplained Physical Phenomena](applications/unexplained_phenomena.md)
-- [传统物理学的解释](applications/traditional_physics_explained.md) | [Traditional Physics Explained](applications/traditional_physics_explained.md)
+- [应用与启示](theories/applications_and_implications.md) | [Applications and Implications](theories/applications_and_implications.md)
+- [未解释的物理现象](theories/unexplained_phenomena.md) | [Unexplained Physical Phenomena](theories/unexplained_phenomena.md)
+- [传统物理学的解释](theories/traditional_physics_explained.md) | [Traditional Physics Explained](theories/traditional_physics_explained.md)
 
 ### 参考资料 | References
 
