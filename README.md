@@ -159,6 +159,14 @@ The [Classical Consciousness Theory](theories/quantum_classical/classical_consci
 3. [经典意识论 | Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) ?
 4. [理论框架 | Theoretical Framework](theories/quantum_classical/README.md) ⚠
 
+### 生物学理论 | Biological Theories
+
+1. [进化论 | Evolution Theory](theories/biology/evolution.md) ✓
+2. [细胞理论 | Cell Theory](theories/biology/cell.md) ✓
+3. [基因理论 | Gene Theory](theories/biology/gene.md) ✓
+4. [生物信息学 | Bioinformatics](theories/biology/bioinformatics.md) ✓
+5. [神经生物学 | Neurobiology](theories/biology/neurobiology.md) ✓
+
 ### 哲学理论 | Philosophical Theories
 
 1. [本体论 | Ontology](theories/philosophy/ontology.md) ⚠
