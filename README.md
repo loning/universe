@@ -152,26 +152,42 @@ The [Classical Consciousness Theory](theories/quantum_classical/classical_consci
 
 ## 目录 | Table of Contents
 
-1. [量子宇宙 | Quantum Universe](theories/quantum_classical/quantum_universe.md)
-   - 量子宇宙学基础 | Foundations of Quantum Cosmology
-   - 量子宇宙的特性 | Characteristics of the Quantum Universe
-   - 观测证据与实验提案 | Observational Evidence and Experimental Proposals
-   - 理论挑战与问题 | Theoretical Challenges and Problems
+### 物理理论 | Physical Theories
 
-2. [量子观察者 | Quantum Observer](theories/quantum_classical/quantum_observer.md)
-   - 观察者的量子本质 | Quantum Nature of Observers
-   - 观测过程的量子描述 | Quantum Description of the Observation Process
-   - 观察者与测量问题 | Observers and the Measurement Problem
-   - 量子认知模型 | Quantum Cognition Models
+1. [量子宇宙 | Quantum Universe](theories/quantum_classical/quantum_universe.md) ?
+2. [量子观察者 | Quantum Observer](theories/quantum_classical/quantum_observer.md) ?
+3. [经典意识论 | Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) ?
+4. [理论框架 | Theoretical Framework](theories/quantum_classical/README.md) ⚠
 
-3. [经典意识论 | Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md)
-   - 意识的物理基础 | Physical Basis of Consciousness
-   - 意识与量子测量 | Consciousness and Quantum Measurement
-   - 意识的信息处理 | Information Processing of Consciousness
-   - 意识与宇宙自我认知 | Consciousness and Universe Self-Cognition
+### 哲学理论 | Philosophical Theories
 
-4. [理论框架 | Theoretical Framework](theories/quantum_classical/README.md)
-   - 理论整合 | Theoretical Integration
-   - 数学公式 | Mathematical Formulations
-   - 实验验证 | Experimental Verification
-   - 哲学含义 | Philosophical Implications
+1. [本体论 | Ontology](theories/philosophy/ontology.md) ⚠
+   - 实在论与唯名论 | Realism and Nominalism
+   - 唯物主义与唯心主义 | Materialism and Idealism
+   - 二元论与一元论 | Dualism and Monism
+
+2. [认识论 | Epistemology](theories/philosophy/epistemology.md) ⚠
+   - 理性主义与经验主义 | Rationalism and Empiricism
+   - 先验知识与后验知识 | A Priori and A Posteriori Knowledge
+   - 科学实在论与反实在论 | Scientific Realism and Anti-realism
+
+3. [心灵哲学 | Philosophy of Mind](theories/philosophy/mind.md) ?
+   - 心身问题 | Mind-Body Problem
+   - 意识的难题 | Hard Problem of Consciousness
+   - 人工智能与心灵 | Artificial Intelligence and Mind
+
+4. [科学哲学 | Philosophy of Science](theories/philosophy/science.md) ✓
+   - 科学方法论 | Scientific Methodology
+   - 科学解释理论 | Theories of Scientific Explanation
+   - 科学进步模式 | Models of Scientific Progress
+
+5. [量子哲学 | Quantum Philosophy](theories/philosophy/quantum.md) ?
+   - 量子测量问题的哲学解释 | Philosophical Interpretations of Quantum Measurement Problem
+   - 量子非局域性的哲学含义 | Philosophical Implications of Quantum Non-locality
+   - 量子与意识的关系 | Relationship Between Quantum and Consciousness
+
+### 验证状态说明 | Verification Status Legend
+- ✓ - 广泛接受的理论 | Widely accepted theories
+- ⚠ - 部分争议但有实质支持的理论 | Partially controversial theories with substantial support
+- ? - 尚未被充分验证的假说 | Hypotheses not yet fully verified
+- ✗ - 已被证伪或广泛质疑的理论 | Theories that have been falsified or widely questioned
