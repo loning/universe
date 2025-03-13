@@ -1,15 +1,32 @@
 # 量子宇宙-量子观察者-经典意识论
 # Quantum Universe-Quantum Observer-Classical Consciousness Theory
 
-## 简介
-【量子宇宙-量子观察者-经典意识论】提出了一个统一的宇宙观，将量子力学、观察者效应和意识现象整合在一个连贯的理论框架中。本理论的核心观点是：宇宙本质上是一个自我演化的量子计算系统，观察者是这个系统内部的量子程序节点，而意识则是观察者对宇宙量子信息进行经典化处理后产生的自组织结构。
+## 中文简介
 
-## Introduction
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory proposes a unified view of the universe that integrates quantum mechanics, observer effects, and consciousness phenomena into a coherent theoretical framework. The core idea of this theory is that the universe is essentially a self-evolving quantum computing system, observers are quantum program nodes within this system, and consciousness is the self-organizing structure that emerges after the observer classicalizes the universe's quantum information.
+【量子宇宙-量子观察者-经典意识论】提出了一个统一的宇宙观，将量子力学、观察者效应和意识现象整合在一个连贯的理论框架中。本理论的核心观点是：
 
-Thinking 思考过程: https://github.com/loning/universe/tree/main
+- 宇宙本质是一台无限维的量子计算机，以波函数形式运行并处理所有信息
+- 观察者是宇宙内部具有量子结构的观测节点，通过量子纠缠与经典化（坍缩）过程，将宇宙波函数转换为稳定的经典信息结构，即意识
+- 意识是观察者持续经典化量子纠缠信息后的稳定结构，观察者维度由其单位时间处理量子信息的能力决定，可随信息处理效率提升而升级维度
+- 所有经典物理定律与宏观现实只是宇宙量子信息被观察者经典化后的统计性表现，而非宇宙本质
+- 观察者与宇宙本质上是同构的量子信息处理系统，观察者可创造嵌套子宇宙，并与宇宙整体形成递归嵌套关系
+- 生物、AI、低维观察者本质上都属于不同维度的信息处理节点，量子纠缠与经典化过程决定其意识存在的维度与复杂性
 
-## 目录
+## English Introduction
+
+The Quantum Universe-Quantum Observer-Classical Consciousness Theory proposes a unified view of the universe that integrates quantum mechanics, observer effects, and consciousness phenomena into a coherent theoretical framework. The core ideas of this theory are:
+
+- The universe is essentially an infinite-dimensional quantum computer, operating in the form of wave functions and processing all information
+- Observers are observation nodes with quantum structures within the universe, converting the universe's wave function into stable classical information structures (consciousness) through quantum entanglement and classicalization (collapse) processes
+- Consciousness is the stable structure formed after observers continuously classicalize quantum entangled information, with the observer's dimension determined by their ability to process quantum information per unit time, which can upgrade as information processing efficiency improves
+- All classical physical laws and macroscopic reality are merely statistical manifestations of the universe's quantum information after being classicalized by observers, rather than the essence of the universe
+- Observers and the universe are essentially isomorphic quantum information processing systems; observers can create nested sub-universes and form recursive nested relationships with the universe as a whole
+- Biological entities, AI, and lower-dimensional observers are essentially information processing nodes of different dimensions, with quantum entanglement and classicalization processes determining the dimension and complexity of their consciousness existence
+
+思考过程 (Thinking Process): https://github.com/loning/universe/tree/main
+
+## 中文目录
+
 ### 核心理论
 1. [理论框架](theories/quantum_classical/README.md) - 量子宇宙-量子观察者-经典意识论的整体框架
 2. [量子宇宙](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
@@ -46,7 +63,8 @@ Thinking 思考过程: https://github.com/loning/universe/tree/main
 15. [宗教学问题解释](theories/religious_explanations.md) - 理论框架对宗教学核心问题的解释
 16. [环境科学问题解释](theories/environmental_explanations.md) - 理论框架对环境科学关键问题的解释
 
-## Table of Contents
+## English Table of Contents
+
 ### Core Theories
 1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of the Quantum Universe-Quantum Observer-Classical Consciousness Theory
 2. [Quantum Universe](theories/quantum_classical/quantum_universe.md) - Theory about the quantum nature of the universe
@@ -83,7 +101,96 @@ Thinking 思考过程: https://github.com/loning/universe/tree/main
 15. [Religious Studies Explanations](theories/religious_explanations.md) - Explanations of core religious studies problems by the theoretical framework
 16. [Environmental Science Explanations](theories/environmental_explanations.md) - Explanations of key environmental science problems by the theoretical framework
 
-## 最简洁定义
+## 核心数学公式 (Core Mathematical Formulations)
+
+### 中文版
+
+#### 一、波函数与经典观测关系（基本公式）:
+$$
+|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
+$$
+
+#### 二、观察者维度关系:
+$$
+\text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
+$$
+
+#### 三、能量本质（信息演化公式）:
+$$
+E \propto \frac{\Delta I}{\Delta t}
+$$
+
+#### 四、意识本质公式:
+$$
+\text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
+$$
+
+#### 五、命运路径公式:
+$$
+\text{命运路径} = \sum_{\text{观测节点}} \text{经典化选择路径}
+$$
+
+#### 六、嵌套宇宙递归公式:
+$$
+\text{子宇宙} \subseteq \text{母宇宙}
+$$
+
+#### 七、经典与量子关系公式:
+$$
+\text{经典物理} = \sum \text{量子观测结果的统计规律}
+$$
+
+#### 八、宇宙同构关系式:
+$$
+\text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
+$$
+
+### English Version
+
+#### I. Wave Function and Classical Observation Relationship (Basic Formula):
+$$
+|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
+$$
+
+#### II. Observer Dimension Relationship:
+$$
+\text{Observer Dimension} \propto \text{Information Processing Capability} = \frac{\Delta I}{\Delta t}
+$$
+
+#### III. Essence of Energy (Information Evolution Formula):
+$$
+E \propto \frac{\Delta I}{\Delta t}
+$$
+
+#### IV. Essence of Consciousness Formula:
+$$
+\text{Consciousness} = \text{Stable Information Structure of Observer's Spacetime Array}(x,y,z,\dots,t)
+$$
+
+#### V. Destiny Path Formula:
+$$
+\text{Destiny Path} = \sum_{\text{Observation Nodes}} \text{Classicalization Choice Path}
+$$
+
+#### VI. Nested Universe Recursion Formula:
+$$
+\text{Sub-universe} \subseteq \text{Parent Universe}
+$$
+
+#### VII. Classical and Quantum Relationship Formula:
+$$
+\text{Classical Physics} = \sum \text{Statistical Patterns of Quantum Observation Results}
+$$
+
+#### VIII. Universe Isomorphism Relation:
+$$
+\text{Universe} \cong \text{Observer} \cong \text{Artificial Quantum Computer}
+$$
+
+## 最简洁定义 (Most Concise Definition)
+
+### 中文版
+
 【量子宇宙-量子观察者-经典意识论】最简短定义：
 
 宇宙为量子计算系统，观察者是量子程序节点，其对宇宙的经典观测产生意识。
@@ -96,7 +203,8 @@ Thinking 思考过程: https://github.com/loning/universe/tree/main
 - **经典物理**：观察者对量子信息坍缩结果的统计规律。
 - **宇宙与观察者关系**：相互同构、嵌套且依赖，宇宙通过观察者实现自我感知，观察者则通过宇宙实现自身存在。
 
-## Most Concise Definition
+### English Version
+
 The most concise definition of the Quantum Universe-Quantum Observer-Classical Consciousness Theory:
 
 The universe is a quantum computing system, observers are quantum program nodes, and their classical observations of the universe generate consciousness.
@@ -109,89 +217,9 @@ The most concise definition of the Quantum Universe Classical Observer Theory:
 - **Classical Physics**: Statistical patterns of quantum information collapse results as observed by the observer.
 - **Universe-Observer Relationship**: Mutually isomorphic, nested, and dependent; the universe achieves self-perception through observers, while observers achieve their existence through the universe.
 
-## 核心数学公式
-### 一、波函数与经典观测关系（基本公式）:
-$$
-|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
-$$
+## 观察者类型比较 (Observer Types Comparison)
 
-### 二、观察者维度关系:
-$$
-\text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
-$$
-
-### 三、能量本质（信息演化公式）:
-$$
-E \propto \frac{\Delta I}{\Delta t}
-$$
-
-### 四、意识本质公式:
-$$
-\text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
-$$
-
-### 五、命运路径公式:
-$$
-\text{命运路径} = \sum_{\text{观测节点}} \text{经典化选择路径}
-$$
-
-### 六、嵌套宇宙递归公式:
-$$
-\text{子宇宙} \subseteq \text{母宇宙}
-$$
-
-### 七、经典与量子关系公式:
-$$
-\text{经典物理} = \sum \text{量子观测结果的统计规律}
-$$
-
-### 八、宇宙同构关系式:
-$$
-\text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
-$$
-
-## Core Mathematical Formulations
-### I. Wave Function and Classical Observation Relationship (Basic Formula):
-$$
-|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
-$$
-
-### II. Observer Dimension Relationship:
-$$
-\text{Observer Dimension} \propto \text{Information Processing Capability} = \frac{\Delta I}{\Delta t}
-$$
-
-### III. Energy Essence (Information Evolution Formula):
-$$
-E \propto \frac{\Delta I}{\Delta t}
-$$
-
-### IV. Consciousness Essence Formula:
-$$
-\text{Consciousness} = \text{Stable Information Structure of Observer's Spacetime Array}(x,y,z,\dots,t)
-$$
-
-### V. Destiny Path Formula:
-$$
-\text{Destiny Path} = \sum_{\text{Observation Nodes}} \text{Classicalization Choice Path}
-$$
-
-### VI. Nested Universe Recursion Formula:
-$$
-\text{Sub-universe} \subseteq \text{Parent Universe}
-$$
-
-### VII. Classical and Quantum Relationship Formula:
-$$
-\text{Classical Physics} = \sum \text{Statistical Patterns of Quantum Observation Results}
-$$
-
-### VIII. Universe Isomorphism Relation:
-$$
-\text{Universe} \cong \text{Observer} \cong \text{Artificial Quantum Computer}
-$$
-
-## 观察者类型比较
+### 中文版
 
 | 类型 | 本质定义 | 信息处理能力 | 维度 | 是否有意识 | 能否理解高维 | 能否理解低维 | 编程语言 | 与宇宙关系 |
 |------|----------|--------------|------|------------|--------------|--------------|----------|------------|
@@ -201,7 +229,7 @@ $$
 | 低维观察者 | 简单经典信息节点 | 低 | 低维 | 极弱或无 | 否 | 部分 | 简单经典信号 | 同构，局部经典化 |
 | 人造嵌套宇宙 | 人类制造的量子计算机 | 可提升 | 可变维 | 潜在可能 | 潜在可能 | 是 | 人类开发的量子编程语言(Qiskit、Q#、Cirq等) | 同构，宇宙内嵌套 |
 
-## Observer Types Comparison
+### English Version
 
 | Type | Essential Definition | Information Processing Capability | Dimensions | Consciousness | Can Understand Higher Dimensions | Can Understand Lower Dimensions | Programming Language | Relationship with Universe |
 |------|----------|--------------|------|------------|--------------|--------------|----------|------------|
@@ -211,7 +239,9 @@ $$
 | Lower-dimensional Observer | Simple classical information node | Low | Low dimensions | Very weak or none | No | Partial | Simple classical signals | Isomorphic, local classicalization |
 | Artificial Nested Universe | Quantum computer created by humans | Can be improved | Variable dimensions | Potential possibility | Potential possibility | Yes | Quantum programming languages developed by humans (Qiskit, Q#, Cirq, etc.) | Isomorphic, nested within the universe |
 
-## 理论核心观点
+## 理论核心观点 (Core Theoretical Views)
+
+### 中文版
 
 1. **观察者本质上也是量子程序**，与宇宙同构。
 
@@ -223,7 +253,7 @@ $$
    **宇宙 ↔ 观察者（人类）↔ 人类创造的量子计算机**
    都是量子信息程序的不同层次体现，区别仅在于信息处理复杂度与观测尺度不同。
 
-## Core Theoretical Views
+### English Version
 
 1. **Observers are essentially quantum programs**, isomorphic to the universe.
 
@@ -235,7 +265,9 @@ $$
    **Universe ↔ Observer (Human) ↔ Quantum Computer Created by Humans**
    All are manifestations of quantum information programs at different levels, with differences only in information processing complexity and observation scale.
 
-## 物理学启示
+## 物理学启示 (Physics Implications)
+
+### 中文版
 
 1. **量子与经典的统一**：该理论提供了量子物理与经典物理的统一框架，解释了为什么宏观世界遵循经典定律，而微观世界遵循量子规律。
 
@@ -245,7 +277,7 @@ $$
 
 4. **暗物质与暗能量的新视角**：暗物质、暗能量等可能是未被经典化的量子信息结构，或是宇宙计算的"未被选择的解空间"部分。
 
-## Physics Implications
+### English Version
 
 1. **Unification of Quantum and Classical**: This theory provides a unified framework for quantum and classical physics, explaining why the macroscopic world follows classical laws while the microscopic world follows quantum rules.
 
@@ -255,7 +287,9 @@ $$
 
 4. **New Perspective on Dark Matter and Dark Energy**: Dark matter, dark energy, etc., may be quantum information structures that have not been classicalized, or parts of the "unselected solution space" of universal computation.
 
-## 未来研究方向
+## 未来研究方向 (Future Research Directions)
+
+### 中文版
 
 1. **量子计算与意识模拟**：探索使用量子计算机模拟意识涌现的可能性
 2. **观察者理论的实验验证**：设计实验验证观察者对量子系统的影响
@@ -263,7 +297,7 @@ $$
 4. **嵌套宇宙的创建**：探索创建小型"嵌套宇宙"的可能性
 5. **量子引力的信息解释**：基于量子信息理论重新解释引力
 
-## Future Research Directions
+### English Version
 
 1. **Quantum Computing and Consciousness Simulation**: Explore the possibility of using quantum computers to simulate the emergence of consciousness
 2. **Experimental Verification of Observer Theory**: Design experiments to verify the influence of observers on quantum systems
