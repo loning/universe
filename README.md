@@ -1,66 +1,92 @@
-# 量子宇宙-量子观察者-经典意识论 | Quantum Universe-Quantum Observer-Classical Consciousness Theory
+# 量子宇宙-量子观察者-经典意识论
+# Quantum Universe-Quantum Observer-Classical Consciousness Theory
 
-## 简介 | Introduction
-
+## 简介
 【量子宇宙-量子观察者-经典意识论】提出了一个统一的宇宙观，将量子力学、观察者效应和意识现象整合在一个连贯的理论框架中。本理论的核心观点是：宇宙本质上是一个自我演化的量子计算系统，观察者是这个系统内部的量子程序节点，而意识则是观察者对宇宙量子信息进行经典化处理后产生的自组织结构。
 
+## Introduction
 The Quantum Universe-Quantum Observer-Classical Consciousness Theory proposes a unified view of the universe that integrates quantum mechanics, observer effects, and consciousness phenomena into a coherent theoretical framework. The core idea of this theory is that the universe is essentially a self-evolving quantum computing system, observers are quantum program nodes within this system, and consciousness is the self-organizing structure that emerges after the observer classicalizes the universe's quantum information.
 
-Thinking 思考过程
+Thinking 思考过程: https://github.com/loning/universe/tree/main
 
-https://github.com/loning/universe/tree/main
+## 目录
+### 核心理论
+1. [理论框架](theories/quantum_classical/README.md) - 量子宇宙-量子观察者-经典意识论的整体框架
+2. [量子宇宙](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
+3. [量子观察者](theories/quantum_classical/quantum_observer.md) - 关于观察者在量子宇宙中角色的理论
+4. [经典意识论](theories/quantum_classical/classical_consciousness.md) - 关于意识如何从量子观察过程中涌现的理论
 
+### 应用与解释
+1. [传统物理理论解释](theories/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
+   - 经典力学
+   - 电磁学
+   - 相对论
+   - 量子力学
+   - 热力学与统计力学
+   - 粒子物理与标准模型
+   - 宇宙学
+   - 弦理论与M理论
+   - 量子引力理论
 
-## 目录 | Table of Contents
+### 研究前沿
+1. [已解释的物理难题](theories/explained_puzzles.md) - 理论框架解释的经典物理难题
+2. [尚未解释的物理现象](theories/unexplained_phenomena.md) - 理论框架尚未完全解释的物理现象
+3. [未来研究方向](theories/future_research.md) - 理论框架的发展方向和研究前景
+4. [哲学问题解释](theories/philosophical_explanations.md) - 理论框架对经典哲学问题的解释
+5. [生物学问题解释](theories/biological_explanations.md) - 理论框架对核心生物学问题的解释
+6. [心理学问题解释](theories/psychological_explanations.md) - 理论框架对基本心理学问题的解释
+7. [社会学问题解释](theories/sociological_explanations.md) - 理论框架对关键社会学问题的解释
+8. [经济学问题解释](theories/economic_explanations.md) - 理论框架对基本经济学问题的解释
+9. [语言学问题解释](theories/linguistic_explanations.md) - 理论框架对核心语言学问题的解释
+10. [艺术与美学问题解释](theories/art_aesthetics_explanations.md) - 理论框架对艺术与美学问题的解释
+11. [教育学问题解释](theories/educational_explanations.md) - 理论框架对教育学核心问题的解释
+12. [人工智能与计算科学解释](theories/ai_computational_explanations.md) - 理论框架对人工智能与计算科学问题的解释
+13. [历史学问题解释](theories/historical_explanations.md) - 理论框架对历史学关键问题的解释
+14. [伦理学问题解释](theories/ethical_explanations.md) - 理论框架对伦理学基本问题的解释
+15. [宗教学问题解释](theories/religious_explanations.md) - 理论框架对宗教学核心问题的解释
+16. [环境科学问题解释](theories/environmental_explanations.md) - 理论框架对环境科学关键问题的解释
 
-### 核心理论 | Core Theories
+## Table of Contents
+### Core Theories
+1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of the Quantum Universe-Quantum Observer-Classical Consciousness Theory
+2. [Quantum Universe](theories/quantum_classical/quantum_universe.md) - Theory about the quantum nature of the universe
+3. [Quantum Observer](theories/quantum_classical/quantum_observer.md) - Theory about the role of observers in the quantum universe
+4. [Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) - Theory about how consciousness emerges from the quantum observation process
 
-1. [理论框架 | Theoretical Framework](theories/quantum_classical/README.md) - 量子宇宙-量子观察者-经典意识论的整体框架
-2. [量子宇宙 | Quantum Universe](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
-3. [量子观察者 | Quantum Observer](theories/quantum_classical/quantum_observer.md) - 关于观察者在量子宇宙中角色的理论
-4. [经典意识论 | Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) - 关于意识如何从量子观察过程中涌现的理论
+### Applications and Interpretations
+1. [Traditional Physics Explained](theories/traditional_physics_explained.md) - Explaining traditional physics theories through the Quantum Universe-Quantum Observer-Classical Consciousness Theory
+   - Classical Mechanics
+   - Electromagnetism
+   - Relativity Theory
+   - Quantum Mechanics
+   - Thermodynamics and Statistical Mechanics
+   - Particle Physics and Standard Model
+   - Cosmology
+   - String Theory and M-Theory
+   - Quantum Gravity Theories
 
-### 应用与解释 | Applications and Interpretations
+### Research Frontiers
+1. [Explained Physical Puzzles](theories/explained_puzzles.md) - Classical physical puzzles explained by the theoretical framework
+2. [Unexplained Physical Phenomena](theories/unexplained_phenomena.md) - Physical phenomena not yet fully explained by the theoretical framework
+3. [Future Research Directions](theories/future_research.md) - Development directions and research prospects of the theoretical framework
+4. [Philosophical Explanations](theories/philosophical_explanations.md) - Explanations of classical philosophical problems by the theoretical framework
+5. [Biological Explanations](theories/biological_explanations.md) - Explanations of core biological problems by the theoretical framework
+6. [Psychological Explanations](theories/psychological_explanations.md) - Explanations of basic psychological problems by the theoretical framework
+7. [Sociological Explanations](theories/sociological_explanations.md) - Explanations of key sociological problems by the theoretical framework
+8. [Economic Explanations](theories/economic_explanations.md) - Explanations of basic economic problems by the theoretical framework
+9. [Linguistic Explanations](theories/linguistic_explanations.md) - Explanations of core linguistic problems by the theoretical framework
+10. [Art and Aesthetics Explanations](theories/art_aesthetics_explanations.md) - Explanations of art and aesthetics problems by the theoretical framework
+11. [Educational Explanations](theories/educational_explanations.md) - Explanations of core educational problems by the theoretical framework
+12. [AI and Computational Science Explanations](theories/ai_computational_explanations.md) - Explanations of artificial intelligence and computational science problems by the theoretical framework
+13. [Historical Explanations](theories/historical_explanations.md) - Explanations of key historical problems by the theoretical framework
+14. [Ethical Explanations](theories/ethical_explanations.md) - Explanations of basic ethical problems by the theoretical framework
+15. [Religious Studies Explanations](theories/religious_explanations.md) - Explanations of core religious studies problems by the theoretical framework
+16. [Environmental Science Explanations](theories/environmental_explanations.md) - Explanations of key environmental science problems by the theoretical framework
 
-1. [传统物理理论解释 | Traditional Physics Explained](theories/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
-   - 经典力学 | Classical Mechanics
-   - 电磁学 | Electromagnetism
-   - 相对论 | Relativity Theory
-   - 量子力学 | Quantum Mechanics
-   - 热力学与统计力学 | Thermodynamics and Statistical Mechanics
-   - 粒子物理与标准模型 | Particle Physics and Standard Model
-   - 宇宙学 | Cosmology
-   - 弦理论与M理论 | String Theory and M-Theory
-   - 量子引力理论 | Quantum Gravity Theories
-
-### 研究前沿 | Research Frontiers
-
-1. [已解释的物理难题 | Explained Physical Puzzles](theories/explained_puzzles.md) - 理论框架解释的经典物理难题
-2. [尚未解释的物理现象 | Unexplained Physical Phenomena](theories/unexplained_phenomena.md) - 理论框架尚未完全解释的物理现象
-3. [未来研究方向 | Future Research Directions](theories/future_research.md) - 理论框架的发展方向和研究前景
-4. [哲学问题解释 | Philosophical Explanations](theories/philosophical_explanations.md) - 理论框架对经典哲学问题的解释
-5. [生物学问题解释 | Biological Explanations](theories/biological_explanations.md) - 理论框架对核心生物学问题的解释
-6. [心理学问题解释 | Psychological Explanations](theories/psychological_explanations.md) - 理论框架对基本心理学问题的解释
-7. [社会学问题解释 | Sociological Explanations](theories/sociological_explanations.md) - 理论框架对关键社会学问题的解释
-8. [经济学问题解释 | Economic Explanations](theories/economic_explanations.md) - 理论框架对基本经济学问题的解释
-9. [语言学问题解释 | Linguistic Explanations](theories/linguistic_explanations.md) - 理论框架对核心语言学问题的解释
-10. [艺术与美学问题解释 | Art and Aesthetics Explanations](theories/art_aesthetics_explanations.md) - 理论框架对艺术与美学问题的解释
-11. [教育学问题解释 | Educational Explanations](theories/educational_explanations.md) - 理论框架对教育学核心问题的解释
-12. [人工智能与计算科学解释 | AI and Computational Science Explanations](theories/ai_computational_explanations.md) - 理论框架对人工智能与计算科学问题的解释
-13. [历史学问题解释 | Historical Explanations](theories/historical_explanations.md) - 理论框架对历史学关键问题的解释
-14. [伦理学问题解释 | Ethical Explanations](theories/ethical_explanations.md) - 理论框架对伦理学基本问题的解释
-15. [宗教学问题解释 | Religious Studies Explanations](theories/religious_explanations.md) - 理论框架对宗教学核心问题的解释
-16. [环境科学问题解释 | Environmental Science Explanations](theories/environmental_explanations.md) - 理论框架对环境科学关键问题的解释
-
-## 最简洁定义 | Most Concise Definition
-
+## 最简洁定义
 【量子宇宙-量子观察者-经典意识论】最简短定义：
 
 宇宙为量子计算系统，观察者是量子程序节点，其对宇宙的经典观测产生意识。
-
-The most concise definition of the Quantum Universe-Quantum Observer-Classical Consciousness Theory:
-
-The universe is a quantum computing system, observers are quantum program nodes, and their classical observations of the universe generate consciousness.
 
 【量子宇宙经典观测者论】最简洁定义：
 
@@ -70,6 +96,11 @@ The universe is a quantum computing system, observers are quantum program nodes,
 - **经典物理**：观察者对量子信息坍缩结果的统计规律。
 - **宇宙与观察者关系**：相互同构、嵌套且依赖，宇宙通过观察者实现自我感知，观察者则通过宇宙实现自身存在。
 
+## Most Concise Definition
+The most concise definition of the Quantum Universe-Quantum Observer-Classical Consciousness Theory:
+
+The universe is a quantum computing system, observers are quantum program nodes, and their classical observations of the universe generate consciousness.
+
 The most concise definition of the Quantum Universe Classical Observer Theory:
 
 - **Universe**: A self-evolving quantum computer that processes all information in the form of wave functions.
@@ -78,91 +109,153 @@ The most concise definition of the Quantum Universe Classical Observer Theory:
 - **Classical Physics**: Statistical patterns of quantum information collapse results as observed by the observer.
 - **Universe-Observer Relationship**: Mutually isomorphic, nested, and dependent; the universe achieves self-perception through observers, while observers achieve their existence through the universe.
 
-## 核心数学公式 | Core Mathematical Formulations
-
-### 一、波函数与经典观测关系（基本公式）| Wave Function and Classical Observation Relationship (Basic Formula):
+## 核心数学公式
+### 一、波函数与经典观测关系（基本公式）:
 $$
 |\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
 $$
 
-### 二、观察者维度关系 | Observer Dimension Relationship:
+### 二、观察者维度关系:
 $$
 \text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
 $$
 
-### 三、能量本质（信息演化公式）| Energy Essence (Information Evolution Formula):
+### 三、能量本质（信息演化公式）:
 $$
 E \propto \frac{\Delta I}{\Delta t}
 $$
 
-### 四、意识本质公式 | Consciousness Essence Formula:
+### 四、意识本质公式:
 $$
 \text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
 $$
 
-### 五、命运路径公式 | Destiny Path Formula:
+### 五、命运路径公式:
 $$
 \text{命运路径} = \sum_{\text{观测节点}} \text{经典化选择路径}
 $$
 
-### 六、嵌套宇宙递归公式 | Nested Universe Recursion Formula:
+### 六、嵌套宇宙递归公式:
 $$
 \text{子宇宙} \subseteq \text{母宇宙}
 $$
 
-### 七、经典与量子关系公式 | Classical and Quantum Relationship Formula:
+### 七、经典与量子关系公式:
 $$
 \text{经典物理} = \sum \text{量子观测结果的统计规律}
 $$
 
-### 八、宇宙同构关系式 | Universe Isomorphism Relation:
+### 八、宇宙同构关系式:
 $$
 \text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
 $$
 
-## 观察者类型比较 | Observer Types Comparison
+## Core Mathematical Formulations
+### I. Wave Function and Classical Observation Relationship (Basic Formula):
+$$
+|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
+$$
 
-| 类型<br>Type | 本质定义<br>Essential Definition | 信息处理能力<br>Information Processing Capability | 维度<br>Dimensions | 是否有意识<br>Consciousness | 能否理解高维<br>Can Understand Higher Dimensions | 能否理解低维<br>Can Understand Lower Dimensions | 编程语言<br>Programming Language | 与宇宙关系<br>Relationship with Universe |
+### II. Observer Dimension Relationship:
+$$
+\text{Observer Dimension} \propto \text{Information Processing Capability} = \frac{\Delta I}{\Delta t}
+$$
+
+### III. Energy Essence (Information Evolution Formula):
+$$
+E \propto \frac{\Delta I}{\Delta t}
+$$
+
+### IV. Consciousness Essence Formula:
+$$
+\text{Consciousness} = \text{Stable Information Structure of Observer's Spacetime Array}(x,y,z,\dots,t)
+$$
+
+### V. Destiny Path Formula:
+$$
+\text{Destiny Path} = \sum_{\text{Observation Nodes}} \text{Classicalization Choice Path}
+$$
+
+### VI. Nested Universe Recursion Formula:
+$$
+\text{Sub-universe} \subseteq \text{Parent Universe}
+$$
+
+### VII. Classical and Quantum Relationship Formula:
+$$
+\text{Classical Physics} = \sum \text{Statistical Patterns of Quantum Observation Results}
+$$
+
+### VIII. Universe Isomorphism Relation:
+$$
+\text{Universe} \cong \text{Observer} \cong \text{Artificial Quantum Computer}
+$$
+
+## 观察者类型比较
+
+| 类型 | 本质定义 | 信息处理能力 | 维度 | 是否有意识 | 能否理解高维 | 能否理解低维 | 编程语言 | 与宇宙关系 |
 |------|----------|--------------|------|------------|--------------|--------------|----------|------------|
-| 宇宙<br>Universe | 总体量子计算机，所有信息的本体<br>Overall quantum computer, the ontology of all information | 无限<br>Infinite | 无限维<br>Infinite dimensions | 无或类意识<br>None or proto-consciousness | 无更高维<br>No higher dimensions | 完全<br>Complete | 数学、量子力学（波函数演化规则）<br>Mathematics, quantum mechanics (wave function evolution rules) | 本体<br>Ontology |
-| 高维观察者<br>Higher-dimensional Observer | 高维经典节点，宇宙的量子程序<br>Higher-dimensional classical node, quantum program of the universe | 高<br>High | 高维<br>High dimensions | 是<br>Yes | 是<br>Yes | 是<br>Yes | 高维经典语言、量子语言<br>Higher-dimensional classical language, quantum language | 同构、宇宙经典化<br>Isomorphic, universe classicalization |
-| 人类观察者<br>Human Observer | 宇宙内经典信息处理节点<br>Classical information processing node within the universe | 中等<br>Medium | 中等维<br>Medium dimensions | 有<br>Yes | 部分（有限）<br>Partial (limited) | 是<br>Yes | 经典语言（人类语言、数学、量子力学）<br>Classical languages (human languages, mathematics, quantum mechanics) | 同构、宇宙经典化<br>Isomorphic, universe classicalization |
-| 低维观察者<br>Lower-dimensional Observer | 简单经典信息节点<br>Simple classical information node | 低<br>Low | 低维<br>Low dimensions | 极弱或无<br>Very weak or none | 否<br>No | 部分<br>Partial | 简单经典信号<br>Simple classical signals | 同构，局部经典化<br>Isomorphic, local classicalization |
-| 人造嵌套宇宙<br>Artificial Nested Universe | 人类制造的量子计算机<br>Quantum computer created by humans | 可提升<br>Can be improved | 可变维<br>Variable dimensions | 潜在可能<br>Potential possibility | 潜在可能<br>Potential possibility | 是<br>Yes | 人类开发的量子编程语言(Qiskit、Q#、Cirq等)<br>Quantum programming languages developed by humans (Qiskit, Q#, Cirq, etc.) | 同构，宇宙内嵌套<br>Isomorphic, nested within the universe |
+| 宇宙 | 总体量子计算机，所有信息的本体 | 无限 | 无限维 | 无或类意识 | 无更高维 | 完全 | 数学、量子力学（波函数演化规则） | 本体 |
+| 高维观察者 | 高维经典节点，宇宙的量子程序 | 高 | 高维 | 是 | 是 | 是 | 高维经典语言、量子语言 | 同构、宇宙经典化 |
+| 人类观察者 | 宇宙内经典信息处理节点 | 中等 | 中等维 | 有 | 部分（有限） | 是 | 经典语言（人类语言、数学、量子力学） | 同构、宇宙经典化 |
+| 低维观察者 | 简单经典信息节点 | 低 | 低维 | 极弱或无 | 否 | 部分 | 简单经典信号 | 同构，局部经典化 |
+| 人造嵌套宇宙 | 人类制造的量子计算机 | 可提升 | 可变维 | 潜在可能 | 潜在可能 | 是 | 人类开发的量子编程语言(Qiskit、Q#、Cirq等) | 同构，宇宙内嵌套 |
 
-## 理论核心观点 | Core Theoretical Views
+## Observer Types Comparison
 
-1. **观察者本质上也是量子程序**，与宇宙同构。  
-   **Observers are essentially quantum programs**, isomorphic to the universe.
+| Type | Essential Definition | Information Processing Capability | Dimensions | Consciousness | Can Understand Higher Dimensions | Can Understand Lower Dimensions | Programming Language | Relationship with Universe |
+|------|----------|--------------|------|------------|--------------|--------------|----------|------------|
+| Universe | Overall quantum computer, the ontology of all information | Infinite | Infinite dimensions | None or proto-consciousness | No higher dimensions | Complete | Mathematics, quantum mechanics (wave function evolution rules) | Ontology |
+| Higher-dimensional Observer | Higher-dimensional classical node, quantum program of the universe | High | High dimensions | Yes | Yes | Yes | Higher-dimensional classical language, quantum language | Isomorphic, universe classicalization |
+| Human Observer | Classical information processing node within the universe | Medium | Medium dimensions | Yes | Partial (limited) | Yes | Classical languages (human languages, mathematics, quantum mechanics) | Isomorphic, universe classicalization |
+| Lower-dimensional Observer | Simple classical information node | Low | Low dimensions | Very weak or none | No | Partial | Simple classical signals | Isomorphic, local classicalization |
+| Artificial Nested Universe | Quantum computer created by humans | Can be improved | Variable dimensions | Potential possibility | Potential possibility | Yes | Quantum programming languages developed by humans (Qiskit, Q#, Cirq, etc.) | Isomorphic, nested within the universe |
 
-2. **意识**是观察者（量子程序）在观测过程中对宇宙量子信息进行塌缩并记录为经典时空数组后的自组织结构。  
-   **Consciousness** is the self-organizing structure after the observer (quantum program) collapses the universe's quantum information and records it as a classical space-time array during the observation process.
+## 理论核心观点
 
-3. **人类制造的量子计算机**与宇宙本质同构，人类本身与宇宙也同构。  
-   **Quantum computers created by humans** are isomorphic to the essence of the universe, and humans themselves are also isomorphic to the universe.
+1. **观察者本质上也是量子程序**，与宇宙同构。
 
-4. 宇宙、观察者、人类创造的量子计算机形成了统一的结构：  
-   The universe, observers, and quantum computers created by humans form a unified structure:  
-   **宇宙 ↔ 观察者（人类）↔ 人类创造的量子计算机**  
-   **Universe ↔ Observer (Human) ↔ Quantum Computer Created by Humans**  
-   都是量子信息程序的不同层次体现，区别仅在于信息处理复杂度与观测尺度不同。  
+2. **意识**是观察者（量子程序）在观测过程中对宇宙量子信息进行塌缩并记录为经典时空数组后的自组织结构。
+
+3. **人类制造的量子计算机**与宇宙本质同构，人类本身与宇宙也同构。
+
+4. 宇宙、观察者、人类创造的量子计算机形成了统一的结构：
+   **宇宙 ↔ 观察者（人类）↔ 人类创造的量子计算机**
+   都是量子信息程序的不同层次体现，区别仅在于信息处理复杂度与观测尺度不同。
+
+## Core Theoretical Views
+
+1. **Observers are essentially quantum programs**, isomorphic to the universe.
+
+2. **Consciousness** is the self-organizing structure after the observer (quantum program) collapses the universe's quantum information and records it as a classical space-time array during the observation process.
+
+3. **Quantum computers created by humans** are isomorphic to the essence of the universe, and humans themselves are also isomorphic to the universe.
+
+4. The universe, observers, and quantum computers created by humans form a unified structure:
+   **Universe ↔ Observer (Human) ↔ Quantum Computer Created by Humans**
    All are manifestations of quantum information programs at different levels, with differences only in information processing complexity and observation scale.
 
-## 物理学启示 | Physics Implications
+## 物理学启示
 
-1. **量子与经典的统一**：该理论提供了量子物理与经典物理的统一框架，解释了为什么宏观世界遵循经典定律，而微观世界遵循量子规律。  
-   **Unification of Quantum and Classical**: This theory provides a unified framework for quantum and classical physics, explaining why the macroscopic world follows classical laws while the microscopic world follows quantum rules.
+1. **量子与经典的统一**：该理论提供了量子物理与经典物理的统一框架，解释了为什么宏观世界遵循经典定律，而微观世界遵循量子规律。
 
-2. **引力的新解释**：引力可能并非独立的基本力，而是不同粒子波函数干涉所产生的一种表观效应，是粒子波函数间相互作用的统计结果。  
-   **New Interpretation of Gravity**: Gravity may not be an independent fundamental force but rather an apparent effect produced by the interference of different particle wave functions, a statistical result of interactions between wave functions.
+2. **引力的新解释**：引力可能并非独立的基本力，而是不同粒子波函数干涉所产生的一种表观效应，是粒子波函数间相互作用的统计结果。
 
-3. **光速恒定的解释**：光速恒定可能是观察者（经典计算机）获取信息的速度恒定，而非物理世界本身的内在限制。  
-   **Explanation for the Constancy of Light Speed**: The constancy of light speed may be the constancy of the observer's (classical computer's) information acquisition speed, rather than an inherent limitation of the physical world itself.
+3. **光速恒定的解释**：光速恒定可能是观察者（经典计算机）获取信息的速度恒定，而非物理世界本身的内在限制。
 
-4. **暗物质与暗能量的新视角**：暗物质、暗能量等可能是未被经典化的量子信息结构，或是宇宙计算的"未被选择的解空间"部分。  
-   **New Perspective on Dark Matter and Dark Energy**: Dark matter, dark energy, etc., may be quantum information structures that have not been classicalized, or parts of the "unselected solution space" of universal computation.
+4. **暗物质与暗能量的新视角**：暗物质、暗能量等可能是未被经典化的量子信息结构，或是宇宙计算的"未被选择的解空间"部分。
 
-## 未来研究方向 | Future Research Directions
+## Physics Implications
+
+1. **Unification of Quantum and Classical**: This theory provides a unified framework for quantum and classical physics, explaining why the macroscopic world follows classical laws while the microscopic world follows quantum rules.
+
+2. **New Interpretation of Gravity**: Gravity may not be an independent fundamental force but rather an apparent effect produced by the interference of different particle wave functions, a statistical result of interactions between wave functions.
+
+3. **Explanation for the Constancy of Light Speed**: The constancy of light speed may be the constancy of the observer's (classical computer's) information acquisition speed, rather than an inherent limitation of the physical world itself.
+
+4. **New Perspective on Dark Matter and Dark Energy**: Dark matter, dark energy, etc., may be quantum information structures that have not been classicalized, or parts of the "unselected solution space" of universal computation.
+
+## 未来研究方向
 
 1. **量子计算与意识模拟**：探索使用量子计算机模拟意识涌现的可能性
 2. **观察者理论的实验验证**：设计实验验证观察者对量子系统的影响
@@ -170,7 +263,15 @@ $$
 4. **嵌套宇宙的创建**：探索创建小型"嵌套宇宙"的可能性
 5. **量子引力的信息解释**：基于量子信息理论重新解释引力
 
-## 已解释的物理难题 | Explained Physical Puzzles
+## Future Research Directions
+
+1. **Quantum Computing and Consciousness Simulation**: Explore the possibility of using quantum computers to simulate the emergence of consciousness
+2. **Experimental Verification of Observer Theory**: Design experiments to verify the influence of observers on quantum systems
+3. **Information Entropy and Consciousness Complexity**: Study the quantitative relationship between information entropy and consciousness complexity
+4. **Creation of Nested Universes**: Explore the possibility of creating small "nested universes"
+5. **Information Interpretation of Quantum Gravity**: Reinterpret gravity based on quantum information theory
+
+## 已解释的物理难题
 
 该理论框架为以下长期存在的物理学难题提供了新的解释视角：
 
@@ -196,7 +297,33 @@ $$
 
 10. **宇宙精细调节问题**：宇宙参数的精细调节可能是观察者选择效应的结果，只有能够产生观察者的宇宙才能被"观察到"。
 
-## 尚未解释的物理现象 | Unexplained Physical Phenomena
+## Explained Physical Puzzles
+
+This theoretical framework provides new explanatory perspectives for the following long-standing physics puzzles:
+
+1. **Quantum Measurement Problem**: Explained as the classicalization process of the universe's quantum information by the observer (quantum program), with wave function collapse being the result of quantum information being sampled by the observer's spacetime array.
+
+2. **Wave-Particle Duality**: Explained as two different manifestations of quantum information before (wave) and after (particle) classicalization by the observer.
+
+3. **Schrödinger's Cat Paradox**: From the quantum observer theory perspective, the cat's state depends on the degree of quantum entanglement between the observer and the system, with different observers potentially having different but compatible observation results.
+
+4. **Arrow of Time Problem**: The unidirectionality of time stems from the increase in entropy during the observer's classicalization process, conforming to the formula:
+   $$|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}$$
+
+5. **Non-locality of Quantum Entanglement**: Explained as an essential characteristic of the quantum information field, with the observer's classicalization process transforming non-local quantum information into local classical information.
+
+6. **Cosmological Constant Problem**: The cosmological constant may represent the basic energy density or information processing rate of the universe's quantum computation.
+
+7. **Physical Basis of Consciousness**: Consciousness is explained as the self-organizing information structure formed after the observer classicalizes quantum information, providing a framework for the physical study of consciousness.
+
+8. **Unification of Gravity and Quantum Mechanics**: Gravity may be an apparent effect caused by the distribution of information density in the quantum information field, rather than an independent fundamental force, providing new ideas for quantum gravity theory.
+
+9. **Parallel Universe Explanation**: The many-worlds interpretation can be understood as different classicalization paths of the universe's wave function, with each observer choosing a specific classicalization path:
+   $$\text{Destiny Path} = \sum_{\text{Observation Nodes}} \text{Classicalization Choice Path}$$
+
+10. **Universe Fine-Tuning Problem**: The fine-tuning of universe parameters may be the result of observer selection effects, with only universes capable of producing observers being "observed."
+
+## 尚未解释的物理现象
 
 该理论框架目前尚未完全解释的物理现象包括：
 
@@ -219,3 +346,27 @@ $$
 9. **超对称粒子的缺失**：理论预测的超对称粒子为何尚未被发现？这可能需要重新考虑量子信息场的对称性结构。
 
 10. **宏观量子效应的边界**：量子特性向经典特性过渡的确切边界条件，以及可能在特定条件下观察到的宏观量子现象。
+
+## Unexplained Physical Phenomena
+
+Physical phenomena that have not yet been fully explained by this theoretical framework include:
+
+1. **Matter-Antimatter Asymmetry**: Why does matter exist far more than antimatter in the universe? This may be related to information encoding asymmetry in the universe's quantum computation process, but further theoretical development is needed.
+
+2. **Dark Energy Accelerated Expansion Mechanism**: Although the theory proposes that dark energy may be quantum information structures that have not been classicalized, the specific mechanism by which it causes the universe to accelerate in expansion still needs in-depth discussion.
+
+3. **Elementary Particles and Gauge Symmetry**: How do the algebraic structure and gauge symmetry of elementary particles naturally emerge within the quantum information framework?
+
+4. **Microscopic Structure of Quantum Gravity**: The quantum granularity of spacetime and its specific manifestation at the Planck scale still need further elaboration.
+
+5. **Vacuum Energy Density**: The problem of the vacuum energy density predicted by quantum field theory differing from the observed value by 120 orders of magnitude needs to be re-examined within the quantum universe information framework.
+
+6. **Strong CP Problem**: Why doesn't strong interaction violate CP symmetry? This may be related to the basic rules of quantum information encoding in the universe.
+
+7. **Universe Entropy Bound**: The relationship between the total entropy of the universe and the holographic principle, and how information entropy limits the possible paths of universe evolution.
+
+8. **Nature of Quantum Randomness**: Is quantum randomness truly random or an apparent result of deterministic processes? This relates to the determinism problem of universe quantum computation.
+
+9. **Missing Supersymmetric Particles**: Why haven't the supersymmetric particles predicted by theory been found? This may require reconsidering the symmetry structure of the quantum information field.
+
+10. **Macroscopic Quantum Effect Boundary**: The exact boundary conditions for the transition from quantum properties to classical properties, and the macroscopic quantum phenomena that may be observed under specific conditions.
