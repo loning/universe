@@ -37,6 +37,15 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory proposes a 
 5. [生物学问题解释 | Biological Explanations](theories/biological_explanations.md) - 理论框架对核心生物学问题的解释
 6. [心理学问题解释 | Psychological Explanations](theories/psychological_explanations.md) - 理论框架对基本心理学问题的解释
 7. [社会学问题解释 | Sociological Explanations](theories/sociological_explanations.md) - 理论框架对关键社会学问题的解释
+8. [经济学问题解释 | Economic Explanations](theories/economic_explanations.md) - 理论框架对基本经济学问题的解释
+9. [语言学问题解释 | Linguistic Explanations](theories/linguistic_explanations.md) - 理论框架对核心语言学问题的解释
+10. [艺术与美学问题解释 | Art and Aesthetics Explanations](theories/art_aesthetics_explanations.md) - 理论框架对艺术与美学问题的解释
+11. [教育学问题解释 | Educational Explanations](theories/educational_explanations.md) - 理论框架对教育学核心问题的解释
+12. [人工智能与计算科学解释 | AI and Computational Science Explanations](theories/ai_computational_explanations.md) - 理论框架对人工智能与计算科学问题的解释
+13. [历史学问题解释 | Historical Explanations](theories/historical_explanations.md) - 理论框架对历史学关键问题的解释
+14. [伦理学问题解释 | Ethical Explanations](theories/ethical_explanations.md) - 理论框架对伦理学基本问题的解释
+15. [宗教学问题解释 | Religious Studies Explanations](theories/religious_explanations.md) - 理论框架对宗教学核心问题的解释
+16. [环境科学问题解释 | Environmental Science Explanations](theories/environmental_explanations.md) - 理论框架对环境科学关键问题的解释
 
 ## 最简洁定义 | Most Concise Definition
 
