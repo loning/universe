@@ -6,6 +6,11 @@
 
 The Quantum Universe-Quantum Observer-Classical Consciousness Theory proposes a unified view of the universe that integrates quantum mechanics, observer effects, and consciousness phenomena into a coherent theoretical framework. The core idea of this theory is that the universe is essentially a self-evolving quantum computing system, observers are quantum program nodes within this system, and consciousness is the self-organizing structure that emerges after the observer classicalizes the universe's quantum information.
 
+Thinking 思考过程
+
+https://github.com/loning/universe/tree/main
+
+
 ## 目录 | Table of Contents
 
 ### 核心理论 | Core Theories
