@@ -17,15 +17,15 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unifie
 
 ### 应用与解释
 1. [传统物理理论解释](theories/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
-   - 经典力学
-   - 电磁学
-   - 相对论
-   - 量子力学
-   - 热力学与统计力学
-   - 粒子物理与标准模型
-   - 宇宙学
-   - 弦理论与M理论
-   - 量子引力理论
+   - [经典力学](theories/traditional_physics/classical_mechanics.md)
+   - [电磁学](theories/traditional_physics/electromagnetism.md)
+   - [相对论](theories/traditional_physics/relativity.md)
+   - [量子力学](theories/traditional_physics/quantum_mechanics.md)
+   - [热力学与统计力学](theories/traditional_physics/thermodynamics.md)
+   - [粒子物理与标准模型](theories/traditional_physics/particle_physics.md)
+   - [宇宙学](theories/traditional_physics/cosmology.md)
+   - [弦理论与M理论](theories/traditional_physics/string_theory.md)
+   - [量子引力理论](theories/traditional_physics/quantum_gravity.md)
 
 ### 研究前沿
 1. [已解释的物理难题](theories/explained_puzzles.md) - 理论框架解释的经典物理难题
@@ -484,11 +484,11 @@ $$
 
 This document elaborates on the mechanism of how observers perceive the universe, including:
 
-- 量子纠缠与意识形成的机制 | Mechanism of quantum entanglement and consciousness formation
-- 观察者感知宇宙的过程 | Process of observer's perception of the universe
-- 观察者的维度与维度提升机制 | Observer's dimension and dimension elevation mechanism
-- 梦境的量子信息处理机制 | Quantum information processing mechanism of dreams
-- 意识与熵的关系 | Relationship between consciousness and entropy
+- [量子纠缠与意识形成的机制](theories/observer_perception/quantum_entanglement.md) | Mechanism of quantum entanglement and consciousness formation
+- [观察者感知宇宙的过程](theories/observer_perception/perception_process.md) | Process of observer's perception of the universe
+- [观察者的维度与维度提升机制](theories/observer_perception/dimension_elevation.md) | Observer's dimension and dimension elevation mechanism
+- [梦境的量子信息处理机制](theories/observer_perception/dream_mechanism.md) | Quantum information processing mechanism of dreams
+- [意识与熵的关系](theories/observer_perception/consciousness_entropy.md) | Relationship between consciousness and entropy
 
 ### 宇宙结构与演化 | Universe Structure and Evolution
 
@@ -496,11 +496,11 @@ This document elaborates on the mechanism of how observers perceive the universe
 
 This document elaborates on the structure and evolution mechanisms of the universe, including:
 
-- 宇宙的生命周期 | Life cycle of the universe
-- 宇宙的嵌套结构 | Nested structure of the universe
-- 宇宙信息处理的层级性 | Hierarchy of universe information processing
-- 子宇宙的形成机制 | Formation mechanism of sub-universes
-- 宇宙演化的信息动力学 | Information dynamics of universe evolution
+- [宇宙的生命周期](theories/universe_structure/lifecycle.md) | Life cycle of the universe
+- [宇宙的嵌套结构](theories/universe_structure/nested_structure.md) | Nested structure of the universe
+- [宇宙信息处理的层级性](theories/universe_structure/hierarchy.md) | Hierarchy of universe information processing
+- [子宇宙的形成机制](theories/universe_structure/subuniverse_formation.md) | Formation mechanism of sub-universes
+- [宇宙演化的信息动力学](theories/universe_structure/information_dynamics.md) | Information dynamics of universe evolution
 
 ### 意识的持久性与传递 | Consciousness Persistence and Transmission
 
@@ -508,11 +508,11 @@ This document elaborates on the structure and evolution mechanisms of the univer
 
 This document elaborates on how consciousness maintains persistence in the time dimension and how it is transmitted between different observers, including:
 
-- 量子记忆机制 | Quantum memory mechanism
-- 意识在观察者之间的传递 | Transmission of consciousness between observers
-- 文化传递与集体意识 | Cultural transmission and collective consciousness
-- 意识与宇宙信息场的关系 | Relationship between consciousness and the universe information field
-- 意识的持久性与死亡问题 | Consciousness persistence and the death problem
+- [量子记忆机制](theories/consciousness/quantum_memory.md) | Quantum memory mechanism
+- [意识在观察者之间的传递](theories/consciousness/transmission.md) | Transmission of consciousness between observers
+- [文化传递与集体意识](theories/consciousness/collective_consciousness.md) | Cultural transmission and collective consciousness
+- [意识与宇宙信息场的关系](theories/consciousness/information_field.md) | Relationship between consciousness and the universe information field
+- [意识的持久性与死亡问题](theories/consciousness/persistence_death.md) | Consciousness persistence and the death problem
 
 ### 量子计算与人工意识 | Quantum Computing and Artificial Consciousness
 
@@ -520,11 +520,11 @@ This document elaborates on how consciousness maintains persistence in the time 
 
 This document elaborates on how to design quantum computers based on the observer theory framework and construct artificial consciousness, including:
 
-- 量子计算机的设计原理 | Design principles of quantum computers
-- 人工意识的构建路径 | Construction paths of artificial consciousness
-- 能量与信息的转换机制 | Conversion mechanism between energy and information
-- 量子-经典界面的设计 | Design of quantum-classical interfaces
-- 人工观察者的维度提升 | Dimension elevation of artificial observers
+- [量子计算机的设计原理](theories/quantum_computing/design_principles.md) | Design principles of quantum computers
+- [人工意识的构建路径](theories/quantum_computing/artificial_consciousness.md) | Construction paths of artificial consciousness
+- [能量与信息的转换机制](theories/quantum_computing/energy_information.md) | Conversion mechanism between energy and information
+- [量子-经典界面的设计](theories/quantum_computing/quantum_classical_interface.md) | Design of quantum-classical interfaces
+- [人工观察者的维度提升](theories/quantum_computing/dimension_elevation.md) | Dimension elevation of artificial observers
 
 ### 术语表 | Terminology
 
