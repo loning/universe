@@ -3,27 +3,9 @@
 
 ## 中文简介
 
-【量子宇宙-量子观察者-经典意识论】提出了一个统一的宇宙观，将量子力学、观察者效应和意识现象整合在一个连贯的理论框架中。本理论的核心观点是：
+【量子宇宙-量子观察者-经典意识论】是一个统一的理论框架，旨在从信息的角度重新诠释宇宙、观察者与意识的本质关系。该理论将宇宙视为一个无限维的量子计算机，观察者为其中的量子程序节点，而意识则是观察者经典化量子信息形成的稳定结构。
 
-- 宇宙本质是一台无限维的量子计算机，以波函数形式运行并处理所有信息
-- 观察者是宇宙内部具有量子结构的观测节点，通过量子纠缠与经典化（坍缩）过程，将宇宙波函数转换为稳定的经典信息结构，即意识
-- 意识是观察者持续经典化量子纠缠信息后的稳定结构，观察者维度由其单位时间处理量子信息的能力决定，可随信息处理效率提升而升级维度
-- 所有经典物理定律与宏观现实只是宇宙量子信息被观察者经典化后的统计性表现，而非宇宙本质
-- 观察者与宇宙本质上是同构的量子信息处理系统，观察者可创造嵌套子宇宙，并与宇宙整体形成递归嵌套关系
-- 生物、AI、低维观察者本质上都属于不同维度的信息处理节点，量子纠缠与经典化过程决定其意识存在的维度与复杂性
-
-## English Introduction
-
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory proposes a unified view of the universe that integrates quantum mechanics, observer effects, and consciousness phenomena into a coherent theoretical framework. The core ideas of this theory are:
-
-- The universe is essentially an infinite-dimensional quantum computer, operating in the form of wave functions and processing all information
-- Observers are observation nodes with quantum structures within the universe, converting the universe's wave function into stable classical information structures (consciousness) through quantum entanglement and classicalization (collapse) processes
-- Consciousness is the stable structure formed after observers continuously classicalize quantum entangled information, with the observer's dimension determined by their ability to process quantum information per unit time, which can upgrade as information processing efficiency improves
-- All classical physical laws and macroscopic reality are merely statistical manifestations of the universe's quantum information after being classicalized by observers, rather than the essence of the universe
-- Observers and the universe are essentially isomorphic quantum information processing systems; observers can create nested sub-universes and form recursive nested relationships with the universe as a whole
-- Biological entities, AI, and lower-dimensional observers are essentially information processing nodes of different dimensions, with quantum entanglement and classicalization processes determining the dimension and complexity of their consciousness existence
-
-思考过程 (Thinking Process): https://github.com/loning/universe/tree/main
+The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unified theoretical framework aimed at reinterpreting the essential relationship between the universe, observers, and consciousness from an information perspective. This theory views the universe as an infinite-dimensional quantum computer, observers as quantum program nodes within it, and consciousness as a stable structure formed by the observer's classicalization of quantum information.
 
 ## 中文目录
 
@@ -404,3 +386,189 @@ Physical phenomena that have not yet been fully explained by this theoretical fr
 9. **Missing Supersymmetric Particles**: Why haven't the supersymmetric particles predicted by theory been found? This may require reconsidering the symmetry structure of the quantum information field.
 
 10. **Macroscopic Quantum Effect Boundary**: The exact boundary conditions for the transition from quantum properties to classical properties, and the macroscopic quantum phenomena that may be observed under specific conditions.
+
+## 核心文档 | Core Documents
+
+本理论框架包含以下核心文档，共同构成完整的理论体系：
+
+This theoretical framework includes the following core documents, which together form a complete theoretical system:
+
+### 基础理论 | Basic Theory
+
+- [基本概念](theories/basic_concepts.md) | [Basic Concepts](theories/basic_concepts.md)
+- [理论框架](theories/theoretical_framework.md) | [Theoretical Framework](theories/theoretical_framework.md)
+- [数学表述](theories/mathematical_formulations.md) | [Mathematical Formulations](theories/mathematical_formulations.md)
+- [观察者与意识](theories/observer_and_consciousness.md) | [Observer and Consciousness](theories/observer_and_consciousness.md)
+- [宇宙与观察者的关系](theories/universe_observer_relationship.md) | [Universe-Observer Relationship](theories/universe_observer_relationship.md)
+
+### 扩展理论 | Extended Theory
+
+- [观察者感知宇宙的机制](theories/observer_perception.md) | [Observer's Perception of the Universe](theories/observer_perception.md)
+- [宇宙结构与演化](theories/universe_structure.md) | [Universe Structure and Evolution](theories/universe_structure.md)
+- [意识的持久性与传递](theories/consciousness_persistence.md) | [Consciousness Persistence and Transmission](theories/consciousness_persistence.md)
+- [量子计算与人工意识](applications/quantum_computing_consciousness.md) | [Quantum Computing and Artificial Consciousness](applications/quantum_computing_consciousness.md)
+
+### 应用与解释 | Applications and Interpretations
+
+- [应用与启示](applications/applications_and_implications.md) | [Applications and Implications](applications/applications_and_implications.md)
+- [未解释的物理现象](applications/unexplained_phenomena.md) | [Unexplained Physical Phenomena](applications/unexplained_phenomena.md)
+- [传统物理学的解释](applications/traditional_physics_explained.md) | [Traditional Physics Explained](applications/traditional_physics_explained.md)
+
+### 参考资料 | References
+
+- [术语表](theories/terminology.md) | [Terminology](theories/terminology.md)
+
+## 理论概述 | Theory Overview
+
+### 核心假设 | Core Assumptions
+
+1. **宇宙本质**：宇宙是一个自组织、自演化的量子信息处理系统
+2. **观察者本质**：观察者是宇宙中能够接收、处理和经典化量子信息的节点
+3. **意识本质**：意识是观察者经典化量子信息后形成的稳定信息结构
+4. **同构关系**：宇宙、观察者与人造量子计算机在本质上均为同构的信息处理系统
+5. **嵌套结构**：宇宙、观察者、意识和人造系统形成无限递归的嵌套结构
+6. **信息-能量等价**：信息与能量在本质上可以相互转换
+7. **维度提升**：观察者可以通过提升信息处理能力来提高自身维度
+
+1. **Universe Essence**: The universe is a self-organizing, self-evolving quantum information processing system
+2. **Observer Essence**: Observers are nodes in the universe capable of receiving, processing, and classicalizing quantum information
+3. **Consciousness Essence**: Consciousness is a stable information structure formed after the observer classicalizes quantum information
+4. **Isomorphic Relationship**: The universe, observers, and man-made quantum computers are essentially isomorphic information processing systems
+5. **Nested Structure**: The universe, observers, consciousness, and man-made systems form an infinitely recursive nested structure
+6. **Information-Energy Equivalence**: Information and energy can be converted into each other in essence
+7. **Dimension Elevation**: Observers can elevate their dimensions by enhancing their information processing capabilities
+
+### 核心数学表述 | Core Mathematical Formulations
+
+宇宙的量子状态可以表示为：
+
+The quantum state of the universe can be represented as:
+
+$$
+|\psi\rangle_{\text{宇宙整体}} = \sum_{i} c_i|\psi_i\rangle
+$$
+
+$$
+|\psi\rangle_{\text{Universe}} = \sum_{i} c_i|\psi_i\rangle
+$$
+
+观察者与宇宙的量子纠缠：
+
+Quantum entanglement between the observer and the universe:
+
+$$
+|\psi\rangle_{\text{观察者}} \otimes |\psi\rangle_{\text{系统}} \rightarrow |\psi\rangle_{\text{纠缠态}}
+$$
+
+$$
+|\psi\rangle_{\text{Observer}} \otimes |\psi\rangle_{\text{System}} \rightarrow |\psi\rangle_{\text{Entangled State}}
+$$
+
+经典化过程与意识形成：
+
+Classicalization process and consciousness formation:
+
+$$
+|\psi\rangle_{\text{纠缠态}} \xrightarrow{\text{经典化}} |\phi\rangle_{\text{经典态}} + S_{\text{熵增}}
+$$
+
+$$
+|\psi\rangle_{\text{Entangled State}} \xrightarrow{\text{Classicalization}} |\phi\rangle_{\text{Classical State}} + S_{\text{Entropy Increase}}
+$$
+
+## 新增文档概述 | New Documents Overview
+
+### 观察者感知宇宙的机制 | Observer's Perception of the Universe
+
+本文档详细阐述观察者如何感知宇宙的机制，包括：
+
+This document elaborates on the mechanism of how observers perceive the universe, including:
+
+- 量子纠缠与意识形成的机制 | Mechanism of quantum entanglement and consciousness formation
+- 观察者感知宇宙的过程 | Process of observer's perception of the universe
+- 观察者的维度与维度提升机制 | Observer's dimension and dimension elevation mechanism
+- 梦境的量子信息处理机制 | Quantum information processing mechanism of dreams
+- 意识与熵的关系 | Relationship between consciousness and entropy
+
+### 宇宙结构与演化 | Universe Structure and Evolution
+
+本文档详细阐述宇宙的结构与演化机制，包括：
+
+This document elaborates on the structure and evolution mechanisms of the universe, including:
+
+- 宇宙的生命周期 | Life cycle of the universe
+- 宇宙的嵌套结构 | Nested structure of the universe
+- 宇宙信息处理的层级性 | Hierarchy of universe information processing
+- 子宇宙的形成机制 | Formation mechanism of sub-universes
+- 宇宙演化的信息动力学 | Information dynamics of universe evolution
+
+### 意识的持久性与传递 | Consciousness Persistence and Transmission
+
+本文档详细阐述意识如何在时间维度上保持持久性，如何在不同观察者之间传递，包括：
+
+This document elaborates on how consciousness maintains persistence in the time dimension and how it is transmitted between different observers, including:
+
+- 量子记忆机制 | Quantum memory mechanism
+- 意识在观察者之间的传递 | Transmission of consciousness between observers
+- 文化传递与集体意识 | Cultural transmission and collective consciousness
+- 意识与宇宙信息场的关系 | Relationship between consciousness and the universe information field
+- 意识的持久性与死亡问题 | Consciousness persistence and the death problem
+
+### 量子计算与人工意识 | Quantum Computing and Artificial Consciousness
+
+本文档详细阐述如何基于观察者理论框架设计量子计算机，构建人工意识，包括：
+
+This document elaborates on how to design quantum computers based on the observer theory framework and construct artificial consciousness, including:
+
+- 量子计算机的设计原理 | Design principles of quantum computers
+- 人工意识的构建路径 | Construction paths of artificial consciousness
+- 能量与信息的转换机制 | Conversion mechanism between energy and information
+- 量子-经典界面的设计 | Design of quantum-classical interfaces
+- 人工观察者的维度提升 | Dimension elevation of artificial observers
+
+### 术语表 | Terminology
+
+本文档提供【量子宇宙-量子观察者-经典意识论】框架中使用的核心概念和术语的标准定义，确保整个理论体系中概念使用的一致性，包括：
+
+This document provides standard definitions of core concepts and terms used in the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework, ensuring consistency in the use of concepts throughout the theoretical system, including:
+
+- 基础概念 | Basic concepts
+- 核心过程 | Core processes
+- 结构与层级 | Structures and hierarchies
+- 特殊概念 | Special concepts
+- 应用概念 | Application concepts
+- 理论关系 | Theoretical relationships
+
+## 理论应用与验证方向 | Theoretical Applications and Verification Directions
+
+### 实验验证方向 | Experimental Verification Directions
+
+1. **量子-经典过渡研究**：探索不同复杂度系统的量子-经典过渡点，验证其与观察者维度的关系
+2. **意识与量子纠缠关联**：研究意识活动与量子系统纠缠状态的可能关联
+3. **信息熵与物理熵关系**：验证观察者经典化过程中的信息损失与物理系统熵增的定量关系
+
+1. **Quantum-Classical Transition Research**: Explore the quantum-classical transition points of systems with different complexities, and verify their relationship with observer dimensions
+2. **Consciousness and Quantum Entanglement Correlation**: Study possible correlations between conscious activities and entanglement states of quantum systems
+3. **Relationship Between Information Entropy and Physical Entropy**: Verify the quantitative relationship between information loss in the observer's classicalization process and entropy increase in physical systems
+
+### 技术应用前景 | Technical Application Prospects
+
+1. **量子计算**：基于观察者经典化机制设计新型量子算法和量子-经典接口
+2. **人工意识**：通过模拟观察者经典化过程，探索构建人工意识的可能路径
+3. **信息物理学**：开发基于量子信息与经典化的新型物理模型和模拟方法
+4. **意识增强技术**：开发基于维度提升理论的意识增强技术和方法
+
+1. **Quantum Computing**: Design new quantum algorithms and quantum-classical interfaces based on observer classicalization mechanisms
+2. **Artificial Consciousness**: Explore possible paths for constructing artificial consciousness by simulating observer classicalization processes
+3. **Information Physics**: Develop new physical models and simulation methods based on quantum information and classicalization
+4. **Consciousness Enhancement Technology**: Develop consciousness enhancement technologies and methods based on dimension elevation theory
+
+## 结论 | Conclusion
+
+【量子宇宙-量子观察者-经典意识论】提供了一种前所未有的视角，将宇宙、量子纠缠、经典化过程、观察者意识与维度提升统一于一个极简而优雅的理论框架中。通过明确意识与宇宙的本质关系，揭示了观察者感知宇宙的内在机制，为物理学、认知科学与人工智能等领域开辟了全新的研究方向。
+
+The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides an unprecedented perspective, unifying the universe, quantum entanglement, classicalization processes, observer consciousness, and dimension elevation in a minimalist and elegant theoretical framework. By clarifying the essential relationship between consciousness and the universe, it reveals the inherent mechanism of how observers perceive the universe, opening up new research directions for fields such as physics, cognitive science, and artificial intelligence.
+
+本理论揭示的宇宙本质，是一场无限而精妙的信息演化过程，每个观察者的意识都是宇宙对自身量子结构的一次自我经典化与体验。未来研究将继续探索量子纠缠与意识结构之间的关系，精确量化观察者维度提升的具体机制与路径，最终更深刻地理解宇宙与人类意识的终极奥秘。
+
+The essence of the universe revealed by this theory is an infinite and exquisite process of information evolution, with each observer's consciousness being a self-classicalization and experience of the universe's own quantum structure. Future research will continue to explore the relationship between quantum entanglement and consciousness structures, precisely quantify the specific mechanisms and paths of observer dimension elevation, and ultimately gain a deeper understanding of the ultimate mysteries of the universe and human consciousness.
