@@ -33,6 +33,7 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory proposes a 
 1. [已解释的物理难题 | Explained Physical Puzzles](theories/explained_puzzles.md) - 理论框架解释的经典物理难题
 2. [尚未解释的物理现象 | Unexplained Physical Phenomena](theories/unexplained_phenomena.md) - 理论框架尚未完全解释的物理现象
 3. [未来研究方向 | Future Research Directions](theories/future_research.md) - 理论框架的发展方向和研究前景
+4. [哲学问题解释 | Philosophical Explanations](theories/philosophical_explanations.md) - 理论框架对经典哲学问题的解释
 
 ## 最简洁定义 | Most Concise Definition
 
