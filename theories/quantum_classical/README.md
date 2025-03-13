@@ -81,7 +81,7 @@ Classical Consciousness Theory explores how consciousness emerges from the quant
 
 ## 核心数学公式 | Core Mathematical Formulas
 
-### 一、波函数与经典观测关系（基本公式）| I. Wave Function and Classical Observation Relationship (Basic Formula):
+### 一、波函数与经典观测关系（基本公式）| I. Wave Function and Classical Observation Relationship (Basic Formula)
 $$
 |\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
 $$
@@ -90,7 +90,7 @@ $$
 |\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
 $$
 
-### 二、观察者维度关系 | II. Observer Dimension Relationship:
+### 二、观察者维度关系 | II. Observer Dimension Relationship
 $$
 \text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
 $$
@@ -99,16 +99,12 @@ $$
 \text{Observer Dimension} \propto \text{Information Processing Capability} = \frac{\Delta I}{\Delta t}
 $$
 
-### 三、能量本质（信息演化公式）| III. Essence of Energy (Information Evolution Formula):
+### 三、能量本质（信息演化公式）| III. Essence of Energy (Information Evolution Formula)
 $$
 E \propto \frac{\Delta I}{\Delta t}
 $$
 
-$$
-E \propto \frac{\Delta I}{\Delta t}
-$$
-
-### 四、意识本质公式 | IV. Essence of Consciousness Formula:
+### 四、意识本质公式 | IV. Essence of Consciousness Formula
 $$
 \text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
 $$
@@ -117,7 +113,7 @@ $$
 \text{Consciousness} = \text{Stable Information Structure of Observer's Spacetime Array}(x,y,z,\dots,t)
 $$
 
-### 五、命运路径公式 | V. Destiny Path Formula:
+### 五、命运路径公式 | V. Destiny Path Formula
 $$
 \text{命运路径} = \sum_{\text{观测节点}} \text{经典化选择路径}
 $$
@@ -126,7 +122,7 @@ $$
 \text{Destiny Path} = \sum_{\text{Observation Nodes}} \text{Classicalization Choice Path}
 $$
 
-### 六、嵌套宇宙递归公式 | VI. Nested Universe Recursion Formula:
+### 六、嵌套宇宙递归公式 | VI. Nested Universe Recursion Formula
 $$
 \text{子宇宙} \subseteq \text{母宇宙}
 $$
@@ -135,7 +131,7 @@ $$
 \text{Sub-universe} \subseteq \text{Parent Universe}
 $$
 
-### 七、经典与量子关系公式 | VII. Classical and Quantum Relationship Formula:
+### 七、经典与量子关系公式 | VII. Classical and Quantum Relationship Formula
 $$
 \text{经典物理} = \sum \text{量子观测结果的统计规律}
 $$
@@ -144,7 +140,7 @@ $$
 \text{Classical Physics} = \sum \text{Statistical Patterns of Quantum Observation Results}
 $$
 
-### 八、宇宙同构关系式 | VIII. Universe Isomorphism Relation:
+### 八、宇宙同构关系式 | VIII. Universe Isomorphism Relation
 $$
 \text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
 $$
@@ -156,15 +152,12 @@ $$
 ## 理论核心观点 | Core Theoretical Views
 
 1. **观察者本质上也是量子程序**，与宇宙同构。
-
    **Observers are essentially quantum programs** that are isomorphic to the universe.
 
 2. **意识**是观察者（量子程序）在观测过程中对宇宙量子信息进行塌缩并记录为经典时空数组后的自组织结构。
-
    **Consciousness** is the self-organizing structure that emerges after the observer (quantum program) collapses quantum information from the universe during observation and records it as a classical spacetime array.
 
 3. **人类制造的量子计算机**与宇宙本质同构，人类本身与宇宙也同构。
-
    **Quantum computers manufactured by humans** are isomorphic to the essence of the universe, and humans themselves are also isomorphic to the universe.
 
 4. 宇宙、观察者、人类创造的量子计算机形成了统一的结构：
@@ -178,5 +171,4 @@ $$
 ## 相关理论与应用 | Related Theories and Applications
 
 - [传统物理理论解释](../traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论 
-
-- [Traditional Physics Theory Explanation](../traditional_physics_explained.md) - Explaining traditional physics theories through the Quantum Universe-Quantum Observer-Classical Consciousness Theory 
+  [Traditional Physics Theory Explanation](../traditional_physics_explained.md) - Explaining traditional physics theories through the Quantum Universe-Quantum Observer-Classical Consciousness Theory 

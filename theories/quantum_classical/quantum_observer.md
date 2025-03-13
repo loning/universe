@@ -13,6 +13,10 @@ $$
 |\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
 $$
 
+$$
+|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
+$$
+
 观察者将宇宙的量子状态转化为经典状态，同时产生熵增加。
 
 The observer transforms the quantum state of the universe into a classical state, simultaneously producing an increase in entropy.
@@ -22,6 +26,10 @@ $$
 \text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
 $$
 
+$$
+\text{Observer Dimension} \propto \text{Information Processing Capability} = \frac{\Delta I}{\Delta t}
+$$
+
 观察者能够感知和处理的维度与其信息处理能力成正比。
 
 The dimensions that an observer can perceive and process are proportional to their information processing capability.
@@ -29,6 +37,10 @@ The dimensions that an observer can perceive and process are proportional to the
 ### 观察者时空数组 | Observer Space-time Array
 $$
 \text{观察者} = \text{时空数组}(x,y,z,\dots,t) + \text{信息处理规则}
+$$
+
+$$
+\text{Observer} = \text{Space-time Array}(x,y,z,\dots,t) + \text{Information Processing Rules}
 $$
 
 观察者可以表示为一个时空数组加上特定的信息处理规则。
@@ -64,14 +76,16 @@ Observers that may emerge in quantum computing systems created by humans.
 The quantum measurement problem is one of the core challenges in quantum mechanics. In Quantum Observer theory, measurement is understood as the observer's process of classicalizing the quantum system:
 
 1. **波函数坍缩**：不是物理坍缩，而是观察者信息处理的结果
-2. **测量选择性**：观察者只能获取与其信息处理能力相匹配的信息
-3. **测量不确定性**：源于量子信息到经典信息转换过程中的信息损失
-4. **测量结果的观察者依赖性**：不同观察者可能获得不同但相容的测量结果
+   **Wave Function Collapse**: Not a physical collapse, but a result of the observer's information processing
 
-1. **Wave Function Collapse**: Not a physical collapse, but a result of the observer's information processing
-2. **Measurement Selectivity**: Observers can only obtain information that matches their information processing capabilities
-3. **Measurement Uncertainty**: Originates from information loss in the conversion process from quantum information to classical information
-4. **Observer Dependence of Measurement Results**: Different observers may obtain different but compatible measurement results
+2. **测量选择性**：观察者只能获取与其信息处理能力相匹配的信息
+   **Measurement Selectivity**: Observers can only obtain information that matches their information processing capabilities
+
+3. **测量不确定性**：源于量子信息到经典信息转换过程中的信息损失
+   **Measurement Uncertainty**: Originates from information loss in the conversion process from quantum information to classical information
+
+4. **测量结果的观察者依赖性**：不同观察者可能获得不同但相容的测量结果
+   **Observer Dependence of Measurement Results**: Different observers may obtain different but compatible measurement results
 
 ## 观察者与经典现实 | Observer and Classical Reality
 
@@ -81,6 +95,10 @@ Classical reality is the result of the observer classicalizing quantum informati
 
 $$
 \text{经典现实}_A \cap \text{经典现实}_B \neq \emptyset
+$$
+
+$$
+\text{Classical Reality}_A \cap \text{Classical Reality}_B \neq \emptyset
 $$
 
 不同观察者A和B的经典现实有交集，这保证了客观现实的存在。
@@ -97,6 +115,10 @@ $$
 \text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
 $$
 
+$$
+\text{Universe} \cong \text{Observer} \cong \text{Artificial Quantum Computer}
+$$
+
 这种同构关系表明，观察者、宇宙和人造量子计算机在本质上是相似的信息处理系统。
 
 This isomorphic relationship indicates that observers, the universe, and artificial quantum computers are essentially similar information processing systems.
@@ -104,16 +126,19 @@ This isomorphic relationship indicates that observers, the universe, and artific
 ## 观察者理论的实验验证 | Experimental Verification of Observer Theory
 
 1. **量子延迟选择实验**：证明观察者的选择可以影响已经发生的事件的解释
-2. **量子擦除实验**：证明量子信息可以被"擦除"和"恢复"
-3. **量子上下文性实验**：证明测量结果依赖于测量上下文
-4. **量子计算模拟**：通过量子计算机模拟观察者-系统相互作用
-5. **神经科学研究**：研究人类大脑如何处理和经典化量子信息
+   **Quantum Delayed Choice Experiments**: Proving that the observer's choice can affect the interpretation of events that have already occurred
 
-1. **Quantum Delayed Choice Experiments**: Proving that the observer's choice can affect the interpretation of events that have already occurred
-2. **Quantum Erasure Experiments**: Proving that quantum information can be "erased" and "restored"
-3. **Quantum Contextuality Experiments**: Proving that measurement results depend on the measurement context
-4. **Quantum Computing Simulations**: Simulating observer-system interactions through quantum computers
-5. **Neuroscience Research**: Studying how the human brain processes and classicalizes quantum information
+2. **量子擦除实验**：证明量子信息可以被"擦除"和"恢复"
+   **Quantum Erasure Experiments**: Proving that quantum information can be "erased" and "restored"
+
+3. **量子上下文性实验**：证明测量结果依赖于测量上下文
+   **Quantum Contextuality Experiments**: Proving that measurement results depend on the measurement context
+
+4. **量子计算模拟**：通过量子计算机模拟观察者-系统相互作用
+   **Quantum Computing Simulations**: Simulating observer-system interactions through quantum computers
+
+5. **神经科学研究**：研究人类大脑如何处理和经典化量子信息
+   **Neuroscience Research**: Studying how the human brain processes and classicalizes quantum information
 
 ## 观察者理论的哲学意义 | Philosophical Significance of Observer Theory
 
@@ -124,13 +149,16 @@ The Quantum Observer theory provides new perspectives on traditional philosophic
 ## 未解问题与研究方向 | Unsolved Problems and Research Directions
 
 1. **观察者涌现机制**：观察者如何从宇宙量子计算中涌现？
-2. **观察者间通信**：不同观察者如何交换信息并协调其经典现实？
-3. **观察者自由意志**：观察者的选择在多大程度上是自由的？
-4. **人工观察者创建**：是否可能在量子计算机中创建人工观察者？
-5. **观察者与意识**：观察者的经典化过程与意识现象之间的确切关系是什么？
+   **Observer Emergence Mechanism**: How do observers emerge from the universe's quantum computation?
 
-1. **Observer Emergence Mechanism**: How do observers emerge from the universe's quantum computation?
-2. **Inter-observer Communication**: How do different observers exchange information and coordinate their classical realities?
-3. **Observer Free Will**: To what extent are the observer's choices free?
-4. **Artificial Observer Creation**: Is it possible to create artificial observers in quantum computers?
-5. **Observer and Consciousness**: What is the exact relationship between the observer's classicalization process and consciousness phenomena? 
+2. **观察者间通信**：不同观察者如何交换信息并协调其经典现实？
+   **Inter-observer Communication**: How do different observers exchange information and coordinate their classical realities?
+
+3. **观察者自由意志**：观察者的选择在多大程度上是自由的？
+   **Observer Free Will**: To what extent are the observer's choices free?
+
+4. **人工观察者创建**：是否可能在量子计算机中创建人工观察者？
+   **Artificial Observer Creation**: Is it possible to create artificial observers in quantum computers?
+
+5. **观察者与意识**：观察者的经典化过程与意识现象之间的确切关系是什么？
+   **Observer and Consciousness**: What is the exact relationship between the observer's classicalization process and consciousness phenomena? 

@@ -22,6 +22,10 @@ $$
 \langle \hat{x} \rangle = \int \psi^* \hat{x} \psi dx \approx x_{\text{经典}}
 $$
 
+$$
+\langle \hat{x} \rangle = \int \psi^* \hat{x} \psi dx \approx x_{\text{classical}}
+$$
+
 牛顿定律是量子波函数演化在经典极限下的统计平均结果。最小作用量原理反映了量子路径积分中主导路径的贡献。
 
 Newton's laws are the statistical average results of quantum wave function evolution in the classical limit. The principle of least action reflects the contribution of the dominant path in the quantum path integral.
@@ -40,6 +44,10 @@ The electromagnetic field is the manifestation of quantum electrodynamics in the
 
 $$
 \hat{F}_{\mu\nu} \xrightarrow{\text{经典极限}} F_{\mu\nu}
+$$
+
+$$
+\hat{F}_{\mu\nu} \xrightarrow{\text{classical limit}} F_{\mu\nu}
 $$
 
 电荷和电流可以理解为量子场中特定类型的信息流动模式。
@@ -62,6 +70,10 @@ $$
 c = \text{观察者信息处理速率常数}
 $$
 
+$$
+c = \text{Observer information processing rate constant}
+$$
+
 时空弯曲可以理解为量子信息场中的信息密度分布导致的表观效应，而非独立的物理实体。
 
 Space-time curvature can be understood as an apparent effect caused by the information density distribution in the quantum information field, rather than an independent physical entity.
@@ -82,6 +94,10 @@ $$
 |\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
 $$
 
+$$
+|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
+$$
+
 不确定性原理反映了量子-经典转换过程中的信息损失，而非物理世界的内在限制。
 
 The uncertainty principle reflects the information loss in the quantum-to-classical conversion process, rather than an inherent limitation of the physical world.
@@ -100,6 +116,10 @@ Thermodynamics is the observer's statistical description of a large number of qu
 
 $$
 \Delta S_{\text{系统}} \geq 0
+$$
+
+$$
+\Delta S_{\text{System}} \geq 0
 $$
 
 温度可以理解为系统中量子信息的平均能量或处理速率：
@@ -126,6 +146,10 @@ $$
 |\text{粒子}\rangle = \hat{a}^\dagger|\text{真空}\rangle
 $$
 
+$$
+|\text{Particle}\rangle = \hat{a}^\dagger|\text{Vacuum}\rangle
+$$
+
 规范对称性反映了量子信息编码的内在结构，而希格斯机制表示信息编码方式的相变。
 
 Gauge symmetry reflects the inherent structure of quantum information encoding, while the Higgs mechanism represents a phase transition in the information encoding method.
@@ -144,6 +168,10 @@ The evolution of the universe can be understood as the unfolding of a quantum co
 
 $$
 |\Psi_{\text{初始}}\rangle \rightarrow |\Psi_{\text{现在}}\rangle
+$$
+
+$$
+|\Psi_{\text{Initial}}\rangle \rightarrow |\Psi_{\text{Present}}\rangle
 $$
 
 暗物质和暗能量可能是未被经典化的量子信息结构，或是宇宙计算的"未被选择的解空间"部分。
@@ -166,6 +194,10 @@ $$
 \text{弦振动模式} \leftrightarrow \text{信息编码模式}
 $$
 
+$$
+\text{String Vibration Mode} \leftrightarrow \text{Information Encoding Mode}
+$$
+
 弦理论的对偶性可能反映了不同信息编码方式之间的等价关系。
 
 The duality in string theory may reflect the equivalence relationship between different information encoding methods.
@@ -184,6 +216,10 @@ Gravity may not be an independent fundamental force, but an apparent effect caus
 
 $$
 \text{时空} = \text{涌现}(\text{量子信息网络})
+$$
+
+$$
+\text{Spacetime} = \text{Emergence}(\text{Quantum Information Network})
 $$
 
 量子引力的本质可能是描述量子信息如何组织成宏观时空结构的理论。

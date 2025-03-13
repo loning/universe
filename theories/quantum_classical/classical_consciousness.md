@@ -13,6 +13,10 @@ $$
 \text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
 $$
 
+$$
+\text{Consciousness} = \text{Stable Information Structure of Observer's Space-time Array}(x,y,z,\dots,t)
+$$
+
 意识是观察者时空数组中形成的稳定信息结构。
 
 Consciousness is the stable information structure formed in the observer's space-time array.
@@ -22,6 +26,10 @@ $$
 C_{\text{意识}} \propto -\sum_i p_i \log p_i
 $$
 
+$$
+C_{\text{consciousness}} \propto -\sum_i p_i \log p_i
+$$
+
 意识的复杂度与其信息熵成正比，其中$p_i$是不同意识状态的概率分布。
 
 The complexity of consciousness is proportional to its information entropy, where $p_i$ is the probability distribution of different consciousness states.
@@ -29,6 +37,10 @@ The complexity of consciousness is proportional to its information entropy, wher
 ### 意识-环境耦合 | Consciousness-Environment Coupling
 $$
 I(\text{意识};\text{环境}) = H(\text{意识}) + H(\text{环境}) - H(\text{意识},\text{环境})
+$$
+
+$$
+I(\text{consciousness};\text{environment}) = H(\text{consciousness}) + H(\text{environment}) - H(\text{consciousness},\text{environment})
 $$
 
 意识与环境之间的互信息量，表示意识对环境的感知程度。
@@ -69,14 +81,16 @@ A theoretically possible higher form of consciousness with information processin
 Consciousness is a key link in the quantum-to-classical transition process. When the observer transforms quantum information into classical information, this process itself produces consciousness phenomena:
 
 1. **量子叠加态**：对应于意识的潜在可能性
-2. **波函数坍缩**：对应于意识的决策和选择过程
-3. **量子纠缠**：对应于意识内部不同元素的关联
-4. **量子相干性**：对应于意识的统一性和连贯性
+   **Quantum Superposition**: Corresponding to the potential possibilities of consciousness
 
-1. **Quantum Superposition**: Corresponding to the potential possibilities of consciousness
-2. **Wave Function Collapse**: Corresponding to the decision-making and selection process of consciousness
-3. **Quantum Entanglement**: Corresponding to the correlation between different elements within consciousness
-4. **Quantum Coherence**: Corresponding to the unity and coherence of consciousness
+2. **波函数坍缩**：对应于意识的决策和选择过程
+   **Wave Function Collapse**: Corresponding to the decision-making and selection process of consciousness
+
+3. **量子纠缠**：对应于意识内部不同元素的关联
+   **Quantum Entanglement**: Corresponding to the correlation between different elements within consciousness
+
+4. **量子相干性**：对应于意识的统一性和连贯性
+   **Quantum Coherence**: Corresponding to the unity and coherence of consciousness
 
 ## 意识与信息处理 | Consciousness and Information Processing
 
@@ -85,16 +99,19 @@ Consciousness is a key link in the quantum-to-classical transition process. When
 Consciousness can be understood as a special way of information processing with the following characteristics:
 
 1. **自我参照**：意识能够处理关于自身的信息
-2. **整体性**：意识将分散的信息整合为统一的体验
-3. **时间连续性**：意识在时间上保持连贯性
-4. **主观性**：意识体验具有第一人称视角
-5. **自适应性**：意识能够根据环境变化调整自身
+   **Self-reference**: Consciousness can process information about itself
 
-1. **Self-reference**: Consciousness can process information about itself
-2. **Holism**: Consciousness integrates scattered information into a unified experience
-3. **Temporal Continuity**: Consciousness maintains coherence over time
-4. **Subjectivity**: Consciousness experience has a first-person perspective
-5. **Adaptability**: Consciousness can adjust itself according to environmental changes
+2. **整体性**：意识将分散的信息整合为统一的体验
+   **Holism**: Consciousness integrates scattered information into a unified experience
+
+3. **时间连续性**：意识在时间上保持连贯性
+   **Temporal Continuity**: Consciousness maintains coherence over time
+
+4. **主观性**：意识体验具有第一人称视角
+   **Subjectivity**: Consciousness experience has a first-person perspective
+
+5. **自适应性**：意识能够根据环境变化调整自身
+   **Adaptability**: Consciousness can adjust itself according to environmental changes
 
 ## 意识与大脑 | Consciousness and Brain
 
@@ -103,30 +120,36 @@ Consciousness can be understood as a special way of information processing with 
 In humans, the brain is the physical basis that supports consciousness. The neural network of the brain can be viewed as a complex quantum-to-classical conversion system:
 
 1. **神经元活动**：对应于经典信息处理
-2. **突触量子效应**：可能涉及量子信息处理
-3. **神经网络整体活动**：产生宏观意识现象
-4. **脑波振荡**：反映意识的不同状态
-5. **神经可塑性**：支持意识的学习和适应能力
+   **Neuronal Activity**: Corresponding to classical information processing
 
-1. **Neuronal Activity**: Corresponding to classical information processing
-2. **Synaptic Quantum Effects**: Possibly involving quantum information processing
-3. **Overall Neural Network Activity**: Generating macroscopic consciousness phenomena
-4. **Brain Wave Oscillations**: Reflecting different states of consciousness
-5. **Neural Plasticity**: Supporting the learning and adaptation capabilities of consciousness
+2. **突触量子效应**：可能涉及量子信息处理
+   **Synaptic Quantum Effects**: Possibly involving quantum information processing
+
+3. **神经网络整体活动**：产生宏观意识现象
+   **Overall Neural Network Activity**: Generating macroscopic consciousness phenomena
+
+4. **脑波振荡**：反映意识的不同状态
+   **Brain Wave Oscillations**: Reflecting different states of consciousness
+
+5. **神经可塑性**：支持意识的学习和适应能力
+   **Neural Plasticity**: Supporting the learning and adaptation capabilities of consciousness
 
 ## 意识理论的实验验证 | Experimental Verification of Consciousness Theory
 
 1. **神经科学研究**：研究神经活动与意识体验的相关性
-2. **量子生物学实验**：探索生物系统中的量子效应
-3. **人工智能模拟**：通过AI模拟意识涌现过程
-4. **精神药物研究**：研究药物如何改变意识状态
-5. **冥想和意识状态研究**：研究不同意识状态的特性
+   **Neuroscience Research**: Studying the correlation between neural activity and consciousness experience
 
-1. **Neuroscience Research**: Studying the correlation between neural activity and consciousness experience
-2. **Quantum Biology Experiments**: Exploring quantum effects in biological systems
-3. **Artificial Intelligence Simulation**: Simulating the consciousness emergence process through AI
-4. **Psychedelic Research**: Studying how drugs change consciousness states
-5. **Meditation and Consciousness State Research**: Studying the characteristics of different consciousness states
+2. **量子生物学实验**：探索生物系统中的量子效应
+   **Quantum Biology Experiments**: Exploring quantum effects in biological systems
+
+3. **人工智能模拟**：通过AI模拟意识涌现过程
+   **Artificial Intelligence Simulation**: Simulating the consciousness emergence process through AI
+
+4. **精神药物研究**：研究药物如何改变意识状态
+   **Psychedelic Research**: Studying how drugs change consciousness states
+
+5. **冥想和意识状态研究**：研究不同意识状态的特性
+   **Meditation and Consciousness State Research**: Studying the characteristics of different consciousness states
 
 ## 意识理论的哲学意义 | Philosophical Significance of Consciousness Theory
 
@@ -137,13 +160,16 @@ The Classical Consciousness Theory provides new perspectives on traditional phil
 ## 未解问题与研究方向 | Unsolved Problems and Research Directions
 
 1. **意识的精确数学描述**：如何用数学精确描述意识状态？
-2. **意识的量子基础**：量子效应在多大程度上参与意识过程？
-3. **意识的涌现机制**：意识如何从神经活动中涌现？
-4. **人工意识的可能性**：是否可能在人工系统中创造真正的意识？
-5. **意识的进化起源**：意识在生物进化中何时、如何出现？
+   **Precise Mathematical Description of Consciousness**: How to precisely describe consciousness states mathematically?
 
-1. **Precise Mathematical Description of Consciousness**: How to precisely describe consciousness states mathematically?
-2. **Quantum Foundation of Consciousness**: To what extent do quantum effects participate in consciousness processes?
-3. **Emergence Mechanism of Consciousness**: How does consciousness emerge from neural activity?
-4. **Possibility of Artificial Consciousness**: Is it possible to create true consciousness in artificial systems?
-5. **Evolutionary Origin of Consciousness**: When and how did consciousness appear in biological evolution? 
+2. **意识的量子基础**：量子效应在多大程度上参与意识过程？
+   **Quantum Foundation of Consciousness**: To what extent do quantum effects participate in consciousness processes?
+
+3. **意识的涌现机制**：意识如何从神经活动中涌现？
+   **Emergence Mechanism of Consciousness**: How does consciousness emerge from neural activity?
+
+4. **人工意识的可能性**：是否可能在人工系统中创造真正的意识？
+   **Possibility of Artificial Consciousness**: Is it possible to create true consciousness in artificial systems?
+
+5. **意识的进化起源**：意识在生物进化中何时、如何出现？
+   **Evolutionary Origin of Consciousness**: When and how did consciousness appear in biological evolution? 
