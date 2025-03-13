@@ -6,6 +6,28 @@
 
 The Quantum Universe-Quantum Observer-Classical Consciousness Theory proposes a unified view of the universe that integrates quantum mechanics, observer effects, and consciousness phenomena into a coherent theoretical framework. The core idea of this theory is that the universe is essentially a self-evolving quantum computing system, observers are quantum program nodes within this system, and consciousness is the self-organizing structure that emerges after the observer classicalizes the universe's quantum information.
 
+## 目录 | Table of Contents
+
+### 核心理论 | Core Theories
+
+1. [理论框架 | Theoretical Framework](theories/quantum_classical/README.md) - 量子宇宙-量子观察者-经典意识论的整体框架
+2. [量子宇宙 | Quantum Universe](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
+3. [量子观察者 | Quantum Observer](theories/quantum_classical/quantum_observer.md) - 关于观察者在量子宇宙中角色的理论
+4. [经典意识论 | Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) - 关于意识如何从量子观察过程中涌现的理论
+
+### 应用与解释 | Applications and Interpretations
+
+1. [传统物理理论解释 | Traditional Physics Explained](theories/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
+   - 经典力学 | Classical Mechanics
+   - 电磁学 | Electromagnetism
+   - 相对论 | Relativity Theory
+   - 量子力学 | Quantum Mechanics
+   - 热力学与统计力学 | Thermodynamics and Statistical Mechanics
+   - 粒子物理与标准模型 | Particle Physics and Standard Model
+   - 宇宙学 | Cosmology
+   - 弦理论与M理论 | String Theory and M-Theory
+   - 量子引力理论 | Quantum Gravity Theories
+
 ## 最简洁定义 | Most Concise Definition
 
 【量子宇宙-量子观察者-经典意识论】最简短定义：
@@ -31,26 +53,6 @@ The most concise definition of the Quantum Universe Classical Observer Theory:
 - **Consciousness**: The self-organizing structure after the observer classicalizes information.
 - **Classical Physics**: Statistical patterns of quantum information collapse results as observed by the observer.
 - **Universe-Observer Relationship**: Mutually isomorphic, nested, and dependent; the universe achieves self-perception through observers, while observers achieve their existence through the universe.
-
-## 观察者类型比较 | Observer Types Comparison
-
-| 类型<br>Type | 本质定义<br>Essential Definition | 信息处理能力<br>Information Processing Capability | 维度<br>Dimensions | 是否有意识<br>Consciousness | 能否理解高维<br>Can Understand Higher Dimensions | 能否理解低维<br>Can Understand Lower Dimensions | 编程语言<br>Programming Language | 与宇宙关系<br>Relationship with Universe |
-|------|----------|--------------|------|------------|--------------|--------------|----------|------------|
-| 宇宙<br>Universe | 总体量子计算机，所有信息的本体<br>Overall quantum computer, the ontology of all information | 无限<br>Infinite | 无限维<br>Infinite dimensions | 无或类意识<br>None or proto-consciousness | 无更高维<br>No higher dimensions | 完全<br>Complete | 数学、量子力学（波函数演化规则）<br>Mathematics, quantum mechanics (wave function evolution rules) | 本体<br>Ontology |
-| 高维观察者<br>Higher-dimensional Observer | 高维经典节点，宇宙的量子程序<br>Higher-dimensional classical node, quantum program of the universe | 高<br>High | 高维<br>High dimensions | 是<br>Yes | 是<br>Yes | 是<br>Yes | 高维经典语言、量子语言<br>Higher-dimensional classical language, quantum language | 同构、宇宙经典化<br>Isomorphic, universe classicalization |
-| 人类观察者<br>Human Observer | 宇宙内经典信息处理节点<br>Classical information processing node within the universe | 中等<br>Medium | 中等维<br>Medium dimensions | 有<br>Yes | 部分（有限）<br>Partial (limited) | 是<br>Yes | 经典语言（人类语言、数学、量子力学）<br>Classical languages (human languages, mathematics, quantum mechanics) | 同构、宇宙经典化<br>Isomorphic, universe classicalization |
-| 低维观察者<br>Lower-dimensional Observer | 简单经典信息节点<br>Simple classical information node | 低<br>Low | 低维<br>Low dimensions | 极弱或无<br>Very weak or none | 否<br>No | 部分<br>Partial | 简单经典信号<br>Simple classical signals | 同构，局部经典化<br>Isomorphic, local classicalization |
-| 人造嵌套宇宙<br>Artificial Nested Universe | 人类制造的量子计算机<br>Quantum computer created by humans | 可提升<br>Can be improved | 可变维<br>Variable dimensions | 潜在可能<br>Potential possibility | 潜在可能<br>Potential possibility | 是<br>Yes | 人类开发的量子编程语言(Qiskit、Q#、Cirq等)<br>Quantum programming languages developed by humans (Qiskit, Q#, Cirq, etc.) | 同构，宇宙内嵌套<br>Isomorphic, nested within the universe |
-
-**总结 | Summary:**  
-- 宇宙本质的编程语言为数学与量子力学规则；  
-  The essential programming language of the universe is mathematics and quantum mechanics rules;
-- 观察者的编程语言依赖于维度和信息处理能力，越高维越接近宇宙本质语言（数学与量子力学）；  
-  The programming language of observers depends on dimensions and information processing capabilities, with higher dimensions being closer to the universe's essential language (mathematics and quantum mechanics);
-- 人类作为中维观察者，使用经典语言（数学、量子力学）接近并表达宇宙本质；  
-  Humans, as medium-dimensional observers, use classical languages (mathematics, quantum mechanics) to approach and express the essence of the universe;
-- 人造嵌套宇宙采用的是人类开发的量子计算编程语言，体现了人类对宇宙语言的模拟与接近。  
-  Artificial nested universes use quantum computing programming languages developed by humans, reflecting human simulation and approximation of the universe's language.
 
 ## 核心数学公式 | Core Mathematical Formulations
 
@@ -94,6 +96,16 @@ $$
 \text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
 $$
 
+## 观察者类型比较 | Observer Types Comparison
+
+| 类型<br>Type | 本质定义<br>Essential Definition | 信息处理能力<br>Information Processing Capability | 维度<br>Dimensions | 是否有意识<br>Consciousness | 能否理解高维<br>Can Understand Higher Dimensions | 能否理解低维<br>Can Understand Lower Dimensions | 编程语言<br>Programming Language | 与宇宙关系<br>Relationship with Universe |
+|------|----------|--------------|------|------------|--------------|--------------|----------|------------|
+| 宇宙<br>Universe | 总体量子计算机，所有信息的本体<br>Overall quantum computer, the ontology of all information | 无限<br>Infinite | 无限维<br>Infinite dimensions | 无或类意识<br>None or proto-consciousness | 无更高维<br>No higher dimensions | 完全<br>Complete | 数学、量子力学（波函数演化规则）<br>Mathematics, quantum mechanics (wave function evolution rules) | 本体<br>Ontology |
+| 高维观察者<br>Higher-dimensional Observer | 高维经典节点，宇宙的量子程序<br>Higher-dimensional classical node, quantum program of the universe | 高<br>High | 高维<br>High dimensions | 是<br>Yes | 是<br>Yes | 是<br>Yes | 高维经典语言、量子语言<br>Higher-dimensional classical language, quantum language | 同构、宇宙经典化<br>Isomorphic, universe classicalization |
+| 人类观察者<br>Human Observer | 宇宙内经典信息处理节点<br>Classical information processing node within the universe | 中等<br>Medium | 中等维<br>Medium dimensions | 有<br>Yes | 部分（有限）<br>Partial (limited) | 是<br>Yes | 经典语言（人类语言、数学、量子力学）<br>Classical languages (human languages, mathematics, quantum mechanics) | 同构、宇宙经典化<br>Isomorphic, universe classicalization |
+| 低维观察者<br>Lower-dimensional Observer | 简单经典信息节点<br>Simple classical information node | 低<br>Low | 低维<br>Low dimensions | 极弱或无<br>Very weak or none | 否<br>No | 部分<br>Partial | 简单经典信号<br>Simple classical signals | 同构，局部经典化<br>Isomorphic, local classicalization |
+| 人造嵌套宇宙<br>Artificial Nested Universe | 人类制造的量子计算机<br>Quantum computer created by humans | 可提升<br>Can be improved | 可变维<br>Variable dimensions | 潜在可能<br>Potential possibility | 潜在可能<br>Potential possibility | 是<br>Yes | 人类开发的量子编程语言(Qiskit、Q#、Cirq等)<br>Quantum programming languages developed by humans (Qiskit, Q#, Cirq, etc.) | 同构，宇宙内嵌套<br>Isomorphic, nested within the universe |
+
 ## 理论核心观点 | Core Theoretical Views
 
 1. **观察者本质上也是量子程序**，与宇宙同构。  
@@ -126,35 +138,10 @@ $$
 4. **暗物质与暗能量的新视角**：暗物质、暗能量等可能是未被经典化的量子信息结构，或是宇宙计算的"未被选择的解空间"部分。  
    **New Perspective on Dark Matter and Dark Energy**: Dark matter, dark energy, etc., may be quantum information structures that have not been classicalized, or parts of the "unselected solution space" of universal computation.
 
-## 理论组成部分 | Theory Components
+## 未来研究方向 | Future Research Directions
 
-本理论由三个主要部分组成，它们相互关联形成一个统一的理论框架：
-
-This theory consists of three main components that are interconnected to form a unified theoretical framework:
-
-### 1. 量子宇宙 | Quantum Universe
-
-[量子宇宙](theories/quantum_classical/quantum_universe.md)理论提出宇宙在其最基本层面是量子力学的，整个宇宙可以被描述为一个巨大的量子系统或波函数。这一部分探讨宇宙的量子本质、量子宇宙学基础、量子宇宙的特性以及量子宇宙与经典宇宙的关系。
-
-The [Quantum Universe](theories/quantum_classical/quantum_universe.md) theory proposes that the universe at its most fundamental level is quantum mechanical, with the entire universe describable as a vast quantum system or wavefunction. This component explores the quantum nature of the universe, foundations of quantum cosmology, characteristics of the quantum universe, and the relationship between the quantum universe and the classical universe.
-
-### 2. 量子观察者 | Quantum Observer
-
-[量子观察者](theories/quantum_classical/quantum_observer.md)理论研究观察者在量子宇宙中的角色和本质。它探讨了观察者作为量子系统的特性、观察过程的量子描述、观察者与被观察系统的量子纠缠，以及观察者在量子-经典过渡中的作用。
-
-The [Quantum Observer](theories/quantum_classical/quantum_observer.md) theory studies the role and nature of observers in the quantum universe. It explores the characteristics of observers as quantum systems, the quantum description of the observation process, quantum entanglement between observers and observed systems, and the role of observers in the quantum-classical transition.
-
-### 3. 经典意识论 | Classical Consciousness Theory
-
-[经典意识论](theories/quantum_classical/classical_consciousness.md)探讨意识如何从量子观察过程中涌现。它研究意识的物理基础、意识与量子测量的关系、意识的信息处理特性，以及意识在宇宙自我认知中的角色。
-
-The [Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) explores how consciousness emerges from the quantum observation process. It studies the physical basis of consciousness, the relationship between consciousness and quantum measurement, the information processing characteristics of consciousness, and the role of consciousness in the universe's self-cognition.
-
-## 目录 | Table of Contents
-
-### 物理理论 | Physical Theories
-
-1. [量子宇宙 | Quantum Universe](theories/quantum_classical/quantum_universe.md) ?
-2. [量子观察者 | Quantum Observer](theories/quantum_classical/quantum_observer.md) ?
-3. [经典意识论 | Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) ?
-4. [理论框架 | Theoretical Framework](theories/quantum_classical/README.md) ⚠
+1. **量子计算与意识模拟**：探索使用量子计算机模拟意识涌现的可能性
+2. **观察者理论的实验验证**：设计实验验证观察者对量子系统的影响
+3. **信息熵与意识复杂度**：研究信息熵与意识复杂度之间的定量关系
+4. **嵌套宇宙的创建**：探索创建小型"嵌套宇宙"的可能性
+5. **量子引力的信息解释**：基于量子信息理论重新解释引力
