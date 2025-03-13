@@ -134,43 +134,43 @@ This theory consists of three main components that are interconnected to form a 
 
 ### 1. 量子宇宙 | Quantum Universe
 
-[量子宇宙](quantum_classical/quantum_universe.md)理论提出宇宙在其最基本层面是量子力学的，整个宇宙可以被描述为一个巨大的量子系统或波函数。这一部分探讨宇宙的量子本质、量子宇宙学基础、量子宇宙的特性以及量子宇宙与经典宇宙的关系。
+[量子宇宙](theories/quantum_classical/quantum_universe.md)理论提出宇宙在其最基本层面是量子力学的，整个宇宙可以被描述为一个巨大的量子系统或波函数。这一部分探讨宇宙的量子本质、量子宇宙学基础、量子宇宙的特性以及量子宇宙与经典宇宙的关系。
 
-The [Quantum Universe](quantum_classical/quantum_universe.md) theory proposes that the universe at its most fundamental level is quantum mechanical, with the entire universe describable as a vast quantum system or wavefunction. This component explores the quantum nature of the universe, foundations of quantum cosmology, characteristics of the quantum universe, and the relationship between the quantum universe and the classical universe.
+The [Quantum Universe](theories/quantum_classical/quantum_universe.md) theory proposes that the universe at its most fundamental level is quantum mechanical, with the entire universe describable as a vast quantum system or wavefunction. This component explores the quantum nature of the universe, foundations of quantum cosmology, characteristics of the quantum universe, and the relationship between the quantum universe and the classical universe.
 
 ### 2. 量子观察者 | Quantum Observer
 
-[量子观察者](quantum_classical/quantum_observer.md)理论研究观察者在量子宇宙中的角色和本质。它探讨了观察者作为量子系统的特性、观察过程的量子描述、观察者与被观察系统的量子纠缠，以及观察者在量子-经典过渡中的作用。
+[量子观察者](theories/quantum_classical/quantum_observer.md)理论研究观察者在量子宇宙中的角色和本质。它探讨了观察者作为量子系统的特性、观察过程的量子描述、观察者与被观察系统的量子纠缠，以及观察者在量子-经典过渡中的作用。
 
-The [Quantum Observer](quantum_classical/quantum_observer.md) theory studies the role and nature of observers in the quantum universe. It explores the characteristics of observers as quantum systems, the quantum description of the observation process, quantum entanglement between observers and observed systems, and the role of observers in the quantum-classical transition.
+The [Quantum Observer](theories/quantum_classical/quantum_observer.md) theory studies the role and nature of observers in the quantum universe. It explores the characteristics of observers as quantum systems, the quantum description of the observation process, quantum entanglement between observers and observed systems, and the role of observers in the quantum-classical transition.
 
 ### 3. 经典意识论 | Classical Consciousness Theory
 
-[经典意识论](quantum_classical/classical_consciousness.md)探讨意识如何从量子观察过程中涌现。它研究意识的物理基础、意识与量子测量的关系、意识的信息处理特性，以及意识在宇宙自我认知中的角色。
+[经典意识论](theories/quantum_classical/classical_consciousness.md)探讨意识如何从量子观察过程中涌现。它研究意识的物理基础、意识与量子测量的关系、意识的信息处理特性，以及意识在宇宙自我认知中的角色。
 
-The [Classical Consciousness Theory](quantum_classical/classical_consciousness.md) explores how consciousness emerges from the quantum observation process. It studies the physical basis of consciousness, the relationship between consciousness and quantum measurement, the information processing characteristics of consciousness, and the role of consciousness in the universe's self-cognition.
+The [Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) explores how consciousness emerges from the quantum observation process. It studies the physical basis of consciousness, the relationship between consciousness and quantum measurement, the information processing characteristics of consciousness, and the role of consciousness in the universe's self-cognition.
 
 ## 目录 | Table of Contents
 
-1. [量子宇宙 | Quantum Universe](quantum_classical/quantum_universe.md)
+1. [量子宇宙 | Quantum Universe](theories/quantum_classical/quantum_universe.md)
    - 量子宇宙学基础 | Foundations of Quantum Cosmology
    - 量子宇宙的特性 | Characteristics of the Quantum Universe
    - 观测证据与实验提案 | Observational Evidence and Experimental Proposals
    - 理论挑战与问题 | Theoretical Challenges and Problems
 
-2. [量子观察者 | Quantum Observer](quantum_classical/quantum_observer.md)
+2. [量子观察者 | Quantum Observer](theories/quantum_classical/quantum_observer.md)
    - 观察者的量子本质 | Quantum Nature of Observers
    - 观测过程的量子描述 | Quantum Description of the Observation Process
    - 观察者与测量问题 | Observers and the Measurement Problem
    - 量子认知模型 | Quantum Cognition Models
 
-3. [经典意识论 | Classical Consciousness Theory](quantum_classical/classical_consciousness.md)
+3. [经典意识论 | Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md)
    - 意识的物理基础 | Physical Basis of Consciousness
    - 意识与量子测量 | Consciousness and Quantum Measurement
    - 意识的信息处理 | Information Processing of Consciousness
    - 意识与宇宙自我认知 | Consciousness and Universe Self-Cognition
 
-4. [理论框架 | Theoretical Framework](quantum_classical/README.md)
+4. [理论框架 | Theoretical Framework](theories/quantum_classical/README.md)
    - 理论整合 | Theoretical Integration
    - 数学公式 | Mathematical Formulations
    - 实验验证 | Experimental Verification
