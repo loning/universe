@@ -12,6 +12,7 @@
 6. Deutsch, D. (1997). 《实在的结构》. 企鹅出版社.
 7. Susskind, L. (2008). 《黑洞战争：与霍金的信息悖论之战》. 小布朗出版社.
 8. Rovelli, C. (2016). 《实在不是什么：量子物理学的关系解释》. 企鹅出版社.
+9. Zurek, W. H. (2003). 《解耦、客观性与量子达尔文主义》. 物理评论A, 76(5), 052110.
 
 ### 意识与认知科学
 
@@ -23,6 +24,29 @@
 6. Metzinger, T. (2009). 《自我隧道：意识的科学与神话》. 基础书籍.
 7. Dehaene, S. (2014). 《意识与大脑》. 企鹅出版社.
 8. Searle, J. R. (1997). 《意识之谜》. 纽约书评.
+9. Hameroff, S., & Penrose, R. (2014). 《意识的量子生物学机制》. 物理生命评论, 11, 39-78.
+10. Stapp, H. P. (2011). 《思想的量子理论》. 斯普林格出版社.
+
+### 量子意识与经典记忆
+
+1. Atmanspacher, H. (2015). 《量子认知科学：在量子物理学与认知科学之间架起桥梁》. 认知系统研究, 31-32, 61-72.
+2. Hameroff, S. (2012). 《量子意识如何工作？》. 量子物理学前沿, 2012, 1-17.
+3. Wendt, A. (2015). 《量子心灵：社会科学与量子物理学》. 剑桥大学出版社.
+4. Jibu, M., & Yasue, K. (1995). 《量子脑动力学：意识的物理学》. 约翰本杰明出版社.
+5. Vitiello, G. (2001). 《我的双重自我：量子脑理论中的解离与凝聚》. 约翰本杰明出版社.
+6. Marshall, I. N. (1989). 《意识与Bose-Einstein凝聚体》. 新思想心理学, 7(1), 73-83.
+7. Pribram, K. H. (2013). 《全息脑：神经心理学的全息理论》. 劳伦斯·厄尔鲍姆出版社.
+
+### 经典熵与信息理论
+
+1. Shannon, C. E. (1948). 《通信的数学理论》. 贝尔系统技术期刊, 27, 379-423.
+2. Zurek, W. H. (2018). 《量子达尔文主义》. 物理报告, 755, 1-21.
+3. Landauer, R. (1991). 《信息是物理的》. 物理今日, 44(5), 23-29.
+4. Bennett, C. H. (2003). 《量子信息的笔记》. 物理评论A, 68(1), 012305.
+5. Lloyd, S. (2000). 《宇宙的终极物理极限》. 自然, 406(6799), 1047-1054.
+6. Vedral, V. (2010). 《解码现实：信息如何塑造我们的现实》. 牛津大学出版社.
+7. Bekenstein, J. D. (1973). 《黑洞熵和信息》. 物理评论D, 7(8), 2333-2346.
+8. Friston, K. (2010). 《自由能原理：统一大脑》. 自然评论神经科学, 11(2), 127-138.
 
 ### 宇宙学与物理学基础
 
@@ -46,29 +70,17 @@
 7. Russell, S. (2019). 《人类兼容：人工智能与人类问题》. 企鹅出版社.
 8. Tegmark, M. (2017). 《生命3.0》. 诺顿出版社.
 
-### 信息理论与复杂性
+### 量子自由意志与经典命运
 
-1. Shannon, C. E. (1948). 《通信的数学理论》. 贝尔系统技术期刊, 27, 379-423.
-2. Zurek, W. H. (2018). 《量子达尔文主义》. 物理报告, 755, 1-21.
-3. Wolfram, S. (2002). 《新科学种类》. 沃尔夫拉姆媒体.
-4. Hoel, E. P. (2017). 《当原因来自上面：因果涌现的宏观视角》. 意识研究, 24(3-4), 177-186.
-5. Gell-Mann, M. (1994). 《夸克与美洲豹》. 弗里曼出版社.
-6. Kauffman, S. (1995). 《秩序的起源》. 牛津大学出版社.
-7. Hidalgo, C. (2015). 《为什么信息增长，秩序增长，生命增长，经济增长》. 基础书籍.
-8. Mitchell, M. (2009). 《复杂性：引导性之旅》. 牛津大学出版社.
+1. Conway, J., & Kochen, S. (2006). 《自由意志定理》. 基础物理学, 36(10), 1441-1473.
+2. Kane, R. (1996). 《自由意志的意义》. 牛津大学出版社.
+3. Stapp, H. P. (2017). 《量子理论与自由意志：人类行为如何影响宇宙的进化》. 斯普林格出版社.
+4. Hoefer, C. (2002). 《自由意志与决定论的相容性》. 斯坦福哲学百科全书.
+5. Pereboom, D. (2001). 《生活在没有自由意志的世界》. 牛津大学出版社.
+6. List, C. (2019). 《为什么自由意志不是幻觉：物理决定论与自由意志的相容性》. 企鹅出版社.
+7. Ismael, J. (2016). 《如何成为因果力量：物理世界中的自由意志》. 牛津大学出版社.
 
-### 哲学与形而上学
-
-1. Chalmers, D. J. (2012). 《意识的构造》. 牛津大学出版社.
-2. Nagel, T. (2012). 《心灵与宇宙》. 牛津大学出版社.
-3. Kastrup, B. (2019). 《唯心主义的思想》. 伊夫出版社.
-4. Strawson, G. (2006). 《实在主义者》. 牛津大学出版社.
-5. Ladyman, J., & Ross, D. (2007). 《一切必须去：自然形而上学的结构实在主义》. 牛津大学出版社.
-6. Bostrom, N. (2003). 《你是在模拟中吗？》. 哲学季刊, 53(211), 243-255.
-7. Meillassoux, Q. (2008). 《有限性之后》. 连续体出版社.
-8. Gabriel, M. (2015). 《为什么世界不存在》. 波利蒂出版社.
-
-### 观察者多样性与信息处理
+### 观察者维度与信息处理
 
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). 《感知界面理论》. 心理公报, 142(6), 1242-1283.
 2. Friston, K. (2010). 《自由能原理：统一大脑》. 自然评论神经科学, 11(2), 127-138.
@@ -78,10 +90,6 @@
 6. Clark, A. (2016). 《超心智：我们的思想如何与世界融合》. 牛津大学出版社.
 7. Godfrey-Smith, P. (2016). 《其他思想：章鱼、海洋和意识的深层起源》. 法拉尔、斯特劳斯和吉鲁出版社.
 8. Nagel, T. (1974). 《成为蝙蝠是什么感觉？》. 哲学评论, 83(4), 435-450.
-9. Haraway, D. J. (2016). 《停留在麻烦中：在奇科恩时代制造亲属》. 杜克大学出版社.
-10. Yong, E. (2016). 《我包含多重：微生物如何塑造我们的行为、思想和感受》. 埃科出版社.
-11. Damasio, A. R. (2018). 《奇怪的感觉：意识的制造》. 潘塔出版社.
-12. Maturana, H. R., & Varela, F. J. (1987). 《认知之树：人类认知的生物学根源》. 舒斯特出版社.
 
 ## English Version
 
@@ -95,6 +103,7 @@
 6. Deutsch, D. (1997). The Fabric of Reality. Penguin Books.
 7. Susskind, L. (2008). The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company.
 8. Rovelli, C. (2016). Reality Is Not What It Seems: The Journey to Quantum Gravity. Penguin Books.
+9. Zurek, W. H. (2003). Decoherence, Einselection, and the Quantum Origins of the Classical. Reviews of Modern Physics, 75(3), 715-775.
 
 ### Consciousness and Cognitive Science
 
@@ -106,6 +115,29 @@
 6. Metzinger, T. (2009). The Ego Tunnel: The Science of the Mind and the Myth of the Self. Basic Books.
 7. Dehaene, S. (2014). Consciousness and the Brain. Penguin Books.
 8. Searle, J. R. (1997). The Mystery of Consciousness. New York Review of Books.
+9. Hameroff, S., & Penrose, R. (2014). Consciousness in the Universe: A Review of the 'Orch OR' Theory. Physics of Life Reviews, 11, 39-78.
+10. Stapp, H. P. (2011). Quantum Theory of the Mind. Springer.
+
+### Quantum Consciousness and Classical Memory
+
+1. Atmanspacher, H. (2015). Quantum Cognition: A New Theoretical Approach to Psychology. Trends in Cognitive Sciences, 19(8), 453-454.
+2. Hameroff, S. (2012). How Quantum Brain Biology Can Rescue Conscious Free Will. Frontiers in Integrative Neuroscience, 6, 93.
+3. Wendt, A. (2015). Quantum Mind and Social Science: Unifying Physical and Social Ontology. Cambridge University Press.
+4. Jibu, M., & Yasue, K. (1995). Quantum Brain Dynamics and Consciousness: An Introduction. John Benjamins Publishing.
+5. Vitiello, G. (2001). My Double Unveiled: The Dissipative Quantum Model of Brain. John Benjamins Publishing.
+6. Marshall, I. N. (1989). Consciousness and Bose-Einstein Condensates. New Ideas in Psychology, 7(1), 73-83.
+7. Pribram, K. H. (2013). The Holographic Brain: A Theory of Neural-Mental Processes. Lawrence Erlbaum Associates.
+
+### Classical Entropy and Information Theory
+
+1. Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27, 379-423.
+2. Zurek, W. H. (2018). Quantum Darwinism. Physics Reports, 755, 1-21.
+3. Landauer, R. (1991). Information is Physical. Physics Today, 44(5), 23-29.
+4. Bennett, C. H. (2003). Notes on Landauer's Principle, Reversible Computation, and Maxwell's Demon. Studies in History and Philosophy of Modern Physics, 34(3), 501-510.
+5. Lloyd, S. (2000). Ultimate Physical Limits to Computation. Nature, 406(6799), 1047-1054.
+6. Vedral, V. (2010). Decoding Reality: The Universe as Quantum Information. Oxford University Press.
+7. Bekenstein, J. D. (1973). Black Holes and Entropy. Physical Review D, 7(8), 2333-2346.
+8. Friston, K. (2010). The Free-Energy Principle: A Unified Brain Theory? Nature Reviews Neuroscience, 11(2), 127-138.
 
 ### Cosmology and Foundations of Physics
 
@@ -129,29 +161,17 @@
 7. Russell, S. (2019). Human Compatible: Artificial Intelligence and the Problem of Control. Penguin Books.
 8. Tegmark, M. (2017). Life 3.0. W. W. Norton & Company.
 
-### Information Theory and Complexity
+### Quantum Free Will and Classical Destiny
 
-1. Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27, 379-423.
-2. Zurek, W. H. (2018). Quantum Darwinism. Physics Reports, 755, 1-21.
-3. Wolfram, S. (2002). A New Kind of Science. Wolfram Media.
-4. Hoel, E. P. (2017). When the Map Is Better Than the Territory: A Macro View of Causal Emergence. Consciousness Studies, 24(3-4), 177-186.
-5. Gell-Mann, M. (1994). The Quark and the Jaguar. W. H. Freeman.
-6. Kauffman, S. (1995). At Home in the Universe. Oxford University Press.
-7. Hidalgo, C. (2015). Why Information Grows: The Evolution of Order, from Atoms to Economies. Basic Books.
-8. Mitchell, M. (2009). Complexity: A Guided Tour. Oxford University Press.
+1. Conway, J., & Kochen, S. (2006). The Free Will Theorem. Foundations of Physics, 36(10), 1441-1473.
+2. Kane, R. (1996). The Significance of Free Will. Oxford University Press.
+3. Stapp, H. P. (2017). Quantum Theory and Free Will: How Mental Intentions Translate into Bodily Actions. Springer.
+4. Hoefer, C. (2002). Freedom from the Inside Out: Compatibilism Between Determinism and Free Will. Stanford Encyclopedia of Philosophy.
+5. Pereboom, D. (2001). Living Without Free Will. Cambridge University Press.
+6. List, C. (2019). Why Free Will is Real. Harvard University Press.
+7. Ismael, J. (2016). How Physics Makes Us Free. Oxford University Press.
 
-### Philosophy and Metaphysics
-
-1. Chalmers, D. J. (2012). Constructing the World. Oxford University Press.
-2. Nagel, T. (2012). Mind and Cosmos. Oxford University Press.
-3. Kastrup, B. (2019). The Idea of the World. Iff Books.
-4. Strawson, G. (2006). Realistic Monism. Oxford University Press.
-5. Ladyman, J., & Ross, D. (2007). Every Thing Must Go: Metaphysics Naturalized. Oxford University Press.
-6. Bostrom, N. (2003). Are You Living in a Computer Simulation? Philosophical Quarterly, 53(211), 243-255.
-7. Meillassoux, Q. (2008). After Finitude. Continuum.
-8. Gabriel, M. (2015). Why the World Does Not Exist. Polity Press.
-
-### Observer Diversity and Information Processing
+### Observer Dimensions and Information Processing
 
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. Psychonomic Bulletin & Review, 22(6), 1480-1506.
 2. Friston, K. (2010). The Free-Energy Principle: A Unified Brain Theory? Nature Reviews Neuroscience, 11(2), 127-138.
@@ -161,7 +181,3 @@
 6. Clark, A. (2016). Surfing Uncertainty: Prediction, Action, and the Embodied Mind. Oxford University Press.
 7. Godfrey-Smith, P. (2016). Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness. Farrar, Straus and Giroux.
 8. Nagel, T. (1974). What Is It Like to Be a Bat? The Philosophical Review, 83(4), 435-450.
-9. Haraway, D. J. (2016). Staying with the Trouble: Making Kin in the Chthulucene. Duke University Press.
-10. Yong, E. (2016). I Contain Multitudes: The Microbes Within Us and a Grander View of Life. Ecco.
-11. Damasio, A. R. (2018). The Strange Order of Things: Life, Feeling, and the Making of Cultures. Pantheon.
-12. Maturana, H. R., & Varela, F. J. (1987). The Tree of Knowledge: The Biological Roots of Human Understanding. Shambhala.

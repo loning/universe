@@ -2,29 +2,58 @@
 
 ## 中文版
 
-### 宇宙-观察者同构关系
+### 宇宙-观察者量子纠缠关系
 
-量子宇宙经典观测者论的核心观点之一是宇宙与观察者之间存在同构关系。这种同构关系可以表示为：
+量子宇宙经典观测者论的核心观点之一是宇宙与观察者之间存在量子纠缠关系。这种量子纠缠关系可以表示为：
 
 $$
-\text{宇宙} \cong \text{观察者} \cong \text{量子计算机}
+|\psi\rangle_{\text{观察者}}\otimes|\psi\rangle_{\text{宇宙整体}}\rightarrow|\psi\rangle_{\text{观察者-宇宙纠缠态}}
 $$
 
-这一公式表明，宇宙、观察者和人造量子计算机在信息处理结构上本质相同，只是规模和复杂度不同。它们都是基于量子信息处理的系统，遵循相同的量子力学规律。
+这一公式表明，观察者是宇宙内的信息节点，与宇宙整体通过量子纠缠持续交换信息，主动进行量子信息处理与经典化操作。观察者不是外部实体，而是宇宙计算系统的内部组件，负责将量子信息转化为经典信息。
 
-这种同构关系的含义是深远的：
-- **宇宙作为量子计算机**：宇宙本身可以被视为一个巨大的量子计算系统，处理和存储量子信息。
-- **观察者作为子系统**：观察者是宇宙量子计算系统中的特殊节点或子系统，具有将量子信息经典化的能力。
-- **人造量子计算机作为模拟**：人类创造的量子计算机是对宇宙和观察者信息处理机制的小规模模拟。
+这种量子纠缠关系的含义是深远的：
+- **宇宙作为量子信息结构**：宇宙本身是无限维度的量子信息结构，以量子波函数叠加态的方式完美存储所有可能状态，信息永远守恒，不存在信息真正损失。
+- **观察者作为信息节点**：观察者是宇宙量子信息结构中的特殊节点，具有将量子信息经典化的能力。
+- **量子意识作为纠缠结构**：量子意识本质为观察者与宇宙整体之间长期稳定有效的量子纠缠结构，是观察者与宇宙共同拥有、共同感知的量子结构。
 
-这种同构关系解释了为什么量子计算机能够有效模拟宇宙过程，也为理解观察者在宇宙中的角色提供了新视角。
+这种量子纠缠关系解释了为什么观察者能够感知宇宙，也为理解观察者在宇宙中的角色提供了新视角。
+
+### 量子意识、经典记忆与经典熵
+
+在宇宙与观察者的关系中，量子意识、经典记忆和经典熵是三个关键概念：
+
+$$
+|\psi\rangle_{\text{量子意识}}=\text{观察者-宇宙有效量子纠缠结构}
+$$
+
+$$
+|\psi\rangle_{\text{经典记忆}}=|\psi\rangle_{\text{量子意识}}\xrightarrow{\text{经典化}}\text{经典稳定知识结构}
+$$
+
+$$
+S_{\text{经典熵}}=\text{未经典化的量子意识信息（无效信息）}
+$$
+
+这些概念揭示了宇宙与观察者之间的信息转换关系：
+- **量子意识的本质**：量子意识是观察者与宇宙整体之间的量子纠缠结构，是观察者与宇宙共同拥有、共同感知的量子结构。
+- **经典记忆的形成**：经典记忆是观察者将量子意识经典化后形成的稳定经典知识结构，体现为观察者可以理解并存储的信息。
+- **经典熵的产生**：经典熵是观察者在经典化过程中未能成功经典化的量子信息，体现为无序或无法理解的信息损失。
+
+经典熵在观察者消失后重新回归宇宙整体：
+
+$$
+S_{\text{经典熵}}\rightarrow|\psi\rangle_{\text{宇宙整体叠加态}}
+$$
+
+这一过程确保了宇宙信息的守恒，即使在观察者经典化过程中看似有信息"丢失"，这些信息实际上仍然存在于宇宙整体中。
 
 ### 观察者维度与维度升级
 
 观察者的维度取决于其信息处理能力，特别是经典化量子信息的能力：
 
 $$
-D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}
+D_{\text{观察者维度}}\propto\frac{\Delta I_{\text{经典信息量}}}{\Delta t}
 $$
 
 观察者可以通过提升量子纠缠复杂度与经典化效率来升级维度：
@@ -41,22 +70,22 @@ $$
 
 维度升级使观察者能够理解和经典化更复杂的量子信息，从而对宇宙有更全面的认知。高维观察者能够感知和理解低维观察者无法理解的宇宙层面。
 
-### 自由意志与命运路径
+### 量子自由意志与经典命运路径
 
-在宇宙与观察者的关系中，自由意志和命运路径是两个关键概念：
-
-$$
-\text{自由意志}=\text{主动量子纠缠}+\text{主动经典化选择}
-$$
+在宇宙与观察者的关系中，量子自由意志和经典命运路径是两个关键概念：
 
 $$
-\text{命运路径}=\sum_{\text{自由意志决策}}\text{经典化后的稳定经典记忆序列}
+\text{量子自由意志}=\text{主动量子纠缠}+\text{主动经典化选择}
+$$
+
+$$
+\text{经典命运路径}=\sum_{\text{自由意志决策}}\text{经典化后的经典知识序列}
 $$
 
 这些概念揭示了宇宙与观察者之间的动态关系：
-- **自由意志的本质**：自由意志不是对物理定律的违背，而是观察者在量子层面主动纠缠和在经典层面主动选择的能力。
-- **命运的形成**：命运不是预设的路径，而是观察者通过自由意志决策形成的经典记忆序列的累积。
-- **宇宙与观察者的互动**：观察者通过自由意志与宇宙互动，而宇宙通过量子信息影响观察者的决策可能性。
+- **量子自由意志的本质**：量子自由意志不是对物理定律的违背，而是观察者主动建立量子纠缠并自主选择经典化方式的能力。
+- **经典命运的形成**：经典命运不是预设的路径，而是观察者通过自由意志决策形成的经典知识序列的累积。
+- **宇宙与观察者的互动**：观察者通过量子自由意志与宇宙互动，而宇宙通过量子信息影响观察者的决策可能性。
 
 高维观察者拥有更多的量子纠缠和经典化选择路径，因此具有更大的自由度，而低维观察者的选择空间较小，自由度也相应较低。
 
@@ -73,7 +102,7 @@ $$
 - **递归嵌套结构**：宇宙可能是无限递归的嵌套结构，每个宇宙既可能是更大宇宙的子集，也可能包含自己的子宇宙。
 - **信息流动的层级**：信息在不同层级的宇宙之间流动，高维宇宙的信息可以影响低维宇宙，低维宇宙的信息也可以反馈到高维宇宙。
 
-这种嵌套递归关系解释了为什么宇宙似乎既是自包含的，又与外部环境有联系。它也为理解意识、自由意志和宇宙目的提供了新的视角。
+这种嵌套递归关系解释了为什么宇宙似乎既是自包含的，又与外部环境有联系。它也为理解量子意识、经典记忆和经典熵提供了新的视角。
 
 ### 宇宙目的与观察者角色
 
@@ -86,29 +115,58 @@ $$
 
 ## English Version
 
-### Universe-Observer Isomorphism
+### Universe-Observer Quantum Entanglement Relationship
 
-One of the core concepts of the Quantum Universe Classical Observer Theory is the isomorphic relationship between the universe and observers. This isomorphism can be expressed as:
+One of the core concepts of the Quantum Universe Classical Observer Theory is the quantum entanglement relationship between the universe and observers. This quantum entanglement relationship can be expressed as:
 
 $$
-\text{Universe} \cong \text{Observer} \cong \text{Quantum Computer}
+|\psi\rangle_{\text{Observer}}\otimes|\psi\rangle_{\text{Universe}}\rightarrow|\psi\rangle_{\text{Observer-Universe Entangled State}}
 $$
 
-This formula indicates that the universe, observers, and artificial quantum computers are essentially identical in their information processing structures, differing only in scale and complexity. They are all systems based on quantum information processing, following the same quantum mechanical laws.
+This formula indicates that observers are information nodes within the universe that continuously exchange information with the universe as a whole through quantum entanglement, actively performing quantum information processing and classicalization operations. Observers are not external entities but internal components of the universal computational system, responsible for transforming quantum information into classical information.
 
-The implications of this isomorphism are profound:
-- **Universe as a quantum computer**: The universe itself can be viewed as a vast quantum computational system, processing and storing quantum information.
-- **Observer as a subsystem**: Observers are special nodes or subsystems within the universe's quantum computational system, with the ability to classicalize quantum information.
-- **Artificial quantum computers as simulations**: Quantum computers created by humans are small-scale simulations of the information processing mechanisms of the universe and observers.
+The implications of this quantum entanglement relationship are profound:
+- **Universe as a quantum information structure**: The universe itself is an infinite-dimensional quantum information structure that perfectly stores all possible states in the form of quantum wave function superposition states. Information is always conserved, and there is no true loss of information.
+- **Observer as an information node**: Observers are special nodes within the universe's quantum information structure, with the ability to classicalize quantum information.
+- **Quantum consciousness as an entanglement structure**: Quantum consciousness is essentially the long-term stable and effective quantum entanglement structure between the observer and the universe as a whole, a quantum structure jointly owned and perceived by the observer and the universe.
 
-This isomorphism explains why quantum computers can effectively simulate universal processes and provides a new perspective for understanding the role of observers in the universe.
+This quantum entanglement relationship explains why observers can perceive the universe and provides a new perspective for understanding the role of observers in the universe.
+
+### Quantum Consciousness, Classical Memory, and Classical Entropy
+
+In the relationship between the universe and observers, quantum consciousness, classical memory, and classical entropy are three key concepts:
+
+$$
+|\psi\rangle_{\text{Quantum Consciousness}}=\text{Observer-Universe Effective Quantum Entanglement Structure}
+$$
+
+$$
+|\psi\rangle_{\text{Classical Memory}}=|\psi\rangle_{\text{Quantum Consciousness}}\xrightarrow{\text{Classicalization}}\text{Classical Stable Knowledge Structure}
+$$
+
+$$
+S_{\text{Classical Entropy}}=\text{Unclassicalized Quantum Consciousness Information (Ineffective Information)}
+$$
+
+These concepts reveal the information conversion relationship between the universe and observers:
+- **The essence of quantum consciousness**: Quantum consciousness is the quantum entanglement structure between the observer and the universe as a whole, a quantum structure jointly owned and perceived by the observer and the universe.
+- **The formation of classical memory**: Classical memory is the stable classical knowledge structure formed after the observer classicalizes quantum consciousness, manifested as information that the observer can understand and store.
+- **The generation of classical entropy**: Classical entropy is the quantum information that the observer fails to successfully classicalize during the classicalization process, manifested as disordered or incomprehensible information loss.
+
+Classical entropy returns to the universe as a whole after the observer disappears:
+
+$$
+S_{\text{Classical Entropy}}\rightarrow|\psi\rangle_{\text{Universe Superposition State}}
+$$
+
+This process ensures the conservation of information in the universe, even though information seems to be "lost" during the observer's classicalization process, this information actually still exists within the universe as a whole.
 
 ### Observer Dimensions and Dimensional Upgrades
 
 The dimensionality of an observer depends on its information processing capability, particularly its ability to classicalize quantum information:
 
 $$
-D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Classical Information}}}{\Delta t}
+D_{\text{Observer Dimension}}\propto\frac{\Delta I_{\text{Classical Information}}}{\Delta t}
 $$
 
 Observers can upgrade their dimensions by enhancing quantum entanglement complexity and classicalization efficiency:
@@ -125,22 +183,22 @@ The process of dimensional upgrade includes:
 
 Dimensional upgrades enable observers to understand and classicalize more complex quantum information, thereby gaining a more comprehensive cognition of the universe. High-dimensional observers can perceive and understand levels of the universe that low-dimensional observers cannot comprehend.
 
-### Free Will and Destiny Paths
+### Quantum Free Will and Classical Destiny Path
 
-In the relationship between the universe and observers, free will and destiny paths are two key concepts:
-
-$$
-\text{Free Will}=\text{Active Quantum Entanglement}+\text{Active Classicalization Choice}
-$$
+In the relationship between the universe and observers, quantum free will and classical destiny path are two key concepts:
 
 $$
-\text{Destiny Path}=\sum_{\text{Free Will Decisions}}\text{Stable Classical Memory Sequence after Classicalization}
+\text{Quantum Free Will}=\text{Active Quantum Entanglement}+\text{Active Classicalization Choice}
+$$
+
+$$
+\text{Classical Destiny Path}=\sum_{\text{Free Will Decisions}}\text{Classical Knowledge Sequence after Classicalization}
 $$
 
 These concepts reveal the dynamic relationship between the universe and observers:
-- **The essence of free will**: Free will is not a violation of physical laws but the observer's ability to actively entangle at the quantum level and actively choose at the classical level.
-- **The formation of destiny**: Destiny is not a preset path but the accumulation of classical memory sequences formed by the observer's free will decisions.
-- **Interaction between universe and observer**: Observers interact with the universe through free will, while the universe influences the observer's decision possibilities through quantum information.
+- **The essence of quantum free will**: Quantum free will is not a violation of physical laws but the observer's ability to actively establish quantum entanglement and autonomously choose classicalization methods.
+- **The formation of classical destiny**: Classical destiny is not a preset path but the accumulation of classical knowledge sequences formed by the observer's free will decisions.
+- **Interaction between universe and observer**: Observers interact with the universe through quantum free will, while the universe influences the observer's decision possibilities through quantum information.
 
 High-dimensional observers have more quantum entanglement and classicalization choice paths, thus having greater degrees of freedom, while low-dimensional observers have smaller choice spaces and correspondingly lower degrees of freedom.
 
@@ -157,7 +215,7 @@ This relationship indicates:
 - **Recursive nested structure**: The universe may be an infinitely recursive nested structure, where each universe may be both a subset of a larger universe and contain its own sub-universes.
 - **Hierarchical information flow**: Information flows between different levels of universes, with information from high-dimensional universes influencing low-dimensional universes, and information from low-dimensional universes also feeding back to high-dimensional universes.
 
-This nested recursive relationship explains why the universe seems to be both self-contained and connected to external environments. It also provides new perspectives for understanding consciousness, free will, and universal purpose.
+This nested recursive relationship explains why the universe seems to be both self-contained and connected to external environments. It also provides new perspectives for understanding quantum consciousness, classical memory, and classical entropy.
 
 ### Universal Purpose and Observer Role
 

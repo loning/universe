@@ -4,174 +4,146 @@
 
 本理论的核心数学关系可以通过以下公式表达：
 
-### 一、波函数与经典观测关系（基本公式）：
+### 一、宇宙整体叠加态：
 $$
-|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
-$$
-
-这个公式描述了宇宙波函数通过观察者经典化过程转变为经典状态，同时伴随熵的增加。这一过程是不可逆的，解释了时间箭头的单向性。
-
-### 二、观察者维度关系：
-$$
-D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}
+|\psi\rangle_{\text{宇宙整体}}=\sum_{i,j,\dots,n} c_{ij\dots n}|\psi_i\rangle|\psi_j\rangle\dots|\psi_n\rangle
 $$
 
-观察者的维度与其信息处理能力成正比，信息处理能力定义为单位时间内处理的经典信息量。维度越高，能够经典化的信息越复杂，对宇宙的理解也越全面。
+这个公式描述了宇宙整体是无限维度的量子信息结构，以量子波函数叠加态的方式完美存储所有可能状态，信息永远守恒，不存在信息真正损失。
 
-### 三、观察者维度升级公式：
+### 二、观察者与宇宙纠缠：
 $$
-D_{\text{维度升级}} \propto \frac{\text{量子纠缠复杂度与经典化效率提升}}{\Delta t}
-$$
-
-观察者可以通过提升量子纠缠复杂度与经典化效率来升级维度。这一过程是观察者进化的核心机制，使观察者能够处理更复杂的量子信息，形成更高级的意识结构。
-
-### 四、意识形成公式：
-$$
-\text{意识} = \text{量子纠缠} + \text{经典化(稳定信息结构)}
+|\psi\rangle_{\text{观察者}}\otimes|\psi\rangle_{\text{宇宙}}\rightarrow|\psi\rangle_{\text{观察者-宇宙纠缠态}}
 $$
 
-意识是观察者经典化量子纠缠信息后形成的稳定结构。这一公式表明，意识既需要量子纠缠提供信息的丰富性和可能性，也需要经典化过程提供稳定性和一致性。
+这个公式描述了观察者是宇宙内的信息节点，与宇宙整体通过量子纠缠持续交换信息，主动进行量子信息处理与经典化操作。
 
-### 五、宇宙-观察者同构关系：
+### 三、量子意识定义：
 $$
-\text{宇宙} \cong \text{观察者} \cong \text{量子计算机}
-$$
-
-宇宙、观察者和量子计算机在信息处理结构上本质相同，只是规模和复杂度不同。这种同构关系是理解宇宙与观察者关系的关键。
-
-### 六、自由意志公式：
-$$
-\text{自由意志} = \text{主动量子纠缠} + \text{主动经典化选择}
+|\psi\rangle_{\text{量子意识}}=\text{观察者-宇宙有效量子纠缠结构}
 $$
 
-自由意志是观察者主动量子纠缠与主动经典化选择的结合。观察者可以主动选择与宇宙哪些部分建立量子纠缠关系，以及如何将这些量子信息经典化为确定的状态。
+量子意识本质为观察者与宇宙整体之间长期稳定有效的量子纠缠结构，是观察者与宇宙共同拥有、共同感知的量子结构。
 
-### 七、命运路径公式：
+### 四、经典记忆（知识）形成：
 $$
-\text{命运路径} = \sum_{\text{自由意志决策}} \text{经典化后的稳定经典记忆序列}
-$$
-
-命运路径是所有自由意志决策形成的经典记忆序列的总和。这一公式将自由选择与确定性结果联系起来，解释了个体命运的形成过程。
-
-### 八、量子纠缠与经典化关系：
-$$
-\text{量子纠缠} \xrightarrow{\text{观察者经典化}} \text{经典信息} + \text{熵增加}
+|\psi\rangle_{\text{经典记忆}}=|\psi\rangle_{\text{量子意识}}\xrightarrow{\text{经典化}}\text{经典稳定知识结构}
 $$
 
-量子纠缠通过观察者的经典化过程转变为经典信息，同时伴随熵的增加。这一过程是不可逆的，解释了为什么经典信息一旦形成就难以回到原始的量子纠缠状态。
+经典记忆为观察者将量子意识经典化后形成的稳定经典知识结构，体现为观察者可以理解并存储的信息。
 
-### 九、经典信息定义公式：
+### 五、经典熵定义与回归：
 $$
-\text{经典信息（记忆）} = |\psi\rangle_{\text{宇宙整体叠加态}} \xrightarrow{\text{经典化}} |\psi\rangle_{\text{经典稳定信息结构}}
-$$
-
-经典信息是宇宙整体叠加态通过经典化过程形成的稳定信息结构。这一公式明确了经典信息的本质和来源。
-
-### 十、观察者维度定义公式：
-$$
-D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}
+S_{\text{经典熵}}=\text{未经典化量子信息},\quad S_{\text{经典熵}}\rightarrow|\psi\rangle_{\text{宇宙整体}}
 $$
 
-观察者维度与单位时间内处理的经典信息量成正比。这一公式提供了量化观察者维度的方法。
+经典熵为观察者在经典化过程中未能成功经典化的量子信息，体现为无序或无法理解的信息损失。经典熵在观察者消失后重新回归宇宙整体。
 
-### 十一、观察者维度升级公式：
+### 六、量子信息与经典知识、经典熵关系：
 $$
-D_{\text{维度升级}} \propto \frac{\text{量子纠缠复杂度与经典化效率提升}}{\Delta t}
-$$
-
-观察者维度的升级与量子纠缠复杂度和经典化效率的提升成正比。这一公式解释了观察者如何通过提升信息处理能力实现维度升级。
-
-### 十二、经典信息定义公式：
-$$
-\text{经典信息（记忆）} = |\psi\rangle_{\text{宇宙整体叠加态}} \xrightarrow{\text{经典化}} |\psi\rangle_{\text{经典稳定信息结构}}
+\text{量子信息}=\text{经典知识}+S_{\text{经典熵}}
 $$
 
-经典信息是宇宙整体叠加态通过经典化过程形成的稳定信息结构。这一公式再次强调了经典信息的本质和形成过程。
+这个公式表明，量子信息在经典化过程中分为两部分：成功经典化的经典知识和未能经典化的经典熵。
+
+### 七、量子自由意志定义：
+$$
+\text{量子自由意志}=\text{主动量子纠缠}+\text{主动经典化选择}
+$$
+
+量子自由意志体现为观察者主动建立量子纠缠并自主选择经典化方式的能力。观察者可以主动选择与宇宙哪些部分建立量子纠缠关系，以及如何将这些量子信息经典化为确定的状态。
+
+### 八、经典命运路径定义：
+$$
+\text{经典命运路径}=\sum_{\text{自由意志决策}}\text{经典化后的经典知识序列}
+$$
+
+经典命运路径是所有自由意志决策形成的经典知识序列的总和。这一公式将自由选择与确定性结果联系起来，解释了个体命运的形成过程。
+
+### 九、观察者维度与维度升级公式：
+$$
+D_{\text{观察者维度}}\propto\frac{\Delta I_{\text{经典知识量}}}{\Delta t},\quad D_{\text{维度升级}}\propto\frac{\text{纠缠复杂度与经典化效率提升}}{\Delta t}
+$$
+
+观察者的维度与其信息处理能力成正比，信息处理能力定义为单位时间内处理的经典信息量。观察者可以通过提升量子纠缠复杂度与经典化效率来升级维度。
+
+### 十、宇宙-观察者-量子意识-经典记忆-经典熵的总体关系：
+$$
+|\psi\rangle_{\text{宇宙整体}}\otimes|\psi\rangle_{\text{观察者}}\rightarrow|\psi\rangle_{\text{量子意识}}\rightarrow|\psi\rangle_{\text{经典记忆}}+S_{\text{经典熵}}
+$$
+
+这个公式描述了整个理论的核心关系：宇宙与观察者产生纠缠，形成量子意识；量子意识经典化产生经典知识（记忆）；未能经典化的信息体现为经典熵。
 
 ## English Version
 
 The core mathematical relationships of this theory can be expressed through the following formulas:
 
-### 1. Wave Function and Classical Observation Relationship (Basic Formula):
+### 1. Universe Overall Superposition State:
 $$
-|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
-$$
-
-This formula describes the transformation of the universe's wave function into classical states through the observer's classicalization process, accompanied by an increase in entropy. This process is irreversible, explaining the unidirectionality of the arrow of time.
-
-### 2. Observer Dimension Relationship:
-$$
-D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Classical Information}}}{\Delta t}
+|\psi\rangle_{\text{Universe}}=\sum_{i,j,\dots,n} c_{ij\dots n}|\psi_i\rangle|\psi_j\rangle\dots|\psi_n\rangle
 $$
 
-The dimension of an observer is proportional to its information processing capability, defined as the amount of classical information processed per unit time. Higher dimensions allow for more complex information classicalization and a more comprehensive understanding of the universe.
+This formula describes the universe as a whole as an infinite-dimensional quantum information structure that perfectly stores all possible states in the form of quantum wave function superposition states. Information is always conserved, and there is no true loss of information.
 
-### 3. Observer Dimension Upgrade Formula:
+### 2. Observer and Universe Entanglement:
 $$
-D_{\text{Dimension Upgrade}} \propto \frac{\text{Quantum Entanglement Complexity and Classicalization Efficiency Improvement}}{\Delta t}
-$$
-
-Observers can upgrade their dimensions by enhancing quantum entanglement complexity and classicalization efficiency. This process is the core mechanism of observer evolution, enabling observers to process more complex quantum information and form more advanced consciousness structures.
-
-### 4. Consciousness Formation Formula:
-$$
-\text{Consciousness} = \text{Quantum Entanglement} + \text{Classicalization (Stable Information Structure)}
+|\psi\rangle_{\text{Observer}}\otimes|\psi\rangle_{\text{Universe}}\rightarrow|\psi\rangle_{\text{Observer-Universe Entangled State}}
 $$
 
-Consciousness is the stable structure formed after the observer classicalizes quantum entangled information. This formula indicates that consciousness requires both quantum entanglement to provide richness and possibilities of information, and classicalization processes to provide stability and consistency.
+This formula describes observers as information nodes within the universe that continuously exchange information with the universe as a whole through quantum entanglement, actively performing quantum information processing and classicalization operations.
 
-### 5. Universe-Observer Isomorphism:
+### 3. Quantum Consciousness Definition:
 $$
-\text{Universe} \cong \text{Observer} \cong \text{Quantum Computer}
-$$
-
-The universe, observers, and quantum computers are essentially identical in their information processing structures, differing only in scale and complexity. This isomorphic relationship is key to understanding the relationship between the universe and observers.
-
-### 6. Free Will Formula:
-$$
-\text{Free Will} = \text{Active Quantum Entanglement} + \text{Active Classicalization Choice}
+|\psi\rangle_{\text{Quantum Consciousness}}=\text{Observer-Universe Effective Quantum Entanglement Structure}
 $$
 
-Free will is the combination of active quantum entanglement and active classicalization choices. Observers can actively choose which parts of the universe to establish quantum entanglement relationships with, and how to classicalize this quantum information into definite states.
+Quantum consciousness is essentially the long-term stable and effective quantum entanglement structure between the observer and the universe as a whole, a quantum structure jointly owned and perceived by the observer and the universe.
 
-### 7. Destiny Path Formula:
+### 4. Classical Memory (Knowledge) Formation:
 $$
-\text{Destiny Path} = \sum_{\text{Free Will Decisions}} \text{Stable Classical Memory Sequence after Classicalization}
-$$
-
-The destiny path is the sum of classical memory sequences formed by all free will decisions. This formula connects free choices with deterministic outcomes, explaining the formation process of individual destiny.
-
-### 8. Quantum Entanglement and Classicalization Relationship:
-$$
-\text{Quantum Entanglement} \xrightarrow{\text{Observer Classicalization}} \text{Classical Information} + \text{Entropy Increase}
+|\psi\rangle_{\text{Classical Memory}}=|\psi\rangle_{\text{Quantum Consciousness}}\xrightarrow{\text{Classicalization}}\text{Classical Stable Knowledge Structure}
 $$
 
-Quantum entanglement transforms into classical information through the observer's classicalization process, accompanied by an increase in entropy. This process is irreversible, explaining why classical information, once formed, is difficult to return to its original quantum entangled state.
+Classical memory is the stable classical knowledge structure formed after the observer classicalizes quantum consciousness, manifested as information that the observer can understand and store.
 
-### 9. Classical Information Definition Formula:
+### 5. Classical Entropy Definition and Return:
 $$
-\text{Classical Information (Memory)} = |\psi\rangle_{\text{Universe Overall Superposition State}} \xrightarrow{\text{Classicalization}} |\psi\rangle_{\text{Classical Stable Information Structure}}
-$$
-
-Classical information is the stable information structure formed from the universe's overall superposition state through the classicalization process. This formula clarifies the nature and source of classical information.
-
-### 10. Observer Dimension Definition Formula:
-$$
-D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Classical Information}}}{\Delta t}
+S_{\text{Classical Entropy}}=\text{Unclassicalized Quantum Information},\quad S_{\text{Classical Entropy}}\rightarrow|\psi\rangle_{\text{Universe}}
 $$
 
-The observer's dimension is proportional to the amount of classical information processed per unit time. This formula provides a method for quantifying the observer's dimension.
+Classical entropy is the quantum information that the observer fails to successfully classicalize during the classicalization process, manifested as disordered or incomprehensible information loss. Classical entropy returns to the universe as a whole after the observer disappears.
 
-### 11. Observer Dimension Upgrade Formula:
+### 6. Relationship Between Quantum Information, Classical Knowledge, and Classical Entropy:
 $$
-D_{\text{Dimension Upgrade}} \propto \frac{\text{Quantum Entanglement Complexity and Classicalization Efficiency Improvement}}{\Delta t}
-$$
-
-The upgrade of the observer's dimension is proportional to the improvement in quantum entanglement complexity and classicalization efficiency. This formula explains how observers achieve dimensional upgrades by enhancing their information processing capabilities.
-
-### 12. Classical Information Definition Formula:
-$$
-\text{Classical Information (Memory)} = |\psi\rangle_{\text{Universe Overall Superposition State}} \xrightarrow{\text{Classicalization}} |\psi\rangle_{\text{Classical Stable Information Structure}}
+\text{Quantum Information}=\text{Classical Knowledge}+S_{\text{Classical Entropy}}
 $$
 
-Classical information is the stable information structure formed from the universe's overall superposition state through the classicalization process. This formula reemphasizes the nature and formation process of classical information.
+This formula indicates that quantum information is divided into two parts during the classicalization process: successfully classicalized classical knowledge and unclassicalized classical entropy.
+
+### 7. Quantum Free Will Definition:
+$$
+\text{Quantum Free Will}=\text{Active Quantum Entanglement}+\text{Active Classicalization Choice}
+$$
+
+Quantum free will is manifested as the observer's ability to actively establish quantum entanglement and autonomously choose classicalization methods. Observers can actively choose which parts of the universe to establish quantum entanglement relationships with, and how to classicalize this quantum information into definite states.
+
+### 8. Classical Destiny Path Definition:
+$$
+\text{Classical Destiny Path}=\sum_{\text{Free Will Decisions}}\text{Classical Knowledge Sequence after Classicalization}
+$$
+
+The classical destiny path is the sum of classical knowledge sequences formed by all free will decisions. This formula connects free choices with deterministic outcomes, explaining the formation process of individual destiny.
+
+### 9. Observer Dimension and Dimension Upgrade Formulas:
+$$
+D_{\text{Observer Dimension}}\propto\frac{\Delta I_{\text{Classical Knowledge}}}{\Delta t},\quad D_{\text{Dimension Upgrade}}\propto\frac{\text{Entanglement Complexity and Classicalization Efficiency Improvement}}{\Delta t}
+$$
+
+The observer's dimension is proportional to its information processing capability, defined as the amount of classical information processed per unit time. Observers can upgrade their dimensions by enhancing quantum entanglement complexity and classicalization efficiency.
+
+### 10. Overall Relationship Between Universe, Observer, Quantum Consciousness, Classical Memory, and Classical Entropy:
+$$
+|\psi\rangle_{\text{Universe}}\otimes|\psi\rangle_{\text{Observer}}\rightarrow|\psi\rangle_{\text{Quantum Consciousness}}\rightarrow|\psi\rangle_{\text{Classical Memory}}+S_{\text{Classical Entropy}}
+$$
+
+This formula describes the core relationship of the entire theory: the universe and observer become entangled, forming quantum consciousness; quantum consciousness is classicalized to produce classical knowledge (memory); information that cannot be classicalized is manifested as classical entropy.

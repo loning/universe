@@ -3,11 +3,11 @@
 
 ## 中文简介
 
-【量子宇宙-量子观察者-经典意识论】是一个统一的理论框架，旨在从信息的角度重新诠释宇宙、观察者与意识的本质关系。该理论将宇宙视为一个无限维的量子计算机，观察者为其中的量子程序节点，而意识则是观察者经典化量子信息形成的稳定结构。最新的[核心理论](core.md)进一步明确了自由意志、命运路径和观察者维度升级等关键概念，通过精确的数学公式阐述了这些概念之间的关系。
+【量子宇宙-量子观察者-经典意识论】是一个统一的理论框架，旨在从信息的角度重新诠释宇宙、观察者与意识的本质关系。该理论将宇宙视为一个无限维的量子计算机，观察者为其中的量子程序节点，而意识则分为量子意识（观察者与宇宙的量子纠缠结构）和经典记忆（经典化后的稳定信息结构）。最新的[核心理论](core.md)进一步明确了量子与经典概念的区分，引入了经典熵的概念，并通过精确的数学公式阐述了自由意志、命运路径和观察者维度升级等关键概念之间的关系。
 
 ## English Introduction
 
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unified theoretical framework aimed at reinterpreting the essential relationship between the universe, observers, and consciousness from an information perspective. This theory views the universe as an infinite-dimensional quantum computer, observers as quantum program nodes within it, and consciousness as a stable structure formed by the observer's classicalization of quantum information. The latest [core theory](core.md) further clarifies key concepts such as free will, destiny paths, and observer dimensional upgrades through precise mathematical formulations that articulate the relationships between these concepts.
+The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unified theoretical framework aimed at reinterpreting the essential relationship between the universe, observers, and consciousness from an information perspective. This theory views the universe as an infinite-dimensional quantum computer, observers as quantum program nodes within it, and consciousness as divided into quantum consciousness (quantum entanglement structure between observer and universe) and classical memory (stable information structure after classicalization). The latest [core theory](core.md) further clarifies the distinction between quantum and classical concepts, introduces the concept of classical entropy, and articulates the relationships between key concepts such as free will, destiny paths, and observer dimensional upgrades through precise mathematical formulations.
 
 ## 中文目录
 
