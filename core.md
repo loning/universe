@@ -1,3 +1,5 @@
+返回首页 https://github.com/loning/universe/tree/trae
+
 # 量子宇宙观察者意识-经典记忆与熵论
 # Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory
 
