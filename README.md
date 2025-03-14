@@ -1,21 +1,21 @@
-# 量子宇宙观察者意识-经典记忆与熵论
-# Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory
+# 量子经典二元论宇宙理论
+# Quantum-Classical Dualism Universe Theory
 
 ## 中文简介
 
-【量子宇宙观察者意识-经典记忆与熵论】是一个统一的理论框架，旨在从信息的角度重新诠释宇宙、观察者与意识的本质关系。该理论将宇宙视为一个无限维的量子信息结构，观察者为其中的量子信息节点，通过量子纠缠与宇宙整体交换信息。[核心理论](core.md)明确了量子意识、经典记忆、经典熵、量子自由意志、经典命运路径和观察者维度等关键概念，通过精确的数学公式阐述了这些概念之间的关系。
+【量子经典二元论宇宙理论】是一个统一的理论框架，旨在从信息的角度重新诠释宇宙、观察者与意识的本质关系。该理论将宇宙视为一个无限维的量子信息结构，观察者为其中的量子信息节点，通过量子纠缠与宇宙整体交换信息。[核心理论](core.md)明确了量子宇宙、高维与低维量子观察者、量子意识、经典记忆、经典熵、有效与无效量子纠缠、量子自由意志、经典命运路径等关键概念，通过精确的数学公式阐述了这些概念之间的关系。
 
 ## English Introduction
 
-The Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory is a unified theoretical framework aimed at reinterpreting the essential relationship between the universe, observers, and consciousness from an information perspective. This theory views the universe as an infinite-dimensional quantum information structure, with observers as quantum information nodes within it that exchange information with the universe as a whole through quantum entanglement. The [core theory](core.md) clearly defines key concepts such as quantum consciousness, classical memory, classical entropy, quantum free will, classical destiny paths, and observer dimensions through precise mathematical formulations that articulate the relationships between these concepts.
+The Quantum-Classical Dualism Universe Theory is a unified theoretical framework aimed at reinterpreting the essential relationship between the universe, observers, and consciousness from an information perspective. This theory views the universe as an infinite-dimensional quantum information structure, with observers as quantum information nodes within it that exchange information with the universe as a whole through quantum entanglement. The [core theory](core.md) clearly defines key concepts such as quantum universe, high and low dimensional quantum observers, quantum consciousness, classical memory, classical entropy, effective and ineffective quantum entanglement, quantum free will, classical destiny paths through precise mathematical formulations that articulate the relationships between these concepts.
 
 ## 中文目录
 
 ### 核心理论
-1. [理论框架](theories/quantum_classical/README.md) - 量子宇宙观察者意识-经典记忆与熵论的整体框架
+1. [理论框架](theories/quantum_classical/README.md) - 量子经典二元论宇宙理论的整体框架
 2. [核心理论](core.md) - 最新的核心理论观点和数学公式
 3. [量子宇宙](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
-4. [量子观察者](theories/quantum_classical/quantum_observer.md) - 关于观察者在量子宇宙中角色的理论
+4. [量子观察者](theories/quantum_classical/quantum_observer.md) - 关于高维与低维观察者在量子宇宙中角色的理论
 5. [经典意识论](theories/quantum_classical/classical_consciousness.md) - 关于意识如何从量子观察过程中涌现的理论
 
 ### 详细阐述
@@ -26,7 +26,7 @@ The Quantum Universe Observer Consciousness - Classical Memory and Entropy Theor
 5. [观察者与意识](05_observer_and_consciousness.md) - 观察者的本质和意识的形成，基于[核心理论](core.md)
 6. [宇宙与观察者的关系](06_universe_observer_relationship.md) - 宇宙与观察者之间的量子纠缠关系，参考[核心理论](core.md)
 7. [应用与启示](07_applications_and_implications.md) - 理论的应用和哲学启示，基于[核心理论](core.md)
-8. [参考文献](08_references.md) - 相关研究和参考资料
+8. [参考资料](08_references.md) - 相关研究和参考文献
 
 ### 应用与解释
 1. [传统物理理论解释](theories/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
@@ -75,7 +75,7 @@ The Quantum Universe Observer Consciousness - Classical Memory and Entropy Theor
 ## English Directory
 
 ### Core Theory
-1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory
+1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of Quantum-Classical Dualism Universe Theory
 2. [Core Theory](core.md) - Latest core theoretical viewpoints and mathematical formulas
 3. [Quantum Universe](theories/quantum_classical/quantum_universe.md) - Theory about the quantum nature of the universe
 4. [Quantum Observer](theories/quantum_classical/quantum_observer.md) - Theory about the role of observers in the quantum universe

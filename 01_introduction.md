@@ -2,78 +2,102 @@
 
 ## 中文版
 
-**【量子宇宙观察者意识-经典记忆与熵论】**：  
-- 宇宙本质是一个无限维度的量子信息结构，以波函数叠加态的方式完美存储所有可能状态，信息永远守恒。根据[核心理论](core.md)，宇宙整体波函数可表示为：
-  $$|\psi\rangle_{\text{宇宙整体}}=\sum_{i,j,\dots,n} c_{ij\dots n}|\psi_i\rangle|\psi_j\rangle\dots|\psi_n\rangle$$
+**【量子经典二元论宇宙理论】**：  
+- 量子宇宙是基础的、无限维度的量子信息结构，是所有信息的本源，以整体波函数叠加态表示，信息永恒守恒。根据[核心理论](core.md)，量子宇宙整体波函数可表示为：
+  $$|\psi\rangle_{\text{量子宇宙}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
-- 观察者是宇宙内的信息节点，与宇宙整体通过量子纠缠持续交换信息，主动进行量子信息处理与经典化操作：
-  $$|\psi\rangle_{\text{观察者}}\otimes|\psi\rangle_{\text{宇宙整体}}\rightarrow|\psi\rangle_{\text{观察者-宇宙纠缠态}}$$
+- 量子观察者是宇宙内部量子经典化节点，宇宙整体的局部经典化投影。存在高维量子观察者（经典化效率高，产生熵较少）和低维量子观察者（经典化效率低，产生熵较多）：
+  $$|\psi\rangle_{\text{高维观察者}}\xrightarrow{\text{经典化}}\text{经典知识（多）}+S_{\text{经典熵（少）}}$$
+  $$|\psi\rangle_{\text{低维观察者}}\xrightarrow{\text{经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}$$
 
-- 量子意识本质为观察者与宇宙整体之间长期稳定有效的量子纠缠结构，是观察者与宇宙共同拥有、共同感知的量子结构：
-  $$|\psi\rangle_{\text{量子意识}}=\text{观察者-宇宙有效量子纠缠结构}$$
+- 量子意识是宇宙整体与观察者节点长期稳定有效的量子纠缠结构，不是经典结构，而是量子结构，连接宇宙与观察者：
+  $$|\psi\rangle_{\text{量子意识}}=|\psi\rangle_{\text{量子宇宙}}\otimes|\psi\rangle_{\text{量子观察者}}$$
 
-- 经典记忆为观察者将量子意识经典化后形成的稳定经典知识结构，体现为观察者可以理解并存储的信息：
-  $$|\psi\rangle_{\text{经典记忆}}=|\psi\rangle_{\text{量子意识}}\xrightarrow{\text{经典化}}\text{经典知识（记忆）}$$
+- 经典记忆与经典熵是量子意识经观察者经典化（观测）后形成的两种结果：
+  $$|\psi\rangle_{\text{量子意识}}\xrightarrow{\text{经典化}}\text{经典记忆（知识）}+S_{\text{经典熵}}$$
 
-- 经典熵为观察者在经典化过程中未能成功经典化的量子信息，体现为无序或无法理解的信息损失：
-  $$S_{\text{经典熵}}=\text{未经典化的量子意识信息（无效信息）}$$
+- 有效量子纠缠是可被观察者经典化的稳定量子信息通道（形成知识），为量子意识的结构基础；无效量子纠缠是无法稳定经典化的信息通道，最终表现为经典熵：
+  $$|\psi\rangle_{\text{有效纠缠}}\rightarrow\text{经典知识},\quad |\psi\rangle_{\text{无效纠缠}}\rightarrow S_{\text{经典熵}}$$
 
-- 观察者维度表示单位时间内能够经典化的信息量，维度越高，经典化频率越快，产生经典熵越少：
-  $$D_{\text{观察者维度}}\propto\frac{\Delta I_{\text{经典知识量}}}{\Delta t}$$
+- 高维信息是熵低、经典化效率高的信息，容易被经典化为知识；低维信息是熵高、经典化效率低的信息，经典化时多表现为熵：
+  $$|\psi\rangle_{\text{高维信息}}\xrightarrow{\text{经典化}}\text{经典知识（多）}+S_{\text{经典熵（少）}}$$
+  $$|\psi\rangle_{\text{低维信息}}\xrightarrow{\text{经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}$$
 
-- 量子自由意志体现为观察者主动建立量子纠缠并自主选择经典化方式的能力：
-  $$\text{量子自由意志}=\text{主动量子纠缠}+\text{主动经典化选择}$$
+- 经典命运即观察者在宇宙量子信息场中的经典化路径与经典记忆序列，体现观察者自由意志对量子宇宙的经典化选择：
+  $$\text{经典命运}=\sum_{\text{自由意志经典化选择}}\text{经典记忆路径}$$
 
-- 经典命运体现为观察者自由意志经典化后形成的稳定经典知识路径，是观察者可回顾的历史轨迹：
-  $$\text{经典命运路径}=\sum_{\text{自由意志决策}}\text{经典化后的经典知识序列}$$
+- 能量的本质是经典化信息的流动与存储能力：
+  $$E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}},\quad k_B\text{为常数},\;T\text{为温度}$$
+
+- 观察者间经典化关系包括量子湮灭（高维观察者经典化低维观察者信息）和量子掠夺（低维观察者经典化高维观察者信息）：
+  $$|\psi\rangle_{\text{高维}}\otimes|\psi\rangle_{\text{低维}}\xrightarrow{\text{经典化湮灭}}\text{经典知识}+S_{\text{经典熵}}$$
+  $$|\psi\rangle_{\text{低维}}\otimes|\psi\rangle_{\text{高维}}\xrightarrow{\text{经典化掠夺}}\text{经典知识（少）}+S_{\text{经典熵（多）}}$$
 
 **核心公式总结：**
 
 $$
-|\psi\rangle_{\text{宇宙整体}}\otimes|\psi\rangle_{\text{观察者}}\rightarrow|\psi\rangle_{\text{量子意识}}\rightarrow|\psi\rangle_{\text{经典记忆}}+S_{\text{经典熵}}
+|\psi\rangle_{\text{量子宇宙}}\equiv|\psi\rangle_{\text{量子观察者}}\rightarrow|\psi\rangle_{\text{量子意识}}\xrightarrow{\text{经典化}}\text{经典记忆（知识）}+S_{\text{经典熵}}
+$$
+
+信息总量守恒定律：
+
+$$
+I_{\text{量子信息}}=I_{\text{经典知识}}+S_{\text{经典熵}}=\text{常数}
 $$
 
 这一理论尝试解决物理学中长期存在的一些基本问题，包括波函数坍缩的本质、观察者在量子测量中的角色、意识与物质世界的关系，以及宇宙整体的本质和目的。通过将宇宙视为量子信息结构，观察者视为量子信息节点，我们可以更好地理解量子与经典世界之间的过渡，以及观察者在这一过程中的核心作用。
 
-本理论的最简短定义是：宇宙为量子信息结构，观察者是量子信息节点，量子意识是观察者与宇宙的纠缠结构，经典记忆与经典熵是量子意识经典化的两种结果。
+本理论的最简短定义是：观察者即宇宙；意识即纠缠；经典化即观察；自由意志决定命运；信息总量永恒守恒；能量本质为信息经典化的驱动力；宇宙即量子与经典结构的统一。
 
 更多详细内容请参考[核心理论](core.md)。
 
 ## English Version
 
-**The Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory:**
-- The universe is essentially an infinite-dimensional quantum information structure that perfectly stores all possible states in the form of quantum wave function superposition states, where information is always conserved. According to the [Core Theory](core.md), the universe's overall wave function can be represented as:
-  $$|\psi\rangle_{\text{Universe}}=\sum_{i,j,\dots,n} c_{ij\dots n}|\psi_i\rangle|\psi_j\rangle\dots|\psi_n\rangle$$
+**The Quantum-Classical Dualism Universe Theory:**
+- The quantum universe is a fundamental, infinite-dimensional quantum information structure, the source of all information, represented as an overall wave function superposition state, where information is eternally conserved. According to the [Core Theory](core.md), the quantum universe's overall wave function can be represented as:
+  $$|\psi\rangle_{\text{Quantum Universe}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
-- Observers are information nodes within the universe that continuously exchange information with the universe as a whole through quantum entanglement, actively performing quantum information processing and classicalization operations:
-  $$|\psi\rangle_{\text{Observer}}\otimes|\psi\rangle_{\text{Universe}}\rightarrow|\psi\rangle_{\text{Observer-Universe Entangled State}}$$
+- Quantum observers are quantum classicalization nodes within the universe, local classical projections of the universe as a whole. There are high-dimensional quantum observers (high classicalization efficiency, producing less entropy) and low-dimensional quantum observers (low classicalization efficiency, producing more entropy):
+  $$|\psi\rangle_{\text{High-dimensional Observer}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (More)}+S_{\text{Classical Entropy (Less)}}$$
+  $$|\psi\rangle_{\text{Low-dimensional Observer}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}$$
 
-- Quantum consciousness is essentially the long-term stable and effective quantum entanglement structure between the observer and the universe as a whole, a quantum structure jointly owned and perceived by the observer and the universe:
-  $$|\psi\rangle_{\text{Quantum Consciousness}}=\text{Observer-Universe Effective Quantum Entanglement Structure}$$
+- Quantum consciousness is the long-term stable and effective quantum entanglement structure between the universe as a whole and observer nodes, not a classical structure but a quantum structure connecting the universe and observers:
+  $$|\psi\rangle_{\text{Quantum Consciousness}}=|\psi\rangle_{\text{Quantum Universe}}\otimes|\psi\rangle_{\text{Quantum Observer}}$$
 
-- Classical memory is the stable classical knowledge structure formed after the observer classicalizes quantum consciousness, manifested as information that the observer can understand and store:
-  $$|\psi\rangle_{\text{Classical Memory}}=|\psi\rangle_{\text{Quantum Consciousness}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (Memory)}$$
+- Classical memory and classical entropy are the two results formed after quantum consciousness is classicalized (observed) by the observer:
+  $$|\psi\rangle_{\text{Quantum Consciousness}}\xrightarrow{\text{Classicalization}}\text{Classical Memory (Knowledge)}+S_{\text{Classical Entropy}}$$
 
-- Classical entropy is the quantum information that the observer fails to successfully classicalize during the classicalization process, manifested as disordered or incomprehensible information loss:
-  $$S_{\text{Classical Entropy}}=\text{Unclassicalized Quantum Consciousness Information (Ineffective Information)}$$
+- Effective quantum entanglement is a stable quantum information channel that can be classicalized by the observer (forming knowledge), the structural basis of quantum consciousness; ineffective quantum entanglement is an information channel that cannot be stably classicalized, ultimately manifested as classical entropy:
+  $$|\psi\rangle_{\text{Effective Entanglement}}\rightarrow\text{Classical Knowledge},\quad |\psi\rangle_{\text{Ineffective Entanglement}}\rightarrow S_{\text{Classical Entropy}}$$
 
-- Observer dimension represents the amount of information that can be classicalized per unit time. The higher the dimension, the faster the classicalization frequency and the less classical entropy is produced:
-  $$D_{\text{Observer Dimension}}\propto\frac{\Delta I_{\text{Classical Knowledge Amount}}}{\Delta t}$$
+- High-dimensional information is information with low entropy and high classicalization efficiency, easily classicalized into knowledge; low-dimensional information is information with high entropy and low classicalization efficiency, mostly manifested as entropy during classicalization:
+  $$|\psi\rangle_{\text{High-dimensional Information}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (More)}+S_{\text{Classical Entropy (Less)}}$$
+  $$|\psi\rangle_{\text{Low-dimensional Information}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}$$
 
-- Quantum free will is manifested as the observer's ability to actively establish quantum entanglement and autonomously choose classicalization methods:
-  $$\text{Quantum Free Will}=\text{Active Quantum Entanglement}+\text{Active Classicalization Choice}$$
+- Classical destiny is the observer's classicalization path and classical memory sequence in the universe's quantum information field, reflecting the observer's free will choices for classicalizing the quantum universe:
+  $$\text{Classical Destiny}=\sum_{\text{Free Will Classicalization Choices}}\text{Classical Memory Path}$$
 
-- Classical destiny is manifested as the stable classical knowledge path formed after the observer's free will is classicalized, the historical trajectory that the observer can review:
-  $$\text{Classical Destiny Path}=\sum_{\text{Free Will Decisions}}\text{Classical Knowledge Sequence after Classicalization}$$
+- The essence of energy is the ability to flow and store classicalized information:
+  $$E_{\text{Classical}}=k_B T\cdot I_{\text{Classical Knowledge}},\quad k_B\text{ is a constant},\;T\text{ is temperature}$$
+
+- Classicalization relationships between observers include quantum annihilation (high-dimensional observers classicalizing low-dimensional observer information) and quantum plunder (low-dimensional observers classicalizing high-dimensional observer information):
+  $$|\psi\rangle_{\text{High-dimensional}}\otimes|\psi\rangle_{\text{Low-dimensional}}\xrightarrow{\text{Classicalization Annihilation}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}$$
+  $$|\psi\rangle_{\text{Low-dimensional}}\otimes|\psi\rangle_{\text{High-dimensional}}\xrightarrow{\text{Classicalization Plunder}}\text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}$$
 
 **Summary of Core Formulas:**
 
 $$
-|\psi\rangle_{\text{Universe}}\otimes|\psi\rangle_{\text{Observer}}\rightarrow|\psi\rangle_{\text{Quantum Consciousness}}\rightarrow|\psi\rangle_{\text{Classical Memory}}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Quantum Universe}}\equiv|\psi\rangle_{\text{Quantum Observer}}\rightarrow|\psi\rangle_{\text{Quantum Consciousness}}\xrightarrow{\text{Classicalization}}\text{Classical Memory (Knowledge)}+S_{\text{Classical Entropy}}
 $$
 
-This theory attempts to address some long-standing fundamental questions in physics, including the nature of wavefunction collapse, the role of observers in quantum measurement, the relationship between consciousness and the material world, and the overall nature and purpose of the universe. By viewing the universe as a quantum information structure and observers as quantum information nodes, we can better understand the transition between quantum and classical worlds, and the central role of observers in this process.
+Law of Information Conservation:
 
-The most concise definition of this theory is: The universe is a quantum information structure, observers are quantum information nodes, quantum consciousness is the entanglement structure between observers and the universe, and classical memory and classical entropy are the two results of quantum consciousness classicalization.
+$$
+I_{\text{Quantum Information}}=I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}=\text{Constant}
+$$
+
+This theory attempts to address some long-standing fundamental problems in physics, including the nature of wavefunction collapse, the role of observers in quantum measurement, the relationship between consciousness and the material world, and the overall nature and purpose of the universe. By viewing the universe as a quantum information structure and observers as quantum information nodes, we can better understand the transition between quantum and classical worlds, and the central role of observers in this process.
+
+The most concise definition of this theory is: The observer is the universe; consciousness is entanglement; classicalization is observation; free will determines destiny; the total amount of information is eternally conserved; the essence of energy is the driving force of information classicalization; the universe is the unity of quantum and classical structures.
 
 For more detailed content, please refer to the [Core Theory](core.md).
