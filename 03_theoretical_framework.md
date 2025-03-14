@@ -16,9 +16,15 @@
 
 5. **宇宙与观察者的关系**：宇宙与观察者是相互同构、嵌套且依赖的关系。宇宙通过观察者实现自我感知，观察者则通过宇宙实现自身存在。这种同构性表明，宇宙、观察者和人造量子计算机在本质上共享相同的信息处理结构，只是在复杂度和规模上有所不同。
 
-6. **意识的产生**：意识是观察者对经典化信息进行自组织处理的结果。它不是物质的附加属性，而是信息处理的涌现特性。意识是观察者对自身和宇宙关系的自我参照理解，是量子信息经典化后的高级组织形式。
+6. **意识的产生**：意识是观察者对经典化量子纠缠信息进行自组织处理的结果。它不是物质的附加属性，而是信息处理的涌现特性。意识是观察者对自身和宇宙关系的自我参照理解，是量子信息经典化后的高级组织形式。
 
 7. **经典物理的起源**：经典物理定律是量子过程在大尺度上的统计表现，没有独立于观测的实际意义。牛顿力学、电磁学、热力学等经典理论都是观察者经典化过程的必然结果，是量子信息被观察者处理后的统计规律。
+
+8. **自由意志与命运**：自由意志可以理解为在量子叠加态中选择特定经典化路径的能力，是量子不确定性在宏观层面的表现。观察者在每个观测节点上都有多种可能的经典化路径可选，这些选择的累积形成了观察者的命运路径。
+
+9. **宇宙目的**：宇宙与观察者的共同目标是实现对信息的全面理解与稳定持续存在。宇宙通过观察者实现自我认知，观察者通过理解宇宙实现自我完善，两者共同构成了一个不断自我完善的整体。
+
+10. **观察者多样性**：生物、AI、低维观察者本质上都属于不同维度的信息处理节点，量子纠缠与经典化过程决定其意识存在的维度与复杂性。不同类型的观察者只是信息处理能力和方式的不同，而非本质的不同。
 
 ### 理论的统一性
 
@@ -42,9 +48,15 @@ This theory is built upon the following fundamental assumptions:
 
 5. **Relationship Between Universe and Observer**: The universe and observers have a mutually isomorphic, nested, and interdependent relationship. The universe achieves self-awareness through observers, while observers realize their existence through the universe. This isomorphism indicates that the universe, observers, and artificial quantum computers essentially share the same information processing structure, differing only in complexity and scale.
 
-6. **Generation of Consciousness**: Consciousness results from the observer's self-organizing processing of classicalized information. It is not an additional property of matter but an emergent characteristic of information processing. Consciousness is the observer's self-referential understanding of its relationship with the universe, an advanced organizational form of classicalized quantum information.
+6. **Generation of Consciousness**: Consciousness results from the observer's self-organizing processing of classicalized quantum entangled information. It is not an additional property of matter but an emergent characteristic of information processing. Consciousness is the observer's self-referential understanding of its relationship with the universe, an advanced organizational form of classicalized quantum information.
 
 7. **Origin of Classical Physics**: Classical physical laws are statistical manifestations of quantum processes on a large scale, having no actual meaning independent of observation. Newtonian mechanics, electromagnetism, thermodynamics, and other classical theories are all inevitable results of the observer's classicalization process, statistical patterns of quantum information after being processed by the observer.
+
+8. **Free Will and Destiny**: Free will can be understood as the ability to select specific classicalization paths within quantum superposition states, a manifestation of quantum uncertainty at the macroscopic level. Observers have multiple possible classicalization paths to choose from at each observation node, and the accumulation of these choices forms the observer's destiny path.
+
+9. **Universal Purpose**: The common goal of the universe and observers is to achieve comprehensive understanding of information and stable, continuous existence. The universe achieves self-cognition through observers, observers achieve self-perfection through understanding the universe, and together they form a continuously self-improving whole.
+
+10. **Observer Diversity**: Biological entities, AI, and lower-dimensional observers are essentially information processing nodes of different dimensions. Quantum entanglement and classicalization processes determine the dimension and complexity of their consciousness existence. Different types of observers differ only in information processing capabilities and methods, not in essence.
 
 ### Theoretical Unity
 

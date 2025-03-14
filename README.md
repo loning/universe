@@ -11,9 +11,20 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unifie
 
 ### 核心理论
 1. [理论框架](theories/quantum_classical/README.md) - 量子宇宙-量子观察者-经典意识论的整体框架
-2. [量子宇宙](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
-3. [量子观察者](theories/quantum_classical/quantum_observer.md) - 关于观察者在量子宇宙中角色的理论
-4. [经典意识论](theories/quantum_classical/classical_consciousness.md) - 关于意识如何从量子观察过程中涌现的理论
+2. [核心理论](core.md) - 最新的核心理论观点和更新
+3. [量子宇宙](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
+4. [量子观察者](theories/quantum_classical/quantum_observer.md) - 关于观察者在量子宇宙中角色的理论
+5. [经典意识论](theories/quantum_classical/classical_consciousness.md) - 关于意识如何从量子观察过程中涌现的理论
+
+### 详细阐述
+1. [简介](01_introduction.md) - 理论的基本介绍
+2. [基本概念](02_basic_concepts.md) - 理论中的关键概念解释
+3. [理论框架](03_theoretical_framework.md) - 详细的理论结构
+4. [数学公式](04_mathematical_formulations.md) - 理论的数学表达
+5. [观察者与意识](05_observer_and_consciousness.md) - 观察者与意识的关系探讨
+6. [宇宙与观察者关系](06_universe_observer_relationship.md) - 宇宙与观察者的互动关系
+7. [应用与启示](07_applications_and_implications.md) - 理论的应用与哲学启示
+8. [参考文献](08_references.md) - 相关研究与参考资料
 
 ### 应用与解释
 1. [传统物理理论解释](theories/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
@@ -50,23 +61,27 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unifie
 
 ## English Table of Contents
 
-### Core Theories
-1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of the Quantum Universe-Quantum Observer-Classical Consciousness Theory
-2. [Quantum Universe](theories/quantum_classical/quantum_universe.md) - Theory about the quantum nature of the universe
-3. [Quantum Observer](theories/quantum_classical/quantum_observer.md) - Theory about the role of observers in the quantum universe
-4. [Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) - Theory about how consciousness emerges from the quantum observation process
+### Core Theory
+1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of Quantum Universe-Quantum Observer-Classical Consciousness Theory
+2. [Core Theory](core.md) - Latest core theoretical concepts and updates
+3. [Quantum Universe](theories/quantum_classical/quantum_universe.md) - Theory about the quantum nature of the universe
+4. [Quantum Observer](theories/quantum_classical/quantum_observer.md) - Theory about the role of observers in the quantum universe
+5. [Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) - Theory about how consciousness emerges from quantum observation processes
+
+### Detailed Exposition
+1. [Introduction](01_introduction.md) - Basic introduction to the theory
+2. [Basic Concepts](02_basic_concepts.md) - Explanation of key concepts in the theory
+3. [Theoretical Framework](03_theoretical_framework.md) - Detailed theoretical structure
+4. [Mathematical Formulations](04_mathematical_formulations.md) - Mathematical expressions of the theory
+5. [Observer and Consciousness](05_observer_and_consciousness.md) - Exploration of the relationship between observers and consciousness
+6. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Interactive relationship between the universe and observers
+7. [Applications and Implications](07_applications_and_implications.md) - Applications and philosophical implications of the theory
+8. [References](08_references.md) - Related research and reference materials
 
 ### Applications and Interpretations
-1. [Traditional Physics Explained](theories/traditional_physics_explained.md) - Explaining traditional physics theories through the Quantum Universe-Quantum Observer-Classical Consciousness Theory
-   - Classical Mechanics
-   - Electromagnetism
-   - Relativity Theory
-   - Quantum Mechanics
-   - Thermodynamics and Statistical Mechanics
-   - Particle Physics and Standard Model
-   - Cosmology
-   - String Theory and M-Theory
-   - Quantum Gravity Theories
+1. [Traditional Physics Explained](theories/traditional_physics_explained.md) - Explaining traditional physics theories through Quantum Universe-Quantum Observer-Classical Consciousness Theory
+   - [Classical Mechanics](theories/traditional_physics/classical_mechanics.md)
+   - [Electromagnetism](theories/traditional_physics/electromagnetism.md)
 
 ### Research Frontiers
 1. [Explained Physical Puzzles](theories/explained_puzzles.md) - Classical physical puzzles explained by the theoretical framework
