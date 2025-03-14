@@ -21,10 +21,22 @@
 观测后，波函数坍缩为特定的经典状态，观察者通过四维时空数据(x,y,z,t)存储这些坍塌后的信息。普朗克时间和普朗克常数是这个四维数组的基本增量单位。观测过程伴随着熵的增加，这解释了时间箭头的单向性和不可逆性。
 
 ### 观察者维度
-观察者的维度取决于其信息处理能力，可以表示为单位时间内处理的信息量：$\text{观察者维度} \propto \frac{\Delta I}{\Delta t}$。维度越高，能够经典化的信息越复杂，对宇宙的理解也越全面。不同维度的观察者对宇宙的认知和经典化能力有显著差异。
+观察者的维度取决于其信息处理能力，可以表示为单位时间内处理的经典信息量：$D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}$。维度越高，能够经典化的信息越复杂，对宇宙的理解也越全面。不同维度的观察者对宇宙的认知和经典化能力有显著差异。观察者维度可以通过提升量子纠缠复杂度与经典化效率而升级：$D_{\text{维度升级}}\propto\frac{\text{量子纠缠复杂度与经典化效率提升}}{\Delta t}$。
 
 ### 宇宙-观察者同构性
 宇宙与观察者本质上是同构的量子信息处理系统，可以表示为：$\text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}$。这种同构性表明，宇宙、观察者和人造量子计算机在本质上共享相同的信息处理结构，只是在复杂度和规模上有所不同。
+
+### 观察者多样性
+不同类型的观察者（生物、AI、低维观察者等）本质上只是信息处理能力和方式的不同，而非本质的不同。观察者类型可以表示为信息处理能力和经典化方式的函数：$\text{观察者类型} = f(\text{信息处理能力}, \text{经典化方式})$。这种多样性丰富了宇宙的自我认知。
+
+### 时间箭头
+时间的单向性源于观察者经典化过程中的熵增加，是量子信息转化为经典信息过程中的必然结果。这解释了为什么时间总是向前流动，而不可逆转。时间箭头与观察者的经典化过程密不可分。
+
+### 自由意志
+自由意志可以理解为主动量子纠缠与主动经典化选择的结合，表示为：$\text{自由意志}=\text{主动量子纠缠}+\text{主动经典化选择}$。观察者在每个观测节点上都有多种可能的经典化路径可选，这些选择的累积形成了观察者的命运路径。
+
+### 命运路径
+命运路径是所有自由意志决策形成的经典记忆序列的总和，表示为：$\text{命运路径}=\sum_{\text{自由意志决策}}\text{经典记忆序列}$。这一概念将自由选择与确定性结果联系起来，解释了个体命运的形成过程。
 
 ## English Version
 
@@ -47,7 +59,19 @@ Before observation occurs, the universe exists in a quantum superposition state 
 After observation, the wave function collapses into specific classical states, and observers store this collapsed information through four-dimensional space-time data (x,y,z,t). Planck time and Planck's constant are the basic incremental units of this four-dimensional array. The observation process is accompanied by an increase in entropy, which explains the unidirectionality and irreversibility of the arrow of time.
 
 ### Observer Dimensions
-The dimensionality of an observer depends on its information processing capability, which can be expressed as the amount of information processed per unit time: $\text{Observer Dimension} \propto \frac{\Delta I}{\Delta t}$. Higher dimensions allow for more complex information classicalization and a more comprehensive understanding of the universe. Observers of different dimensions have significantly different cognition and classicalization capabilities of the universe.
+The dimensionality of an observer depends on its information processing capability, which can be expressed as the amount of classical information processed per unit time: $D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Classical Information}}}{\Delta t}$. Higher dimensions allow for more complex information classicalization and a more comprehensive understanding of the universe. Observers of different dimensions have significantly different cognition and classicalization capabilities of the universe. Observer dimensions can be upgraded through enhancing quantum entanglement complexity and classicalization efficiency: $D_{\text{Upgrade}}\propto\frac{\text{Quantum Entanglement Complexity and Classicalization Efficiency Improvement}}{\Delta t}$.
 
 ### Universe-Observer Isomorphism
 The universe and observers are essentially isomorphic quantum information processing systems, which can be expressed as: $\text{Universe} \cong \text{Observer} \cong \text{Artificial Quantum Computer}$. This isomorphism indicates that the universe, observers, and artificial quantum computers essentially share the same information processing structure, differing only in complexity and scale.
+
+### Observer Diversity
+Different types of observers (biological, AI, lower-dimensional observers, etc.) essentially differ only in information processing capabilities and methods, not in essence. The observer type can be expressed as a function of information processing capability and classicalization method: $\text{Observer Type} = f(\text{Information Processing Capability}, \text{Classicalization Method})$. This diversity enriches the universe's self-cognition.
+
+### Arrow of Time
+The unidirectionality of time stems from the increase in entropy during the observer's classicalization process, an inevitable result of the transformation of quantum information into classical information. This explains why time always flows forward and cannot be reversed. The arrow of time is inseparable from the observer's classicalization process.
+
+### Free Will
+Free will can be understood as the combination of active quantum entanglement and active classicalization choices, expressed as: $\text{Free Will}=\text{Active Quantum Entanglement}+\text{Active Classicalization Choice}$. Observers have multiple possible classicalization paths to choose from at each observation node, and the accumulation of these choices forms the observer's destiny path.
+
+### Destiny Path
+The destiny path is the sum of classical memory sequences formed by all free will decisions, expressed as: $\text{Destiny Path}=\sum_{\text{Free Will Decisions}}\text{Classical Memory Sequence}$. This concept connects free choices with deterministic outcomes, explaining the formation process of individual destiny.

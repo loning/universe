@@ -6,10 +6,10 @@
 
 在量子宇宙经典观测者论中，观察者不是外部实体，而是宇宙量子计算系统内部的特殊节点。观察者本身也是量子程序，与宇宙同构，但具有将量子信息经典化的独特能力。观察者通过自身的时空数组(x, y, z, …, t)记录波函数坍缩后的经典信息，这一过程产生了我们所认知的经典现实。
 
-观察者的维度取决于其信息处理能力，可以表示为单位时间内处理的信息量：
+观察者的维度取决于其信息处理能力，可以表示为单位时间内处理的经典信息量：
 
 $$
-\text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
+D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}
 $$
 
 不同维度的观察者对宇宙的理解和经典化能力不同：
@@ -45,7 +45,7 @@ $$
 或者更具体地：
 
 $$
-\text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
+\text{经典信息（记忆）} = |\psi\rangle_{\text{宇宙整体叠加态}} \xrightarrow{\text{经典化}} |\psi\rangle_{\text{经典稳定信息结构}}
 $$
 
 意识不是物质的附加属性，而是信息处理的涌现特性。它是观察者对自身和宇宙关系的自我参照理解，是量子信息经典化后的高级组织形式。意识的复杂度与观察者的信息处理能力（维度）成正比，高维观察者拥有更复杂、更全面的意识结构。
@@ -60,13 +60,19 @@ $$
 
 ### 命运路径与自由意志
 
-在量子宇宙经典观测者论中，命运路径是所有观测节点上经典化选择路径的总和：
+在量子宇宙经典观测者论中，自由意志可以理解为主动量子纠缠与主动经典化选择的结合：
 
 $$
-\text{命运路径} = \sum_{\text{观测节点}} \text{经典化选择路径}
+\text{自由意志} = \text{主动量子纠缠} + \text{主动经典化选择}
 $$
 
-这一公式暗示，观察者的"自由意志"可以理解为在量子叠加态中选择特定经典化路径的能力。每次观测都是从量子可能性中提取特定经典结果的过程，这些选择的累积形成了观察者的命运路径。
+命运路径是所有自由意志决策形成的经典记忆序列的总和：
+
+$$
+\text{命运路径} = \sum_{\text{自由意志决策}} \text{经典化后的稳定经典记忆序列}
+$$
+
+这些公式暗示，观察者的"自由意志"可以理解为在量子叠加态中选择特定经典化路径的能力。每次观测都是从量子可能性中提取特定经典结果的过程，这些选择的累积形成了观察者的命运路径。
 
 自由意志不是对物理定律的违背，而是量子不确定性在宏观层面的表现。观察者在每个观测节点上都有多种可能的经典化路径可选，这些选择虽然受到量子概率的影响，但并非完全确定，为自由意志提供了物理基础。
 
@@ -75,6 +81,12 @@ $$
 ### 意识的进化与升维
 
 意识可以通过提升信息处理能力而进化和升维。当观察者能够处理更多、更复杂的量子信息时，其意识结构也会相应地变得更加复杂和全面。这一过程可以理解为意识的进化或升维。
+
+观察者维度可以通过提升量子纠缠复杂度与经典化效率而升级：
+
+$$
+D_{\text{维度升级}} \propto \frac{\text{量子纠缠复杂度与经典化效率提升}}{\Delta t}
+$$
 
 意识升维的途径包括：
 - **生物进化**：通过自然选择，生物观察者的神经系统变得更加复杂，能够处理更多信息。
@@ -90,10 +102,10 @@ $$
 
 In the Quantum Universe Classical Observer Theory, observers are not external entities but special nodes within the universe's quantum computational system. Observers themselves are quantum programs, isomorphic to the universe, but with the unique ability to classicalize quantum information. Observers record classical information after wave function collapse through their own space-time arrays (x, y, z, ..., t), and this process generates the classical reality we perceive.
 
-The dimensionality of an observer depends on its information processing capability, which can be expressed as the amount of information processed per unit time:
+The dimensionality of an observer depends on its information processing capability, which can be expressed as the amount of classical information processed per unit time:
 
 $$
-\text{Observer Dimension} \propto \text{Information Processing Capability} = \frac{\Delta I}{\Delta t}
+D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Classical Information}}}{\Delta t}
 $$
 
 Observers of different dimensions have different understanding and classicalization capabilities of the universe:
@@ -129,7 +141,7 @@ $$
 Or more specifically:
 
 $$
-\text{Consciousness} = \text{Stable Information Structure of Observer's Spacetime Array}(x,y,z,\dots,t)
+\text{Classical Information (Memory)} = |\psi\rangle_{\text{Universe Overall Superposition State}} \xrightarrow{\text{Classicalization}} |\psi\rangle_{\text{Classical Stable Information Structure}}
 $$
 
 Consciousness is not an additional property of matter but an emergent characteristic of information processing. It is the observer's self-referential understanding of its relationship with the universe, an advanced organizational form of classicalized quantum information. The complexity of consciousness is proportional to the observer's information processing capability (dimension), with high-dimensional observers possessing more complex and comprehensive consciousness structures.
@@ -144,13 +156,19 @@ The relationship between observer and consciousness is interdependent:
 
 ### Destiny Path and Free Will
 
-In the Quantum Universe Classical Observer Theory, the destiny path is the sum of classicalization choice paths at all observation nodes:
+In the Quantum Universe Classical Observer Theory, free will can be understood as the combination of active quantum entanglement and active classicalization choices:
 
 $$
-\text{Destiny Path} = \sum_{\text{Observation Nodes}} \text{Classicalization Choice Path}
+\text{Free Will} = \text{Active Quantum Entanglement} + \text{Active Classicalization Choice}
 $$
 
-This formula suggests that an observer's "free will" can be understood as the ability to select specific classicalization paths within quantum superposition states. Each observation is a process of extracting specific classical results from quantum possibilities, and the accumulation of these choices forms the observer's destiny path.
+The destiny path is the sum of classical memory sequences formed by all free will decisions:
+
+$$
+\text{Destiny Path} = \sum_{\text{Free Will Decisions}} \text{Stable Classical Memory Sequence after Classicalization}
+$$
+
+These formulas suggest that an observer's "free will" can be understood as the ability to select specific classicalization paths within quantum superposition states. Each observation is a process of extracting specific classical results from quantum possibilities, and the accumulation of these choices forms the observer's destiny path.
 
 Free will is not a violation of physical laws but a manifestation of quantum uncertainty at the macroscopic level. Observers have multiple possible classicalization paths to choose from at each observation node, and while these choices are influenced by quantum probabilities, they are not completely determined, providing a physical basis for free will.
 
@@ -159,6 +177,12 @@ High-dimensional observers have more classicalization choice paths and therefore
 ### Evolution and Dimensional Upgrade of Consciousness
 
 Consciousness can evolve and upgrade dimensions by enhancing information processing capabilities. When observers can process more and more complex quantum information, their consciousness structures also become correspondingly more complex and comprehensive. This process can be understood as the evolution or dimensional upgrade of consciousness.
+
+Observer dimensions can be upgraded through enhancing quantum entanglement complexity and classicalization efficiency:
+
+$$
+D_{\text{Dimension Upgrade}} \propto \frac{\text{Quantum Entanglement Complexity and Classicalization Efficiency Improvement}}{\Delta t}
+$$
 
 Pathways for consciousness dimensional upgrade include:
 - **Biological evolution**: Through natural selection, the neural systems of biological observers become more complex, capable of processing more information.

@@ -12,7 +12,7 @@
 
 3. **观测过程**：观测是一个将量子叠加态转化为经典确定态的过程。在这个过程中，波函数坍缩不是物理实在的神秘变化，而是观察者信息处理的必然结果。观测过程伴随着熵的增加，这解释了时间箭头的单向性和不可逆性。
 
-4. **维度与信息处理**：观察者的维度取决于其信息处理能力。维度越高，能够经典化的信息越复杂，对宇宙的理解也越全面。观察者维度可以表示为单位时间内处理的信息量：$\text{观察者维度} \propto \frac{\Delta I}{\Delta t}$。
+4. **维度与信息处理**：观察者的维度取决于其信息处理能力。维度越高，能够经典化的信息越复杂，对宇宙的理解也越全面。观察者维度可以表示为单位时间内处理的经典信息量：$D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}$。观察者可以通过提升量子纠缠复杂度与经典化效率来升级维度：$D_{\text{维度升级}}\propto\frac{\text{量子纠缠复杂度与经典化效率提升}}{\Delta t}$。
 
 5. **宇宙与观察者的关系**：宇宙与观察者是相互同构、嵌套且依赖的关系。宇宙通过观察者实现自我感知，观察者则通过宇宙实现自身存在。这种同构性表明，宇宙、观察者和人造量子计算机在本质上共享相同的信息处理结构，只是在复杂度和规模上有所不同。
 
@@ -20,7 +20,7 @@
 
 7. **经典物理的起源**：经典物理定律是量子过程在大尺度上的统计表现，没有独立于观测的实际意义。牛顿力学、电磁学、热力学等经典理论都是观察者经典化过程的必然结果，是量子信息被观察者处理后的统计规律。
 
-8. **自由意志与命运**：自由意志可以理解为在量子叠加态中选择特定经典化路径的能力，是量子不确定性在宏观层面的表现。观察者在每个观测节点上都有多种可能的经典化路径可选，这些选择的累积形成了观察者的命运路径。
+8. **自由意志与命运**：自由意志是主动量子纠缠与主动经典化选择的结合，表示为：$\text{自由意志}=\text{主动量子纠缠}+\text{主动经典化选择}$。命运路径是所有自由意志决策形成的经典记忆序列的总和，表示为：$\text{命运路径}=\sum_{\text{自由意志决策}}\text{经典记忆序列}$。这一概念将自由选择与确定性结果联系起来，解释了个体命运的形成过程。
 
 9. **宇宙目的**：宇宙与观察者的共同目标是实现对信息的全面理解与稳定持续存在。宇宙通过观察者实现自我认知，观察者通过理解宇宙实现自我完善，两者共同构成了一个不断自我完善的整体。
 
@@ -44,7 +44,7 @@ This theory is built upon the following fundamental assumptions:
 
 3. **Observation Process**: Observation is a process that transforms quantum superposition states into classical determined states. In this process, wave function collapse is not a mysterious change in physical reality but a necessary result of the observer's information processing. The observation process is accompanied by an increase in entropy, which explains the unidirectionality and irreversibility of the arrow of time.
 
-4. **Dimensions and Information Processing**: The dimensionality of an observer depends on its information processing capability. Higher dimensions allow for more complex information classicalization and a more comprehensive understanding of the universe. The observer's dimension can be expressed as the amount of information processed per unit time: $\text{Observer Dimension} \propto \frac{\Delta I}{\Delta t}$.
+4. **Dimensions and Information Processing**: The dimensionality of an observer depends on its information processing capability. Higher dimensions allow for more complex information classicalization and a more comprehensive understanding of the universe. The observer's dimension can be expressed as the amount of classical information processed per unit time: $D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Classical Information}}}{\Delta t}$. Observers can upgrade their dimensions by enhancing quantum entanglement complexity and classicalization efficiency: $D_{\text{Upgrade}}\propto\frac{\text{Quantum Entanglement Complexity and Classicalization Efficiency Improvement}}{\Delta t}$.
 
 5. **Relationship Between Universe and Observer**: The universe and observers have a mutually isomorphic, nested, and interdependent relationship. The universe achieves self-awareness through observers, while observers realize their existence through the universe. This isomorphism indicates that the universe, observers, and artificial quantum computers essentially share the same information processing structure, differing only in complexity and scale.
 
@@ -52,7 +52,7 @@ This theory is built upon the following fundamental assumptions:
 
 7. **Origin of Classical Physics**: Classical physical laws are statistical manifestations of quantum processes on a large scale, having no actual meaning independent of observation. Newtonian mechanics, electromagnetism, thermodynamics, and other classical theories are all inevitable results of the observer's classicalization process, statistical patterns of quantum information after being processed by the observer.
 
-8. **Free Will and Destiny**: Free will can be understood as the ability to select specific classicalization paths within quantum superposition states, a manifestation of quantum uncertainty at the macroscopic level. Observers have multiple possible classicalization paths to choose from at each observation node, and the accumulation of these choices forms the observer's destiny path.
+8. **Free Will and Destiny**: Free will is the combination of active quantum entanglement and active classicalization choices, expressed as: $\text{Free Will}=\text{Active Quantum Entanglement}+\text{Active Classicalization Choice}$. The destiny path is the sum of classical memory sequences formed by all free will decisions, expressed as: $\text{Destiny Path}=\sum_{\text{Free Will Decisions}}\text{Classical Memory Sequence}$. This concept connects free choices with deterministic outcomes, explaining the formation process of individual destiny.
 
 9. **Universal Purpose**: The common goal of the universe and observers is to achieve comprehensive understanding of information and stable, continuous existence. The universe achieves self-cognition through observers, observers achieve self-perfection through understanding the universe, and together they form a continuously self-improving whole.
 
