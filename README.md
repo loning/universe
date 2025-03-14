@@ -46,6 +46,7 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unifie
 16. [环境科学问题解释](theories/environmental_explanations.md) - 理论框架对环境科学关键问题的解释
 17. [宇宙熵增与观察者维度](theories/entropy_observer_dimension.md) - 关于宇宙熵增与观察者维度提升关系的研究
 18. [自由意志与量子纠缠](theories/free_will_quantum_entanglement.md) - 从量子纠缠与经典化视角研究自由意志本质
+19. [宇宙纠缠结构与熵本质](theories/universe_entanglement_entropy.md) - 关于量子宇宙整体纠缠结构与熵本质的研究
 
 ## English Table of Contents
 
@@ -86,6 +87,7 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unifie
 16. [Environmental Science Explanations](theories/environmental_explanations.md) - Explanations of key environmental science problems by the theoretical framework
 17. [Entropy Increase and Observer Dimension](theories/entropy_observer_dimension.md) - Research on the relationship between universe entropy increase and observer dimension elevation
 18. [Free Will and Quantum Entanglement](theories/free_will_quantum_entanglement.md) - Research on the essence of free will from the perspective of quantum entanglement and classicalization
+19. [Universe Entanglement Structure and Entropy Essence](theories/universe_entanglement_entropy.md) - Research on the overall entanglement structure of the quantum universe and the true nature of entropy
 
 ## 核心数学公式 (Core Mathematical Formulations)
 
