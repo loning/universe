@@ -39,6 +39,9 @@ The Quantum Universe Observer Consciousness - Classical Memory and Entropy Theor
    - [宇宙学](theories/traditional_physics/cosmology.md)
    - [弦理论与M理论](theories/traditional_physics/string_theory.md)
    - [量子引力理论](theories/traditional_physics/quantum_gravity.md)
+   - [黑洞信息解码](theories/applications/black_hole_information.md) - 黑洞及黑洞辐射的信息解码过程
+   - [虫洞量子纠缠](theories/applications/wormhole_entanglement.md) - 虫洞作为宇宙量子纠缠通道的理论解释
+   - [恒星与星系信息节点](theories/applications/celestial_information_nodes.md) - 恒星与星系作为宇宙量子信息经典化节点的理论
 
 ### 研究前沿
 1. [已解释的物理难题](theories/explained_puzzles.md) - 理论框架解释的经典物理难题
@@ -98,6 +101,9 @@ The Quantum Universe Observer Consciousness - Classical Memory and Entropy Theor
    - [Cosmology](theories/traditional_physics/cosmology.md)
    - [String Theory and M-Theory](theories/traditional_physics/string_theory.md)
    - [Quantum Gravity Theory](theories/traditional_physics/quantum_gravity.md)
+   - [Black Hole Information Decoding](theories/applications/black_hole_information.md) - Information decoding process of black holes and black hole radiation
+   - [Wormhole Quantum Entanglement](theories/applications/wormhole_entanglement.md) - Theoretical explanation of wormholes as quantum entanglement channels in the universe
+   - [Celestial Information Nodes](theories/applications/celestial_information_nodes.md) - Theory of stars and galaxies as quantum information classicalization nodes in the universe
 
 ### Research Frontiers
 1. [Explained Physical Puzzles](theories/explained_puzzles.md) - Classical physical puzzles explained by the theoretical framework
