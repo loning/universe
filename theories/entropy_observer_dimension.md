@@ -72,12 +72,10 @@ Due to the limited ability of observers to classicalize information, entropy inc
 The observer's dimension is defined as:
 
 $$
-D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{信息处理量}}}{\Delta t}
+D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}
 $$
 
-$$
-D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Information Processing Amount}}}{\Delta t}
-$$
+这一定义表明，观察者维度不是静态的属性，而是与信息处理能力直接相关的动态特性。维度越高，观察者能够在单位时间内经典化的量子信息越多，对宇宙的理解也越全面。
 
 观察者维度提升本质上是提高自身单位时间内的信息经典化效率，具体途径包括：
 
@@ -94,11 +92,7 @@ Observer dimension elevation is essentially improving one's information classica
 Therefore, the essence of observer dimension upgrade can be expressed as:
 
 $$
-D_{\text{升级}} \propto \frac{\text{量子纠缠复杂度与规模增加}}{\Delta t}
-$$
-
-$$
-D_{\text{Upgrade}} \propto \frac{\text{Increase in Quantum Entanglement Complexity and Scale}}{\Delta t}
+D_{\text{维度升级}} \propto \frac{\text{量子纠缠复杂度与经典化效率提升}}{\Delta t}
 $$
 
 维度的提升将使观察者拥有更大的经典化能力，更多信息得以有效经典化，熵增速率明显减缓甚至停止。
