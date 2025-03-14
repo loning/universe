@@ -1,31 +1,31 @@
-# 量子宇宙-量子观察者-经典意识论
-# Quantum Universe-Quantum Observer-Classical Consciousness Theory
+# 量子宇宙观察者意识-经典记忆与熵论
+# Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory
 
 ## 中文简介
 
-【量子宇宙-量子观察者-经典意识论】是一个统一的理论框架，旨在从信息的角度重新诠释宇宙、观察者与意识的本质关系。该理论将宇宙视为一个无限维的量子计算机，观察者为其中的量子程序节点，而意识则分为量子意识（观察者与宇宙的量子纠缠结构）和经典记忆（经典化后的稳定信息结构）。最新的[核心理论](core.md)进一步明确了量子与经典概念的区分，引入了经典熵的概念，并通过精确的数学公式阐述了自由意志、命运路径和观察者维度升级等关键概念之间的关系。
+【量子宇宙观察者意识-经典记忆与熵论】是一个统一的理论框架，旨在从信息的角度重新诠释宇宙、观察者与意识的本质关系。该理论将宇宙视为一个无限维的量子信息结构，观察者为其中的量子信息节点，通过量子纠缠与宇宙整体交换信息。[核心理论](core.md)明确了量子意识、经典记忆、经典熵、量子自由意志、经典命运路径和观察者维度等关键概念，通过精确的数学公式阐述了这些概念之间的关系。
 
 ## English Introduction
 
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unified theoretical framework aimed at reinterpreting the essential relationship between the universe, observers, and consciousness from an information perspective. This theory views the universe as an infinite-dimensional quantum computer, observers as quantum program nodes within it, and consciousness as divided into quantum consciousness (quantum entanglement structure between observer and universe) and classical memory (stable information structure after classicalization). The latest [core theory](core.md) further clarifies the distinction between quantum and classical concepts, introduces the concept of classical entropy, and articulates the relationships between key concepts such as free will, destiny paths, and observer dimensional upgrades through precise mathematical formulations.
+The Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory is a unified theoretical framework aimed at reinterpreting the essential relationship between the universe, observers, and consciousness from an information perspective. This theory views the universe as an infinite-dimensional quantum information structure, with observers as quantum information nodes within it that exchange information with the universe as a whole through quantum entanglement. The [core theory](core.md) clearly defines key concepts such as quantum consciousness, classical memory, classical entropy, quantum free will, classical destiny paths, and observer dimensions through precise mathematical formulations that articulate the relationships between these concepts.
 
 ## 中文目录
 
 ### 核心理论
-1. [理论框架](theories/quantum_classical/README.md) - 量子宇宙-量子观察者-经典意识论的整体框架
+1. [理论框架](theories/quantum_classical/README.md) - 量子宇宙观察者意识-经典记忆与熵论的整体框架
 2. [核心理论](core.md) - 最新的核心理论观点和数学公式
 3. [量子宇宙](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
 4. [量子观察者](theories/quantum_classical/quantum_observer.md) - 关于观察者在量子宇宙中角色的理论
 5. [经典意识论](theories/quantum_classical/classical_consciousness.md) - 关于意识如何从量子观察过程中涌现的理论
 
 ### 详细阐述
-1. [简介](01_introduction.md) - 理论的基本介绍
-2. [基本概念](02_basic_concepts.md) - 理论中的关键概念解释
-3. [理论框架](03_theoretical_framework.md) - 理论的基本假设和框架
-4. [数学公式](04_mathematical_formulations.md) - 理论的核心数学表达
-5. [观察者与意识](05_observer_and_consciousness.md) - 观察者的本质和意识的形成
-6. [宇宙与观察者的关系](06_universe_observer_relationship.md) - 宇宙与观察者之间的同构关系
-7. [应用与启示](07_applications_and_implications.md) - 理论的应用和哲学启示
+1. [简介](01_introduction.md) - 理论的基本介绍，包含[核心理论](core.md)的概述
+2. [基本概念](02_basic_concepts.md) - 理论中的关键概念解释，基于[核心理论](core.md)
+3. [理论框架](03_theoretical_framework.md) - 理论的基本假设和框架，遵循[核心理论](core.md)
+4. [数学公式](04_mathematical_formulations.md) - 理论的核心数学表达，来自[核心理论](core.md)
+5. [观察者与意识](05_observer_and_consciousness.md) - 观察者的本质和意识的形成，基于[核心理论](core.md)
+6. [宇宙与观察者的关系](06_universe_observer_relationship.md) - 宇宙与观察者之间的量子纠缠关系，参考[核心理论](core.md)
+7. [应用与启示](07_applications_and_implications.md) - 理论的应用和哲学启示，基于[核心理论](core.md)
 8. [参考文献](08_references.md) - 相关研究和参考资料
 
 ### 应用与解释
@@ -71,20 +71,20 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory is a unifie
 ## English Directory
 
 ### Core Theory
-1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of the Quantum Universe-Quantum Observer-Classical Consciousness Theory
-2. [Core Theory](core.md) - Latest core theoretical viewpoints and updates
+1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory
+2. [Core Theory](core.md) - Latest core theoretical viewpoints and mathematical formulas
 3. [Quantum Universe](theories/quantum_classical/quantum_universe.md) - Theory about the quantum nature of the universe
 4. [Quantum Observer](theories/quantum_classical/quantum_observer.md) - Theory about the role of observers in the quantum universe
 5. [Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) - Theory about how consciousness emerges from the quantum observation process
 
 ### Detailed Exposition
-1. [Introduction](01_introduction.md) - Basic introduction to the theory
-2. [Basic Concepts](02_basic_concepts.md) - Explanation of key concepts in the theory
-3. [Theoretical Framework](03_theoretical_framework.md) - Basic assumptions and framework of the theory
-4. [Mathematical Formulations](04_mathematical_formulations.md) - Core mathematical expressions of the theory
-5. [Observer and Consciousness](05_observer_and_consciousness.md) - The nature of observers and the formation of consciousness
-6. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Isomorphic relationship between the universe and observers
-7. [Applications and Implications](07_applications_and_implications.md) - Applications of the theory and philosophical implications
+1. [Introduction](01_introduction.md) - Basic introduction to the theory, including an overview of the [Core Theory](core.md)
+2. [Basic Concepts](02_basic_concepts.md) - Explanation of key concepts in the theory, based on the [Core Theory](core.md)
+3. [Theoretical Framework](03_theoretical_framework.md) - Basic assumptions and framework of the theory, following the [Core Theory](core.md)
+4. [Mathematical Formulations](04_mathematical_formulations.md) - Core mathematical expressions of the theory, from the [Core Theory](core.md)
+5. [Observer and Consciousness](05_observer_and_consciousness.md) - The nature of observers and the formation of consciousness, based on the [Core Theory](core.md)
+6. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Quantum entanglement relationship between the universe and observers, referencing the [Core Theory](core.md)
+7. [Applications and Implications](07_applications_and_implications.md) - Applications and philosophical implications of the theory, based on the [Core Theory](core.md)
 8. [References](08_references.md) - Related research and reference materials
 
 ### Applications and Interpretations
