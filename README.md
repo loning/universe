@@ -14,7 +14,11 @@
 6. [观察者与意识](05_observer_and_consciousness.md) - 量子经典二元论中的观察者与意识
 7. [宇宙与观察者关系](06_universe_observer_relationship.md) - 量子经典二元论中的宇宙与观察者关系
 8. [应用与启示](07_applications_and_implications.md) - 量子经典二元论的应用与启示
-9. [参考文献](08_references.md) - 量子经典二元论的参考文献
+9. [框架应用](08_framework_application.md) - 量子经典二元论在实际框架中的应用
+10. [命运与自由意志](10_destiny_and_free_will.md) - 量子经典二元论视角下的命运与自由意志
+11. [量子纠缠本质](11_quantum_entanglement_essence.md) - 量子纠缠的本质与波函数关系
+12. [参考文献](09_references.md) - 量子经典二元论的参考文献
+13. [更新历史](update_history.md) - 理论发展与更新记录
 
 ### 核心观点
 
@@ -23,6 +27,8 @@
 - 量子意识是宇宙与观察者之间的量子纠缠结构
 - 经典化过程产生经典知识和经典熵
 - 生命意义在于提升经典化效率，实现宇宙整体维度的跃迁
+- 命运在经典层面可计算，但通过量子意识与更高维信息的新纠缠可改变
+- 量子纠缠是宇宙观察者之间量子信息统一性与整体性的体现
 
 ## English Version
 
@@ -38,7 +44,11 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 6. [Observer and Consciousness](05_observer_and_consciousness.md) - Observer and Consciousness in Quantum-Classical Dualism
 7. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Universe-Observer Relationship in Quantum-Classical Dualism
 8. [Applications and Implications](07_applications_and_implications.md) - Applications and Implications of Quantum-Classical Dualism
-9. [References](08_references.md) - References for Quantum-Classical Dualism
+9. [Framework Application](08_framework_application.md) - Application of Quantum-Classical Dualism in Practical Frameworks
+10. [Destiny and Free Will](10_destiny_and_free_will.md) - Destiny and Free Will from the Perspective of Quantum-Classical Dualism
+11. [Quantum Entanglement Essence](11_quantum_entanglement_essence.md) - The Essence of Quantum Entanglement and Wave Function Relationship
+12. [References](09_references.md) - References for Quantum-Classical Dualism
+13. [Update History](update_history.md) - Theory Development and Update Records
 
 ### Core Ideas
 
@@ -47,3 +57,5 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 - Quantum consciousness is the quantum entanglement structure between the universe and observers
 - The classicalization process produces classical knowledge and classical entropy
 - The meaning of life is to improve classicalization efficiency and achieve the dimensional transition of the overall universe
+- Destiny is calculable at the classical level, but can be changed through new entanglement of quantum consciousness with higher-dimensional information
+- Quantum entanglement represents the unity and integrity of quantum information between observers in the universe
