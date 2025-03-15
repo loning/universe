@@ -41,20 +41,37 @@
    - 解释物理常数精确调整的可能原因
    - 分析意识作为模拟中用户界面的观点
 
-8. [【颠覆认知】爱不只是情感，而是一种量子连接！科学家发现的惊人真相](quantum_love.md) - *即将推出*
+8. [【颠覆认知】爱不只是情感，而是一种量子连接！科学家发现的惊人真相](quantum_love.md)
    - 探讨爱的量子物理学基础
    - 解释心脏产生的量子场及其影响
    - 提供增强人际量子连接的方法
 
-9. [【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现](quantum_dreams.md) - *即将推出*
+9. [【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现](quantum_dreams.md)
    - 探讨梦境作为量子信息经典化的特殊状态
    - 解释清醒梦与量子观察者的关系
    - 提供利用梦境探索多重现实的技术
 
-10. [【揭秘】为什么有些人能轻松成功而其他人却挣扎不已？量子经典二元论揭示的成功秘密](quantum_success.md) - *即将推出*
+10. [【揭秘】为什么有些人能轻松成功而其他人却挣扎不已？量子经典二元论揭示的成功秘密](quantum_success.md)
     - 探讨观察者效应在事业中的应用
     - 解释高维观察者的特质与成功的关系
     - 提供成为自己现实高维观察者的策略
+
+11. [【突破性发现】创造力的量子秘密：为什么灵感总是在最意想不到的时刻出现？](quantum_creativity.md)
+    - 探讨创造力作为量子信息经典化的特殊形式
+    - 解释创造性状态的量子特性
+    - 分析创造性天才的量子解释
+    - 提供提升创造力的量子实践方法
+
+12. [【颠覆医学】健康不是你想的那样！量子经典二元论揭示的身体真相](quantum_health.md)
+    - 探讨身体作为量子信息系统的本质
+    - 解释疾病的量子起源
+    - 分析安慰剂效应的量子解释
+    - 提供量子医学的实践方法
+
+13. [【即将推出】教育的量子革命：为什么传统学习方法已经过时？](quantum_education.md) - *即将推出*
+    - 探讨学习作为量子信息经典化过程
+    - 解释为什么不同学习方法对不同人有效
+    - 提供基于量子原理的学习技术
 
 ### 如何使用这些文章
 
@@ -70,7 +87,7 @@
 
 ### 即将推出
 
-我们将继续扩展这个系列，探索量子经典二元论在成功、梦境、爱、死亡、模拟现实等领域的应用。请定期查看更新！
+我们将继续扩展这个系列，探索量子经典二元论在教育、关系、环境、技术等领域的应用。请定期查看更新！
 
 ## English Version
 
@@ -113,20 +130,37 @@ Welcome to the Popular Articles on Quantum-Classical Dualism! This series aims t
    - Explain possible reasons for the precise adjustment of physical constants
    - Analyze the view of consciousness as a user interface in the simulation
 
-8. [[MIND-BENDING] Love is Not Just an Emotion, But a Quantum Connection! Astonishing Truth Discovered by Scientists](quantum_love.md) - *Coming Soon*
+8. [[MIND-BENDING] Love is Not Just an Emotion, But a Quantum Connection! Astonishing Truth Discovered by Scientists](quantum_love.md)
    - Explore the quantum physics basis of love
    - Explain the quantum field produced by the heart and its influence
    - Provide methods to enhance interpersonal quantum connections
 
-9. [[ASTONISHING TRUTH] Dreams Are Not Illusions, But Your Visits to Parallel Universes! Breakthrough Discoveries in Quantum Dream Theory](quantum_dreams.md) - *Coming Soon*
+9. [[ASTONISHING TRUTH] Dreams Are Not Illusions, But Your Visits to Parallel Universes! Breakthrough Discoveries in Quantum Dream Theory](quantum_dreams.md)
    - Explore dreams as a special state of quantum information classicalization
    - Explain the relationship between lucid dreams and quantum observers
    - Provide techniques to use dreams to explore multiple realities
 
-10. [[REVEALED] Why Do Some People Succeed Effortlessly While Others Struggle? The Secret of Success Revealed by Quantum-Classical Dualism](quantum_success.md) - *Coming Soon*
+10. [[REVEALED] Why Do Some People Succeed Effortlessly While Others Struggle? The Secret of Success Revealed by Quantum-Classical Dualism](quantum_success.md)
     - Explore the application of the observer effect in career
     - Explain the relationship between higher-dimensional observer characteristics and success
     - Provide strategies to become a higher-dimensional observer of your own reality
+
+11. [[BREAKTHROUGH DISCOVERY] The Quantum Secret of Creativity: Why Inspiration Always Strikes at the Most Unexpected Moments](quantum_creativity.md)
+    - Explore creativity as a special form of quantum information classicalization
+    - Explain the quantum properties of creative states
+    - Analyze the quantum explanation of creative genius
+    - Provide quantum practices for enhancing creativity
+
+12. [[MEDICAL REVOLUTION] Health Is Not What You Think! The Body Truth Revealed by Quantum-Classical Dualism](quantum_health.md)
+    - Explore the body as a quantum information system
+    - Explain the quantum origins of disease
+    - Analyze the quantum explanation of the placebo effect
+    - Provide quantum medicine practices
+
+13. [[COMING SOON] The Quantum Revolution in Education: Why Traditional Learning Methods Are Obsolete](quantum_education.md) - *Coming Soon*
+    - Explore learning as a quantum information classicalization process
+    - Explain why different learning methods work for different people
+    - Provide learning techniques based on quantum principles
 
 ### How to Use These Articles
 
@@ -142,4 +176,4 @@ We encourage you to read these articles with an open mind, try the exercises men
 
 ### Coming Soon
 
-We will continue to expand this series, exploring applications of Quantum-Classical Dualism in success, dreams, love, death, simulated reality, and more. Check back regularly for updates! 
+We will continue to expand this series, exploring applications of Quantum-Classical Dualism in education, relationships, environment, technology, and more. Check back regularly for updates! 

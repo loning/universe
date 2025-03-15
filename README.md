@@ -230,3 +230,5 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 9. [【颠覆认知】爱不只是情感，而是一种量子连接！科学家发现的惊人真相](articles/quantum_love.md) - 探讨爱的量子物理学基础 (Love is Not Just an Emotion, But a Quantum Connection!)
 10. [【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现](articles/quantum_dreams.md) - 探讨梦境作为量子信息经典化的特殊状态 (Dreams Are Not Illusions, But Your Visits to Parallel Universes!)
 11. [【揭秘】为什么有些人能轻松成功而其他人却挣扎不已？量子经典二元论揭示的成功秘密](articles/quantum_success.md) - 探讨观察者效应在事业中的应用 (Why Do Some People Succeed Effortlessly While Others Struggle?)
+12. [【突破性发现】创造力的量子秘密：为什么灵感总是在最意想不到的时刻出现？](articles/quantum_creativity.md) - 探讨创造力作为量子信息经典化的特殊形式 (The Quantum Secret of Creativity: Why Inspiration Always Strikes at the Most Unexpected Moments)
+13. [【颠覆医学】健康不是你想的那样！量子经典二元论揭示的身体真相](articles/quantum_health.md) - 探讨身体作为量子信息系统的本质 (Health Is Not What You Think! The Body Truth Revealed by Quantum-Classical Dualism)
