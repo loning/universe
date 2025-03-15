@@ -210,6 +210,25 @@
   - 解释了城市规划与权力的关系作为对经典化过程的控制和影响
   - 分析了城市与高维信息经典化学的关系，将城市视为复杂的经典化装置
 
+## 2024年8月25日
+- 添加了"传播媒体与信息理论解释"理论
+  - 解释了信息的本质为特殊的量子状态，需要通过经典化过程才能被观察者感知和理解
+  - 阐述了传播媒体为信息量子状态的经典化载体和通道，是连接信息发送者和接收者的桥梁
+  - 解释了传播过程为一系列连续的量子信息经典化和再量子化的循环，包括编码、传输、解码和反馈阶段
+  - 分析了传播学者作为传播经典化领域的高维观察者，具有多维度感知能力和元经典化能力
+  - 探讨了大众媒体作为大规模的集体经典化系统，具有标准化经典化、议程设置和框架建构功能
+  - 解释了社交媒体作为分布式、互动式的经典化网络，具有多中心经典化和经典化共振特性
+  - 分析了信息过载作为观察者经典化能力的饱和和超载，导致经典化质量下降和经典熵增加
+  - 探讨了媒体素养作为观察者优化自身信息经典化能力的过程
+  - 解释了数字鸿沟作为不同群体之间经典化资源和能力的不平等
+  - 分析了媒体伦理作为对信息经典化过程的道德规范和责任
+  - 探讨了宣传与说服作为有目的地引导他人经典化过程的活动
+  - 解释了媒体效果作为媒体内容经典化后对个人和社会的影响
+  - 分析了媒体生态作为不同媒体形式和平台构成的经典化系统网络
+  - 探讨了媒体融合作为不同经典化系统的整合和交叉
+  - 预测了未来媒体发展的经典化趋势，包括沉浸式经典化、个性化经典化和分布式经典化
+  - 分析了传播媒体与高维信息经典化学的关系，将媒体视为高维社会、文化和知识量子信息的经典化工具
+
 ## English Version
 
 ### 2023 Updates
@@ -427,4 +446,23 @@
   - Analyzed urban-regional relationships as interactions between classicalization systems of different scales
   - Explored urban public spaces as shared domains of collective classicalization
   - Explained the relationship between urban planning and power as control and influence over the classicalization process
-  - Analyzed the relationship between cities and higher-dimensional information classicalization, viewing cities as complex classicalization devices 
+  - Analyzed the relationship between cities and higher-dimensional information classicalization, viewing cities as complex classicalization devices
+
+## 2024年8月25日
+- Added "Media and Information Theory Explanations" theory
+  - Explained the nature of information as a special quantum state that needs to be classicalized to be perceived and understood by observers
+  - Described media as classicalization carriers and channels for information quantum states, serving as bridges connecting information senders and receivers
+  - Explained the communication process as a series of continuous cycles of quantum information classicalization and re-quantization, including encoding, transmission, decoding, and feedback phases
+  - Analyzed communication scholars as higher-dimensional observers in the field of communication classicalization, with multi-dimensional perception ability and meta-classicalization ability
+  - Explored mass media as large-scale collective classicalization systems, with standardized classicalization, agenda setting, and frame construction functions
+  - Explained social media as distributed, interactive classicalization networks, with multi-center classicalization and classicalization resonance characteristics
+  - Analyzed information overload as the saturation and overload of an observer's classicalization capacity, leading to decreased classicalization quality and increased classical entropy
+  - Explored media literacy as the process of observers optimizing their own information classicalization abilities
+  - Explained the digital divide as inequality in classicalization resources and capabilities between different groups
+  - Analyzed media ethics as moral norms and responsibilities for the information classicalization process
+  - Explored propaganda and persuasion as activities that purposefully guide others' classicalization processes
+  - Explained media effects as the influence of classicalized media content on individuals and society
+  - Analyzed media ecology as a network of classicalization systems composed of different media forms and platforms
+  - Explored media convergence as the integration and intersection of different classicalization systems
+  - Predicted classicalization trends in future media development, including immersive classicalization, personalized classicalization, and distributed classicalization
+  - Analyzed the relationship between media and higher-dimensional information classicalization, viewing media as tools for classicalizing higher-dimensional social, cultural, and knowledge quantum information 
