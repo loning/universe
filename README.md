@@ -17,6 +17,7 @@
    - [灵性与修行应用](applications/spiritual/) - 修行作为经典化效率提升
    - [物理现象应用](applications/physics/) - 黑洞信息经典化理论
 3. [更新历史](update_history.md) - 项目发展的里程碑记录
+4. [目录结构](directory_structure.md) - 完整的项目文件组织
 
 ### 核心概念简介
 
@@ -54,6 +55,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
    - [Spiritual and Practice Applications](applications/spiritual/) - Practice as classicalization efficiency improvement
    - [Physical Phenomena Applications](applications/physics/) - Black hole information classicalization theory
 3. [Update History](update_history.md) - Record of project development milestones
+4. [Directory Structure](directory_structure.md) - Complete project file organization
 
 ### Introduction to Core Concepts
 

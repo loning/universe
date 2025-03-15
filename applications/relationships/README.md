@@ -24,6 +24,13 @@
    - 不同社会关系的量子纠缠特性分析
    - 社会关系优化的量子经典策略
 
+4. [爱情与吸引力的量子经典解释](love_attraction.md)
+   - 爱情作为特殊量子纠缠状态的理论模型
+   - 莫名其妙喜欢一个人的量子解释
+   - 前世纠缠的量子经典解释框架
+   - 单相思现象的量子不对称性分析
+   - 爱情关系的量子经典优化策略
+
 ### 人际关系应用的核心原理
 
 所有人际关系应用理论都基于以下核心原理：
@@ -67,6 +74,13 @@ This directory contains application theories of Quantum-Classical Dualism in the
    - Classification criteria for high-efficiency, medium-efficiency, and low-efficiency entanglement
    - Analysis of quantum entanglement characteristics in different social relationships
    - Quantum-classical strategies for social relationship optimization
+
+4. [Quantum-Classical Explanation of Love and Attraction](love_attraction.md)
+   - Theoretical model of love as a special quantum entanglement state
+   - Quantum explanation of inexplicable attraction
+   - Quantum-classical explanation framework for past life entanglement
+   - Quantum asymmetry analysis of unrequited love phenomena
+   - Quantum-classical optimization strategies for love relationships
 
 ### Core Principles of Relationship Applications
 

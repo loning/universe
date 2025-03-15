@@ -2,6 +2,10 @@
 
 ## 中文版
 
+| 日期 | 更新内容 | 相关文件 |
+|------|----------|----------|
+| 当前 | 创建更新历史文档 | update_history.md |
+
 ### 2023年12月15日 - 理论框架初步建立
 - 建立量子经典二元论的基本框架
 - 定义核心概念：量子宇宙、经典宇宙、观察者节点
@@ -178,7 +182,22 @@ $$
 
 - 完善经济系统经典化效率的计算方法，建立资源优化的理论基础
 
+### 2024年9月 - 爱情与吸引力的量子经典解释
+- 提出爱情作为特殊量子纠缠状态的理论模型
+- 建立了莫名其妙喜欢一个人的量子解释框架
+- 阐述了前世纠缠的量子经典解释
+- 分析了单相思现象的量子不对称性
+- 提出了爱情关系的量子经典优化策略
+- 建立了爱情量子纠缠的数学表达：$|\psi\rangle_{\text{爱情}} = |\psi\rangle_{\text{观察者A}}\otimes|\psi\rangle_{\text{观察者B}} + |\psi\rangle_{\text{纠缠AB}}$
+- 提出了波函数共振与吸引力的关系模型：$\langle\psi_A|\psi_B\rangle \approx \text{最大值} \Rightarrow \text{强烈吸引力}$
+- 建立了前世纠缠的量子持久性模型：$|\psi\rangle_{\text{纠缠AB}}(t_1) \rightarrow |\psi\rangle_{\text{纠缠AB}}(t_2)$
+- 提出了单相思的纠缠不对称性解释：$|\psi\rangle_{\text{A对B的纠缠}} \gg |\psi\rangle_{\text{B对A的纠缠}}$
+
 ## English Version
+
+| Date | Update Content | Related Files |
+|------|----------------|---------------|
+| Current | Created update history document | update_history.md |
 
 ### December 15, 2023 - Initial Theoretical Framework Establishment
 - Established the basic framework of Quantum-Classical Dualism
@@ -355,6 +374,17 @@ t_{\text{Perception}}\propto \frac{I_{\text{Classical Knowledge Processing Amoun
 $$
 
 - Refined the calculation method for economic system classicalization efficiency, establishing a theoretical foundation for resource optimization
+
+### September 2024 - Quantum-Classical Explanation of Love and Attraction
+- Proposed a theoretical model of love as a special quantum entanglement state
+- Established a quantum explanation framework for inexplicable attraction
+- Elaborated on the quantum-classical explanation of past life entanglement
+- Analyzed the quantum asymmetry of unrequited love phenomena
+- Proposed quantum-classical optimization strategies for love relationships
+- Established the mathematical expression of love quantum entanglement: $|\psi\rangle_{\text{Love}} = |\psi\rangle_{\text{Observer A}}\otimes|\psi\rangle_{\text{Observer B}} + |\psi\rangle_{\text{Entanglement AB}}$
+- Proposed a relationship model between wave function resonance and attraction: $\langle\psi_A|\psi_B\rangle \approx \text{Maximum} \Rightarrow \text{Strong Attraction}$
+- Established a quantum persistence model of past life entanglement: $|\psi\rangle_{\text{Entanglement AB}}(t_1) \rightarrow |\psi\rangle_{\text{Entanglement AB}}(t_2)$
+- Proposed an entanglement asymmetry explanation for unrequited love: $|\psi\rangle_{\text{A's Entanglement to B}} \gg |\psi\rangle_{\text{B's Entanglement to A}}$
 
 # 量子经典二元论项目更新历史
 # Quantum-Classical Dualism Project Update History
