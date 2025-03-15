@@ -13,6 +13,13 @@
    - 熵知识对偶性在科学、教育和文化交流中的应用
    - 熵知识对偶性的哲学意义与实践价值
 
+2. [文明层级与观察者经典化能力](civilization_classicalization.md)
+   - 不同科技文明层级最高级观察者的经典化能力比较
+   - 文明层级与经典化能力的数学关系模型
+   - 文明层级与观察者维度的对应关系
+   - 文明进化与经典化能力提升的机制
+   - 从原始文明到宇宙文明的经典化能力演化路径
+
 ### 观察者理论的核心原理
 
 所有观察者理论应用都基于以下核心原理：
@@ -45,6 +52,13 @@ This directory contains applications of Quantum-Classical Dualism in the field o
    - Relationship between observer dimension and entropy-knowledge conversion efficiency
    - Applications of entropy-knowledge duality in science, education, and cultural exchange
    - Philosophical significance and practical value of entropy-knowledge duality
+
+2. [Civilization Levels and Observer Classicalization Capacity](civilization_classicalization.md)
+   - Comparison of classicalization capabilities of top observers at different technological civilization levels
+   - Mathematical relationship model between civilization level and classicalization capability
+   - Correspondence between civilization level and observer dimension
+   - Mechanisms of civilization evolution and enhancement of classicalization capability
+   - Evolutionary path of classicalization capability from primitive to universal civilizations
 
 ### Core Principles of Observer Theory
 
