@@ -49,7 +49,7 @@
 8. [经济学问题解释](theories/economic_explanations.md) - 理论框架对基本经济学问题的解释
 9. [语言学问题解释](theories/linguistic_explanations.md) - 理论框架对语言本质和结构的解释
 10. [教育学问题解释](theories/educational_explanations.md) - 理论框架对教育本质和方法的解释
-11. [人工智能与计算问题解释](theories/ai_computational_explanations.md) - 理论框架对AI和计算本质的解释
+11. [人工智能与计算理论解释](theories/ai_computation_explanations.md) - 理论框架对AI和计算本质的解释
 12. [伦理学问题解释](theories/ethical_explanations.md) - 理论框架对伦理道德基础的解释
 13. [宗教问题解释](theories/religious_explanations.md) - 理论框架对宗教现象的解释
 14. [历史问题解释](theories/historical_explanations.md) - 理论框架对历史发展模式的解释
@@ -65,6 +65,10 @@
 24. [梦境与睡眠科学解释](theories/dream_sleep_explanations.md) - 理论框架对梦境形成和睡眠过程的解释
 25. [时尚与服装研究解释](theories/fashion_clothing_explanations.md) - 理论框架对时尚演变与服装功能的解释
 26. [语言学与交流理论解释](theories/linguistics_communication_explanations.md) - 理论框架对语言本质与交流过程的解释
+27. [经济学与市场行为解释](theories/economics_market_explanations.md) - 理论框架对经济活动与市场机制的解释
+28. [教育与学习理论解释](theories/education_learning_explanations.md) - 理论框架对教育过程与学习机制的解释
+29. [环境科学与生态系统解释](theories/environment_ecology_explanations.md) - 理论框架对生态系统与环境变化的解释
+30. [政治科学与治理理论解释](theories/politics_governance_explanations.md) - 理论框架对政治过程与治理机制的解释
 
 ### 特殊主题研究
 1. [宇宙结构](theories/universe_structure.md) - 基于量子经典二元论的宇宙结构模型
@@ -133,7 +137,7 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 8. [Economic Explanations](theories/economic_explanations.md) - Explanations of basic economic problems by the theoretical framework
 9. [Linguistic Explanations](theories/linguistic_explanations.md) - Explanations of the nature and structure of language by the theoretical framework
 10. [Educational Explanations](theories/educational_explanations.md) - Explanations of the nature and methods of education by the theoretical framework
-11. [AI and Computational Explanations](theories/ai_computational_explanations.md) - Explanations of the nature of AI and computation by the theoretical framework
+11. [Artificial Intelligence and Computation Explanations](theories/ai_computation_explanations.md) - Explanations of the nature of AI and computation by the theoretical framework
 12. [Ethical Explanations](theories/ethical_explanations.md) - Explanations of the foundations of ethics and morality by the theoretical framework
 13. [Religious Explanations](theories/religious_explanations.md) - Explanations of religious phenomena by the theoretical framework
 14. [Historical Explanations](theories/historical_explanations.md) - Explanations of historical development patterns by the theoretical framework
@@ -149,6 +153,10 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 24. [Dream and Sleep Science Explanations](theories/dream_sleep_explanations.md) - Explanations of dream formation and sleep processes by the theoretical framework
 25. [Fashion and Clothing Research Explanations](theories/fashion_clothing_explanations.md) - Explanations of fashion evolution and clothing functions by the theoretical framework
 26. [Linguistic and Communication Explanations](theories/linguistics_communication_explanations.md) - Explanations of the nature of language and communication processes by the theoretical framework
+27. [Economic and Market Explanations](theories/economics_market_explanations.md) - Explanations of economic activities and market mechanisms by the theoretical framework
+28. [Educational and Learning Explanations](theories/education_learning_explanations.md) - Explanations of educational processes and learning mechanisms by the theoretical framework
+29. [Environmental Science and Ecosystem Explanations](theories/environment_ecology_explanations.md) - Explanations of ecosystems and environmental changes by the theoretical framework
+30. [Political Science and Governance Explanations](theories/politics_governance_explanations.md) - Explanations of political processes and governance mechanisms by the theoretical framework
 
 ### Special Topic Research
 1. [Universe Structure](theories/universe_structure.md) - Universe structure model based on Quantum-Classical Dualism

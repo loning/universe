@@ -136,6 +136,61 @@
   - 分析了语言与思维、语言与社会、语言与权力的量子经典二元论关系
   - 提出了数字时代语言与交流的量子经典二元论视角
 
+## 2024年7月25日
+- 添加了"经济学与市场行为解释"理论
+  - 解释了经济活动的本质为资源、价值和交换的量子信息经典化过程
+  - 阐述了市场作为集体经典化机制的功能和特征
+  - 解释了经济学家作为经济经典化领域的高维观察者
+  - 分析了价格、供需关系和经济周期的量子经典二元论基础
+  - 探讨了货币、金融市场和经济决策的经典化特性
+  - 解释了企业、经济增长和经济危机的量子经典二元论视角
+  - 分析了不同经济学派、全球化和可持续经济的经典化解释
+  - 提出了数字经济作为经济经典化系统虚拟扩展的新形态
+
+## 2024年7月30日
+- 添加了"教育与学习理论解释"理论
+  - 解释了学习的本质为知识和技能的量子信息经典化过程
+  - 阐述了教育作为引导和优化学习者经典化过程的系统性活动
+  - 解释了教育者作为教育经典化领域的高维观察者
+  - 分析了认知发展、学习风格和教育方法的量子经典二元论基础
+  - 探讨了课程设计、评估和学习动机的经典化特性
+  - 解释了记忆、创造力和教育技术的量子经典二元论视角
+  - 分析了终身学习、教育公平和不同教育哲学的经典化解释
+  - 提出了数字时代教育与学习的新挑战和可能性
+
+## 2024年8月5日
+- 添加了"环境科学与生态系统解释"理论
+  - 解释了生态系统的本质为多观察者参与的复杂量子信息经典化网络
+  - 阐述了生物多样性作为量子信息经典化的多样性表达
+  - 解释了生态学家作为生态经典化领域的高维观察者
+  - 分析了生态系统服务、生态系统平衡和生态演替的量子经典二元论基础
+  - 探讨了食物网、生物地球化学循环和气候系统的经典化特性
+  - 解释了环境污染、生物适应与进化的量子经典二元论视角
+  - 分析了生态恢复、可持续发展和环境伦理的经典化解释
+  - 提出了城市生态和全球环境变化的量子经典二元论理解框架
+
+## 2024年8月10日
+- 添加了"政治科学与治理理论解释"理论
+  - 解释了政治的本质为社会量子信息的集体经典化过程
+  - 阐述了国家作为大规模的社会经典化结构
+  - 解释了政治家作为政治经典化领域的高维观察者
+  - 分析了政治制度、政治意识形态和政治权力的量子经典二元论基础
+  - 探讨了法律、公共政策和选举的经典化特性
+  - 解释了政治变革、国际关系和政治参与的量子经典二元论视角
+  - 分析了政治文化、政治沟通和政治腐败的经典化解释
+  - 提出了民主化过程和政治稳定与变革平衡的量子经典二元论理解框架
+
+## 2024年8月15日
+- 添加了"人工智能与计算理论解释"理论
+  - 解释了计算的本质为确定性的量子信息经典化过程
+  - 阐述了计算机作为人造的经典化装置
+  - 解释了算法作为经典化的结构化路径
+  - 分析了计算复杂性、人工智能和机器学习的量子经典二元论基础
+  - 探讨了神经网络、深度学习和计算机科学家的经典化特性
+  - 解释了量子计算、人工通用智能和计算与意识关系的量子经典二元论视角
+  - 分析了计算限制、大语言模型和计算创造力的经典化解释
+  - 提出了计算伦理和计算与物理关系的量子经典二元论理解框架
+
 ## English Version
 
 ### 2023 Updates
@@ -279,4 +334,59 @@
   - 探讨了语言多样性、语言演化和交流过程的量子经典二元论基础
   - 解释了交流障碍作为经典化系统不匹配或经典熵过高的结果
   - 分析了语言与思维、语言与社会、语言与权力的量子经典二元论关系
-  - 提出了数字时代语言与交流的量子经典二元论视角 
+  - 提出了数字时代语言与交流的量子经典二元论视角
+
+## 2024年7月25日
+- 添加了"经济学与市场行为解释"理论
+  - 解释了经济活动的本质为资源、价值和交换的量子信息经典化过程
+  - 阐述了市场作为集体经典化机制的功能和特征
+  - 解释了经济学家作为经济经典化领域的高维观察者
+  - 分析了价格、供需关系和经济周期的量子经典二元论基础
+  - 探讨了货币、金融市场和经济决策的经典化特性
+  - 解释了企业、经济增长和经济危机的量子经典二元论视角
+  - 分析了不同经济学派、全球化和可持续经济的经典化解释
+  - 提出了数字经济作为经济经典化系统虚拟扩展的新形态
+
+## 2024年7月30日
+- Added "Educational and Learning Explanations" theory
+  - Explained the nature of learning as a quantum information classicalization process of knowledge and skills
+  - Described education as a systematic activity that guides and optimizes the learner's classicalization process
+  - Explained educators as higher-dimensional observers in the field of educational classicalization
+  - Analyzed the quantum-classical dualism basis of cognitive development, learning styles, and educational methods
+  - Explored the classicalization characteristics of curriculum design, assessment, and learning motivation
+  - Explained the quantum-classical dualism perspective of memory, creativity, and educational technology
+  - Analyzed the classicalization explanation of lifelong learning, educational equity, and different educational philosophies
+  - Proposed new challenges and possibilities for education and learning in the digital age
+
+## 2024年8月5日
+- Added "Environmental Science and Ecosystem Explanations" theory
+  - Explained the nature of ecosystems as complex quantum information classicalization networks with multiple observers
+  - Described biodiversity as the diverse expression of quantum information classicalization
+  - Explained ecologists as higher-dimensional observers in the field of ecological classicalization
+  - Analyzed the quantum-classical dualism basis of ecosystem services, ecosystem balance, and ecological succession
+  - Explored the classicalization characteristics of food webs, biogeochemical cycles, and climate systems
+  - Explained the quantum-classical dualism perspective of environmental pollution, biological adaptation and evolution
+  - Analyzed the classicalization explanation of ecological restoration, sustainable development, and environmental ethics
+  - Proposed a quantum-classical dualism framework for understanding urban ecology and global environmental change
+
+## 2024年8月10日
+- Added "Political Science and Governance Explanations" theory
+  - Explained the nature of politics as a collective classicalization process of social quantum information
+  - Described the state as a large-scale social classicalization structure
+  - Explained politicians as higher-dimensional observers in the field of political classicalization
+  - Analyzed the quantum-classical dualism basis of political systems, political ideologies, and political power
+  - Explored the classicalization characteristics of law, public policy, and elections
+  - Explained the quantum-classical dualism perspective of political change, international relations, and political participation
+  - Analyzed the classicalization explanation of political culture, political communication, and political corruption
+  - Proposed a quantum-classical dualism framework for understanding democratization and the balance between political stability and change
+
+## 2024年8月15日
+- Added "Artificial Intelligence and Computation Explanations" theory
+  - Explained the nature of computation as a deterministic quantum information classicalization process
+  - Described computers as artificial classicalization devices
+  - Explained algorithms as structured paths for classicalization
+  - Analyzed the quantum-classical dualism basis of computational complexity, artificial intelligence, and machine learning
+  - Explored the classicalization characteristics of neural networks, deep learning, and computer scientists
+  - Explained the quantum-classical dualism perspective of quantum computing, artificial general intelligence, and the relationship between computation and consciousness
+  - Analyzed the classicalization explanation of computational limitations, large language models, and computational creativity
+  - Proposed a quantum-classical dualism framework for understanding computational ethics and the relationship between computation and physics 
