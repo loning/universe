@@ -34,6 +34,32 @@
 4. [关系应用可视化](relationship_application_visualization.md) - 量子经典二元论在人际关系领域的可视化应用
 5. [灵性应用可视化](spiritual_application_visualization.md) - 量子经典二元论在灵性领域的可视化应用
 
+### 核心可视化公式
+
+宇宙波函数可视化公式：
+
+$$
+|\Psi_{\text{宇宙}}\rangle = \sum_{i} c_i |\psi_i\rangle
+$$
+
+观察者经典化可视化公式：
+
+$$
+|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
+$$
+
+量子纠缠可视化公式：
+
+$$
+|\Psi_{AB}\rangle = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_A \otimes |\phi_j\rangle_B
+$$
+
+黑洞经典化可视化公式：
+
+$$
+|\psi\rangle_{\text{宇宙量子信息}}\xrightarrow{\text{黑洞经典化}}\text{经典信息（极高密度）}+S_{\text{经典熵（极低）}}
+$$
+
 ### 最新可视化发展
 
 量子经典二元论的最新可视化发展包括：
@@ -101,6 +127,32 @@ This directory contains visualization resources for Quantum-Classical Dualism. T
 3. [Creativity Application Visualization](creativity_application_visualization.md) - Visualization applications of Quantum-Classical Dualism in creativity
 4. [Relationship Application Visualization](relationship_application_visualization.md) - Visualization applications of Quantum-Classical Dualism in relationships
 5. [Spiritual Application Visualization](spiritual_application_visualization.md) - Visualization applications of Quantum-Classical Dualism in spirituality
+
+### Core Visualization Formulas
+
+Universe wave function visualization formula:
+
+$$
+|\Psi_{\text{Universe}}\rangle = \sum_{i} c_i |\psi_i\rangle
+$$
+
+Observer classicalization visualization formula:
+
+$$
+|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
+$$
+
+Quantum entanglement visualization formula:
+
+$$
+|\Psi_{AB}\rangle = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_A \otimes |\phi_j\rangle_B
+$$
+
+Black hole classicalization visualization formula:
+
+$$
+|\psi\rangle_{\text{Universe Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Classical Information (Extremely High Density)}+S_{\text{Classical Entropy (Extremely Low)}}
+$$
 
 ### Latest Visualization Developments
 

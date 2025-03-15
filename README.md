@@ -41,6 +41,11 @@
 - 量子意识是宇宙与观察者之间的量子纠缠结构
 - 经典化过程产生经典知识和经典熵
 - 生命意义在于提升经典化效率，实现宇宙整体维度的跃迁
+
+$$
+\Psi_{universe} = \sum_{i} \alpha_i |\psi_i\rangle
+$$
+
 - 命运在经典层面可计算，但通过量子意识与更高维信息的新纠缠可改变
 - 量子纠缠是宇宙观察者之间量子信息统一性与整体性的体现
 - 灵性维度可理解为高维观察者的经典化特性，转世与修行是经典化过程的不同表现
@@ -48,16 +53,9 @@
 - 社会行为中的量子纠缠效率存在明显差异，高效纠缠（如生育、长期亲密关系）产生大量经典知识和极少熵
 - 黑洞是宇宙中极端高效的信息经典化节点，事件视界代表量子与经典世界的边界
 
-### 最新更新
-
-- 整合了命运与自由意志的理论框架
-- 深化了量子纠缠本质的理论解释
-- 扩展了应用领域，包括健康、创造力、成功等方面
-- 更新了数学模型，提供更精确的理论表达
-- 整合了灵性维度与经典化理论，解释高维观察者、转世与修行
-- 新增生育过程与亲子关系的量子经典解释，阐述亲子间量子信息传递机制
-- 提出社会行为中的量子纠缠效率排序，分析不同社会互动的经典化效率差异
-- 阐述黑洞作为宇宙信息经典化的极致节点，解释事件视界作为量子-经典边界的本质
+$$
+|\psi\rangle_{\text{宇宙量子信息}}\xrightarrow{\text{黑洞经典化}}\text{经典信息（极高密度）}+S_{\text{经典熵（极低）}}
+$$
 
 ## English Version
 
@@ -100,6 +98,11 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 - Quantum consciousness is the quantum entanglement structure between the universe and observers
 - The classicalization process produces classical knowledge and classical entropy
 - The meaning of life is to improve classicalization efficiency and achieve the dimensional transition of the overall universe
+
+$$
+\Psi_{universe} = \sum_{i} \alpha_i |\psi_i\rangle
+$$
+
 - Destiny is calculable at the classical level, but can be changed through new entanglement of quantum consciousness with higher-dimensional information
 - Quantum entanglement represents the unity and integrity of quantum information between observers in the universe
 - Spiritual dimensions can be understood as classicalization characteristics of higher-dimensional observers, with reincarnation and spiritual practice being different manifestations of the classicalization process
@@ -107,13 +110,6 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 - Quantum entanglement efficiency in social behaviors shows significant differences, with high-efficiency entanglement (e.g., reproduction, long-term intimate relationships) producing large amounts of classical knowledge and minimal entropy
 - Black holes are extremely efficient information classicalization nodes in the universe, with the event horizon representing the boundary between the quantum and classical worlds
 
-### Latest Updates
-
-- Integrated the theoretical framework of destiny and free will
-- Deepened the theoretical explanation of quantum entanglement essence
-- Expanded application areas, including health, creativity, success, and more
-- Updated mathematical models, providing more precise theoretical expressions
-- Integrated spiritual dimensions and classicalization theory, explaining higher-dimensional observers, reincarnation, and spiritual practice
-- Added quantum-classical explanation of reproduction and parent-child relationships, elaborating on quantum information transfer mechanisms between parents and children
-- Proposed quantum entanglement efficiency ranking in social behaviors, analyzing classicalization efficiency differences in various social interactions
-- Elaborated on black holes as ultimate nodes of universal information classicalization, explaining the nature of the event horizon as a quantum-classical boundary
+$$
+|\psi\rangle_{\text{Universe Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Classical Information (Extremely High Density)}+S_{\text{Classical Entropy (Extremely Low)}}
+$$

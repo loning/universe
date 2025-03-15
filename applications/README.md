@@ -50,6 +50,24 @@
 7. **命运重构**：应用自由意志理论重构经典命运路径
 8. **灵性整合**：整合灵性维度与经典化理论的实践应用
 
+### 核心应用公式
+
+观察者经典化效率公式：
+
+$$
+\eta_{observer} = \frac{K_{classical}}{S_{classical}}
+$$
+
+其中，$\eta_{observer}$是观察者经典化效率，$K_{classical}$是产生的经典知识，$S_{classical}$是产生的经典熵。
+
+量子纠缠应用公式：
+
+$$
+E_{entanglement} = \sum_{i,j} \gamma_{ij} |\psi_i\rangle \langle\psi_j|
+$$
+
+其中，$E_{entanglement}$是量子纠缠强度，$\gamma_{ij}$是纠缠系数，$|\psi_i\rangle$和$|\psi_j\rangle$是量子状态。
+
 ### 最新应用发展
 
 量子经典二元论的最新应用发展包括：
@@ -115,6 +133,24 @@ Applications of Quantum-Classical Dualism follow this methodology:
 6. **Dimension Elevation**: Designing practical methods to elevate observer dimensions
 7. **Destiny Reconstruction**: Applying free will theory to reconstruct classical destiny paths
 8. **Spiritual Integration**: Integrating practical applications of spiritual dimensions and classicalization theory
+
+### Core Application Formulas
+
+Observer classicalization efficiency formula:
+
+$$
+\eta_{observer} = \frac{K_{classical}}{S_{classical}}
+$$
+
+Where $\eta_{observer}$ is the observer's classicalization efficiency, $K_{classical}$ is the classical knowledge produced, and $S_{classical}$ is the classical entropy produced.
+
+Quantum entanglement application formula:
+
+$$
+E_{entanglement} = \sum_{i,j} \gamma_{ij} |\psi_i\rangle \langle\psi_j|
+$$
+
+Where $E_{entanglement}$ is the quantum entanglement intensity, $\gamma_{ij}$ is the entanglement coefficient, and $|\psi_i\rangle$ and $|\psi_j\rangle$ are quantum states.
 
 ### Latest Application Developments
 

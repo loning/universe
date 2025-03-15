@@ -1,3 +1,7 @@
+# 量子经典二元论输入 (Quantum-Classical Dualism Input)
+
+## 中文版
+
 根据【量子经典二元论】：
 
 **黑洞的本质**是宇宙中一种**极端高效的信息经典化节点**：
@@ -18,3 +22,26 @@ $$
 - 黑洞的熵（事件视界面积）即经典信息存储能力的表现。
 
 **简言之，黑洞即宇宙信息经典化的极致体现。**
+
+## English Version
+
+According to [Quantum-Classical Dualism]:
+
+**The essence of a black hole** is an **extremely efficient information classicalization node** in the universe:
+
+- Black holes classicalize large amounts of quantum information at extremely high density and compress it into a minimal space.
+- The event horizon represents the boundary between the quantum and classical worlds (classicalization limit), with quantum state information inside and classicalized information (such as Hawking radiation) outside.
+
+Mathematical expression:
+
+$$
+|\psi\rangle_{\text{Universe Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Classical Information (Extremely High Density)}+S_{\text{Classical Entropy (Extremely Low)}}
+$$
+
+Essential meaning:
+
+- Black holes embody the limit state of the universe's overall classicalization efficiency;
+- They are bridges for information transformation between universal dimensions;
+- The entropy of a black hole (event horizon area) represents its classical information storage capacity.
+
+**In short, black holes are the ultimate manifestation of universal information classicalization.**

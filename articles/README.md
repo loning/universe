@@ -45,6 +45,20 @@
 5. **实践指导**：提供基于理论的实践方法和技巧
 6. **最新理论**：包含命运与自由意志、量子纠缠本质、灵性维度等最新理论发展
 
+### 核心文章公式
+
+观察者经典化公式：
+
+$$
+|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
+$$
+
+意识与宇宙关系公式：
+
+$$
+\text{意识} = \text{观察者} \otimes \text{宇宙} = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_{\text{观察者}} \otimes |\phi_j\rangle_{\text{宇宙}}
+$$
+
 ### 最新文章发展
 
 量子经典二元论的最新文章发展包括：
@@ -108,6 +122,20 @@ Quantum-Classical Dualism articles have the following features:
 4. **Interdisciplinary Integration**: Integrating knowledge from multiple disciplines to provide a comprehensive perspective
 5. **Practical Guidance**: Providing theory-based practical methods and techniques
 6. **Latest Theory**: Including the latest theoretical developments such as destiny and free will, quantum entanglement essence, and spiritual dimensions
+
+### Core Article Formulas
+
+Observer classicalization formula:
+
+$$
+|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
+$$
+
+Consciousness and universe relationship formula:
+
+$$
+\text{Consciousness} = \text{Observer} \otimes \text{Universe} = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_{\text{Observer}} \otimes |\phi_j\rangle_{\text{Universe}}
+$$
 
 ### Latest Article Developments
 
