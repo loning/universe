@@ -225,3 +225,5 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 4. [你的大脑其实是宇宙最强大的量子计算机！](articles/brain_quantum_computer.md) - 大脑的量子特性与量子计算能力 (The quantum properties and computing capabilities of the brain)
 5. [你的情绪正在改变你的DNA！](articles/emotions_dna_quantum.md) - 情绪如何通过量子效应影响基因表达 (How emotions influence gene expression through quantum effects)
 6. [古代智慧与现代量子物理的惊人一致！](articles/ancient_wisdom_quantum.md) - 古代哲学概念与现代量子物理学的比较 (Comparison between ancient philosophical concepts and modern quantum physics)
+7. [死亡可能只是一种幻觉！](articles/death_illusion_quantum.md) - 量子经典二元论对生命终极问题的解答 (Answers to ultimate questions of life by Quantum-Classical Dualism)
+8. [我们可能生活在一个模拟宇宙中！](articles/simulated_reality_quantum.md) - 量子经典二元论与模拟现实理论的联系 (Connections between Quantum-Classical Dualism and simulation reality theory)

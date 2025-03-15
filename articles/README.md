@@ -16,20 +16,45 @@
    - 探讨时间的非线性本质和量子纠缠
    - 提供增强直觉和预见能力的实用练习
 
-3. [【颠覆认知】你的大脑其实是宇宙最强大的量子计算机！科学家揭示惊人真相](brain_quantum_computer.md) - *即将推出*
+3. [【颠覆认知】你的大脑其实是宇宙最强大的量子计算机！科学家揭示惊人真相](brain_quantum_computer.md)
    - 探索人类大脑的量子特性
    - 解释意识如何作为量子信息的经典化过程
    - 提供"升级"你的大脑量子能力的方法
 
-4. [【惊人发现】科学家证实：你的情绪正在改变你的DNA！量子生物学的突破性发现](emotions_dna_quantum.md) - *即将推出*
+4. [【惊人发现】科学家证实：你的情绪正在改变你的DNA！量子生物学的突破性发现](emotions_dna_quantum.md)
    - 探讨情绪如何通过量子效应影响基因表达
    - 解释心脏的量子场及其重要性
    - 提供情绪量子调节技术
 
-5. [【震惊】古代智慧与现代量子物理的惊人一致！数千年前的先知已经知道的秘密](ancient_wisdom_quantum.md) - *即将推出*
+5. [【震惊】古代智慧与现代量子物理的惊人一致！数千年前的先知已经知道的秘密](ancient_wisdom_quantum.md)
    - 比较古代哲学概念与现代量子物理学
    - 探索古代冥想技术作为量子信息经典化工具
    - 揭示古代文明中隐藏的量子智慧
+
+6. [【震撼揭秘】死亡可能只是一种幻觉！量子经典二元论对生命终极问题的惊人解答](death_illusion_quantum.md)
+   - 探讨意识作为非局域量子信息的本质
+   - 解释临终体验的量子基础
+   - 提供基于量子经典二元论的生死观
+
+7. [【惊人发现】我们可能生活在一个模拟宇宙中！量子经典二元论与模拟现实理论的惊人联系](simulated_reality_quantum.md)
+   - 探讨量子测量问题与模拟现实的相似性
+   - 解释物理常数精确调整的可能原因
+   - 分析意识作为模拟中用户界面的观点
+
+8. [【颠覆认知】爱不只是情感，而是一种量子连接！科学家发现的惊人真相](quantum_love.md) - *即将推出*
+   - 探讨爱的量子物理学基础
+   - 解释心脏产生的量子场及其影响
+   - 提供增强人际量子连接的方法
+
+9. [【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现](quantum_dreams.md) - *即将推出*
+   - 探讨梦境作为量子信息经典化的特殊状态
+   - 解释清醒梦与量子观察者的关系
+   - 提供利用梦境探索多重现实的技术
+
+10. [【揭秘】为什么有些人能轻松成功而其他人却挣扎不已？量子经典二元论揭示的成功秘密](quantum_success.md) - *即将推出*
+    - 探讨观察者效应在事业中的应用
+    - 解释高维观察者的特质与成功的关系
+    - 提供成为自己现实高维观察者的策略
 
 ### 如何使用这些文章
 
@@ -63,20 +88,45 @@ Welcome to the Popular Articles on Quantum-Classical Dualism! This series aims t
    - Explore the non-linear nature of time and quantum entanglement
    - Provide practical exercises to enhance intuition and foresight
 
-3. [[MIND-BENDING] Your Brain is Actually the Universe's Most Powerful Quantum Computer! Scientists Reveal Astonishing Truth](brain_quantum_computer.md) - *Coming Soon*
+3. [[MIND-BENDING] Your Brain is Actually the Universe's Most Powerful Quantum Computer! Scientists Reveal Astonishing Truth](brain_quantum_computer.md)
    - Explore the quantum properties of the human brain
    - Explain consciousness as a process of quantum information classicalization
    - Provide methods to "upgrade" your brain's quantum capabilities
 
-4. [[AMAZING DISCOVERY] Scientists Confirm: Your Emotions Are Changing Your DNA! Breakthrough Findings in Quantum Biology](emotions_dna_quantum.md) - *Coming Soon*
+4. [[AMAZING DISCOVERY] Scientists Confirm: Your Emotions Are Changing Your DNA! Breakthrough Findings in Quantum Biology](emotions_dna_quantum.md)
    - Explore how emotions influence gene expression through quantum effects
    - Explain the quantum field of the heart and its importance
    - Provide emotional quantum regulation techniques
 
-5. [[SHOCKING] The Amazing Consistency Between Ancient Wisdom and Modern Quantum Physics! Secrets Known by Prophets Thousands of Years Ago](ancient_wisdom_quantum.md) - *Coming Soon*
+5. [[SHOCKING] The Amazing Consistency Between Ancient Wisdom and Modern Quantum Physics! Secrets Known by Prophets Thousands of Years Ago](ancient_wisdom_quantum.md)
    - Compare ancient philosophical concepts with modern quantum physics
    - Explore ancient meditation techniques as tools for quantum information classicalization
    - Reveal quantum wisdom hidden in ancient civilizations
+
+6. [[SHOCKING REVELATION] Death May Just Be an Illusion! Astonishing Answers to Ultimate Questions of Life by Quantum-Classical Dualism](death_illusion_quantum.md)
+   - Explore the nature of consciousness as non-local quantum information
+   - Explain the quantum basis of near-death experiences
+   - Provide a view of life and death based on Quantum-Classical Dualism
+
+7. [[AMAZING DISCOVERY] We May Be Living in a Simulated Universe! Astonishing Connections Between Quantum-Classical Dualism and Simulation Reality Theory](simulated_reality_quantum.md)
+   - Explore the similarities between the quantum measurement problem and simulated reality
+   - Explain possible reasons for the precise adjustment of physical constants
+   - Analyze the view of consciousness as a user interface in the simulation
+
+8. [[MIND-BENDING] Love is Not Just an Emotion, But a Quantum Connection! Astonishing Truth Discovered by Scientists](quantum_love.md) - *Coming Soon*
+   - Explore the quantum physics basis of love
+   - Explain the quantum field produced by the heart and its influence
+   - Provide methods to enhance interpersonal quantum connections
+
+9. [[ASTONISHING TRUTH] Dreams Are Not Illusions, But Your Visits to Parallel Universes! Breakthrough Discoveries in Quantum Dream Theory](quantum_dreams.md) - *Coming Soon*
+   - Explore dreams as a special state of quantum information classicalization
+   - Explain the relationship between lucid dreams and quantum observers
+   - Provide techniques to use dreams to explore multiple realities
+
+10. [[REVEALED] Why Do Some People Succeed Effortlessly While Others Struggle? The Secret of Success Revealed by Quantum-Classical Dualism](quantum_success.md) - *Coming Soon*
+    - Explore the application of the observer effect in career
+    - Explain the relationship between higher-dimensional observer characteristics and success
+    - Provide strategies to become a higher-dimensional observer of your own reality
 
 ### How to Use These Articles
 
