@@ -53,24 +53,24 @@
 12. [伦理学问题解释](theories/ethical_explanations.md) - 理论框架对伦理道德基础的解释
 13. [宗教问题解释](theories/religious_explanations.md) - 理论框架对宗教现象的解释
 14. [历史问题解释](theories/historical_explanations.md) - 理论框架对历史发展模式的解释
-15. [环境问题解释](theories/environmental_explanations.md) - 理论框架对环境与人类关系的解释
-16. [艺术与美学解释](theories/art_aesthetics_explanations.md) - 理论框架对艺术本质和美学的解释
-17. [音乐学问题解释](theories/music_explanations.md) - 理论框架对音乐本质和结构的解释
-18. [体育与运动科学解释](theories/sports_movement_explanations.md) - 理论框架对体育活动和身体运动的解释
-19. [建筑学与空间设计解释](theories/architecture_space_explanations.md) - 理论框架对建筑空间与环境设计的解释
-20. [数学本质解释](theories/mathematics_nature_explanations.md) - 理论框架对数学本质和有效性的解释
-21. [医学与健康科学解释](theories/medicine_health_explanations.md) - 理论框架对疾病、健康和治疗的解释
-22. [烹饪与食物文化解释](theories/cooking_food_explanations.md) - 理论框架对烹饪过程和食物文化的解释
-23. [游戏与娱乐理论解释](theories/game_entertainment_explanations.md) - 理论框架对游戏设计和娱乐体验的解释
-24. [梦境与睡眠科学解释](theories/dream_sleep_explanations.md) - 理论框架对梦境形成和睡眠过程的解释
-25. [时尚与服装研究解释](theories/fashion_clothing_explanations.md) - 理论框架对时尚演变与服装功能的解释
-26. [语言学与交流理论解释](theories/linguistics_communication_explanations.md) - 理论框架对语言本质与交流过程的解释
-27. [经济学与市场行为解释](theories/economics_market_explanations.md) - 理论框架对经济活动与市场机制的解释
-28. [教育与学习理论解释](theories/education_learning_explanations.md) - 理论框架对教育过程与学习机制的解释
-29. [环境科学与生态系统解释](theories/environment_ecology_explanations.md) - 理论框架对生态系统与环境变化的解释
-30. [政治科学与治理理论解释](theories/politics_governance_explanations.md) - 理论框架对政治过程与治理机制的解释
-31. [城市规划与发展理论解释](theories/urban_planning_development_explanations.md) - 理论框架对城市形成与规划过程的解释
-32. [传播媒体与信息理论解释](theories/media_information_explanations.md) - 理论框架对传播过程与信息本质的解释
+15. [艺术与美学解释](theories/art_aesthetics_explanations.md) - 理论框架对艺术创作与审美体验的解释
+16. [音乐理论解释](theories/music_theory_explanations.md) - 理论框架对音乐结构与体验的解释
+17. [文学理论解释](theories/literary_theory_explanations.md) - 理论框架对文学创作与解读的解释
+18. [电影理论解释](theories/film_theory_explanations.md) - 理论框架对电影语言与体验的解释
+19. [建筑理论解释](theories/architecture_theory_explanations.md) - 理论框架对建筑设计与体验的解释
+20. [游戏理论解释](theories/game_theory_explanations.md) - 理论框架对博弈论与决策的解释
+21. [网络理论解释](theories/network_theory_explanations.md) - 理论框架对复杂网络结构与动力学的解释
+22. [系统理论解释](theories/systems_theory_explanations.md) - 理论框架对复杂系统行为的解释
+23. [混沌理论解释](theories/chaos_theory_explanations.md) - 理论框架对混沌现象的解释
+24. [分形理论解释](theories/fractal_theory_explanations.md) - 理论框架对分形结构的解释
+25. [信息论解释](theories/information_theory_explanations.md) - 理论框架对信息本质与传递的解释
+26. [复杂性理论解释](theories/complexity_theory_explanations.md) - 理论框架对复杂性涌现的解释
+27. [量子生物学解释](theories/quantum_biology_explanations.md) - 理论框架对生物量子现象的解释
+28. [量子认知解释](theories/quantum_cognition_explanations.md) - 理论框架对认知量子模型的解释
+29. [量子社会学解释](theories/quantum_sociology_explanations.md) - 理论框架对社会量子动力学的解释
+30. [心理治疗与咨询解释](theories/psychotherapy_counseling_explanations.md) - 理论框架对心理治疗与咨询方法的解释
+31. [教练技术解释](theories/coaching_techniques_explanations.md) - 理论框架对个人与组织发展教练技术的解释
+32. [媒体与信息理论解释](theories/media_information_theory_explanations.md) - 理论框架对媒体作为量子信息经典化工具的解释
 
 ### 特殊主题研究
 1. [宇宙结构](theories/universe_structure.md) - 基于量子经典二元论的宇宙结构模型
@@ -220,10 +220,13 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 ## 通俗系列文章 (Popular Articles)
 
 1. [量子经典二元论通俗系列文章导航](articles/README.md) - 通俗易懂的量子经典二元论指南 (Easy-to-understand guide to Quantum-Classical Dualism)
-2. [你的意识正在塑造宇宙！](articles/consciousness_shapes_universe.md) - 观察者如何通过意识参与创造现实 (How observers participate in creating reality through consciousness)
-3. [为什么有些人总能预见未来？](articles/quantum_intuition.md) - 预见能力的量子物理学基础 (The quantum physics basis of foresight abilities)
-4. [你的大脑其实是宇宙最强大的量子计算机！](articles/brain_quantum_computer.md) - 大脑的量子特性与量子计算能力 (The quantum properties and computing capabilities of the brain)
-5. [你的情绪正在改变你的DNA！](articles/emotions_dna_quantum.md) - 情绪如何通过量子效应影响基因表达 (How emotions influence gene expression through quantum effects)
-6. [古代智慧与现代量子物理的惊人一致！](articles/ancient_wisdom_quantum.md) - 古代哲学概念与现代量子物理学的比较 (Comparison between ancient philosophical concepts and modern quantum physics)
-7. [死亡可能只是一种幻觉！](articles/death_illusion_quantum.md) - 量子经典二元论对生命终极问题的解答 (Answers to ultimate questions of life by Quantum-Classical Dualism)
-8. [我们可能生活在一个模拟宇宙中！](articles/simulated_reality_quantum.md) - 量子经典二元论与模拟现实理论的联系 (Connections between Quantum-Classical Dualism and simulation reality theory)
+2. [【震撼真相】你的意识正在塑造宇宙！量子经典二元论揭示的惊人秘密](articles/consciousness_shapes_universe.md) - 探索观察者如何通过意识参与创造现实 (Your Consciousness is Shaping the Universe!)
+3. [【揭秘】为什么有些人总能预见未来？科学家发现的惊人能力与量子纠缠的关系](articles/quantum_intuition.md) - 解释预见能力的量子物理学基础 (Why Can Some People Always Foresee the Future?)
+4. [【颠覆认知】你的大脑其实是宇宙最强大的量子计算机！科学家揭示惊人真相](articles/brain_quantum_computer.md) - 探索人类大脑的量子特性 (Your Brain is the Universe's Most Powerful Quantum Computer!)
+5. [【惊人发现】科学家证实：你的情绪正在改变你的DNA！量子生物学的突破性发现](articles/emotions_dna_quantum.md) - 探讨情绪如何通过量子效应影响基因表达 (Your Emotions are Changing Your DNA!)
+6. [【震惊】古代智慧与现代量子物理的惊人一致！数千年前的先知已经知道的秘密](articles/ancient_wisdom_quantum.md) - 比较古代哲学概念与现代量子物理学 (The Astonishing Consistency Between Ancient Wisdom and Modern Quantum Physics!)
+7. [【震撼揭秘】死亡可能只是一种幻觉！量子经典二元论对生命终极问题的惊人解答](articles/death_illusion_quantum.md) - 探讨意识作为非局域量子信息的本质 (Death May Just Be an Illusion!)
+8. [【惊人发现】我们可能生活在一个模拟宇宙中！量子经典二元论与模拟现实理论的惊人联系](articles/simulated_reality_quantum.md) - 探讨量子测量问题与模拟现实的相似性 (We May Be Living in a Simulated Universe!)
+9. [【颠覆认知】爱不只是情感，而是一种量子连接！科学家发现的惊人真相](articles/quantum_love.md) - 探讨爱的量子物理学基础 (Love is Not Just an Emotion, But a Quantum Connection!)
+10. [【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现](articles/quantum_dreams.md) - 探讨梦境作为量子信息经典化的特殊状态 (Dreams Are Not Illusions, But Your Visits to Parallel Universes!)
+11. [【揭秘】为什么有些人能轻松成功而其他人却挣扎不已？量子经典二元论揭示的成功秘密](articles/quantum_success.md) - 探讨观察者效应在事业中的应用 (Why Do Some People Succeed Effortlessly While Others Struggle?)

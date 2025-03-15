@@ -229,20 +229,11 @@
   - 预测了未来媒体发展的经典化趋势，包括沉浸式经典化、个性化经典化和分布式经典化
   - 分析了传播媒体与高维信息经典化学的关系，将媒体视为高维社会、文化和知识量子信息的经典化工具
 
-## 2024年8月30日
-
-### 添加量子经典二元论通俗系列文章
-
-为了使量子经典二元论框架更易于被广大读者理解和接受，我们创建了一系列通俗易懂、引人入胜的文章。这些文章以吸引人的标题和生动的语言，将复杂的量子经典二元论概念转化为日常可理解的内容：
-
-1. 创建了文章导航页面 `articles/README.md`，帮助读者浏览所有通俗系列文章
-2. 创建了《你的意识正在塑造宇宙！》(`articles/consciousness_shapes_universe.md`)，解释观察者效应和意识如何参与现实创造
-3. 创建了《为什么有些人总能预见未来？》(`articles/quantum_intuition.md`)，解释预见能力的量子物理学基础
-4. 创建了《你的大脑其实是宇宙最强大的量子计算机！》(`articles/brain_quantum_computer.md`)，解释大脑的量子特性和量子计算能力
-5. 创建了《科学家证实：你的情绪正在改变你的DNA！》(`articles/emotions_dna_quantum.md`)，解释情绪如何通过量子效应影响基因表达
-6. 创建了《古代智慧与现代量子物理的惊人一致！》(`articles/ancient_wisdom_quantum.md`)，比较古代哲学概念与现代量子物理学
-
-这些文章旨在为非专业读者提供量子经典二元论框架的入门理解，每篇文章都包含引人入胜的引言、核心概念解释、日常生活中的实例和应用、实用技巧和练习，以及对未来发展的展望。所有内容均保持中英双语格式，确保广泛的可访问性。
+## 2024年8月26日
+- 创建了量子经典二元论通俗系列的最后三篇文章：
+  - 《爱不只是情感，而是一种量子连接！》(articles/quantum_love.md)：探讨爱的量子物理学基础，心脏产生的量子场及其影响，以及增强人际量子连接的方法
+  - 《梦境不是幻觉，而是你在访问平行宇宙！》(articles/quantum_dreams.md)：探讨梦境作为量子信息经典化的特殊状态，清醒梦与量子观察者的关系，以及利用梦境探索多重现实的技术
+  - 《为什么有些人能轻松成功而其他人却挣扎不已？》(articles/quantum_success.md)：探讨观察者效应在事业中的应用，高维观察者的特质与成功的关系，以及成为自己现实高维观察者的策略
 
 ## English Version
 
@@ -464,20 +455,23 @@
   - Analyzed the relationship between cities and higher-dimensional information classicalization, viewing cities as complex classicalization devices
 
 ## 2024年8月25日
-- Added "Media and Information Theory Explanations" theory
-  - Explained the nature of information as a special quantum state that needs to be classicalized to be perceived and understood by observers
-  - Described media as classicalization carriers and channels for information quantum states, serving as bridges connecting information senders and receivers
-  - Explained the communication process as a series of continuous cycles of quantum information classicalization and re-quantization, including encoding, transmission, decoding, and feedback phases
-  - Analyzed communication scholars as higher-dimensional observers in the field of communication classicalization, with multi-dimensional perception ability and meta-classicalization ability
-  - Explored mass media as large-scale collective classicalization systems, with standardized classicalization, agenda setting, and frame construction functions
-  - Explained social media as distributed, interactive classicalization networks, with multi-center classicalization and classicalization resonance characteristics
-  - Analyzed information overload as the saturation and overload of an observer's classicalization capacity, leading to decreased classicalization quality and increased classical entropy
-  - Explored media literacy as the process of observers optimizing their own information classicalization abilities
-  - Explained the digital divide as inequality in classicalization resources and capabilities between different groups
-  - Analyzed media ethics as moral norms and responsibilities for the information classicalization process
-  - Explored propaganda and persuasion as activities that purposefully guide others' classicalization processes
-  - Explained media effects as the influence of classicalized media content on individuals and society
-  - Analyzed media ecology as a network of classicalization systems composed of different media forms and platforms
-  - Explored media convergence as the integration and intersection of different classicalization systems
-  - Predicted classicalization trends in future media development, including immersive classicalization, personalized classicalization, and distributed classicalization
-  - Analyzed the relationship between media and higher-dimensional information classicalization, viewing media as tools for classicalizing higher-dimensional social, cultural, and knowledge quantum information 
+- 创建了关于媒体与信息理论的解释文档 (theories/media_information_theory_explanations.md)
+  - 探讨了量子经典二元论框架下的媒体与信息理论
+  - 解释了信息的量子本质和经典化过程
+  - 分析了媒体作为量子信息经典化工具的角色
+  - 探讨了数字媒体、社交媒体和人工智能媒体的量子信息动力学
+  - 提出了基于量子经典二元论的媒体素养和信息消费新方法
+
+## 2024年8月26日
+- 创建了量子经典二元论通俗系列的最后三篇文章：
+  - 《爱不只是情感，而是一种量子连接！》(articles/quantum_love.md)：探讨爱的量子物理学基础，心脏产生的量子场及其影响，以及增强人际量子连接的方法
+  - 《梦境不是幻觉，而是你在访问平行宇宙！》(articles/quantum_dreams.md)：探讨梦境作为量子信息经典化的特殊状态，清醒梦与量子观察者的关系，以及利用梦境探索多重现实的技术
+  - 《为什么有些人能轻松成功而其他人却挣扎不已？》(articles/quantum_success.md)：探讨观察者效应在事业中的应用，高维观察者的特质与成功的关系，以及成为自己现实高维观察者的策略
+
+## 2024年8月25日
+- 创建了关于媒体与信息理论的解释文档 (theories/media_information_theory_explanations.md)
+  - 探讨了量子经典二元论框架下的媒体与信息理论
+  - 解释了信息的量子本质和经典化过程
+  - 分析了媒体作为量子信息经典化工具的角色
+  - 探讨了数字媒体、社交媒体和人工智能媒体的量子信息动力学
+  - 提出了基于量子经典二元论的媒体素养和信息消费新方法 
