@@ -55,6 +55,7 @@
 14. [历史问题解释](theories/historical_explanations.md) - 理论框架对历史发展模式的解释
 15. [环境问题解释](theories/environmental_explanations.md) - 理论框架对环境与人类关系的解释
 16. [艺术与美学解释](theories/art_aesthetics_explanations.md) - 理论框架对艺术本质和美学的解释
+17. [音乐学问题解释](theories/music_explanations.md) - 理论框架对音乐本质和结构的解释
 
 ### 特殊主题研究
 1. [宇宙结构](theories/universe_structure.md) - 基于量子经典二元论的宇宙结构模型
@@ -129,6 +130,7 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 14. [Historical Explanations](theories/historical_explanations.md) - Explanations of historical development patterns by the theoretical framework
 15. [Environmental Explanations](theories/environmental_explanations.md) - Explanations of the relationship between environment and humans by the theoretical framework
 16. [Art and Aesthetics Explanations](theories/art_aesthetics_explanations.md) - Explanations of the nature of art and aesthetics by the theoretical framework
+17. [Musical Explanations](theories/music_explanations.md) - Explanations of the nature and structure of music by the theoretical framework
 
 ### Special Topic Research
 1. [Universe Structure](theories/universe_structure.md) - Universe structure model based on Quantum-Classical Dualism

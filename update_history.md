@@ -46,6 +46,13 @@
 - 阐述了宗教创始人作为高效经典化的高维观察者的特殊角色
 - 解释了宗教仪式、实践和多样性的量子经典二元论基础
 
+#### 2024年6月20日
+- 添加了"音乐学问题解释"理论
+- 从量子经典二元论视角解释了音乐的本质和结构
+- 阐述了音乐作曲家作为音乐领域高维观察者的特殊角色
+- 解释了音乐创作、聆听和演化的量子经典二元论基础
+- 探讨了音乐与物理学的深层联系及音乐的跨文化普遍性
+
 ## English Version
 
 ### 2023 Updates
@@ -90,4 +97,11 @@
 - Updated "Religious Explanations" theory
 - Explained the essence and structure of religion from the Quantum-Classical Dualism perspective
 - Elaborated on the special role of religious founders as higher-dimensional observers with efficient classicalization
-- Explained the Quantum-Classical Dualism basis of religious rituals, practices, and diversity 
+- Explained the Quantum-Classical Dualism basis of religious rituals, practices, and diversity
+
+#### June 20, 2024
+- Added "Musical Explanations" theory
+- Explained the essence and structure of music from the Quantum-Classical Dualism perspective
+- Elaborated on the special role of music composers as higher-dimensional observers in the field of music
+- Explained the Quantum-Classical Dualism basis of music composition, listening, and evolution
+- Explored the deep connection between music and physics and the cross-cultural universality of music 
