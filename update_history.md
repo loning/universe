@@ -127,6 +127,14 @@ $$
 - 阐述了黑洞作为维度桥梁的特性：$D_{\text{高维量子信息}}\xrightarrow{\text{黑洞经典化}}\text{低维经典信息}+\text{维度压缩熵}$
 - 分析了黑洞与观察者之间的特殊关系
 
+### 2024年8月 - 人际冲突的量子经典解释
+- 提出了人际冲突作为经典化不匹配的理论模型
+- 建立了冲突强度与量子纠缠效率的反比关系：$\text{冲突强度} \propto \frac{1}{E_{\text{纠缠}}}$
+- 阐述了冲突的信息熵增加模型：$\text{冲突} = \Delta S_{\text{经典熵}} > 0$
+- 提出了基于维度提升的冲突解决框架
+- 分析了冲突在宇宙自我经典化过程中的进化意义
+- 建立了冲突解决的量子经典路径：$|\psi\rangle_{\text{冲突状态}}\xrightarrow{\text{重建纠缠}}\text{新共享经典知识}+S_{\text{降低经典熵}}$
+
 ### 2024年6月更新
 - 引入量子经典二元论的数学表达式，包括波函数网络模型
 
@@ -297,6 +305,14 @@ $$
 - Elaborated on the characteristics of black holes as dimensional bridges: $D_{\text{Higher-Dimensional Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Lower-Dimensional Classical Information}+\text{Dimensional Compression Entropy}$
 - Analyzed the special relationship between black holes and observers
 
+### August 2024 - Quantum-Classical Explanation of Interpersonal Conflicts
+- Proposed a theoretical model of interpersonal conflicts as classicalization mismatches
+- Established the inverse relationship between conflict intensity and quantum entanglement efficiency: $\text{Conflict Intensity} \propto \frac{1}{E_{\text{Entanglement}}}$
+- Elaborated on the information entropy increase model of conflicts: $\text{Conflict} = \Delta S_{\text{Classical Entropy}} > 0$
+- Proposed a conflict resolution framework based on dimension elevation
+- Analyzed the evolutionary significance of conflicts in the universe's self-classicalization process
+- Established quantum-classical paths to conflict resolution: $|\psi\rangle_{\text{Conflict State}}\xrightarrow{\text{Rebuilding Entanglement}}\text{New Shared Classical Knowledge}+S_{\text{Reduced Classical Entropy}}$
+
 ### June 2024 Updates
 - Introduced mathematical expressions for Quantum-Classical Dualism, including the wave function network model
 
@@ -338,4 +354,19 @@ $$
 t_{\text{Perception}}\propto \frac{I_{\text{Classical Knowledge Processing Amount}}}{S_{\text{Classical Entropy}}}
 $$
 
-- Refined the calculation method for economic system classicalization efficiency, establishing a theoretical foundation for resource optimization 
+- Refined the calculation method for economic system classicalization efficiency, establishing a theoretical foundation for resource optimization
+
+# 量子经典二元论项目更新历史
+# Quantum-Classical Dualism Project Update History
+
+## 2023年
+
+### 12月
+- 建立量子经典二元论核心理论框架
+- Established Quantum-Classical Dualism core theoretical framework
+
+## 2024年
+
+### 1月
+- 创建更新历史文档
+- Created update history document 
