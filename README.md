@@ -75,6 +75,7 @@ The Quantum-Classical Dualism Universe Theory is a unified theoretical framework
 3. [观察者的维度与维度提升机制](theories/observer_perception/dimension_elevation.md) - 观察者维度及其提升的理论机制
 4. [梦境的量子信息处理机制](theories/observer_perception/dream_mechanism.md) - 梦境作为量子信息处理的特殊状态
 5. [意识与熵的关系](theories/observer_perception/consciousness_entropy.md) - 意识与熵之间的深层关系研究
+6. [黑洞观察者](theories/observer_perception/black_hole_observer.md) - 黑洞作为极端观察者的理论与观察者间的影响机制
 
 ### 宇宙结构与演化
 1. [宇宙的生命周期](theories/universe_structure/lifecycle.md) - 宇宙从形成到演化的完整周期
@@ -166,6 +167,7 @@ The Quantum-Classical Dualism Universe Theory is a unified theoretical framework
 3. [Observer Dimensions and Dimension Elevation Mechanism](theories/observer_perception/dimension_elevation.md) - Theoretical mechanism of observer dimensions and their elevation
 4. [Quantum Information Processing Mechanism of Dreams](theories/observer_perception/dream_mechanism.md) - Dreams as special states of quantum information processing
 5. [Relationship Between Consciousness and Entropy](theories/observer_perception/consciousness_entropy.md) - Research on the deep relationship between consciousness and entropy
+6. [Black Hole Observer](theories/observer_perception/black_hole_observer.md) - Theory of black holes as extreme observers and mechanisms of influence between observers
 
 ### Universe Structure and Evolution
 1. [Life Cycle of the Universe](theories/universe_structure/lifecycle.md) - Complete cycle of the universe from formation to evolution
