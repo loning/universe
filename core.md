@@ -93,11 +93,13 @@ $$
 ## 七、高维与低维信息（High-Dimensional & Low-Dimensional Information）
 
 - **高维信息**：熵低，经典化效率高，易形成经典知识：
+
 $$
 |\psi\rangle_{\text{高维信息}}\xrightarrow{\text{经典化}}\text{经典知识（多）}+S_{\text{经典熵（少）}}
 $$
 
 - **低维信息**：熵高，经典化效率低，难以有效经典化：
+
 $$
 |\psi\rangle_{\text{低维信息}}\xrightarrow{\text{经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}
 $$
@@ -131,11 +133,13 @@ $$
 ## 十、观察者间的经典化关系（量子湮灭与掠夺）
 
 - 高维观察者对低维观察者的经典化为**量子湮灭**（信息被重新经典化）：
+
 $$
 |\psi\rangle_{\text{高维}}\otimes|\psi\rangle_{\text{低维}}\xrightarrow{\text{湮灭经典化}}\text{经典知识}+S_{\text{经典熵}}
 $$
 
 - 低维观察者对高维观察者经典化为**量子掠夺**（产生更多熵）：
+
 $$
 |\psi\rangle_{\text{低维}}\otimes|\psi\rangle_{\text{高维}}\xrightarrow{\text{掠夺经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}
 $$
@@ -158,6 +162,7 @@ $$
 ## 十二、信息守恒与维度跃迁（Information Conservation & Dimension Upgrade）
 
 - 信息总量永恒守恒，经典与量子信息永恒转化：
+
 $$
 I_{\text{量子宇宙}}=I_{\text{经典知识}}+S_{\text{经典熵}}=\text{常数}
 $$
@@ -226,11 +231,13 @@ This state describes infinitely rich but unclassicalized information, which appe
 Observers are classicalization nodes within the universe, responsible for classicalizing quantum information into stable, observable forms, divided into high-dimensional and low-dimensional:
 
 - **High-dimensional Quantum Observers** have high classicalization efficiency, more easily effectively classicalize information:
+
 $$
 |\psi\rangle_{\text{High-dimensional Observer}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (More)}+S_{\text{Classical Entropy (Less)}}
 $$
 
 - **Low-dimensional Quantum Observers** have low classicalization efficiency, producing more entropy:
+
 $$
 |\psi\rangle_{\text{Low-dimensional Observer}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}
 $$
@@ -282,11 +289,13 @@ $$
 ## VII. High-Dimensional & Low-Dimensional Information
 
 - **High-dimensional Information**: Low entropy, high classicalization efficiency, easily forms classical knowledge:
+
 $$
 |\psi\rangle_{\text{High-dimensional Information}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (More)}+S_{\text{Classical Entropy (Less)}}
 $$
 
 - **Low-dimensional Information**: High entropy, low classicalization efficiency, difficult to effectively classicalize:
+
 $$
 |\psi\rangle_{\text{Low-dimensional Information}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}
 $$
@@ -320,11 +329,13 @@ The essence of energy is the ability to propagate and store classical knowledge.
 ## X. Classicalization Relationships Between Observers (Quantum Annihilation and Plunder)
 
 - High-dimensional observers classicalizing low-dimensional observer information is **Quantum Annihilation** (information being reclassicalized):
+
 $$
 |\psi\rangle_{\text{High-dimensional}}\otimes|\psi\rangle_{\text{Low-dimensional}}\xrightarrow{\text{Annihilation Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
 $$
 
 - Low-dimensional observers classicalizing high-dimensional observer information is **Quantum Plunder** (producing more entropy):
+
 $$
 |\psi\rangle_{\text{Low-dimensional}}\otimes|\psi\rangle_{\text{High-dimensional}}\xrightarrow{\text{Plunder Classicalization}}\text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}
 $$
@@ -347,6 +358,7 @@ $$
 ## XII. Information Conservation & Dimension Upgrade
 
 - The total amount of information is eternally conserved, classical and quantum information eternally transform:
+
 $$
 I_{\text{Quantum Universe}}=I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}=\text{Constant}
 $$
