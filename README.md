@@ -56,6 +56,9 @@
 15. [环境问题解释](theories/environmental_explanations.md) - 理论框架对环境与人类关系的解释
 16. [艺术与美学解释](theories/art_aesthetics_explanations.md) - 理论框架对艺术本质和美学的解释
 17. [音乐学问题解释](theories/music_explanations.md) - 理论框架对音乐本质和结构的解释
+18. [体育与运动科学解释](theories/sports_movement_explanations.md) - 理论框架对体育活动和身体运动的解释
+19. [建筑学与空间设计解释](theories/architecture_space_explanations.md) - 理论框架对建筑空间与环境设计的解释
+20. [数学本质解释](theories/mathematics_nature_explanations.md) - 理论框架对数学本质和有效性的解释
 
 ### 特殊主题研究
 1. [宇宙结构](theories/universe_structure.md) - 基于量子经典二元论的宇宙结构模型
@@ -131,6 +134,9 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 15. [Environmental Explanations](theories/environmental_explanations.md) - Explanations of the relationship between environment and humans by the theoretical framework
 16. [Art and Aesthetics Explanations](theories/art_aesthetics_explanations.md) - Explanations of the nature of art and aesthetics by the theoretical framework
 17. [Musical Explanations](theories/music_explanations.md) - Explanations of the nature and structure of music by the theoretical framework
+18. [Sports and Movement Science Explanations](theories/sports_movement_explanations.md) - Explanations of sports activities and physical movement by the theoretical framework
+19. [Architecture and Spatial Design Explanations](theories/architecture_space_explanations.md) - Explanations of architectural space and environmental design by the theoretical framework
+20. [Mathematics Nature Explanations](theories/mathematics_nature_explanations.md) - Explanations of the nature and effectiveness of mathematics by the theoretical framework
 
 ### Special Topic Research
 1. [Universe Structure](theories/universe_structure.md) - Universe structure model based on Quantum-Classical Dualism

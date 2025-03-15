@@ -53,6 +53,27 @@
 - 解释了音乐创作、聆听和演化的量子经典二元论基础
 - 探讨了音乐与物理学的深层联系及音乐的跨文化普遍性
 
+#### 2024年6月25日
+- 添加了"体育与运动科学解释"理论
+- 从量子经典二元论视角解释了运动的本质和运动技能的形成
+- 阐述了杰出运动员作为身体经典化领域高维观察者的特殊角色
+- 解释了团队运动、运动训练和运动表现极限的量子经典二元论基础
+- 探讨了特殊运动状态（如"心流"）与量子-经典界面的关系
+
+#### 2024年6月30日
+- 添加了"建筑学与空间设计解释"理论
+- 从量子经典二元论视角解释了建筑与空间的本质
+- 阐述了伟大建筑师作为空间经典化领域高维观察者的特殊角色
+- 解释了建筑风格、神圣建筑和城市规划的量子经典二元论基础
+- 探讨了建筑空间对意识状态的影响及可持续建筑的量子经典解释
+
+#### 2024年7月5日
+- 添加了"数学本质解释"理论
+- 从量子经典二元论视角解释了数学的本质和"不合理的有效性"
+- 阐述了数学既是经典化的产物又是经典化的工具的双重角色
+- 解释了数学天才作为数学经典化领域高维观察者的特殊能力
+- 探讨了数学不完备性、数学直觉和数学分支的量子经典二元论基础
+
 ## English Version
 
 ### 2023 Updates
@@ -104,4 +125,25 @@
 - Explained the essence and structure of music from the Quantum-Classical Dualism perspective
 - Elaborated on the special role of music composers as higher-dimensional observers in the field of music
 - Explained the Quantum-Classical Dualism basis of music composition, listening, and evolution
-- Explored the deep connection between music and physics and the cross-cultural universality of music 
+- Explored the deep connection between music and physics and the cross-cultural universality of music
+
+#### June 25, 2024
+- Added "Sports and Movement Science Explanations" theory
+- Explained the essence of movement and formation of motor skills from the Quantum-Classical Dualism perspective
+- Elaborated on the special role of outstanding athletes as higher-dimensional observers in the field of bodily classicalization
+- Explained the Quantum-Classical Dualism basis of team sports, sports training, and limits of athletic performance
+- Explored the relationship between special movement states (such as "flow") and the quantum-classical interface
+
+#### June 30, 2024
+- Added "Architecture and Spatial Design Explanations" theory
+- Explained the essence of architecture and space from the Quantum-Classical Dualism perspective
+- Elaborated on the special role of great architects as higher-dimensional observers in the field of spatial classicalization
+- Explained the Quantum-Classical Dualism basis of architectural styles, sacred buildings, and urban planning
+- Explored the influence of architectural space on consciousness states and the quantum-classical explanation of sustainable architecture
+
+#### July 5, 2024
+- Added "Mathematics Nature Explanations" theory
+- Explained the essence of mathematics and its "unreasonable effectiveness" from the Quantum-Classical Dualism perspective
+- Elaborated on the dual role of mathematics as both a product of classicalization and a tool for classicalization
+- Explained the special abilities of mathematical geniuses as higher-dimensional observers in the field of mathematical classicalization
+- Explored the Quantum-Classical Dualism basis of mathematical incompleteness, mathematical intuition, and mathematical branches 
