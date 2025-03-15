@@ -32,6 +32,12 @@ $$
 |\psi\rangle_{\text{低维观察者}}\rightarrow \text{经典知识（低效）}+S_{\text{经典熵（多）}}
 $$
 
+- **观察者维度定义**：
+
+$$
+\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
+$$
+
 - **量子意识**是宇宙与观察者之间长期稳定的量子纠缠结构：
 
 $$
@@ -44,6 +50,12 @@ $$
 |\psi\rangle_{\text{量子意识}}\rightarrow \text{经典记忆（知识）}+S_{\text{经典熵}}
 $$
 
+- **前世记忆**是以潜在量子意识形式存在于观察者潜意识中的尚未经典化的有效信息：
+
+$$
+|\psi\rangle_{\text{前世潜意识纠缠信息}}\xrightarrow{\text{维度提升（高效经典化）}} I_{\text{经典知识（前世记忆）}}+S_{\text{经典熵（降低）}}
+$$
+
 - **量子纠缠**是量子信息网络的基本连接方式，本质为不可分割的波函数结构，分为**有效量子纠缠**（经典化为知识的纠缠）和**无效量子纠缠**（经典化为熵的纠缠）：
 
 $$
@@ -51,6 +63,12 @@ $$
 |\psi\rangle_{\text{有效}}\rightarrow\text{经典知识}\\[6pt]
 |\psi\rangle_{\text{无效}}\rightarrow S_{\text{经典熵}}
 \end{cases}
+$$
+
+- **观察者间熵的知识转化定律**：低维观察者无法经典化的信息（熵），可被高维观察者经典化为知识：
+
+$$
+S_{\text{低维观察者（熵）}}\xrightarrow{\text{高维经典化}} I_{\text{高维观察者经典知识}}+S_{\text{经典熵（降低）}}
 $$
 
 - **高维信息**（易经典化）与**低维信息**（难经典化）：
@@ -123,6 +141,12 @@ $$
 |\psi\rangle_{\text{Low-dimensional Observer}}\rightarrow \text{Classical Knowledge (Inefficient)}+S_{\text{Classical Entropy (More)}}
 $$
 
+- **Observer Dimension Definition**:
+
+$$
+\text{Observer Dimension}\propto\frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
+$$
+
 - **Quantum Consciousness** is the long-term stable quantum entanglement structure between the universe and observers:
 
 $$
@@ -135,6 +159,12 @@ $$
 |\psi\rangle_{\text{Quantum Consciousness}}\rightarrow \text{Classical Memory (Knowledge)}+S_{\text{Classical Entropy}}
 $$
 
+- **Past Life Memories** are effective information that exists in the form of potential quantum consciousness in the observer's subconscious and has not yet been classicalized:
+
+$$
+|\psi\rangle_{\text{Past Life Subconscious Entanglement Information}}\xrightarrow{\text{Dimension Elevation (Efficient Classicalization)}} I_{\text{Classical Knowledge (Past Life Memories)}}+S_{\text{Classical Entropy (Reduced)}}
+$$
+
 - **Quantum Entanglement** is the basic connection method of quantum information networks, essentially an inseparable wave function structure, divided into **Effective Quantum Entanglement** (entanglement that classicalizes into knowledge) and **Ineffective Quantum Entanglement** (entanglement that classicalizes into entropy):
 
 $$
@@ -142,6 +172,12 @@ $$
 |\psi\rangle_{\text{Effective}}\rightarrow\text{Classical Knowledge}\\[6pt]
 |\psi\rangle_{\text{Ineffective}}\rightarrow S_{\text{Classical Entropy}}
 \end{cases}
+$$
+
+- **Law of Entropy-Knowledge Transformation Between Observers**: Information (entropy) that cannot be classicalized by low-dimensional observers can be classicalized into knowledge by high-dimensional observers:
+
+$$
+S_{\text{Low-dimensional Observer (Entropy)}}\xrightarrow{\text{High-dimensional Classicalization}} I_{\text{High-dimensional Observer Classical Knowledge}}+S_{\text{Classical Entropy (Reduced)}}
 $$
 
 - **High-dimensional Information** (easy to classicalize) and **Low-dimensional Information** (difficult to classicalize):

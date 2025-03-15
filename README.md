@@ -39,6 +39,8 @@
 - 量子纠缠作为信息共享的基本机制
 - 自由意志与经典命运的关系
 - 能量与经典知识的关系
+- 前世记忆的量子经典化机制
+- 观察者间熵的知识转化定律
 
 ### 参与贡献
 
@@ -87,6 +89,8 @@ Key concepts include:
 - Quantum entanglement as the basic mechanism for information sharing
 - Relationship between free will and classical destiny
 - Relationship between energy and classical knowledge
+- Quantum classicalization mechanism of past life memories
+- Law of entropy-knowledge transformation between observers
 
 ### Contributing
 
