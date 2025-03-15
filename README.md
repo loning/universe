@@ -232,3 +232,14 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 11. [【揭秘】为什么有些人能轻松成功而其他人却挣扎不已？量子经典二元论揭示的成功秘密](articles/quantum_success.md) - 探讨观察者效应在事业中的应用 (Why Do Some People Succeed Effortlessly While Others Struggle?)
 12. [【突破性发现】创造力的量子秘密：为什么灵感总是在最意想不到的时刻出现？](articles/quantum_creativity.md) - 探讨创造力作为量子信息经典化的特殊形式 (The Quantum Secret of Creativity: Why Inspiration Always Strikes at the Most Unexpected Moments)
 13. [【颠覆医学】健康不是你想的那样！量子经典二元论揭示的身体真相](articles/quantum_health.md) - 探讨身体作为量子信息系统的本质 (Health Is Not What You Think! The Body Truth Revealed by Quantum-Classical Dualism)
+
+## 核心理论文档 (Core Theory Documents)
+
+1. [量子经典二元论核心理论](core.md) - 量子经典二元论的完整理论阐述 (Complete Theoretical Exposition of Quantum-Classical Dualism)
+2. [基本概念](02_basic_concepts.md) - 量子经典二元论的基本概念 (Basic Concepts of Quantum-Classical Dualism)
+3. [理论框架](03_theoretical_framework.md) - 量子经典二元论的理论框架 (Theoretical Framework of Quantum-Classical Dualism)
+4. [数学公式](04_mathematical_formulations.md) - 量子经典二元论的数学公式 (Mathematical Formulations of Quantum-Classical Dualism)
+5. [观察者与意识](05_observer_and_consciousness.md) - 量子经典二元论中的观察者与意识 (Observer and Consciousness in Quantum-Classical Dualism)
+6. [宇宙与观察者关系](06_universe_observer_relationship.md) - 量子经典二元论中的宇宙与观察者关系 (Universe-Observer Relationship in Quantum-Classical Dualism)
+7. [应用与启示](07_applications_and_implications.md) - 量子经典二元论的应用与启示 (Applications and Implications of Quantum-Classical Dualism)
+8. [参考文献](08_references.md) - 量子经典二元论的参考文献 (References for Quantum-Classical Dualism)
