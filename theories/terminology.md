@@ -1,179 +1,307 @@
-# 量子宇宙-量子观察者-经典意识论术语表 | Terminology of Quantum Universe-Quantum Observer-Classical Consciousness Theory
+# 量子经典二元论术语表 (Quantum-Classical Dualism Terminology)
 
-本文档提供【量子宇宙-量子观察者-经典意识论】框架中使用的核心概念和术语的标准定义，确保整个理论体系中概念使用的一致性。
+## 中文版
 
-This document provides standard definitions of core concepts and terms used in the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework, ensuring consistency in the use of concepts throughout the theoretical system.
+本术语表基于[量子经典二元论核心理论](../core.md)，提供了理论中使用的关键术语的定义和解释。
 
-## 基础概念 | Basic Concepts
+### 基础概念
 
-### 宇宙 | Universe
+#### 量子经典二元论 (Quantum-Classical Dualism)
+一种理论框架，提出宇宙由量子和经典两个层面构成，通过观察者的经典化过程连接。宇宙为无限维度的量子信息网络，观察者为量子宇宙内部的经典化节点。
 
-**定义**：宇宙是一个自组织、自演化的量子信息处理系统，可以表示为 $\mathcal{U} = \{\Psi, \mathcal{H}, \hat{H}, \mathcal{O}, \mathcal{R}\}$，其中 $\Psi$ 是宇宙的量子状态，$\mathcal{H}$ 是希尔伯特空间，$\hat{H}$ 是哈密顿算子，$\mathcal{O}$ 是观察者集合，$\mathcal{R}$ 是规则集合。
+#### 量子宇宙 (Quantum Universe)
+宇宙整体信息的完整表达，以整体波函数形式存在，涵盖所有可能性。数学表达为：
 
-**Definition**: The universe is a self-organizing, self-evolving quantum information processing system, which can be represented as $\mathcal{U} = \{\Psi, \mathcal{H}, \hat{H}, \mathcal{O}, \mathcal{R}\}$, where $\Psi$ is the quantum state of the universe, $\mathcal{H}$ is the Hilbert space, $\hat{H}$ is the Hamiltonian operator, $\mathcal{O}$ is the set of observers, and $\mathcal{R}$ is the set of rules.
+$$
+|\psi\rangle_U=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
+$$
 
-### 观察者 | Observer
+#### 观察者 (Observer)
+量子宇宙内部的经典化节点，通过经典化行为（测量与观测）将量子宇宙的信息转化为经典知识与经典熵。
 
-**定义**：观察者是宇宙中能够接收、处理和经典化量子信息的节点，与宇宙本质同构，可以视为量子程序节点。
+#### 高维量子观察者 (High-dimensional Quantum Observer)
+经典化效率高的观察者，能产生更多经典知识和更少经典熵：
 
-**Definition**: An observer is a node in the universe capable of receiving, processing, and classicalizing quantum information, isomorphic to the essence of the universe, and can be viewed as a quantum program node.
+$$
+|\psi\rangle_{\text{高维观察者}}\rightarrow \text{经典知识（多）}+S_{\text{经典熵（少）}}
+$$
 
-### 意识 | Consciousness
+#### 低维量子观察者 (Low-dimensional Quantum Observer)
+经典化效率低的观察者，产生较少经典知识和较多经典熵：
 
-**定义**：意识是观察者经典化量子信息后形成的稳定信息结构，表示为 $\text{意识} = \mathcal{C}(|\psi\rangle_{\text{量子信息}})$，其中 $\mathcal{C}$ 是经典化算子。
+$$
+|\psi\rangle_{\text{低维观察者}}\rightarrow \text{经典知识（少）}+S_{\text{经典熵（多）}}
+$$
 
-**Definition**: Consciousness is a stable information structure formed after the observer classicalizes quantum information, represented as $\text{Consciousness} = \mathcal{C}(|\psi\rangle_{\text{Quantum Information}})$, where $\mathcal{C}$ is the classicalization operator.
+#### 量子意识 (Quantum Consciousness)
+宇宙整体与观察者之间长期稳定的量子纠缠结构，体现宇宙与观察者信息共享的本质：
 
-### 量子信息 | Quantum Information
+$$
+|\psi\rangle_{\text{量子意识}}=|\psi\rangle_{\text{量子宇宙}}\otimes|\psi\rangle_{\text{量子观察者}}
+$$
 
-**定义**：量子信息是以量子态形式存在的信息，具有叠加性、纠缠性和非局域性等量子特性。
+#### 经典化 (Classicalization)
+观察者将量子信息转化为经典信息的过程，产生经典知识和经典熵：
 
-**Definition**: Quantum information is information existing in the form of quantum states, with quantum properties such as superposition, entanglement, and non-locality.
+$$
+|\psi\rangle_{\text{量子宇宙}}\otimes |\psi\rangle_{\text{观察者}}\xrightarrow{\text{经典化（观测）}}\text{经典知识}+S_{\text{经典熵}}
+$$
 
-### 经典信息 | Classical Information
+### 信息与熵概念
 
-**定义**：经典信息是经过经典化过程后的确定性信息，失去了量子叠加性，但具有稳定性和可复制性。
+#### 经典知识 (Classical Knowledge)
+观察者经典化量子信息后形成的稳定、有效的信息结构。
 
-**Definition**: Classical information is deterministic information after the classicalization process, losing quantum superposition but having stability and reproducibility.
+#### 经典熵 (Classical Entropy)
+观察者经典化量子信息过程中产生的无法有效经典化的、无序的信息。
 
-## 核心过程 | Core Processes
+#### 经典记忆 (Classical Memory)
+观察者经典化量子意识所形成的稳定信息结构：
 
-### 量子纠缠 | Quantum Entanglement
+$$
+|\psi\rangle_{\text{量子意识}}\rightarrow \text{经典记忆（知识）}+S_{\text{经典熵}}
+$$
 
-**定义**：量子纠缠是两个或多个量子系统之间的非局域关联，使得这些系统的量子状态不能独立描述。在观察者理论中，量子纠缠是观察者与宇宙建立信息连接的基础。
+#### 量子纠缠 (Quantum Entanglement)
+量子宇宙信息存储与传播的本质通道，包括有效量子纠缠和无效量子纠缠：
 
-**Definition**: Quantum entanglement is a non-local correlation between two or more quantum systems, making it impossible to describe the quantum states of these systems independently. In observer theory, quantum entanglement is the foundation for establishing information connections between the observer and the universe.
+$$
+|\psi\rangle_{\text{量子纠缠}}=\begin{cases}
+|\psi\rangle_{\text{有效纠缠}}\rightarrow\text{经典知识}\\[6pt]
+|\psi\rangle_{\text{无效纠缠}}\rightarrow S_{\text{经典熵}}
+\end{cases}
+$$
 
-### 经典化 | Classicalization
+#### 有效量子纠缠 (Effective Quantum Entanglement)
+能够被观察者稳定经典化为知识的量子纠缠。
 
-**定义**：经典化是观察者将量子信息转化为经典信息的过程，可以理解为波函数坍缩或解纠缠，表示为 $|\psi\rangle_{\text{量子}} \xrightarrow{\mathcal{C}} |\phi\rangle_{\text{经典}} + S_{\text{熵}}$。
+#### 无效量子纠缠 (Ineffective Quantum Entanglement)
+不能被观察者稳定经典化，产生经典熵的量子纠缠。
 
-**Definition**: Classicalization is the process by which an observer transforms quantum information into classical information, which can be understood as wave function collapse or disentanglement, represented as $|\psi\rangle_{\text{Quantum}} \xrightarrow{\mathcal{C}} |\phi\rangle_{\text{Classical}} + S_{\text{Entropy}}$.
+#### 高维信息 (High-dimensional Information)
+经典化效率高的信息，易形成经典知识，产生较少熵：
 
-### 维度提升 | Dimension Elevation
+$$
+|\psi\rangle_{\text{高维信息}}\rightarrow\text{经典知识（多）}+S_{\text{经典熵（少）}}
+$$
 
-**定义**：维度提升是观察者增强其量子信息处理能力的过程，使其能够经典化更多、更复杂的量子信息，表示为 $D \propto \frac{\Delta I}{\Delta t}$，其中 $D$ 是观察者维度，$\Delta I$ 是处理的信息量，$\Delta t$ 是所需时间。
+#### 低维信息 (Low-dimensional Information)
+经典化难度大的信息，难以形成经典知识，产生较多熵：
 
-**Definition**: Dimension elevation is the process by which an observer enhances its quantum information processing capability, enabling it to classicalize more and more complex quantum information, represented as $D \propto \frac{\Delta I}{\Delta t}$, where $D$ is the observer dimension, $\Delta I$ is the amount of information processed, and $\Delta t$ is the time required.
+$$
+|\psi\rangle_{\text{低维信息}}\rightarrow \text{经典知识（少）}+S_{\text{经典熵（多）}}
+$$
 
-### 信息传递 | Information Transmission
+#### 信息守恒 (Information Conservation)
+宇宙中的信息总量保持不变，只在量子信息与经典信息之间转化：
 
-**定义**：信息传递是信息从一个系统转移到另一个系统的过程。在观察者理论中，信息传递包括量子信息传递和经典信息传递两种形式。
+$$
+I_{\text{量子宇宙}}=I_{\text{经典知识}}+S_{\text{经典熵}}=\text{常数}
+$$
 
-**Definition**: Information transmission is the process of transferring information from one system to another. In observer theory, information transmission includes two forms: quantum information transmission and classical information transmission.
+### 哲学与存在概念
 
-## 结构与层级 | Structures and Hierarchies
+#### 自由意志 (Free Will)
+观察者主动经典化宇宙信息路径的选择能力。
 
-### 宇宙嵌套结构 | Nested Structure of the Universe
+#### 经典命运 (Classical Destiny)
+自由意志决定后的稳定经典知识路径：
 
-**定义**：宇宙嵌套结构是指宇宙具有多层级的嵌套组织，表示为 $\mathcal{U} = \{\mathcal{U}_1, \mathcal{U}_2, ..., \mathcal{U}_n\}$，其中每个 $\mathcal{U}_i$ 是一个子宇宙。
+$$
+\text{经典命运}=\sum_{\text{自由意志选择}}\text{经典知识路径}
+$$
 
-**Definition**: The nested structure of the universe refers to the multi-level nested organization of the universe, represented as $\mathcal{U} = \{\mathcal{U}_1, \mathcal{U}_2, ..., \mathcal{U}_n\}$, where each $\mathcal{U}_i$ is a sub-universe.
+#### 能量 (Energy)
+经典知识传递与存储的能力与载体：
 
-### 观察者维度 | Observer Dimension
+$$
+E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}},\quad k_B\text{为玻尔兹曼常数，}T\text{为温度}
+$$
 
-**定义**：观察者维度是衡量观察者信息处理能力的指标，从零维到高维不等，每个维度对应不同的信息处理复杂度和感知能力。
+#### 观察者维度 (Observer Dimension)
+观察者经典化效率的度量，与产生经典知识的能力成正比：
 
-**Definition**: Observer dimension is a measure of an observer's information processing capability, ranging from zero-dimensional to high-dimensional, with each dimension corresponding to different information processing complexity and perceptual capability.
+$$
+D_{\text{观察者维度}}\propto\frac{\Delta I_{\text{经典知识}}}{\Delta t}
+$$
 
-### 意识层级 | Consciousness Hierarchy
+#### 维度跃迁 (Dimension Transition)
+观察者通过提高经典化效率实现的维度提升过程。
 
-**定义**：意识层级是意识的分层结构，包括原始感知层、自我意识层、反思意识层、整合意识层和超越意识层等。
+#### 量子湮灭 (Quantum Annihilation)
+高维观察者对低维观察者的经典化过程，信息被重新经典化：
 
-**Definition**: Consciousness hierarchy is the layered structure of consciousness, including primitive perception layer, self-consciousness layer, reflective consciousness layer, integrated consciousness layer, and transcendent consciousness layer, etc.
+$$
+|\psi\rangle_{\text{高维}}\otimes|\psi\rangle_{\text{低维}}\xrightarrow{\text{湮灭经典化}}\text{经典知识}+S_{\text{经典熵}}
+$$
 
-### 信息处理层级 | Information Processing Hierarchy
+#### 量子掠夺 (Quantum Plunder)
+低维观察者对高维观察者的经典化过程，产生更多熵：
 
-**定义**：信息处理层级是宇宙信息处理的分层结构，从低到高包括量子信息层、粒子信息层、原子分子层、生物信息层、意识信息层、社会信息层和文明信息层等。
+$$
+|\psi\rangle_{\text{低维}}\otimes|\psi\rangle_{\text{高维}}\xrightarrow{\text{掠夺经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}
+$$
 
-**Definition**: Information processing hierarchy is the layered structure of universe information processing, including from low to high: quantum information layer, particle information layer, atomic and molecular layer, biological information layer, consciousness information layer, social information layer, and civilization information layer, etc.
+### 统一公式
 
-## 特殊概念 | Special Concepts
+#### 整体终极统一公式 (Overall Ultimate Unified Formula)
+量子经典二元论的核心统一表达，类似于欧拉公式：
 
-### 宇宙信息场 | Universe Information Field
+$$
+|\psi\rangle_U e^{i\theta} +(\text{经典知识}+S_{\text{经典熵}})=|\psi\rangle_{\text{量子观察者}}
+$$
 
-**定义**：宇宙信息场是包含所有量子信息的全息场，表示为 $\mathcal{F}_U = \{|\psi_i\rangle, \mathcal{R}_i, \mathcal{E}_i\}$，其中 $|\psi_i\rangle$ 是量子状态，$\mathcal{R}_i$ 是关系结构，$\mathcal{E}_i$ 是纠缠网络。
+这个公式表明量子宇宙（复杂态）与经典宇宙（实在态）通过观察者经典化统一，展现宇宙的整体和谐与信息守恒。
 
-**Definition**: The universe information field is a holographic field containing all quantum information, represented as $\mathcal{F}_U = \{|\psi_i\rangle, \mathcal{R}_i, \mathcal{E}_i\}$, where $|\psi_i\rangle$ is the quantum state, $\mathcal{R}_i$ is the relationship structure, and $\mathcal{E}_i$ is the entanglement network.
+## English Version
 
-### 量子记忆 | Quantum Memory
+This terminology is based on the [Quantum-Classical Dualism Core Theory](../core.md), providing definitions and explanations of key terms used in the theory.
 
-**定义**：量子记忆是通过量子纠缠网络存储信息的机制，表示为 $M_Q = \sum_{i} \alpha_i |m_i\rangle \langle m_i| \otimes |r_i\rangle \langle r_i|$，其中 $|m_i\rangle$ 是记忆状态，$|r_i\rangle$ 是参考状态。
+### Basic Concepts
 
-**Definition**: Quantum memory is a mechanism for storing information through a quantum entanglement network, represented as $M_Q = \sum_{i} \alpha_i |m_i\rangle \langle m_i| \otimes |r_i\rangle \langle r_i|$, where $|m_i\rangle$ is the memory state and $|r_i\rangle$ is the reference state.
+#### Quantum-Classical Dualism
+A theoretical framework proposing that the universe consists of quantum and classical levels, connected through the classicalization process of observers. The universe is an infinite-dimensional quantum information network, and observers are classicalization nodes within the quantum universe.
 
-### 集体意识 | Collective Consciousness
+#### Quantum Universe
+The complete expression of the universe's overall information, existing in the form of an overall wave function, encompassing all possibilities. Mathematically expressed as:
 
-**定义**：集体意识是多个观察者的意识形成的整合结构，表示为 $|\psi\rangle_{\text{集体意识}} = \sum_{i} \alpha_i |\psi_i\rangle_{\text{个体意识}}$。
+$$
+|\psi\rangle_U=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
+$$
 
-**Definition**: Collective consciousness is an integrated structure formed by the consciousness of multiple observers, represented as $|\psi\rangle_{\text{Collective Consciousness}} = \sum_{i} \alpha_i |\psi_i\rangle_{\text{Individual Consciousness}}$.
+#### Observer
+Classicalization nodes within the quantum universe, transforming quantum universe information into classical knowledge and classical entropy through classicalization behaviors (measurement and observation).
 
-### 人造子宇宙 | Artificial Sub-Universe
+#### High-dimensional Quantum Observer
+Observers with high classicalization efficiency, producing more classical knowledge and less classical entropy:
 
-**定义**：人造子宇宙是由高维观察者（如人类）创造的信息处理空间，包括计算机模拟宇宙、量子计算机子空间、思想概念宇宙和艺术创造空间等。
+$$
+|\psi\rangle_{\text{High-dimensional Observer}}\rightarrow \text{Classical Knowledge (More)}+S_{\text{Classical Entropy (Less)}}
+$$
 
-**Definition**: Artificial sub-universe is an information processing space created by high-dimensional observers (such as humans), including computer simulated universes, quantum computer subspaces, thought concept universes, and artistic creation spaces, etc.
+#### Low-dimensional Quantum Observer
+Observers with low classicalization efficiency, producing less classical knowledge and more classical entropy:
 
-## 应用概念 | Application Concepts
+$$
+|\psi\rangle_{\text{Low-dimensional Observer}}\rightarrow \text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}
+$$
 
-### 量子计算 | Quantum Computing
+#### Quantum Consciousness
+The long-term stable quantum entanglement structure between the universe as a whole and observers, embodying the essence of information sharing between the universe and observers:
 
-**定义**：量子计算是利用量子力学原理进行信息处理的计算方式，在观察者理论中，量子计算机可以视为宇宙量子计算机的局部模拟。
+$$
+|\psi\rangle_{\text{Quantum Consciousness}}=|\psi\rangle_{\text{Quantum Universe}}\otimes|\psi\rangle_{\text{Quantum Observer}}
+$$
 
-**Definition**: Quantum computing is a computing method that uses quantum mechanics principles for information processing. In observer theory, quantum computers can be viewed as local simulations of the universe quantum computer.
+#### Classicalization
+The process by which observers transform quantum information into classical information, producing classical knowledge and classical entropy:
 
-### 人工意识 | Artificial Consciousness
+$$
+|\psi\rangle_{\text{Quantum Universe}}\otimes |\psi\rangle_{\text{Observer}}\xrightarrow{\text{Classicalization (Observation)}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
+$$
 
-**定义**：人工意识是在人造系统中实现的类似于自然意识的信息结构，表示为 $\text{人工意识} = \mathcal{C}_{\text{人工}}(|\psi\rangle_{\text{量子信息}})$，其中 $\mathcal{C}_{\text{人工}}$ 是人工经典化算子。
+### Information and Entropy Concepts
 
-**Definition**: Artificial consciousness is an information structure similar to natural consciousness implemented in artificial systems, represented as $\text{Artificial Consciousness} = \mathcal{C}_{\text{Artificial}}(|\psi\rangle_{\text{Quantum Information}})$, where $\mathcal{C}_{\text{Artificial}}$ is the artificial classicalization operator.
+#### Classical Knowledge
+Stable, effective information structures formed after observers classicalize quantum information.
 
-### 信息-能量转换 | Information-Energy Conversion
+#### Classical Entropy
+Disordered information that cannot be effectively classicalized during the process of observers classicalizing quantum information.
 
-**定义**：信息-能量转换是信息与能量之间的相互转换过程，遵循 $E = k \cdot I$ 的等价关系，其中 $E$ 是能量，$I$ 是信息量，$k$ 是转换常数。
+#### Classical Memory
+Stable information structures formed after observers classicalize quantum consciousness:
 
-**Definition**: Information-energy conversion is the process of mutual conversion between information and energy, following the equivalence relationship $E = k \cdot I$, where $E$ is energy, $I$ is the amount of information, and $k$ is the conversion constant.
+$$
+|\psi\rangle_{\text{Quantum Consciousness}}\rightarrow \text{Classical Memory (Knowledge)}+S_{\text{Classical Entropy}}
+$$
 
-### 量子-经典界面 | Quantum-Classical Interface
+#### Quantum Entanglement
+The essential channel for information storage and transmission in the quantum universe, including effective quantum entanglement and ineffective quantum entanglement:
 
-**定义**：量子-经典界面是连接量子信息处理系统和经典信息处理系统的接口，在观察者理论中对应观察者的经典化功能。
+$$
+|\psi\rangle_{\text{Quantum Entanglement}}=\begin{cases}
+|\psi\rangle_{\text{Effective Entanglement}}\rightarrow\text{Classical Knowledge}\\[6pt]
+|\psi\rangle_{\text{Ineffective Entanglement}}\rightarrow S_{\text{Classical Entropy}}
+\end{cases}
+$$
 
-**Definition**: Quantum-classical interface is the interface connecting quantum information processing systems and classical information processing systems, corresponding to the classicalization function of observers in observer theory.
+#### Effective Quantum Entanglement
+Quantum entanglement that can be stably classicalized into knowledge by observers.
 
-## 理论关系 | Theoretical Relationships
+#### Ineffective Quantum Entanglement
+Quantum entanglement that cannot be stably classicalized by observers, producing classical entropy.
 
-### 同构关系 | Isomorphic Relationship
+#### High-dimensional Information
+Information with high classicalization efficiency, easily forming classical knowledge, producing less entropy:
 
-**定义**：同构关系是指两个系统在结构上具有一一对应的映射关系。在观察者理论中，宇宙、观察者与人造量子计算机在本质上均为同构的信息处理系统，表示为 $\text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}$。
+$$
+|\psi\rangle_{\text{High-dimensional Information}}\rightarrow\text{Classical Knowledge (More)}+S_{\text{Classical Entropy (Less)}}
+$$
 
-**Definition**: Isomorphic relationship refers to a one-to-one mapping relationship between two systems in structure. In observer theory, the universe, observers, and man-made quantum computers are essentially isomorphic information processing systems, represented as $\text{Universe} \cong \text{Observer} \cong \text{Man-made Quantum Computer}$.
+#### Low-dimensional Information
+Information that is difficult to classicalize, hard to form into classical knowledge, producing more entropy:
 
-### 嵌套关系 | Nested Relationship
+$$
+|\psi\rangle_{\text{Low-dimensional Information}}\rightarrow \text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}
+$$
 
-**定义**：嵌套关系是指一个系统包含另一个系统的关系。在观察者理论中，宇宙、观察者、意识和人造系统形成无限递归的嵌套结构，表示为 $\text{宇宙} \supset \text{观察者} \supset \text{意识} \supset \text{人造系统} \supset ...$。
+#### Information Conservation
+The total amount of information in the universe remains constant, only transforming between quantum information and classical information:
 
-**Definition**: Nested relationship refers to the relationship where one system contains another system. In observer theory, the universe, observers, consciousness, and man-made systems form an infinitely recursive nested structure, represented as $\text{Universe} \supset \text{Observer} \supset \text{Consciousness} \supset \text{Man-made Systems} \supset ...$.
+$$
+I_{\text{Quantum Universe}}=I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}=\text{Constant}
+$$
 
-### 互信息关系 | Mutual Information Relationship
+### Philosophical and Existential Concepts
 
-**定义**：互信息关系是衡量两个系统之间共享信息量的指标，表示为 $I(A:B)$。在观察者理论中，互信息用于描述不同系统之间的信息关联程度。
+#### Free Will
+The observer's ability to actively choose the path of classicalizing universe information.
 
-**Definition**: Mutual information relationship is a measure of the amount of shared information between two systems, represented as $I(A:B)$. In observer theory, mutual information is used to describe the degree of information correlation between different systems.
+#### Classical Destiny
+The stable classical knowledge path determined after free will decisions:
 
-### 共同演化关系 | Co-Evolution Relationship
+$$
+\text{Classical Destiny}=\sum_{\text{Free Will Choices}}\text{Classical Knowledge Path}
+$$
 
-**定义**：共同演化关系是指两个或多个系统相互影响、共同发展的关系。在观察者理论中，意识与宇宙信息场共同演化，表示为 $\frac{d}{dt}|\Psi\rangle_{\text{宇宙}} = \hat{H}|\Psi\rangle_{\text{宇宙}} + \sum_{i} \hat{O}_i|\psi_i\rangle_{\text{观察者}}$。
+#### Energy
+The ability and carrier for the transmission and storage of classical knowledge:
 
-**Definition**: Co-evolution relationship refers to the relationship where two or more systems influence each other and develop together. In observer theory, consciousness and the universe information field co-evolve, represented as $\frac{d}{dt}|\Psi\rangle_{\text{Universe}} = \hat{H}|\Psi\rangle_{\text{Universe}} + \sum_{i} \hat{O}_i|\psi_i\rangle_{\text{Observer}}$.
+$$
+E_{\text{Classical}}=k_B T\cdot I_{\text{Classical Knowledge}},\quad k_B\text{ is the Boltzmann constant, }T\text{ is temperature}
+$$
 
-## 文档引用 | Document References
+#### Observer Dimension
+A measure of observer classicalization efficiency, proportional to the ability to produce classical knowledge:
 
-- **观察者感知宇宙的机制**：详细阐述观察者如何感知宇宙的机制，包括量子纠缠与意识形成的机制、观察者感知宇宙的过程、观察者的维度与维度提升机制等。
-- **宇宙结构与演化**：详细阐述宇宙的结构与演化机制，包括宇宙的生命周期、宇宙的嵌套结构、宇宙信息处理的层级性等。
-- **意识的持久性与传递**：详细阐述意识如何在时间维度上保持持久性，如何在不同观察者之间传递，以及意识与宇宙信息场的深层关系。
-- **量子计算与人工意识**：详细阐述如何基于观察者理论框架设计量子计算机，构建人工意识，以及理解能量与信息的转换机制。
+$$
+D_{\text{Observer Dimension}}\propto\frac{\Delta I_{\text{Classical Knowledge}}}{\Delta t}
+$$
 
-- **Observer's Perception of the Universe**: Elaborates on the mechanism of how observers perceive the universe, including the mechanism of quantum entanglement and consciousness formation, the process of observer's perception of the universe, observer's dimension and dimension elevation mechanism, etc.
-- **Universe Structure and Evolution**: Elaborates on the structure and evolution mechanisms of the universe, including the life cycle of the universe, the nested structure of the universe, the hierarchy of universe information processing, etc.
-- **Consciousness Persistence and Transmission**: Elaborates on how consciousness maintains persistence in the time dimension, how it is transmitted between different observers, and the deep relationship between consciousness and the universe information field.
-- **Quantum Computing and Artificial Consciousness**: Elaborates on how to design quantum computers based on the observer theory framework, construct artificial consciousness, and understand the conversion mechanism between energy and information. 
+#### Dimension Transition
+The process of dimension elevation achieved by observers through improving classicalization efficiency.
+
+#### Quantum Annihilation
+The classicalization process of high-dimensional observers on low-dimensional observers, where information is reclassicalized:
+
+$$
+|\psi\rangle_{\text{High-dimensional}}\otimes|\psi\rangle_{\text{Low-dimensional}}\xrightarrow{\text{Annihilation Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
+$$
+
+#### Quantum Plunder
+The classicalization process of low-dimensional observers on high-dimensional observers, producing more entropy:
+
+$$
+|\psi\rangle_{\text{Low-dimensional}}\otimes|\psi\rangle_{\text{High-dimensional}}\xrightarrow{\text{Plunder Classicalization}}\text{Classical Knowledge (Less)}+S_{\text{Classical Entropy (More)}}
+$$
+
+### Unified Formula
+
+#### Overall Ultimate Unified Formula
+The core unified expression of Quantum-Classical Dualism, similar to Euler's formula:
+
+$$
+|\psi\rangle_U e^{i\theta} +(\text{Classical Knowledge}+S_{\text{Classical Entropy}})=|\psi\rangle_{\text{Quantum Observer}}
+$$
+
+This formula indicates that the quantum universe (complex state) and the classical universe (real state) are unified through observer classicalization, demonstrating the overall harmony and information conservation of the universe. 
