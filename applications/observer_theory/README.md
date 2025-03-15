@@ -46,6 +46,15 @@
    - 个体对量子经典信息的不同反应模式
    - 宇宙、游戏与自由意志的类比模型
 
+6. [宇宙游戏模型与时间、寿命的量子经典解释](universe_game_time_longevity.md)
+   - 宇宙作为预设规则但结局开放的游戏模型
+   - 游戏刷新率与主观时间感知的关系
+   - 低熵与长寿的多重机制联系
+   - 经典化程度不同的观察者对时间的不同概念
+   - 长寿的量子经典机制与策略
+   - 不同寿命模式的量子经典解释
+   - 主观时间加速与减速的机制分析
+
 ### 观察者理论的核心原理
 
 所有观察者理论应用都基于以下核心原理：
@@ -111,6 +120,15 @@ This directory contains applications of Quantum-Classical Dualism in the field o
    - Mechanisms of enhanced sexual experience through past life entanglement
    - Different individual reaction patterns to quantum-classical information
    - Analogical model of universe, game, and free will
+
+6. [Universe Game Model, Time, and Longevity](universe_game_time_longevity.md)
+   - Universe as a game with preset rules but open-ended outcomes
+   - Relationship between game refresh rate and subjective time perception
+   - Multiple mechanisms connecting low entropy and longevity
+   - Different time concepts for observers with varying degrees of classicalization
+   - Quantum-classical mechanisms and strategies for longevity
+   - Quantum-classical explanation of different lifespan patterns
+   - Analysis of mechanisms for subjective time acceleration and deceleration
 
 ### Core Principles of Observer Theory
 
