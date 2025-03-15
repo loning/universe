@@ -20,6 +20,15 @@
    - 文明进化与经典化能力提升的机制
    - 从原始文明到宇宙文明的经典化能力演化路径
 
+3. [观察者自我理解的局限性理论](observer_self_understanding.md)
+   - 观察者永远无法完全理解自己的根本局限性
+   - 自我理解的哥德尔不完备性
+   - 通过创造次级观察者实现间接自我理解
+   - 次级观察者的多样性与自我理解的深度
+   - 自我熵降低的内在动力与策略
+   - 文明发展与自我理解的关系
+   - 自我理解的终极悖论
+
 ### 观察者理论的核心原理
 
 所有观察者理论应用都基于以下核心原理：
@@ -59,6 +68,15 @@ This directory contains applications of Quantum-Classical Dualism in the field o
    - Correspondence between civilization level and observer dimension
    - Mechanisms of civilization evolution and enhancement of classicalization capability
    - Evolutionary path of classicalization capability from primitive to universal civilizations
+
+3. [Theory of Observer Self-Understanding Limitations](observer_self_understanding.md)
+   - Fundamental limitation that observers can never fully understand themselves
+   - Gödel's incompleteness of self-understanding
+   - Achieving indirect self-understanding through creating secondary observers
+   - Diversity of secondary observers and depth of self-understanding
+   - Intrinsic drive and strategies for self-entropy reduction
+   - Relationship between civilization development and self-understanding
+   - Ultimate paradox of self-understanding
 
 ### Core Principles of Observer Theory
 
