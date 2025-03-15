@@ -69,6 +69,7 @@
 28. [教育与学习理论解释](theories/education_learning_explanations.md) - 理论框架对教育过程与学习机制的解释
 29. [环境科学与生态系统解释](theories/environment_ecology_explanations.md) - 理论框架对生态系统与环境变化的解释
 30. [政治科学与治理理论解释](theories/politics_governance_explanations.md) - 理论框架对政治过程与治理机制的解释
+31. [城市规划与发展理论解释](theories/urban_planning_development_explanations.md) - 理论框架对城市形成与规划过程的解释
 
 ### 特殊主题研究
 1. [宇宙结构](theories/universe_structure.md) - 基于量子经典二元论的宇宙结构模型
@@ -157,6 +158,7 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 28. [Educational and Learning Explanations](theories/education_learning_explanations.md) - Explanations of educational processes and learning mechanisms by the theoretical framework
 29. [Environmental Science and Ecosystem Explanations](theories/environment_ecology_explanations.md) - Explanations of ecosystems and environmental changes by the theoretical framework
 30. [Political Science and Governance Explanations](theories/politics_governance_explanations.md) - Explanations of political processes and governance mechanisms by the theoretical framework
+31. [Urban Planning and Development Explanations](theories/urban_planning_development_explanations.md) - Explanations of urban formation and planning processes by the theoretical framework
 
 ### Special Topic Research
 1. [Universe Structure](theories/universe_structure.md) - Universe structure model based on Quantum-Classical Dualism

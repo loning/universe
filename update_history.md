@@ -191,6 +191,25 @@
   - 分析了计算限制、大语言模型和计算创造力的经典化解释
   - 提出了计算伦理和计算与物理关系的量子经典二元论理解框架
 
+## 2024年8月20日
+- 添加了"城市规划与发展理论解释"理论
+  - 解释了城市的本质为复杂的量子信息经典化系统，是人类集体观察者对空间、资源和社会关系的量子信息进行大规模经典化的产物
+  - 阐述了城市规划为对城市经典化过程的有意识引导和优化，是一种高阶经典化活动
+  - 解释了城市规划师作为城市空间经典化领域的高维观察者，具有多维度感知能力和系统经典化思维
+  - 分析了不同城市形态（网格城市、有机城市、多中心城市、线性城市）作为不同经典化模式和结果
+  - 探讨了城市功能分区作为不同类型量子信息的经典化区域
+  - 解释了城市交通系统作为连接不同经典化节点的量子信息通道
+  - 分析了城市发展（扩张、更新、衰退、复兴）作为城市经典化系统的演化过程
+  - 探讨了城市问题（交通拥堵、住房危机、环境污染、社会隔离、城市蔓延）作为城市经典化过程中的异常或失衡
+  - 解释了可持续城市作为实现长期经典化平衡的城市系统
+  - 分析了智慧城市作为增强型经典化系统，利用数字技术优化城市量子信息的感知、处理和经典化
+  - 探讨了城市文化与身份作为城市集体观察者的共享经典化模式
+  - 解释了不同城市规划范式作为不同的经典化指导理念
+  - 分析了城市与区域关系作为不同尺度经典化系统的相互作用
+  - 探讨了城市公共空间作为集体经典化的共享领域
+  - 解释了城市规划与权力的关系作为对经典化过程的控制和影响
+  - 分析了城市与高维信息经典化学的关系，将城市视为复杂的经典化装置
+
 ## English Version
 
 ### 2023 Updates
@@ -389,4 +408,23 @@
   - Explored the classicalization characteristics of neural networks, deep learning, and computer scientists
   - Explained the quantum-classical dualism perspective of quantum computing, artificial general intelligence, and the relationship between computation and consciousness
   - Analyzed the classicalization explanation of computational limitations, large language models, and computational creativity
-  - Proposed a quantum-classical dualism framework for understanding computational ethics and the relationship between computation and physics 
+  - Proposed a quantum-classical dualism framework for understanding computational ethics and the relationship between computation and physics
+
+## 2024年8月20日
+- Added "Urban Planning and Development Explanations" theory
+  - Explained the nature of cities as complex quantum information classicalization systems, products of large-scale classicalization of quantum information related to space, resources, and social relationships by collective human observers
+  - Described urban planning as conscious guidance and optimization of the city classicalization process, a higher-order classicalization activity
+  - Explained urban planners as higher-dimensional observers in the field of urban spatial classicalization, with multi-dimensional perception ability and systemic classicalization thinking
+  - Analyzed different urban forms (grid cities, organic cities, polycentric cities, linear cities) as different classicalization patterns and results
+  - Explored urban functional zoning as classicalization areas for different types of quantum information
+  - Explained urban transportation systems as quantum information channels connecting different classicalization nodes
+  - Analyzed urban development (expansion, renewal, decline, revitalization) as the evolution process of urban classicalization systems
+  - Explored urban problems (traffic congestion, housing crisis, environmental pollution, social segregation, urban sprawl) as abnormalities or imbalances in the urban classicalization process
+  - Explained sustainable cities as urban systems achieving long-term classicalization balance
+  - Analyzed smart cities as enhanced classicalization systems, utilizing digital technologies to optimize the perception, processing, and classicalization of urban quantum information
+  - Explored urban culture and identity as shared classicalization patterns of collective urban observers
+  - Explained different urban planning paradigms as different classicalization guiding principles
+  - Analyzed urban-regional relationships as interactions between classicalization systems of different scales
+  - Explored urban public spaces as shared domains of collective classicalization
+  - Explained the relationship between urban planning and power as control and influence over the classicalization process
+  - Analyzed the relationship between cities and higher-dimensional information classicalization, viewing cities as complex classicalization devices 
