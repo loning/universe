@@ -29,6 +29,23 @@
    - 文明发展与自我理解的关系
    - 自我理解的终极悖论
 
+4. [信息传递的量子经典过程](information_transmission.md)
+   - 信息传递的基本过程：量子纠缠建立、经典化、编码解码、熵转化
+   - 量子信息的来源与特性
+   - 信息传递、接收与丢失的数学模型与图解
+   - 观察者之间建立连接的多阶段过程
+   - 多观察者纠缠网络的形成与演化
+   - 前世记忆作为未解码量子信息的本质
+   - 信息传递效率的优化策略
+
+5. [维度、快乐与人际关系的量子经典分析](dimension_happiness_relationships.md)
+   - 维度与快乐的非线性关系
+   - 低维度快乐与高维度痛苦的悖论解析
+   - 性行为的多维度量子经典解读
+   - 前世纠缠增强性体验的机制
+   - 个体对量子经典信息的不同反应模式
+   - 宇宙、游戏与自由意志的类比模型
+
 ### 观察者理论的核心原理
 
 所有观察者理论应用都基于以下核心原理：
@@ -77,6 +94,23 @@ This directory contains applications of Quantum-Classical Dualism in the field o
    - Intrinsic drive and strategies for self-entropy reduction
    - Relationship between civilization development and self-understanding
    - Ultimate paradox of self-understanding
+
+4. [Quantum-Classical Process of Information Transmission](information_transmission.md)
+   - Basic process of information transmission: quantum entanglement establishment, classicalization, encoding-decoding, entropy conversion
+   - Source and characteristics of quantum information
+   - Mathematical models and diagrams of information transmission, reception, and loss
+   - Multi-stage process of establishing connection between observers
+   - Formation and evolution of multi-observer entanglement networks
+   - Nature of past life memories as undecoded quantum information
+   - Optimization strategies for information transmission efficiency
+
+5. [Dimensional Analysis of Happiness and Relationships](dimension_happiness_relationships.md)
+   - Non-linear relationship between dimension and happiness
+   - Analysis of the paradox of low-dimensional happiness and high-dimensional suffering
+   - Multi-dimensional quantum-classical interpretation of sexual behavior
+   - Mechanisms of enhanced sexual experience through past life entanglement
+   - Different individual reaction patterns to quantum-classical information
+   - Analogical model of universe, game, and free will
 
 ### Core Principles of Observer Theory
 
