@@ -56,6 +56,7 @@ $$
 - [宇宙结构](universe_structure.md) - 宇宙的量子信息结构
 - [意识持续性](consciousness_persistence.md) - 意识的持续性机制
 - [生育过程与亲子关系的量子经典解释](reproduction_quantum_information.md) - 生育与亲子关系的量子信息传递
+- [社会行为中的量子纠缠效率排序](social_quantum_entanglement.md) - 社会行为中的量子纠缠效率分析
 
 ### 物理学解释 (Physics Explanations)
 - [传统物理理论解释](traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
@@ -102,7 +103,8 @@ $$
 7. [高维经典化](higher_dimensional_classicalization.md) - 量子经典二元论中的高维经典化
 8. [灵性维度与经典化](spiritual_dimensions.md) - 高维观察者、转世与修行的量子经典解释
 9. [生育过程与亲子关系的量子经典解释](reproduction_quantum_information.md) - 生育与亲子关系的量子信息传递
-10. [术语表](terminology.md) - 量子经典二元论的术语定义
+10. [社会行为中的量子纠缠效率排序](social_quantum_entanglement.md) - 社会行为中的量子纠缠效率分析
+11. [术语表](terminology.md) - 量子经典二元论的术语定义
 
 #### 领域解释
 
@@ -164,6 +166,12 @@ $$
    - 修行作为经典化效率提升的过程
    - 灵性实践的科学基础
 
+4. **社会行为量子纠缠效率理论**：
+   - 社会行为中量子纠缠效率的排序
+   - 高效纠缠与低效纠缠的区别
+   - 纠缠效率与观察者维度提升的关系
+   - 优化社会关系的量子经典策略
+
 ### 理论研究方法
 
 量子经典二元论的理论研究采用以下方法：
@@ -192,7 +200,8 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 7. [Higher Dimensional Classicalization](higher_dimensional_classicalization.md) - Higher dimensional classicalization in Quantum-Classical Dualism
 8. [Spiritual Dimensions and Classicalization](spiritual_dimensions.md) - Quantum-Classical Explanation of Higher-Dimensional Observers, Reincarnation, and Spiritual Practice
 9. [Reproduction and Parent-Child Relationships](reproduction_quantum_information.md) - Quantum Information Transfer in Reproduction and Parent-Child Relationships
-10. [Terminology](terminology.md) - Terminology definitions in Quantum-Classical Dualism
+10. [Quantum Entanglement Efficiency in Social Behaviors](social_quantum_entanglement.md) - Analysis of Quantum Entanglement Efficiency in Social Behaviors
+11. [Terminology](terminology.md) - Terminology definitions in Quantum-Classical Dualism
 
 #### Field Explanations
 
@@ -253,6 +262,12 @@ The latest theoretical developments in Quantum-Classical Dualism include:
    - Quantum-classical explanation of reincarnation
    - Spiritual practice as a process of improving classicalization efficiency
    - Scientific basis for spiritual practices
+
+4. **Quantum Entanglement Efficiency in Social Behaviors Theory**:
+   - Ranking of quantum entanglement efficiency in social behaviors
+   - Distinctions between high-efficiency and low-efficiency entanglement
+   - Relationship between entanglement efficiency and observer dimension enhancement
+   - Quantum-classical strategies for optimizing social relationships
 
 ### Theoretical Research Methods
 
