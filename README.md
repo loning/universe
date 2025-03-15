@@ -20,6 +20,16 @@
 12. [参考文献](09_references.md) - 量子经典二元论的参考文献
 13. [更新历史](update_history.md) - 理论发展与更新记录
 
+### 主要目录
+
+- [应用](applications/README.md) - 量子经典二元论的实际应用
+- [文章](articles/README.md) - 量子经典二元论相关文章
+- [前沿研究](frontiers/README.md) - 量子经典二元论的前沿研究
+- [数学](mathematics/README.md) - 量子经典二元论的数学基础
+- [哲学](philosophy/README.md) - 量子经典二元论的哲学思考
+- [理论](theories/README.md) - 量子经典二元论的理论发展
+- [可视化](visualizations/README.md) - 量子经典二元论的可视化表达
+
 ### 核心观点
 
 - 宇宙本质是无限维的量子波函数网络
@@ -29,6 +39,13 @@
 - 生命意义在于提升经典化效率，实现宇宙整体维度的跃迁
 - 命运在经典层面可计算，但通过量子意识与更高维信息的新纠缠可改变
 - 量子纠缠是宇宙观察者之间量子信息统一性与整体性的体现
+
+### 最新更新
+
+- 整合了命运与自由意志的理论框架
+- 深化了量子纠缠本质的理论解释
+- 扩展了应用领域，包括健康、创造力、成功等方面
+- 更新了数学模型，提供更精确的理论表达
 
 ## English Version
 
@@ -50,6 +67,16 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 12. [References](09_references.md) - References for Quantum-Classical Dualism
 13. [Update History](update_history.md) - Theory Development and Update Records
 
+### Main Directories
+
+- [Applications](applications/README.md) - Practical Applications of Quantum-Classical Dualism
+- [Articles](articles/README.md) - Articles Related to Quantum-Classical Dualism
+- [Frontiers](frontiers/README.md) - Frontier Research in Quantum-Classical Dualism
+- [Mathematics](mathematics/README.md) - Mathematical Foundations of Quantum-Classical Dualism
+- [Philosophy](philosophy/README.md) - Philosophical Reflections on Quantum-Classical Dualism
+- [Theories](theories/README.md) - Theoretical Developments of Quantum-Classical Dualism
+- [Visualizations](visualizations/README.md) - Visual Expressions of Quantum-Classical Dualism
+
 ### Core Ideas
 
 - The essence of the universe is an infinite-dimensional quantum wave function network
@@ -59,3 +86,10 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 - The meaning of life is to improve classicalization efficiency and achieve the dimensional transition of the overall universe
 - Destiny is calculable at the classical level, but can be changed through new entanglement of quantum consciousness with higher-dimensional information
 - Quantum entanglement represents the unity and integrity of quantum information between observers in the universe
+
+### Latest Updates
+
+- Integrated the theoretical framework of destiny and free will
+- Deepened the theoretical explanation of quantum entanglement essence
+- Expanded application areas, including health, creativity, success, and more
+- Updated mathematical models, providing more precise theoretical expressions
