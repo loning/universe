@@ -34,6 +34,12 @@
 4. **双语支持**：所有内容均提供中英双语版本
 5. **格式优化**：特别注意数学公式的格式，确保正确渲染
 
+#### 2024年6月10日
+- 添加了"高维信息经典化学"理论
+- 该理论解释了低维观察者如何尝试经典化高维量子信息
+- 提供了对传统"玄学"领域的量子经典二元论解释
+- 引入了经典熵与经典知识比例的概念
+
 ## English Version
 
 ### 2023 Updates
@@ -66,4 +72,10 @@
 2. **Mathematical Expression Unification**: All mathematical formulas use consistent symbols and formats
 3. **Link Updates**: All cross-reference links in files have been updated
 4. **Bilingual Support**: All content is provided in both Chinese and English
-5. **Format Optimization**: Special attention to the format of mathematical formulas, ensuring correct rendering 
+5. **Format Optimization**: Special attention to the format of mathematical formulas, ensuring correct rendering
+
+#### June 10, 2024
+- Added "Higher-Dimensional Information Classicalization" theory
+- This theory explains how lower-dimensional observers attempt to classicalize higher-dimensional quantum information
+- Provided a Quantum-Classical Dualism explanation for traditional "metaphysical" fields
+- Introduced the concept of the ratio between classical entropy and classical knowledge 

@@ -63,6 +63,7 @@
 4. [宇宙纠缠与熵](theories/universe_entanglement_entropy.md) - 宇宙纠缠结构与熵增长的关系
 5. [自由意志与量子纠缠](theories/free_will_quantum_entanglement.md) - 自由意志在量子纠缠框架下的解释
 6. [熵与观察者维度](theories/entropy_observer_dimension.md) - 熵减少与观察者维度提升的关系
+7. [高维信息经典化学](theories/higher_dimensional_classicalization.md) - 低维观察者如何经典化高维量子信息的理论
 
 ### 可视化与模型
 1. [核心概念可视化](visualizations/core_concepts.md) - 理论核心概念的图形表示
@@ -136,6 +137,7 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 4. [Universe Entanglement and Entropy](theories/universe_entanglement_entropy.md) - Relationship between universe entanglement structure and entropy growth
 5. [Free Will and Quantum Entanglement](theories/free_will_quantum_entanglement.md) - Explanation of free will within the quantum entanglement framework
 6. [Entropy and Observer Dimension](theories/entropy_observer_dimension.md) - Relationship between entropy reduction and observer dimension elevation
+7. [Higher-Dimensional Information Classicalization](theories/higher_dimensional_classicalization.md) - Theory of how lower-dimensional observers classicalize higher-dimensional quantum information
 
 ### Visualizations and Models
 1. [Core Concepts Visualization](visualizations/core_concepts.md) - Graphical representation of core concepts of the theory
