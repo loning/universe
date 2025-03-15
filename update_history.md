@@ -40,6 +40,12 @@
 - 提供了对传统"玄学"领域的量子经典二元论解释
 - 引入了经典熵与经典知识比例的概念
 
+#### 2024年6月15日
+- 更新了"宗教问题解释"理论
+- 从量子经典二元论视角解释了宗教的本质和结构
+- 阐述了宗教创始人作为高效经典化的高维观察者的特殊角色
+- 解释了宗教仪式、实践和多样性的量子经典二元论基础
+
 ## English Version
 
 ### 2023 Updates
@@ -78,4 +84,10 @@
 - Added "Higher-Dimensional Information Classicalization" theory
 - This theory explains how lower-dimensional observers attempt to classicalize higher-dimensional quantum information
 - Provided a Quantum-Classical Dualism explanation for traditional "metaphysical" fields
-- Introduced the concept of the ratio between classical entropy and classical knowledge 
+- Introduced the concept of the ratio between classical entropy and classical knowledge
+
+#### June 15, 2024
+- Updated "Religious Explanations" theory
+- Explained the essence and structure of religion from the Quantum-Classical Dualism perspective
+- Elaborated on the special role of religious founders as higher-dimensional observers with efficient classicalization
+- Explained the Quantum-Classical Dualism basis of religious rituals, practices, and diversity 
