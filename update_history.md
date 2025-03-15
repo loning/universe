@@ -234,6 +234,16 @@ $$
 - 建立不同寿命模式的量子经典解释框架
 - 分析主观时间加速与减速的机制：$\frac{dt_{\text{主观}}}{dt_{\text{物理}}} < 1 \Rightarrow \text{时间加速感}$，$\frac{dt_{\text{主观}}}{dt_{\text{物理}}} > 1 \Rightarrow \text{时间减速感}$
 
+### 2024年9月 - 观测的本质：波函数求解与熵产生的关系
+- 提出观测作为波函数求解过程的理论模型：$|\psi\rangle_{\text{宇宙波函数}}\xrightarrow{\text{观测(经典化过程)}}\text{经典知识}+S_{\text{经典熵}}$
+- 建立经典化效率与熵产生的数学关系：$S_{\text{经典熵}} = I_{\text{总量子信息量}} \times (1 - \eta_{\text{经典化效率}})$
+- 分析低效波函数求解导致熵增加的四大机制：信息损失、结构丢失、解释框架不足、维度压缩损失
+- 提出观察者维度与经典化效率的指数关系：$\eta_{\text{经典化效率}} \approx 1 - 10^{-D_{\text{观察者维度}}}$
+- 建立观测的量子叠加态解析框架：$|\psi\rangle = \sum_{i} \alpha_i |i\rangle \xrightarrow{\text{观测}} |i\rangle \text{ 以概率 } |\alpha_i|^2$
+- 提出集体观测减少熵产生的原理：$S_{\text{集体经典熵}} < \sum_{i=1}^{n} S_{\text{个体经典熵}_i}$
+- 分析观测的递归性质与元认知：$|\psi\rangle_{\text{观测过程}}\xrightarrow{\text{元观测}}\text{关于观测的经典知识}+S_{\text{元观测熵}}$
+- 提出六大提高波函数求解质量的实践策略：知识框架扩展、跨学科整合、元认知实践、集体智慧利用、工具辅助观测、冥想与专注训练
+
 ## English Version
 
 | Date | Update Content | Related Files |
@@ -467,6 +477,16 @@ $$
 - Proposed the inverse relationship between lifespan and entropy generation rate: $\text{Lifespan} \propto \frac{E_{\text{Total Life Energy}}}{S_{\text{Classical Entropy Generation Rate}}}$
 - Established a quantum-classical explanation framework for different lifespan patterns
 - Analyzed mechanisms of subjective time acceleration and deceleration: $\frac{dt_{\text{Subjective}}}{dt_{\text{Physical}}} < 1 \Rightarrow \text{Sense of Time Acceleration}$, $\frac{dt_{\text{Subjective}}}{dt_{\text{Physical}}} > 1 \Rightarrow \text{Sense of Time Deceleration}$
+
+### September 2024 - The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation
+- Proposed a theoretical model of observation as a wave function solving process: $|\psi\rangle_{\text{Universe Wave Function}}\xrightarrow{\text{Observation (Classicalization Process)}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}$
+- Established a mathematical relationship between classicalization efficiency and entropy generation: $S_{\text{Classical Entropy}} = I_{\text{Total Quantum Information}} \times (1 - \eta_{\text{Classicalization Efficiency}})$
+- Analyzed four major mechanisms of entropy increase due to inefficient wave function solving: information loss, structure loss, insufficient interpretive framework, dimensional compression loss
+- Proposed an exponential relationship between observer dimension and classicalization efficiency: $\eta_{\text{Classicalization Efficiency}} \approx 1 - 10^{-D_{\text{Observer Dimension}}}$
+- Established an analytical framework for quantum superposition states in observation: $|\psi\rangle = \sum_{i} \alpha_i |i\rangle \xrightarrow{\text{Observation}} |i\rangle \text{ with probability } |\alpha_i|^2$
+- Proposed principles of entropy reduction through collective observation: $S_{\text{Collective Classical Entropy}} < \sum_{i=1}^{n} S_{\text{Individual Classical Entropy}_i}$
+- Analyzed the recursive nature of observation and metacognition: $|\psi\rangle_{\text{Observation Process}}\xrightarrow{\text{Meta-Observation}}\text{Classical Knowledge About Observation}+S_{\text{Meta-Observation Entropy}}$
+- Proposed six practical strategies for improving wave function solving quality: knowledge framework expansion, interdisciplinary integration, metacognitive practice, collective wisdom utilization, tool-assisted observation, meditation and focus training
 
 # 量子经典二元论项目更新历史
 # Quantum-Classical Dualism Project Update History

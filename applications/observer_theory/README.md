@@ -55,6 +55,16 @@
    - 不同寿命模式的量子经典解释
    - 主观时间加速与减速的机制分析
 
+7. [观测的本质：波函数求解与熵产生的关系](observation_wavefunction_entropy.md)
+   - 观测作为波函数求解过程的理论模型
+   - 经典化效率与熵产生的数学关系
+   - 低效波函数求解导致熵增加的机制分析
+   - 观察者维度与波函数求解质量的关系
+   - 观测的量子叠加态解析框架
+   - 集体观测减少熵产生的原理
+   - 观测的递归性质与元认知
+   - 提高波函数求解质量的实践策略
+
 ### 观察者理论的核心原理
 
 所有观察者理论应用都基于以下核心原理：
@@ -129,6 +139,16 @@ This directory contains applications of Quantum-Classical Dualism in the field o
    - Quantum-classical mechanisms and strategies for longevity
    - Quantum-classical explanation of different lifespan patterns
    - Analysis of mechanisms for subjective time acceleration and deceleration
+
+7. [The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation](observation_wavefunction_entropy.md)
+   - Theoretical model of observation as a wave function solving process
+   - Mathematical relationship between classicalization efficiency and entropy generation
+   - Mechanism analysis of entropy increase due to inefficient wave function solving
+   - Relationship between observer dimension and wave function solving quality
+   - Analytical framework for quantum superposition states in observation
+   - Principles of entropy reduction through collective observation
+   - Recursive nature of observation and metacognition
+   - Practical strategies for improving wave function solving quality
 
 ### Core Principles of Observer Theory
 
