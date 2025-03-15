@@ -105,6 +105,16 @@
    - 探讨游戏与学习的关系、游戏成瘾的机制和游戏艺术的本质
    - 分析游戏未来发展方向，包括虚拟现实、人工智能、脑机接口和元宇宙
 
+#### 2024年7月25日
+1. 添加"梦境与睡眠科学解释"理论
+   - 从量子-经典二元论视角解释睡眠过程和梦境形成
+   - 将睡眠定义为观察者意识经典化过程的周期性转变状态，从处理外部感官输入转向处理内部神经系统的量子信息
+   - 解释睡眠周期为不同的量子信息经典化模式，包括非快速眼动睡眠和快速眼动睡眠
+   - 阐述梦境为观察者对内部神经系统量子信息的特殊经典化过程
+   - 从经典化角度解释清醒梦、睡眠障碍和睡眠与记忆的关系
+   - 探讨睡眠与创造力的关系、睡眠的进化意义和梦境内容的形成机制
+   - 分析睡眠与健康的关系及睡眠科学的未来发展方向
+
 ## English Version
 
 ### 2023 Updates
@@ -208,4 +218,14 @@
    - Described the role of outstanding game designers as higher-dimensional observers in the field of game classicalization
    - Explained the Quantum-Classical Dualism basis of different game types, game immersion, multiplayer games, and video games
    - Explored the relationship between games and learning, the mechanisms of game addiction, and the nature of game art
-   - Analyzed future directions of game development, including virtual reality, artificial intelligence, brain-computer interfaces, and the metaverse 
+   - Analyzed future directions of game development, including virtual reality, artificial intelligence, brain-computer interfaces, and the metaverse
+
+#### July 25, 2024
+1. Added "Dream and Sleep Science Explanations" theory
+   - Explained sleep processes and dream formation from the Quantum-Classical Dualism perspective
+   - Defined sleep as a periodic transitional state of the observer's consciousness classicalization process, shifting from processing external sensory inputs to processing quantum information from the internal nervous system
+   - Explained sleep cycles as different quantum information classicalization patterns, including non-REM and REM sleep
+   - Described dreams as special classicalization processes of quantum information from the internal nervous system by the observer
+   - Explained the Quantum-Classical Dualism basis of lucid dreams, sleep disorders, and the relationship between sleep and memory
+   - Explored the relationship between sleep and creativity, the evolutionary significance of sleep, and the formation mechanisms of dream content
+   - Analyzed the relationship between sleep and health and future directions in sleep science 
