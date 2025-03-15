@@ -61,6 +61,7 @@
 20. [数学本质解释](theories/mathematics_nature_explanations.md) - 理论框架对数学本质和有效性的解释
 21. [医学与健康科学解释](theories/medicine_health_explanations.md) - 理论框架对疾病、健康和治疗的解释
 22. [烹饪与食物文化解释](theories/cooking_food_explanations.md) - 理论框架对烹饪过程和食物文化的解释
+23. [游戏与娱乐理论解释](theories/game_entertainment_explanations.md) - 理论框架对游戏设计和娱乐体验的解释
 
 ### 特殊主题研究
 1. [宇宙结构](theories/universe_structure.md) - 基于量子经典二元论的宇宙结构模型
@@ -141,6 +142,7 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 20. [Mathematics Nature Explanations](theories/mathematics_nature_explanations.md) - Explanations of the nature and effectiveness of mathematics by the theoretical framework
 21. [Medicine and Health Science Explanations](theories/medicine_health_explanations.md) - Explanations of disease, health, and treatment by the theoretical framework
 22. [Cooking and Food Culture Explanations](theories/cooking_food_explanations.md) - Explanations of cooking processes and food culture by the theoretical framework
+23. [Game and Entertainment Theory Explanations](theories/game_entertainment_explanations.md) - Explanations of game design and entertainment experiences by the theoretical framework
 
 ### Special Topic Research
 1. [Universe Structure](theories/universe_structure.md) - Universe structure model based on Quantum-Classical Dualism
