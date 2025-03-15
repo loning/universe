@@ -130,6 +130,10 @@ $$
 
 1. [社会量子纠缠](social_quantum_entanglement.md) - 社会行为中的量子纠缠效率
 
+#### 经济与资源理论
+
+1. [经济与资源的量子经典解析](economic_classical_quantum.md) - 钱的本质与人类资源的量子经典解析
+
 #### 黑洞理论
 
 1. [黑洞经典化](black_hole_classicalization.md) - 黑洞作为宇宙信息经典化的极致节点
@@ -217,6 +221,11 @@ $$
    - 转世作为量子信息在新经典载体中的重组
    - 修行作为提升经典化效率的过程
 
+5. **经济与资源理论**：
+   - 钱作为经典知识与经典能量交换媒介的本质
+   - 人类资源作为经典知识与经典能量的组合
+   - 时间感知与经典化效率的关系
+
 ## English Version
 
 This directory contains the theoretical developments of Quantum-Classical Dualism. These theoretical documents elaborate on the core concepts, mathematical models, and theoretical frameworks of Quantum-Classical Dualism, as well as their applications and explanations in various fields.
@@ -259,6 +268,10 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 #### Social Behavior Theories
 
 1. [Social Quantum Entanglement](social_quantum_entanglement.md) - Quantum entanglement efficiency in social behaviors
+
+#### Economy and Resources Theories
+
+1. [Quantum-Classical Analysis of Economy and Resources](economic_classical_quantum.md) - Quantum-classical analysis of the nature of money and human resources
 
 #### Black Hole Theories
 
@@ -345,4 +358,9 @@ The latest theoretical developments in Quantum-Classical Dualism include:
 4. **Spiritual Dimensions Theory**:
    - Classicalization characteristics of higher-dimensional observers
    - Reincarnation as the reorganization of quantum information in new classical carriers
-   - Spiritual practice as a process of improving classicalization efficiency 
+   - Spiritual practice as a process of improving classicalization efficiency
+
+5. **Economy and Resources Theory**:
+   - The nature of money as a medium for exchanging classical knowledge and classical energy
+   - Human resources as a combination of classical knowledge and classical energy
+   - Relationship between time perception and classicalization efficiency 

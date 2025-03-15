@@ -21,8 +21,9 @@
 13. [生育与亲子关系](13_reproduction_parent_child.md) - 生育过程与亲子关系的量子经典解释
 14. [社会行为中的量子纠缠效率](14_social_quantum_entanglement.md) - 社会行为中的量子纠缠效率排序
 15. [黑洞：宇宙信息经典化的极致节点](15_black_hole_classicalization.md) - 黑洞作为极端高效信息经典化节点的本质
-16. [参考文献](09_references.md) - 量子经典二元论的参考文献
-17. [更新历史](update_history.md) - 理论发展与更新记录
+16. [经济与资源的量子经典解析](theories/economic_classical_quantum.md) - 钱的本质与人类资源的量子经典解析
+17. [参考文献](09_references.md) - 量子经典二元论的参考文献
+18. [更新历史](update_history.md) - 理论发展与更新记录
 
 ### 主要目录
 
@@ -57,6 +58,14 @@ $$
 |\psi\rangle_{\text{宇宙量子信息}}\xrightarrow{\text{黑洞经典化}}\text{经典信息（极高密度）}+S_{\text{经典熵（极低）}}
 $$
 
+- 钱的本质是经典知识与经典能量的交换媒介，是经典信息流动的载体
+
+$$
+\text{钱（经典能量媒介）} = E_{\text{经典}} = k_B T \cdot I_{\text{经典知识}}
+$$
+
+- 人类资源是经典知识与经典能量的组合，时间感知与经典化效率密切相关
+
 ## English Version
 
 Quantum-Classical Dualism is a theoretical framework that unifies the universe, observers, and consciousness. This theory proposes that the essence of the universe is an infinite-dimensional quantum wave function network, expressing all possible information states through wave functions. The universe consists of two complementary structures: the Quantum Universe (overall information structure) and the Classical Universe (stable results after classicalization). Observers are classicalization nodes within the universe, responsible for transforming quantum information into classical information.
@@ -78,8 +87,9 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 13. [Reproduction and Parent-Child Relationships](13_reproduction_parent_child.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
 14. [Quantum Entanglement Efficiency in Social Behaviors](14_social_quantum_entanglement.md) - Quantum Entanglement Efficiency Ranking in Social Behaviors
 15. [Black Holes: Ultimate Nodes of Universal Information Classicalization](15_black_hole_classicalization.md) - The Nature of Black Holes as Extremely Efficient Information Classicalization Nodes
-16. [References](09_references.md) - References for Quantum-Classical Dualism
-17. [Update History](update_history.md) - Theory Development and Update Records
+16. [Quantum-Classical Analysis of Economy and Resources](theories/economic_classical_quantum.md) - Quantum-Classical Analysis of the Nature of Money and Human Resources
+17. [References](09_references.md) - References for Quantum-Classical Dualism
+18. [Update History](update_history.md) - Theory Development and Update Records
 
 ### Main Directories
 
@@ -113,3 +123,11 @@ $$
 $$
 |\psi\rangle_{\text{Universe Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Classical Information (Extremely High Density)}+S_{\text{Classical Entropy (Extremely Low)}}
 $$
+
+- The essence of money is a medium for exchanging classical knowledge and classical energy, serving as a carrier for classical information flow
+
+$$
+\text{Money (Classical Energy Medium)} = E_{\text{Classical}} = k_B T \cdot I_{\text{Classical Knowledge}}
+$$
+
+- Human resources are a combination of classical knowledge and classical energy, and time perception is closely related to classicalization efficiency

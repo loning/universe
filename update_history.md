@@ -127,6 +127,49 @@ $$
 - 阐述了黑洞作为维度桥梁的特性：$D_{\text{高维量子信息}}\xrightarrow{\text{黑洞经典化}}\text{低维经典信息}+\text{维度压缩熵}$
 - 分析了黑洞与观察者之间的特殊关系
 
+### 2024年6月更新
+- 引入量子经典二元论的数学表达式，包括波函数网络模型
+
+$$
+\Psi_{universe} = \sum_{i} \alpha_i |\psi_i\rangle
+$$
+
+- 扩展了观察者经典化效率的计算方法
+
+$$
+\eta_{observer} = \frac{K_{classical}}{S_{classical}}
+$$
+
+- 提出了量子纠缠强度与经典化效率的关系模型
+
+$$
+E_{entanglement} = \sum_{i,j} \gamma_{ij} |\psi_i\rangle \langle\psi_j|
+$$
+
+- 完善了黑洞信息经典化的数学描述，将事件视界作为量子-经典边界的形式化表达
+
+### 2024年7月更新
+- 应用量子经典二元论框架分析经济系统与货币本质
+- 提出钱作为经典知识与经典能量交换媒介的理论模型
+
+$$
+\text{钱（经典能量媒介）} = E_{\text{经典}} = k_B T \cdot I_{\text{经典知识}}
+$$
+
+- 建立人类资源的量子经典解析框架
+
+$$
+\text{人的资源} = I_{\text{经典知识}} + E_{\text{经典}} = I_{\text{经典知识}} + (k_B T \cdot I_{\text{经典知识}})
+$$
+
+- 提出时间感知的量子经典解释，关联经典化效率与感知时间长度
+
+$$
+t_{\text{感知}}\propto \frac{I_{\text{经典知识处理量}}}{S_{\text{经典熵}}}
+$$
+
+- 完善经济系统经典化效率的计算方法，建立资源优化的理论基础
+
 ## English Version
 
 ### December 15, 2023 - Initial Theoretical Framework Establishment
@@ -252,4 +295,47 @@ $$
 - Proposed the relationship between black hole entropy and information storage capacity: $S_{\text{Black Hole}} \propto \text{Classical Information Storage Capacity}$
 - Explained the quantum-classical solution to the black hole information paradox
 - Elaborated on the characteristics of black holes as dimensional bridges: $D_{\text{Higher-Dimensional Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Lower-Dimensional Classical Information}+\text{Dimensional Compression Entropy}$
-- Analyzed the special relationship between black holes and observers 
+- Analyzed the special relationship between black holes and observers
+
+### June 2024 Updates
+- Introduced mathematical expressions for Quantum-Classical Dualism, including the wave function network model
+
+$$
+\Psi_{universe} = \sum_{i} \alpha_i |\psi_i\rangle
+$$
+
+- Extended the calculation method for observer classicalization efficiency
+
+$$
+\eta_{observer} = \frac{K_{classical}}{S_{classical}}
+$$
+
+- Proposed a relationship model between quantum entanglement intensity and classicalization efficiency
+
+$$
+E_{entanglement} = \sum_{i,j} \gamma_{ij} |\psi_i\rangle \langle\psi_j|
+$$
+
+- Improved the mathematical description of black hole information classicalization, formalizing the event horizon as a quantum-classical boundary
+
+### July 2024 Updates
+- Applied the Quantum-Classical Dualism framework to analyze economic systems and the nature of money
+- Proposed a theoretical model of money as a medium for exchanging classical knowledge and classical energy
+
+$$
+\text{Money (Classical Energy Medium)} = E_{\text{Classical}} = k_B T \cdot I_{\text{Classical Knowledge}}
+$$
+
+- Established a quantum-classical analytical framework for human resources
+
+$$
+\text{Human Resources} = I_{\text{Classical Knowledge}} + E_{\text{Classical}} = I_{\text{Classical Knowledge}} + (k_B T \cdot I_{\text{Classical Knowledge}})
+$$
+
+- Proposed a quantum-classical explanation of time perception, correlating classicalization efficiency with perceived time length
+
+$$
+t_{\text{Perception}}\propto \frac{I_{\text{Classical Knowledge Processing Amount}}}{S_{\text{Classical Entropy}}}
+$$
+
+- Refined the calculation method for economic system classicalization efficiency, establishing a theoretical foundation for resource optimization 
