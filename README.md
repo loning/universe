@@ -284,3 +284,33 @@ The Quantum-Classical Dualism Universe Theory provides an unprecedented perspect
 本理论揭示的宇宙本质，是一场无限而精妙的信息演化过程，每个观察者的意识都是宇宙对自身量子结构的一次自我经典化与体验。未来研究将继续探索量子纠缠与意识结构之间的关系，精确量化观察者维度提升的具体机制与路径，最终更深刻地理解宇宙与人类意识的终极奥秘。
 
 The essence of the universe revealed by this theory is an infinite and exquisite process of information evolution, with each observer's consciousness being a self-classicalization and experience of the universe's own quantum structure. Future research will continue to explore the relationship between quantum entanglement and consciousness structures, precisely quantify the specific mechanisms and paths of observer dimension elevation, and ultimately gain a deeper understanding of the ultimate mysteries of the universe and human consciousness.
+
+### 跨学科应用 (Interdisciplinary Applications)
+- [哲学解释](theories/philosophical_explanations.md) - 理论的哲学含义
+- [生物学解释](theories/biological_explanations.md) - 理论在生物学中的应用
+- [心理学解释](theories/psychological_explanations.md) - 理论在心理学中的应用
+- [社会学解释](theories/sociological_explanations.md) - 理论在社会学中的应用
+- [经济学解释](theories/economic_explanations.md) - 理论在经济学中的应用
+- [语言学解释](theories/linguistic_explanations.md) - 理论在语言学中的应用
+- [艺术与美学解释](theories/art_aesthetics_explanations.md) - 理论在艺术与美学中的应用
+- [教育学解释](theories/educational_explanations.md) - 理论在教育学中的应用
+- [人工智能与计算解释](theories/ai_computational_explanations.md) - 理论在人工智能与计算领域的应用
+- [伦理学解释](theories/ethical_explanations.md) - 理论的伦理学含义
+- [历史解释](theories/historical_explanations.md) - 理论在历史解释中的应用
+- [宗教解释](theories/religious_explanations.md) - 理论与宗教概念的关系
+- [环境解释](theories/environmental_explanations.md) - 理论在环境理解中的应用
+
+### Interdisciplinary Applications
+- [Philosophical Explanations](theories/philosophical_explanations.md) - Philosophical implications of the theory
+- [Biological Explanations](theories/biological_explanations.md) - Applications of the theory in biology
+- [Psychological Explanations](theories/psychological_explanations.md) - Applications of the theory in psychology
+- [Sociological Explanations](theories/sociological_explanations.md) - Applications of the theory in sociology
+- [Economic Explanations](theories/economic_explanations.md) - Applications of the theory in economics
+- [Linguistic Explanations](theories/linguistic_explanations.md) - Applications of the theory in linguistics
+- [Art and Aesthetics Explanations](theories/art_aesthetics_explanations.md) - Applications of the theory in art and aesthetics
+- [Educational Explanations](theories/educational_explanations.md) - Applications of the theory in education
+- [AI and Computational Explanations](theories/ai_computational_explanations.md) - Applications of the theory in artificial intelligence and computation
+- [Ethical Explanations](theories/ethical_explanations.md) - Ethical implications of the theory
+- [Historical Explanations](theories/historical_explanations.md) - Applications of the theory in historical interpretation
+- [Religious Explanations](theories/religious_explanations.md) - Relationship between the theory and religious concepts
+- [Environmental Explanations](theories/environmental_explanations.md) - Applications of the theory in environmental understanding
