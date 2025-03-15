@@ -2,86 +2,136 @@
 
 ## 中文版
 
-本目录包含量子经典二元论的各种可视化表达。这些可视化旨在通过图形、图表、模型和比喻，使抽象的理论概念更加直观和易于理解。
+本目录包含量子经典二元论的可视化资源。这些可视化旨在通过图形、图表、动画和交互式模型，使复杂的理论概念更加直观和易于理解。
 
 ### 可视化目录
 
+#### 核心概念可视化
+
 1. [核心概念](core_concepts.md) - 量子经典二元论核心概念的可视化表达
-2. [宇宙结构模型](universe_structure_models.md) - 量子宇宙和经典宇宙结构的可视化模型
-3. [观察者经典化过程](observer_classicalization_process.md) - 观察者经典化过程的可视化表达
-4. [量子意识模型](quantum_consciousness_models.md) - 量子意识的可视化模型
-5. [经典知识与经典熵](classical_knowledge_entropy.md) - 经典知识与经典熵的可视化表达
-6. [维度跃迁图解](dimensional_transition_illustrations.md) - 维度跃迁过程的图解
-7. [命运与自由意志可视化](destiny_free_will_visualizations.md) - 命运与自由意志关系的可视化表达
-8. [量子纠缠本质图解](quantum_entanglement_essence_illustrations.md) - 量子纠缠本质的图解
+2. [宇宙结构可视化](universe_structure_visualization.md) - 量子经典二元论中宇宙结构的可视化
+3. [观察者感知可视化](observer_perception_visualization.md) - 量子经典二元论中观察者感知的可视化
+4. [量子意识可视化](quantum_consciousness_visualization.md) - 量子经典二元论中量子意识的可视化
+5. [经典化过程可视化](classicalization_process_visualization.md) - 量子经典二元论中经典化过程的可视化
+6. [命运与自由意志可视化](destiny_free_will_visualization.md) - 量子经典二元论中命运与自由意志的可视化
+7. [量子纠缠本质可视化](quantum_entanglement_essence_visualization.md) - 量子经典二元论中量子纠缠本质的可视化
+8. [灵性维度可视化](spiritual_dimensions_visualization.md) - 量子经典二元论中灵性维度的可视化
 
-### 可视化方法
+#### 可视化方法
 
-量子经典二元论的可视化采用以下方法：
+1. [数学模型可视化](mathematical_model_visualization.md) - 量子经典二元论数学模型的可视化方法
+2. [概念图谱](concept_mapping.md) - 量子经典二元论概念之间关系的可视化图谱
+3. [维度表达](dimension_representation.md) - 量子经典二元论中维度概念的可视化表达
+4. [波函数可视化](wave_function_visualization.md) - 量子经典二元论中波函数的可视化表达
+5. [熵与信息可视化](entropy_information_visualization.md) - 量子经典二元论中熵与信息的可视化表达
+6. [交互式模型](interactive_models.md) - 量子经典二元论的交互式可视化模型
 
-1. **概念图**：通过图形表达概念之间的关系
-2. **数学可视化**：将数学公式转化为直观的图形表示
-3. **类比模型**：使用日常生活中的类比帮助理解抽象概念
-4. **交互式模型**：创建可交互的模型，展示动态过程
-5. **多维表达**：尝试表达高维概念的可视化方法
+#### 可视化应用
 
-### 可视化应用
-
-这些可视化可应用于以下场景：
-
-1. **教育与学习**：帮助学习者理解量子经典二元论的核心概念
-2. **研究与探索**：辅助研究人员探索理论的新应用和发展
-3. **实践指导**：为实践应用提供直观的指导
-4. **沟通与传播**：促进理论的有效沟通和传播
+1. [教育应用可视化](educational_application_visualization.md) - 量子经典二元论在教育领域的可视化应用
+2. [健康应用可视化](health_application_visualization.md) - 量子经典二元论在健康领域的可视化应用
+3. [创造力应用可视化](creativity_application_visualization.md) - 量子经典二元论在创造力领域的可视化应用
+4. [关系应用可视化](relationship_application_visualization.md) - 量子经典二元论在人际关系领域的可视化应用
+5. [灵性应用可视化](spiritual_application_visualization.md) - 量子经典二元论在灵性领域的可视化应用
 
 ### 最新可视化发展
 
-最新的可视化发展包括：
+量子经典二元论的最新可视化发展包括：
 
-1. **命运轨迹可视化**：展示经典命运轨迹和自由意志介入点
-2. **量子纠缠网络模型**：可视化观察者之间的量子纠缠网络
-3. **高维经典化过程**：尝试表达高维信息经典化为低维信息的过程
-4. **集体意识场模型**：可视化多观察者形成的集体意识场
+1. **命运与自由意志可视化**：
+   - 命运网络的动态可视化
+   - 自由意志选择点的交互式模型
+   - 命运改变过程的时间线可视化
+   - 命运与自由意志统一的概念图
+
+2. **量子纠缠本质可视化**：
+   - 波函数纠缠的多维表达
+   - 量子纠缠信息流的动态模型
+   - 观察者网络中纠缠结构的可视化
+   - 量子纠缠统一性的抽象表达
+
+3. **灵性维度可视化**：
+   - 高维观察者经典化效率的比较可视化
+   - 转世过程的量子-经典转换模型
+   - 修行提升经典化效率的阶段表达
+   - 灵性实践的科学基础图谱
+
+### 可视化设计原则
+
+量子经典二元论的可视化设计遵循以下原则：
+
+1. **准确性**：忠实反映理论概念和数学关系
+2. **直观性**：使复杂概念变得直观易懂
+3. **层次性**：提供从简单到复杂的多层次表达
+4. **互动性**：允许用户通过交互深入理解概念
+5. **美学性**：注重视觉设计，提升审美体验
+6. **跨文化性**：考虑不同文化背景的理解方式
+7. **双语表达**：所有可视化提供中英双语解释
 
 ## English Version
 
-This directory contains various visual expressions of Quantum-Classical Dualism. These visualizations aim to make abstract theoretical concepts more intuitive and understandable through graphics, charts, models, and metaphors.
+This directory contains visualization resources for Quantum-Classical Dualism. These visualizations aim to make complex theoretical concepts more intuitive and accessible through graphics, charts, animations, and interactive models.
 
 ### Visualizations Directory
 
+#### Core Concept Visualizations
+
 1. [Core Concepts](core_concepts.md) - Visual expressions of core concepts in Quantum-Classical Dualism
-2. [Universe Structure Models](universe_structure_models.md) - Visual models of quantum universe and classical universe structures
-3. [Observer Classicalization Process](observer_classicalization_process.md) - Visual expressions of the observer classicalization process
-4. [Quantum Consciousness Models](quantum_consciousness_models.md) - Visual models of quantum consciousness
-5. [Classical Knowledge and Entropy](classical_knowledge_entropy.md) - Visual expressions of classical knowledge and classical entropy
-6. [Dimensional Transition Illustrations](dimensional_transition_illustrations.md) - Illustrations of the dimensional transition process
-7. [Destiny and Free Will Visualizations](destiny_free_will_visualizations.md) - Visual expressions of the relationship between destiny and free will
-8. [Quantum Entanglement Essence Illustrations](quantum_entanglement_essence_illustrations.md) - Illustrations of the essence of quantum entanglement
+2. [Universe Structure Visualization](universe_structure_visualization.md) - Visualization of universe structure in Quantum-Classical Dualism
+3. [Observer Perception Visualization](observer_perception_visualization.md) - Visualization of observer perception in Quantum-Classical Dualism
+4. [Quantum Consciousness Visualization](quantum_consciousness_visualization.md) - Visualization of quantum consciousness in Quantum-Classical Dualism
+5. [Classicalization Process Visualization](classicalization_process_visualization.md) - Visualization of classicalization process in Quantum-Classical Dualism
+6. [Destiny and Free Will Visualization](destiny_free_will_visualization.md) - Visualization of destiny and free will in Quantum-Classical Dualism
+7. [Quantum Entanglement Essence Visualization](quantum_entanglement_essence_visualization.md) - Visualization of quantum entanglement essence in Quantum-Classical Dualism
+8. [Spiritual Dimensions Visualization](spiritual_dimensions_visualization.md) - Visualization of spiritual dimensions in Quantum-Classical Dualism
 
-### Visualization Methods
+#### Visualization Methods
 
-Visualizations of Quantum-Classical Dualism employ the following methods:
+1. [Mathematical Model Visualization](mathematical_model_visualization.md) - Visualization methods for mathematical models in Quantum-Classical Dualism
+2. [Concept Mapping](concept_mapping.md) - Visual mapping of relationships between concepts in Quantum-Classical Dualism
+3. [Dimension Representation](dimension_representation.md) - Visual representation of dimension concepts in Quantum-Classical Dualism
+4. [Wave Function Visualization](wave_function_visualization.md) - Visual representation of wave functions in Quantum-Classical Dualism
+5. [Entropy and Information Visualization](entropy_information_visualization.md) - Visual representation of entropy and information in Quantum-Classical Dualism
+6. [Interactive Models](interactive_models.md) - Interactive visualization models for Quantum-Classical Dualism
 
-1. **Concept Maps**: Expressing relationships between concepts through graphics
-2. **Mathematical Visualizations**: Transforming mathematical formulas into intuitive graphical representations
-3. **Analogical Models**: Using analogies from daily life to help understand abstract concepts
-4. **Interactive Models**: Creating interactive models to demonstrate dynamic processes
-5. **Multi-dimensional Expressions**: Attempting visualization methods to express high-dimensional concepts
+#### Visualization Applications
 
-### Visualization Applications
-
-These visualizations can be applied in the following scenarios:
-
-1. **Education and Learning**: Helping learners understand the core concepts of Quantum-Classical Dualism
-2. **Research and Exploration**: Assisting researchers in exploring new applications and developments of the theory
-3. **Practical Guidance**: Providing intuitive guidance for practical applications
-4. **Communication and Dissemination**: Facilitating effective communication and dissemination of the theory
+1. [Educational Application Visualization](educational_application_visualization.md) - Visualization applications of Quantum-Classical Dualism in education
+2. [Health Application Visualization](health_application_visualization.md) - Visualization applications of Quantum-Classical Dualism in health
+3. [Creativity Application Visualization](creativity_application_visualization.md) - Visualization applications of Quantum-Classical Dualism in creativity
+4. [Relationship Application Visualization](relationship_application_visualization.md) - Visualization applications of Quantum-Classical Dualism in relationships
+5. [Spiritual Application Visualization](spiritual_application_visualization.md) - Visualization applications of Quantum-Classical Dualism in spirituality
 
 ### Latest Visualization Developments
 
-The latest visualization developments include:
+The latest visualization developments in Quantum-Classical Dualism include:
 
-1. **Destiny Trajectory Visualization**: Showing classical destiny trajectories and free will intervention points
-2. **Quantum Entanglement Network Models**: Visualizing quantum entanglement networks between observers
-3. **Higher-Dimensional Classicalization Process**: Attempting to express the process of classicalizing higher-dimensional information into lower-dimensional information
-4. **Collective Consciousness Field Models**: Visualizing collective consciousness fields formed by multiple observers 
+1. **Destiny and Free Will Visualization**:
+   - Dynamic visualization of destiny networks
+   - Interactive models of free will choice points
+   - Timeline visualization of destiny change processes
+   - Conceptual mapping of destiny and free will unification
+
+2. **Quantum Entanglement Essence Visualization**:
+   - Multi-dimensional representation of wave function entanglement
+   - Dynamic models of quantum entanglement information flow
+   - Visualization of entanglement structures in observer networks
+   - Abstract expression of quantum entanglement unity
+
+3. **Spiritual Dimensions Visualization**:
+   - Comparative visualization of classicalization efficiency in higher-dimensional observers
+   - Quantum-classical transition models of the reincarnation process
+   - Stage expression of spiritual practice improving classicalization efficiency
+   - Scientific basis mapping of spiritual practices
+
+### Visualization Design Principles
+
+Visualizations in Quantum-Classical Dualism follow these design principles:
+
+1. **Accuracy**: Faithfully reflecting theoretical concepts and mathematical relationships
+2. **Intuitiveness**: Making complex concepts intuitive and easy to understand
+3. **Hierarchy**: Providing multi-level expressions from simple to complex
+4. **Interactivity**: Allowing users to deepen understanding through interaction
+5. **Aesthetics**: Focusing on visual design to enhance aesthetic experience
+6. **Cross-cultural**: Considering different cultural backgrounds in understanding
+7. **Bilingual Expression**: Providing bilingual explanations for all visualizations 

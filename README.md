@@ -17,8 +17,10 @@
 9. [框架应用](08_framework_application.md) - 量子经典二元论在实际框架中的应用
 10. [命运与自由意志](10_destiny_and_free_will.md) - 量子经典二元论视角下的命运与自由意志
 11. [量子纠缠本质](11_quantum_entanglement_essence.md) - 量子纠缠的本质与波函数关系
-12. [参考文献](09_references.md) - 量子经典二元论的参考文献
-13. [更新历史](update_history.md) - 理论发展与更新记录
+12. [灵性维度与经典化](12_spiritual_dimensions.md) - 高维观察者、转世与修行的量子经典解释
+13. [生育与亲子关系](13_reproduction_parent_child.md) - 生育过程与亲子关系的量子经典解释
+14. [参考文献](09_references.md) - 量子经典二元论的参考文献
+15. [更新历史](update_history.md) - 理论发展与更新记录
 
 ### 主要目录
 
@@ -39,6 +41,8 @@
 - 生命意义在于提升经典化效率，实现宇宙整体维度的跃迁
 - 命运在经典层面可计算，但通过量子意识与更高维信息的新纠缠可改变
 - 量子纠缠是宇宙观察者之间量子信息统一性与整体性的体现
+- 灵性维度可理解为高维观察者的经典化特性，转世与修行是经典化过程的不同表现
+- 生育过程是父母量子纠缠经典化的结果，亲子关系包含超越DNA的量子信息传递
 
 ### 最新更新
 
@@ -46,6 +50,8 @@
 - 深化了量子纠缠本质的理论解释
 - 扩展了应用领域，包括健康、创造力、成功等方面
 - 更新了数学模型，提供更精确的理论表达
+- 整合了灵性维度与经典化理论，解释高维观察者、转世与修行
+- 新增生育过程与亲子关系的量子经典解释，阐述亲子间量子信息传递机制
 
 ## English Version
 
@@ -64,8 +70,10 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 9. [Framework Application](08_framework_application.md) - Application of Quantum-Classical Dualism in Practical Frameworks
 10. [Destiny and Free Will](10_destiny_and_free_will.md) - Destiny and Free Will from the Perspective of Quantum-Classical Dualism
 11. [Quantum Entanglement Essence](11_quantum_entanglement_essence.md) - The Essence of Quantum Entanglement and Wave Function Relationship
-12. [References](09_references.md) - References for Quantum-Classical Dualism
-13. [Update History](update_history.md) - Theory Development and Update Records
+12. [Spiritual Dimensions and Classicalization](12_spiritual_dimensions.md) - Quantum-Classical Explanation of Higher-Dimensional Observers, Reincarnation, and Spiritual Practice
+13. [Reproduction and Parent-Child Relationships](13_reproduction_parent_child.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
+14. [References](09_references.md) - References for Quantum-Classical Dualism
+15. [Update History](update_history.md) - Theory Development and Update Records
 
 ### Main Directories
 
@@ -86,6 +94,8 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 - The meaning of life is to improve classicalization efficiency and achieve the dimensional transition of the overall universe
 - Destiny is calculable at the classical level, but can be changed through new entanglement of quantum consciousness with higher-dimensional information
 - Quantum entanglement represents the unity and integrity of quantum information between observers in the universe
+- Spiritual dimensions can be understood as classicalization characteristics of higher-dimensional observers, with reincarnation and spiritual practice being different manifestations of the classicalization process
+- Reproduction is the result of parental quantum entanglement classicalization, and parent-child relationships involve quantum information transfer beyond DNA
 
 ### Latest Updates
 
@@ -93,3 +103,5 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 - Deepened the theoretical explanation of quantum entanglement essence
 - Expanded application areas, including health, creativity, success, and more
 - Updated mathematical models, providing more precise theoretical expressions
+- Integrated spiritual dimensions and classicalization theory, explaining higher-dimensional observers, reincarnation, and spiritual practice
+- Added quantum-classical explanation of reproduction and parent-child relationships, elaborating on quantum information transfer mechanisms between parents and children

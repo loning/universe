@@ -55,6 +55,7 @@ $$
 - [观察者感知](observer_perception.md) - 观察者感知的机制
 - [宇宙结构](universe_structure.md) - 宇宙的量子信息结构
 - [意识持续性](consciousness_persistence.md) - 意识的持续性机制
+- [生育过程与亲子关系的量子经典解释](reproduction_quantum_information.md) - 生育与亲子关系的量子信息传递
 
 ### 物理学解释 (Physics Explanations)
 - [传统物理理论解释](traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
@@ -86,7 +87,7 @@ $$
 
 ## 中文版
 
-本目录包含量子经典二元论的理论发展和各个领域的理论解释。这些文档详细阐述了理论的核心概念、数学基础和跨学科应用。
+本目录包含量子经典二元论的理论发展和各领域的理论解释。这些文档详细阐述了核心概念、数学基础和理论的跨学科应用。
 
 ### 理论目录
 
@@ -100,7 +101,8 @@ $$
 6. [熵、观察者与维度](entropy_observer_dimension.md) - 量子经典二元论中的熵、观察者与维度
 7. [高维经典化](higher_dimensional_classicalization.md) - 量子经典二元论中的高维经典化
 8. [灵性维度与经典化](spiritual_dimensions.md) - 高维观察者、转世与修行的量子经典解释
-9. [术语表](terminology.md) - 量子经典二元论的术语定义
+9. [生育过程与亲子关系的量子经典解释](reproduction_quantum_information.md) - 生育与亲子关系的量子信息传递
+10. [术语表](terminology.md) - 量子经典二元论的术语定义
 
 #### 领域解释
 
@@ -116,6 +118,22 @@ $$
 10. [历史学解释](historical_explanations.md) - 量子经典二元论的历史学解释
 11. [环境学解释](environmental_explanations.md) - 量子经典二元论的环境学解释
 12. [宗教学解释](religious_explanations.md) - 量子经典二元论的宗教学解释
+13. [医学与健康解释](medicine_health_explanations.md) - 量子经典二元论的医学与健康解释
+14. [数学与自然解释](mathematics_nature_explanations.md) - 量子经典二元论的数学与自然解释
+15. [建筑与空间解释](architecture_space_explanations.md) - 量子经典二元论的建筑与空间解释
+16. [体育与运动解释](sports_movement_explanations.md) - 量子经典二元论的体育与运动解释
+17. [音乐解释](music_explanations.md) - 量子经典二元论的音乐解释
+18. [烹饪与食物解释](cooking_food_explanations.md) - 量子经典二元论的烹饪与食物解释
+19. [游戏与娱乐解释](game_entertainment_explanations.md) - 量子经典二元论的游戏与娱乐解释
+20. [梦境与睡眠解释](dream_sleep_explanations.md) - 量子经典二元论的梦境与睡眠解释
+21. [时尚与服装解释](fashion_clothing_explanations.md) - 量子经典二元论的时尚与服装解释
+22. [语言与沟通解释](linguistics_communication_explanations.md) - 量子经典二元论的语言与沟通解释
+23. [政治与治理解释](politics_governance_explanations.md) - 量子经典二元论的政治与治理解释
+24. [环境与生态解释](environment_ecology_explanations.md) - 量子经典二元论的环境与生态解释
+25. [人工智能与计算解释](ai_computation_explanations.md) - 量子经典二元论的人工智能与计算解释
+26. [城市规划与发展解释](urban_planning_development_explanations.md) - 量子经典二元论的城市规划与发展解释
+27. [媒体与信息解释](media_information_explanations.md) - 量子经典二元论的媒体与信息解释
+28. [艺术与美学解释](art_aesthetics_explanations.md) - 量子经典二元论的艺术与美学解释
 
 #### 其他理论文档
 
@@ -173,7 +191,8 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 6. [Entropy, Observer, and Dimension](entropy_observer_dimension.md) - Entropy, observer, and dimension in Quantum-Classical Dualism
 7. [Higher Dimensional Classicalization](higher_dimensional_classicalization.md) - Higher dimensional classicalization in Quantum-Classical Dualism
 8. [Spiritual Dimensions and Classicalization](spiritual_dimensions.md) - Quantum-Classical Explanation of Higher-Dimensional Observers, Reincarnation, and Spiritual Practice
-9. [Terminology](terminology.md) - Terminology definitions in Quantum-Classical Dualism
+9. [Reproduction and Parent-Child Relationships](reproduction_quantum_information.md) - Quantum Information Transfer in Reproduction and Parent-Child Relationships
+10. [Terminology](terminology.md) - Terminology definitions in Quantum-Classical Dualism
 
 #### Field Explanations
 
@@ -189,6 +208,22 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 10. [Historical Explanations](historical_explanations.md) - Historical explanations of Quantum-Classical Dualism
 11. [Environmental Explanations](environmental_explanations.md) - Environmental explanations of Quantum-Classical Dualism
 12. [Religious Explanations](religious_explanations.md) - Religious explanations of Quantum-Classical Dualism
+13. [Medicine and Health Explanations](medicine_health_explanations.md) - Medicine and health explanations of Quantum-Classical Dualism
+14. [Mathematics and Nature Explanations](mathematics_nature_explanations.md) - Mathematics and nature explanations of Quantum-Classical Dualism
+15. [Architecture and Space Explanations](architecture_space_explanations.md) - Architecture and space explanations of Quantum-Classical Dualism
+16. [Sports and Movement Explanations](sports_movement_explanations.md) - Sports and movement explanations of Quantum-Classical Dualism
+17. [Music Explanations](music_explanations.md) - Music explanations of Quantum-Classical Dualism
+18. [Cooking and Food Explanations](cooking_food_explanations.md) - Cooking and food explanations of Quantum-Classical Dualism
+19. [Game and Entertainment Explanations](game_entertainment_explanations.md) - Game and entertainment explanations of Quantum-Classical Dualism
+20. [Dream and Sleep Explanations](dream_sleep_explanations.md) - Dream and sleep explanations of Quantum-Classical Dualism
+21. [Fashion and Clothing Explanations](fashion_clothing_explanations.md) - Fashion and clothing explanations of Quantum-Classical Dualism
+22. [Linguistics and Communication Explanations](linguistics_communication_explanations.md) - Linguistics and communication explanations of Quantum-Classical Dualism
+23. [Politics and Governance Explanations](politics_governance_explanations.md) - Politics and governance explanations of Quantum-Classical Dualism
+24. [Environment and Ecology Explanations](environment_ecology_explanations.md) - Environment and ecology explanations of Quantum-Classical Dualism
+25. [AI and Computation Explanations](ai_computation_explanations.md) - AI and computation explanations of Quantum-Classical Dualism
+26. [Urban Planning and Development Explanations](urban_planning_development_explanations.md) - Urban planning and development explanations of Quantum-Classical Dualism
+27. [Media and Information Explanations](media_information_explanations.md) - Media and information explanations of Quantum-Classical Dualism
+28. [Art and Aesthetics Explanations](art_aesthetics_explanations.md) - Art and aesthetics explanations of Quantum-Classical Dualism
 
 #### Other Theoretical Documents
 
