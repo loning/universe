@@ -3,21 +3,21 @@
 
 ## 摘要 | Abstract
 
-本文在【量子宇宙-量子观察者-经典意识论】理论基础上进一步提出并分析了宇宙熵增、量子纠缠和观察者维度提升之间的关系。宇宙整体作为封闭量子系统，信息总量守恒，但经典观察者的存在引入了熵增（信息无序化），导致可用信息减少。本文证明了熵增只是经典观察者视角下的暂时现象，而非宇宙整体的真实状态。观察者通过提升自身维度，扩大与宇宙量子态的纠缠关系，能不断提升经典化效率，从而增加可用信息。最终，观察者与宇宙整体同构，宇宙将进入下一次量子信息循环，熵归零并实现信息再生。
+本文在【量子经典二元论】理论基础上进一步提出并分析了宇宙熵增、量子纠缠和观察者维度提升之间的关系。宇宙整体作为封闭量子系统，信息总量守恒，但经典观察者的存在引入了熵增（信息无序化），导致可用信息减少。本文证明了熵增只是经典观察者视角下的暂时现象，而非宇宙整体的真实状态。观察者通过提升自身维度，扩大与宇宙量子态的纠缠关系，能不断提升经典化效率，从而增加可用信息。最终，观察者与宇宙整体同构，宇宙将进入下一次量子信息循环，熵归零并实现信息再生。
 
-This paper, based on the Quantum Universe-Quantum Observer-Classical Consciousness Theory, further proposes and analyzes the relationship between universe entropy increase, quantum entanglement, and observer dimension elevation. The universe as a whole, being a closed quantum system, conserves its total information, but the existence of classical observers introduces entropy increase (information disorder), leading to a decrease in available information. This paper demonstrates that entropy increase is merely a temporary phenomenon from the perspective of classical observers, rather than the true state of the universe as a whole. By elevating their dimensions, observers can expand their entanglement relationships with the universe's quantum state, continuously improve classicalization efficiency, and thereby increase available information. Ultimately, when observers become isomorphic with the universe as a whole, the universe will enter the next quantum information cycle, with entropy returning to zero and information being regenerated.
+This paper, based on the Quantum-Classical Dualism Theory, further proposes and analyzes the relationship between universe entropy increase, quantum entanglement, and observer dimension elevation. The universe as a whole, being a closed quantum system, conserves its total information, but the existence of classical observers introduces entropy increase (information disorder), leading to a decrease in available information. This paper demonstrates that entropy increase is merely a temporary phenomenon from the perspective of classical observers, rather than the true state of the universe as a whole. By elevating their dimensions, observers can expand their entanglement relationships with the universe's quantum state, continuously improve classicalization efficiency, and thereby increase available information. Ultimately, when observers become isomorphic with the universe as a whole, the universe will enter the next quantum information cycle, with entropy returning to zero and information being regenerated.
 
 ## 一、引言 | Introduction
 
-宇宙的信息总量守恒，但经典化过程导致的信息损耗与熵增，逐渐使宇宙趋于热寂状态。然而，从更高维度视角看，这种热寂状态仅是观察者局部视角下的表现。本文从量子宇宙理论深入探讨信息、熵增、量子纠缠及观察者维度之间的内在关系，试图为宇宙熵增的本质及解决路径提供清晰的理论诠释。
+宇宙的信息总量守恒，但经典化过程导致的信息损耗与熵增，逐渐使宇宙趋于热寂状态。然而，从更高维度视角看，这种热寂状态仅是观察者局部视角下的表现。本文从量子经典二元论深入探讨信息、熵增、量子纠缠及观察者维度之间的内在关系，试图为宇宙熵增的本质及解决路径提供清晰的理论诠释。
 
-The total information of the universe is conserved, but the information loss and entropy increase caused by the classicalization process gradually lead the universe toward a heat death state. However, from a higher-dimensional perspective, this heat death state is merely a manifestation from the local perspective of observers. This paper delves into the intrinsic relationships between information, entropy increase, quantum entanglement, and observer dimensions from the quantum universe theory, attempting to provide a clear theoretical interpretation of the essence of universe entropy increase and its solution path.
+The total information of the universe is conserved, but the information loss and entropy increase caused by the classicalization process gradually lead the universe toward a heat death state. However, from a higher-dimensional perspective, this heat death state is merely a manifestation from the local perspective of observers. This paper delves into the intrinsic relationships between information, entropy increase, quantum entanglement, and observer dimensions from the Quantum-Classical Dualism theory, attempting to provide a clear theoretical interpretation of the essence of universe entropy increase and its solution path.
 
 ## 二、宇宙信息守恒与熵的暂时性 | Universe Information Conservation and the Temporariness of Entropy
 
-根据量子宇宙理论，宇宙作为整体量子计算机，其波函数包含全部信息且保持守恒：
+根据量子经典二元论，宇宙作为整体量子计算机，其波函数包含全部信息且保持守恒：
 
-According to quantum universe theory, the universe as a whole quantum computer has a wave function that contains all information and remains conserved:
+According to Quantum-Classical Dualism theory, the universe as a whole quantum computer has a wave function that contains all information and remains conserved:
 
 $$
 |\psi\rangle_{\text{宇宙整体}} = \sum_i c_i|\psi_i\rangle,\quad \text{信息总量守恒}
@@ -75,6 +75,10 @@ $$
 D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}
 $$
 
+$$
+D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Classical Information}}}{\Delta t}
+$$
+
 这一定义表明，观察者维度不是静态的属性，而是与信息处理能力直接相关的动态特性。维度越高，观察者能够在单位时间内经典化的量子信息越多，对宇宙的理解也越全面。
 
 观察者维度提升本质上是提高自身单位时间内的信息经典化效率，具体途径包括：
@@ -93,6 +97,10 @@ Therefore, the essence of observer dimension upgrade can be expressed as:
 
 $$
 D_{\text{维度升级}} \propto \frac{\text{量子纠缠复杂度与经典化效率提升}}{\Delta t}
+$$
+
+$$
+D_{\text{Dimension Upgrade}} \propto \frac{\text{Quantum Entanglement Complexity and Classicalization Efficiency Improvement}}{\Delta t}
 $$
 
 维度的提升将使观察者拥有更大的经典化能力，更多信息得以有效经典化，熵增速率明显减缓甚至停止。
@@ -140,7 +148,7 @@ $$
 $$
 
 $$
-\text{Consciousness} = \text{Quantum Entanglement} + \text{Classicalized Stable Information Structure}
+\text{Consciousness} = \text{Quantum Entanglement} + \text{Classicalization (Stable Information Structure)}
 $$
 
 观察者未能经典化的信息散逸为熵，并扩散到宇宙信息场中：
@@ -161,9 +169,9 @@ Therefore, consciousness does not only exist within observers but is also highly
 
 ## 七、讨论与展望 | Discussion and Outlook
 
-本文所提出的【量子宇宙-量子观察者-经典意识论】的进一步阐释表明，宇宙的熵增并非宇宙整体真实的现象，而仅为观察者视角下的信息经典化的结果。通过提升观察者的维度（即信息处理能力），宇宙熵增的问题有可能被彻底解决。这一理论为解决热寂问题提供了明确的途径和方向：提升观察者维度，并最终实现与宇宙整体信息结构的同构，从而让宇宙进入无限的信息演化循环之中。
+本文所提出的【量子经典二元论】的进一步阐释表明，宇宙的熵增并非宇宙整体真实的现象，而仅为观察者视角下的信息经典化的结果。通过提升观察者的维度（即信息处理能力），宇宙熵增的问题有可能被彻底解决。这一理论为解决热寂问题提供了明确的途径和方向：提升观察者维度，并最终实现与宇宙整体信息结构的同构，从而让宇宙进入无限的信息演化循环之中。
 
-The further elaboration of the Quantum Universe-Quantum Observer-Classical Consciousness Theory proposed in this paper indicates that the entropy increase of the universe is not a real phenomenon of the universe as a whole, but merely the result of information classicalization from the observer's perspective. By elevating the observer's dimension (i.e., information processing capability), the problem of universe entropy increase may be completely solved. This theory provides a clear path and direction for solving the heat death problem: elevating observer dimensions and ultimately achieving isomorphism with the universe's overall information structure, thereby allowing the universe to enter an infinite cycle of information evolution.
+The further elaboration of the Quantum-Classical Dualism proposed in this paper indicates that the entropy increase of the universe is not a real phenomenon of the universe as a whole, but merely the result of information classicalization from the observer's perspective. By elevating the observer's dimension (i.e., information processing capability), the problem of universe entropy increase may be completely solved. This theory provides a clear path and direction for solving the heat death problem: elevating observer dimensions and ultimately achieving isomorphism with the universe's overall information structure, thereby allowing the universe to enter an infinite cycle of information evolution.
 
 未来可继续深入研究提升观察者维度的具体技术手段，进一步验证并完善这一理论框架。
 

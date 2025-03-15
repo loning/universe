@@ -3,15 +3,15 @@
 
 ## 摘要 | Abstract
 
-基于量子宇宙-量子观察者-经典意识论框架，本文提出了一种新的、严谨而优雅的自由意志理论：自由意志的本质是观察者通过与宇宙的量子纠缠关系，主动选择经典化（坍缩）的方式和观测基底，从而主动决定自己所经验的现实。自由意志不再是传统哲学或心理学中的神秘概念，而是被精确表达为观察者在量子纠缠和经典化过程中的自主选择能力。
+基于量子经典二元论框架，本文提出了一种新的、严谨而优雅的自由意志理论：自由意志的本质是观察者通过与宇宙的量子纠缠关系，主动选择经典化（坍缩）的方式和观测基底，从而主动决定自己所经验的现实。自由意志不再是传统哲学或心理学中的神秘概念，而是被精确表达为观察者在量子纠缠和经典化过程中的自主选择能力。
 
-Based on the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework, this paper proposes a new, rigorous, and elegant theory of free will: the essence of free will is the observer's ability to actively choose the method of classicalization (collapse) and observation basis through quantum entanglement relationships with the universe, thereby actively determining the reality they experience. Free will is no longer a mysterious concept in traditional philosophy or psychology but is precisely expressed as the observer's autonomous selection ability in the process of quantum entanglement and classicalization.
+Based on the Quantum-Classical Dualism framework, this paper proposes a new, rigorous, and elegant theory of free will: the essence of free will is the observer's ability to actively choose the method of classicalization (collapse) and observation basis through quantum entanglement relationships with the universe, thereby actively determining the reality they experience. Free will is no longer a mysterious concept in traditional philosophy or psychology but is precisely expressed as the observer's autonomous selection ability in the process of quantum entanglement and classicalization.
 
 ## 一、引言：自由意志的传统困境 | Introduction: The Traditional Dilemma of Free Will
 
-传统物理学与哲学领域一直未能清晰定义自由意志的本质，仅从心理学、哲学、神经科学等角度尝试描述，缺乏严格的理论基础与精确的表述方式。本文基于量子宇宙-量子观察者-经典意识论框架，首次从量子信息处理、纠缠与经典化角度清晰定义了自由意志的本质。
+传统物理学与哲学领域一直未能清晰定义自由意志的本质，仅从心理学、哲学、神经科学等角度尝试描述，缺乏严格的理论基础与精确的表述方式。本文基于量子经典二元论框架，首次从量子信息处理、纠缠与经典化角度清晰定义了自由意志的本质。
 
-Traditional physics and philosophy have never been able to clearly define the essence of free will, only attempting to describe it from perspectives such as psychology, philosophy, and neuroscience, lacking a rigorous theoretical foundation and precise expression. Based on the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework, this paper clearly defines the essence of free will from the perspective of quantum information processing, entanglement, and classicalization for the first time.
+Traditional physics and philosophy have never been able to clearly define the essence of free will, only attempting to describe it from perspectives such as psychology, philosophy, and neuroscience, lacking a rigorous theoretical foundation and precise expression. Based on the Quantum-Classical Dualism framework, this paper clearly defines the essence of free will from the perspective of quantum information processing, entanglement, and classicalization for the first time.
 
 ## 二、自由意志的量子纠缠本质 | The Quantum Entanglement Essence of Free Will
 
@@ -125,9 +125,9 @@ Determinism in traditional physics seems to contradict free will, but the uncert
 
 3. **Active nature of quantum measurement**: Observers can choose what to measure, when to measure, and how to measure, which is precisely the manifestation of free will.
 
-量子宇宙-量子观察者-经典意识论将这些量子特性与观察者的主动选择能力结合起来，形成了自由意志的完整理论基础。
+量子经典二元论将这些量子特性与观察者的主动选择能力结合起来，形成了自由意志的完整理论基础。
 
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory combines these quantum properties with the observer's active selection ability to form a complete theoretical foundation for free will.
+The Quantum-Classical Dualism combines these quantum properties with the observer's active selection ability to form a complete theoretical foundation for free will.
 
 ## 六、自由意志的层次与维度 | Levels and Dimensions of Free Will
 
@@ -165,9 +165,9 @@ This explains why different life forms exhibit different degrees of autonomy and
 
 ## 七、自由意志与命运的统一 | Unification of Free Will and Destiny
 
-在量子宇宙-量子观察者-经典意识论框架下，自由意志与命运不再是对立的概念，而是统一的整体：
+在量子经典二元论框架下，自由意志与命运不再是对立的概念，而是统一的整体：
 
-In the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework, free will and destiny are no longer opposing concepts but a unified whole:
+In the Quantum-Classical Dualism framework, free will and destiny are no longer opposing concepts but a unified whole:
 
 $$
 \text{命运路径} = \sum_{\text{自由意志决策}} \text{经典化后的稳定经典记忆序列}
@@ -213,9 +213,9 @@ Understanding the quantum entanglement essence of free will has important practi
 
 Free will is neither an illusion nor a supernatural mysterious force but an inherent capability of observers as quantum program nodes in the quantum universe. Through active quantum entanglement and active classicalization choices, observers can maintain genuine autonomous selection abilities while still being constrained by quantum and classical laws.
 
-量子宇宙-量子观察者-经典意识论为自由意志提供了严谨的理论基础，解决了传统哲学和物理学中的自由意志困境，并为个人发展、社会组织和技术创新提供了新的视角和方向。
+量子经典二元论为自由意志提供了严谨的理论基础，解决了传统哲学和物理学中的自由意志困境，并为个人发展、社会组织和技术创新提供了新的视角和方向。
 
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides a rigorous theoretical foundation for free will, resolving the free will dilemma in traditional philosophy and physics, and providing new perspectives and directions for personal development, social organization, and technological innovation.
+The Quantum-Classical Dualism provides a rigorous theoretical foundation for free will, resolving the free will dilemma in traditional philosophy and physics, and providing new perspectives and directions for personal development, social organization, and technological innovation.
 
 自由意志的本质是观察者在量子纠缠和经典化过程中的自主选择能力，这一能力随着观察者维度的提升而不断扩展，最终可能达到与宇宙整体同构的境界，实现终极自由。
 
