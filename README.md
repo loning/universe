@@ -83,6 +83,7 @@ The Quantum-Classical Dualism Universe Theory is a unified theoretical framework
 3. [宇宙信息处理的层级性](theories/universe_structure/hierarchy.md) - 宇宙信息处理的不同层级及其关系
 4. [子宇宙的形成机制](theories/universe_structure/subuniverse_formation.md) - 子宇宙如何在主宇宙中形成的机制
 5. [宇宙演化的信息动力学](theories/universe_structure/information_dynamics.md) - 宇宙演化的信息动力学模型
+6. [宇宙本质与观察者维度提升](theories/universe_structure/observer_dimension_evolution.md) - 宇宙作为高维观察者帮助低维观察者提升维度的过程
 
 ### 意识的持久性与传递
 1. [量子记忆机制](theories/consciousness/quantum_memory.md) - 量子层面的记忆形成与存储机制
@@ -175,6 +176,7 @@ The Quantum-Classical Dualism Universe Theory is a unified theoretical framework
 3. [Hierarchy of Universe Information Processing](theories/universe_structure/hierarchy.md) - Different levels of universe information processing and their relationships
 4. [Formation Mechanism of Sub-universes](theories/universe_structure/subuniverse_formation.md) - Mechanism of how sub-universes form within the main universe
 5. [Information Dynamics of Universe Evolution](theories/universe_structure/information_dynamics.md) - Information dynamics model of universe evolution
+6. [Universe Essence and Observer Dimension Elevation](theories/universe_structure/observer_dimension_evolution.md) - The universe as a process of high-dimensional observers helping low-dimensional observers elevate dimensions
 
 ### Consciousness Persistence and Transmission
 1. [Quantum Memory Mechanism](theories/consciousness/quantum_memory.md) - Memory formation and storage mechanism at the quantum level
@@ -299,6 +301,7 @@ The essence of the universe revealed by this theory is an infinite and exquisite
 - [历史解释](theories/historical_explanations.md) - 理论在历史解释中的应用
 - [宗教解释](theories/religious_explanations.md) - 理论与宗教概念的关系
 - [环境解释](theories/environmental_explanations.md) - 理论在环境理解中的应用
+- [科幻文学分析](theories/sci_fi_analysis/three_body_critique.md) - 理论对科幻文学概念的批判性分析
 
 ### Interdisciplinary Applications
 - [Philosophical Explanations](theories/philosophical_explanations.md) - Philosophical implications of the theory
@@ -314,3 +317,4 @@ The essence of the universe revealed by this theory is an infinite and exquisite
 - [Historical Explanations](theories/historical_explanations.md) - Applications of the theory in historical interpretation
 - [Religious Explanations](theories/religious_explanations.md) - Relationship between the theory and religious concepts
 - [Environmental Explanations](theories/environmental_explanations.md) - Applications of the theory in environmental understanding
+- [Science Fiction Analysis](theories/sci_fi_analysis/three_body_critique.md) - Critical analysis of science fiction concepts through the theory
