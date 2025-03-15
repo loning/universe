@@ -59,6 +59,8 @@
 18. [体育与运动科学解释](theories/sports_movement_explanations.md) - 理论框架对体育活动和身体运动的解释
 19. [建筑学与空间设计解释](theories/architecture_space_explanations.md) - 理论框架对建筑空间与环境设计的解释
 20. [数学本质解释](theories/mathematics_nature_explanations.md) - 理论框架对数学本质和有效性的解释
+21. [医学与健康科学解释](theories/medicine_health_explanations.md) - 理论框架对疾病、健康和治疗的解释
+22. [烹饪与食物文化解释](theories/cooking_food_explanations.md) - 理论框架对烹饪过程和食物文化的解释
 
 ### 特殊主题研究
 1. [宇宙结构](theories/universe_structure.md) - 基于量子经典二元论的宇宙结构模型
@@ -137,6 +139,8 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 18. [Sports and Movement Science Explanations](theories/sports_movement_explanations.md) - Explanations of sports activities and physical movement by the theoretical framework
 19. [Architecture and Spatial Design Explanations](theories/architecture_space_explanations.md) - Explanations of architectural space and environmental design by the theoretical framework
 20. [Mathematics Nature Explanations](theories/mathematics_nature_explanations.md) - Explanations of the nature and effectiveness of mathematics by the theoretical framework
+21. [Medicine and Health Science Explanations](theories/medicine_health_explanations.md) - Explanations of disease, health, and treatment by the theoretical framework
+22. [Cooking and Food Culture Explanations](theories/cooking_food_explanations.md) - Explanations of cooking processes and food culture by the theoretical framework
 
 ### Special Topic Research
 1. [Universe Structure](theories/universe_structure.md) - Universe structure model based on Quantum-Classical Dualism
