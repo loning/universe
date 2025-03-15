@@ -99,7 +99,8 @@ $$
 5. [自由意志与量子纠缠](free_will_quantum_entanglement.md) - 量子经典二元论中的自由意志与量子纠缠
 6. [熵、观察者与维度](entropy_observer_dimension.md) - 量子经典二元论中的熵、观察者与维度
 7. [高维经典化](higher_dimensional_classicalization.md) - 量子经典二元论中的高维经典化
-8. [术语表](terminology.md) - 量子经典二元论的术语定义
+8. [灵性维度与经典化](spiritual_dimensions.md) - 高维观察者、转世与修行的量子经典解释
+9. [术语表](terminology.md) - 量子经典二元论的术语定义
 
 #### 领域解释
 
@@ -114,6 +115,7 @@ $$
 9. [伦理学解释](ethical_explanations.md) - 量子经典二元论的伦理学解释
 10. [历史学解释](historical_explanations.md) - 量子经典二元论的历史学解释
 11. [环境学解释](environmental_explanations.md) - 量子经典二元论的环境学解释
+12. [宗教学解释](religious_explanations.md) - 量子经典二元论的宗教学解释
 
 #### 其他理论文档
 
@@ -138,6 +140,12 @@ $$
    - 量子纠缠与观察者网络
    - 量子纠缠的统一性与整体性
 
+3. **灵性维度与经典化理论**：
+   - 高维观察者（如释迦牟尼）的经典化特性
+   - 转世的量子经典解释
+   - 修行作为经典化效率提升的过程
+   - 灵性实践的科学基础
+
 ### 理论研究方法
 
 量子经典二元论的理论研究采用以下方法：
@@ -147,6 +155,7 @@ $$
 3. **实证与理论结合**：将理论预测与实证观察相结合
 4. **解释力评估**：评估理论对各种现象的解释力
 5. **应用验证**：通过实际应用验证理论的有效性
+6. **传统智慧重解**：用现代科学框架重新解释传统智慧和灵性概念
 
 ## English Version
 
@@ -163,7 +172,8 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 5. [Free Will and Quantum Entanglement](free_will_quantum_entanglement.md) - Free will and quantum entanglement in Quantum-Classical Dualism
 6. [Entropy, Observer, and Dimension](entropy_observer_dimension.md) - Entropy, observer, and dimension in Quantum-Classical Dualism
 7. [Higher Dimensional Classicalization](higher_dimensional_classicalization.md) - Higher dimensional classicalization in Quantum-Classical Dualism
-8. [Terminology](terminology.md) - Terminology definitions in Quantum-Classical Dualism
+8. [Spiritual Dimensions and Classicalization](spiritual_dimensions.md) - Quantum-Classical Explanation of Higher-Dimensional Observers, Reincarnation, and Spiritual Practice
+9. [Terminology](terminology.md) - Terminology definitions in Quantum-Classical Dualism
 
 #### Field Explanations
 
@@ -178,6 +188,7 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 9. [Ethical Explanations](ethical_explanations.md) - Ethical explanations of Quantum-Classical Dualism
 10. [Historical Explanations](historical_explanations.md) - Historical explanations of Quantum-Classical Dualism
 11. [Environmental Explanations](environmental_explanations.md) - Environmental explanations of Quantum-Classical Dualism
+12. [Religious Explanations](religious_explanations.md) - Religious explanations of Quantum-Classical Dualism
 
 #### Other Theoretical Documents
 
@@ -202,6 +213,12 @@ The latest theoretical developments in Quantum-Classical Dualism include:
    - Quantum entanglement and observer networks
    - Unity and integrity of quantum entanglement
 
+3. **Spiritual Dimensions and Classicalization Theory**:
+   - Classicalization characteristics of higher-dimensional observers (like Buddha)
+   - Quantum-classical explanation of reincarnation
+   - Spiritual practice as a process of improving classicalization efficiency
+   - Scientific basis for spiritual practices
+
 ### Theoretical Research Methods
 
 Theoretical research in Quantum-Classical Dualism employs the following methods:
@@ -210,4 +227,5 @@ Theoretical research in Quantum-Classical Dualism employs the following methods:
 2. **Mathematical Model Construction**: Establishing rigorous mathematical models to describe theoretical concepts
 3. **Empirical and Theoretical Combination**: Combining theoretical predictions with empirical observations
 4. **Explanatory Power Assessment**: Evaluating the theory's explanatory power for various phenomena
-5. **Application Validation**: Validating the theory's effectiveness through practical applications 
+5. **Application Validation**: Validating the theory's effectiveness through practical applications
+6. **Traditional Wisdom Reinterpretation**: Reinterpreting traditional wisdom and spiritual concepts using a modern scientific framework 
