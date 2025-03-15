@@ -63,6 +63,7 @@
 22. [烹饪与食物文化解释](theories/cooking_food_explanations.md) - 理论框架对烹饪过程和食物文化的解释
 23. [游戏与娱乐理论解释](theories/game_entertainment_explanations.md) - 理论框架对游戏设计和娱乐体验的解释
 24. [梦境与睡眠科学解释](theories/dream_sleep_explanations.md) - 理论框架对梦境形成和睡眠过程的解释
+25. [时尚与服装研究解释](theories/fashion_clothing_explanations.md) - 理论框架对时尚演变与服装功能的解释
 
 ### 特殊主题研究
 1. [宇宙结构](theories/universe_structure.md) - 基于量子经典二元论的宇宙结构模型
@@ -145,6 +146,7 @@ Welcome to the official repository of the Quantum-Classical Dualism theoretical 
 22. [Cooking and Food Culture Explanations](theories/cooking_food_explanations.md) - Explanations of cooking processes and food culture by the theoretical framework
 23. [Game and Entertainment Theory Explanations](theories/game_entertainment_explanations.md) - Explanations of game design and entertainment experiences by the theoretical framework
 24. [Dream and Sleep Science Explanations](theories/dream_sleep_explanations.md) - Explanations of dream formation and sleep processes by the theoretical framework
+25. [Fashion and Clothing Research Explanations](theories/fashion_clothing_explanations.md) - Explanations of fashion evolution and clothing functions by the theoretical framework
 
 ### Special Topic Research
 1. [Universe Structure](theories/universe_structure.md) - Universe structure model based on Quantum-Classical Dualism

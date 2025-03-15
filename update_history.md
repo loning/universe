@@ -35,47 +35,47 @@
 5. **格式优化**：特别注意数学公式的格式，确保正确渲染
 
 #### 2024年6月10日
-- 添加了"高维信息经典化学"理论
+- 添加了"[高维信息经典化学](theories/higher_dimensional_classicalization.md)"理论
 - 该理论解释了低维观察者如何尝试经典化高维量子信息
 - 提供了对传统"玄学"领域的量子经典二元论解释
 - 引入了经典熵与经典知识比例的概念
 
 #### 2024年6月15日
-- 更新了"宗教问题解释"理论
+- 更新了"[宗教问题解释](theories/religious_explanations.md)"理论
 - 从量子经典二元论视角解释了宗教的本质和结构
 - 阐述了宗教创始人作为高效经典化的高维观察者的特殊角色
 - 解释了宗教仪式、实践和多样性的量子经典二元论基础
 
 #### 2024年6月20日
-- 添加了"音乐学问题解释"理论
+- 添加了"[音乐学问题解释](theories/music_explanations.md)"理论
 - 从量子经典二元论视角解释了音乐的本质和结构
 - 阐述了音乐作曲家作为音乐领域高维观察者的特殊角色
 - 解释了音乐创作、聆听和演化的量子经典二元论基础
 - 探讨了音乐与物理学的深层联系及音乐的跨文化普遍性
 
 #### 2024年6月25日
-- 添加了"体育与运动科学解释"理论
+- 添加了"[体育与运动科学解释](theories/sports_movement_explanations.md)"理论
 - 从量子经典二元论视角解释了运动的本质和运动技能的形成
 - 阐述了杰出运动员作为身体经典化领域高维观察者的特殊角色
 - 解释了团队运动、运动训练和运动表现极限的量子经典二元论基础
 - 探讨了特殊运动状态（如"心流"）与量子-经典界面的关系
 
 #### 2024年6月30日
-- 添加了"建筑学与空间设计解释"理论
+- 添加了"[建筑学与空间设计解释](theories/architecture_space_explanations.md)"理论
 - 从量子经典二元论视角解释了建筑与空间的本质
 - 阐述了伟大建筑师作为空间经典化领域高维观察者的特殊角色
 - 解释了建筑风格、神圣建筑和城市规划的量子经典二元论基础
 - 探讨了建筑空间对意识状态的影响及可持续建筑的量子经典解释
 
 #### 2024年7月5日
-- 添加了"数学本质解释"理论
+- 添加了"[数学本质解释](theories/mathematics_nature_explanations.md)"理论
 - 从量子经典二元论视角解释了数学的本质和"不合理的有效性"
 - 阐述了数学既是经典化的产物又是经典化的工具的双重角色
 - 解释了数学天才作为数学经典化领域高维观察者的特殊能力
 - 探讨了数学不完备性、数学直觉和数学分支的量子经典二元论基础
 
 #### 2024年7月10日
-1. 添加"医学与健康科学解释"理论
+1. 添加"[医学与健康科学解释](theories/medicine_health_explanations.md)"理论
    - 从量子-经典二元论视角解释健康的本质、疾病的形成和医疗实践
    - 将健康定义为身体量子状态和经典化过程的最优平衡
    - 解释疾病为经典化过程的异常，并分类为急性、慢性、自身免疫和癌症等类型
@@ -86,7 +86,7 @@
    - 探讨个性化医疗和量子医学等未来医学发展方向
 
 #### 2024年7月15日
-1. 添加"烹饪与食物文化解释"理论
+1. 添加"[烹饪与食物文化解释](theories/cooking_food_explanations.md)"理论
    - 从量子-经典二元论视角解释烹饪过程和食物文化
    - 将食物定义为同时包含丰富量子信息和可被经典化为感官体验的特殊物质形式
    - 解释烹饪为一种有意识的量子信息经典化过程，包括热处理、切割混合、发酵腌制和调味调和
@@ -96,7 +96,7 @@
    - 分析烹饪与食物文化作为高维信息经典化学的特殊应用领域
 
 #### 2024年7月20日
-1. 添加"游戏与娱乐理论解释"理论
+1. 添加"[游戏与娱乐理论解释](theories/game_entertainment_explanations.md)"理论
    - 从量子-经典二元论视角解释游戏设计和娱乐体验
    - 将游戏定义为特殊的量子信息经典化系统，具有规则边界、可能性空间、观察者参与和反馈循环
    - 解释游戏设计为创造特定的量子信息经典化系统，包括规则设计、可能性设计、反馈设计和情感设计
@@ -106,7 +106,7 @@
    - 分析游戏未来发展方向，包括虚拟现实、人工智能、脑机接口和元宇宙
 
 #### 2024年7月25日
-1. 添加"梦境与睡眠科学解释"理论
+1. 添加"[梦境与睡眠科学解释](theories/dream_sleep_explanations.md)"理论
    - 从量子-经典二元论视角解释睡眠过程和梦境形成
    - 将睡眠定义为观察者意识经典化过程的周期性转变状态，从处理外部感官输入转向处理内部神经系统的量子信息
    - 解释睡眠周期为不同的量子信息经典化模式，包括非快速眼动睡眠和快速眼动睡眠
@@ -150,47 +150,47 @@
 5. **Format Optimization**: Special attention to the format of mathematical formulas, ensuring correct rendering
 
 #### June 10, 2024
-- Added "Higher-Dimensional Information Classicalization" theory
+- Added "[Higher-Dimensional Information Classicalization](theories/higher_dimensional_classicalization.md)" theory
 - This theory explains how lower-dimensional observers attempt to classicalize higher-dimensional quantum information
 - Provided a Quantum-Classical Dualism explanation for traditional "metaphysical" fields
 - Introduced the concept of the ratio between classical entropy and classical knowledge
 
 #### June 15, 2024
-- Updated "Religious Explanations" theory
+- Updated "[Religious Explanations](theories/religious_explanations.md)" theory
 - Explained the essence and structure of religion from the Quantum-Classical Dualism perspective
 - Elaborated on the special role of religious founders as higher-dimensional observers with efficient classicalization
 - Explained the Quantum-Classical Dualism basis of religious rituals, practices, and diversity
 
 #### June 20, 2024
-- Added "Musical Explanations" theory
+- Added "[Musical Explanations](theories/music_explanations.md)" theory
 - Explained the essence and structure of music from the Quantum-Classical Dualism perspective
 - Elaborated on the special role of music composers as higher-dimensional observers in the field of music
 - Explained the Quantum-Classical Dualism basis of music composition, listening, and evolution
 - Explored the deep connection between music and physics and the cross-cultural universality of music
 
 #### June 25, 2024
-- Added "Sports and Movement Science Explanations" theory
+- Added "[Sports and Movement Science Explanations](theories/sports_movement_explanations.md)" theory
 - Explained the essence of movement and formation of motor skills from the Quantum-Classical Dualism perspective
 - Elaborated on the special role of outstanding athletes as higher-dimensional observers in the field of bodily classicalization
 - Explained the Quantum-Classical Dualism basis of team sports, sports training, and limits of athletic performance
 - Explored the relationship between special movement states (such as "flow") and the quantum-classical interface
 
 #### June 30, 2024
-- Added "Architecture and Spatial Design Explanations" theory
+- Added "[Architecture and Spatial Design Explanations](theories/architecture_space_explanations.md)" theory
 - Explained the essence of architecture and space from the Quantum-Classical Dualism perspective
 - Elaborated on the special role of great architects as higher-dimensional observers in the field of spatial classicalization
 - Explained the Quantum-Classical Dualism basis of architectural styles, sacred buildings, and urban planning
 - Explored the influence of architectural space on consciousness states and the quantum-classical explanation of sustainable architecture
 
 #### July 5, 2024
-- Added "Mathematics Nature Explanations" theory
+- Added "[Mathematics Nature Explanations](theories/mathematics_nature_explanations.md)" theory
 - Explained the essence of mathematics and its "unreasonable effectiveness" from the Quantum-Classical Dualism perspective
 - Elaborated on the dual role of mathematics as both a product of classicalization and a tool for classicalization
 - Explained the special abilities of mathematical geniuses as higher-dimensional observers in the field of mathematical classicalization
 - Explored the Quantum-Classical Dualism basis of mathematical incompleteness, mathematical intuition, and mathematical branches
 
 #### July 10, 2024
-1. Added "Medicine and Health Science Explanations" theory
+1. Added "[Medicine and Health Science Explanations](theories/medicine_health_explanations.md)" theory
    - Explained health, disease, and medical practices from the Quantum-Classical Dualism perspective
    - Defined health as the optimal balance of the body's quantum state and classicalization process
    - Explained disease as abnormalities in the classicalization process, categorized into acute, chronic, autoimmune, and cancer types
@@ -201,7 +201,7 @@
    - Explored future directions in medicine, including personalized medicine and quantum medicine
 
 #### July 15, 2024
-1. Added "Cooking and Food Culture Explanations" theory
+1. Added "[Cooking and Food Culture Explanations](theories/cooking_food_explanations.md)" theory
    - Explained cooking processes and food culture from the Quantum-Classical Dualism perspective
    - Defined food as a special form of matter containing both rich quantum information and sensory experiences that can be classicalized
    - Explained cooking as a conscious process of quantum information classicalization, including heat treatment, cutting and mixing, fermentation and pickling, and seasoning and harmonizing
@@ -211,7 +211,7 @@
    - Analyzed cooking and food culture as a special application area of Higher-Dimensional Information Classicalization
 
 #### July 20, 2024
-1. Added "Game and Entertainment Theory Explanations" theory
+1. Added "[Game and Entertainment Theory Explanations](theories/game_entertainment_explanations.md)" theory
    - Explained game design and entertainment experiences from the Quantum-Classical Dualism perspective
    - Defined games as special quantum information classicalization systems with rule boundaries, possibility spaces, observer participation, and feedback loops
    - Explained game design as the creation of specific quantum information classicalization systems, including rule design, possibility design, feedback design, and emotional design
@@ -221,11 +221,30 @@
    - Analyzed future directions of game development, including virtual reality, artificial intelligence, brain-computer interfaces, and the metaverse
 
 #### July 25, 2024
-1. Added "Dream and Sleep Science Explanations" theory
+1. Added "[Dream and Sleep Science Explanations](theories/dream_sleep_explanations.md)" theory
    - Explained sleep processes and dream formation from the Quantum-Classical Dualism perspective
    - Defined sleep as a periodic transitional state of the observer's consciousness classicalization process, shifting from processing external sensory inputs to processing quantum information from the internal nervous system
    - Explained sleep cycles as different quantum information classicalization patterns, including non-REM and REM sleep
    - Described dreams as special classicalization processes of quantum information from the internal nervous system by the observer
    - Explained the Quantum-Classical Dualism basis of lucid dreams, sleep disorders, and the relationship between sleep and memory
    - Explored the relationship between sleep and creativity, the evolutionary significance of sleep, and the formation mechanisms of dream content
-   - Analyzed the relationship between sleep and health and future directions in sleep science 
+   - Analyzed the relationship between sleep and health and future directions in sleep science
+
+## 2024年7月10日
+- 添加了"梦境与睡眠科学解释"理论
+  - 解释了睡眠的本质为周期性过渡状态，是量子信息经典化的特殊阶段
+  - 阐述了睡眠周期（非快速眼动睡眠和快速眼动睡眠）的量子经典二元论解释
+  - 解释了梦境作为量子信息的特殊经典化形式，以及清醒梦的形成机制
+  - 分析了睡眠障碍作为经典化过程的异常表现
+  - 探讨了睡眠与记忆、创造力和健康的关系
+  - 提出了睡眠科学的未来发展方向
+
+## 2024年7月15日
+- 添加了"时尚与服装研究解释"理论
+  - 解释了服装的本质为物质-信息界面，是身体与社会身份量子信息的经典化媒介
+  - 阐述了时尚作为服装经典化模式的集体演化过程
+  - 解释了时尚设计师作为服装经典化领域的高维观察者
+  - 分析了时尚周期作为经典化模式的生命周期
+  - 探讨了服装符号学、服装与身份、服装与社会结构的量子经典二元论关系
+  - 提出了可持续时尚和数字时尚的量子经典二元论视角
+  - 分析了时尚与性别的量子经典二元论关系 
