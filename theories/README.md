@@ -57,6 +57,7 @@ $$
 - [意识持续性](consciousness_persistence.md) - 意识的持续性机制
 - [生育过程与亲子关系的量子经典解释](reproduction_quantum_information.md) - 生育与亲子关系的量子信息传递
 - [社会行为中的量子纠缠效率排序](social_quantum_entanglement.md) - 社会行为中的量子纠缠效率分析
+- [黑洞：宇宙信息经典化的极致节点](black_hole_classicalization.md) - 黑洞作为极端高效信息经典化节点的本质
 
 ### 物理学解释 (Physics Explanations)
 - [传统物理理论解释](traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
@@ -104,7 +105,8 @@ $$
 8. [灵性维度与经典化](spiritual_dimensions.md) - 高维观察者、转世与修行的量子经典解释
 9. [生育过程与亲子关系的量子经典解释](reproduction_quantum_information.md) - 生育与亲子关系的量子信息传递
 10. [社会行为中的量子纠缠效率排序](social_quantum_entanglement.md) - 社会行为中的量子纠缠效率分析
-11. [术语表](terminology.md) - 量子经典二元论的术语定义
+11. [黑洞：宇宙信息经典化的极致节点](black_hole_classicalization.md) - 黑洞作为极端高效信息经典化节点的本质
+12. [术语表](terminology.md) - 量子经典二元论的术语定义
 
 #### 领域解释
 
@@ -172,6 +174,12 @@ $$
    - 纠缠效率与观察者维度提升的关系
    - 优化社会关系的量子经典策略
 
+5. **黑洞信息经典化理论**：
+   - 黑洞作为极端高效信息经典化节点
+   - 事件视界作为量子-经典边界的本质
+   - 黑洞信息悖论的量子经典解释
+   - 黑洞作为维度桥梁的特性
+
 ### 理论研究方法
 
 量子经典二元论的理论研究采用以下方法：
@@ -201,7 +209,8 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 8. [Spiritual Dimensions and Classicalization](spiritual_dimensions.md) - Quantum-Classical Explanation of Higher-Dimensional Observers, Reincarnation, and Spiritual Practice
 9. [Reproduction and Parent-Child Relationships](reproduction_quantum_information.md) - Quantum Information Transfer in Reproduction and Parent-Child Relationships
 10. [Quantum Entanglement Efficiency in Social Behaviors](social_quantum_entanglement.md) - Analysis of Quantum Entanglement Efficiency in Social Behaviors
-11. [Terminology](terminology.md) - Terminology definitions in Quantum-Classical Dualism
+11. [Black Holes: Ultimate Nodes of Universal Information Classicalization](black_hole_classicalization.md) - The Nature of Black Holes as Extremely Efficient Information Classicalization Nodes
+12. [Terminology](terminology.md) - Terminology definitions in Quantum-Classical Dualism
 
 #### Field Explanations
 
@@ -268,6 +277,12 @@ The latest theoretical developments in Quantum-Classical Dualism include:
    - Distinctions between high-efficiency and low-efficiency entanglement
    - Relationship between entanglement efficiency and observer dimension enhancement
    - Quantum-classical strategies for optimizing social relationships
+
+5. **Black Hole Information Classicalization Theory**:
+   - Black holes as extremely efficient information classicalization nodes
+   - The nature of the event horizon as a quantum-classical boundary
+   - Quantum-classical explanation of the black hole information paradox
+   - Characteristics of black holes as dimensional bridges
 
 ### Theoretical Research Methods
 

@@ -20,8 +20,9 @@
 12. [灵性维度与经典化](12_spiritual_dimensions.md) - 高维观察者、转世与修行的量子经典解释
 13. [生育与亲子关系](13_reproduction_parent_child.md) - 生育过程与亲子关系的量子经典解释
 14. [社会行为中的量子纠缠效率](14_social_quantum_entanglement.md) - 社会行为中的量子纠缠效率排序
-15. [参考文献](09_references.md) - 量子经典二元论的参考文献
-16. [更新历史](update_history.md) - 理论发展与更新记录
+15. [黑洞：宇宙信息经典化的极致节点](15_black_hole_classicalization.md) - 黑洞作为极端高效信息经典化节点的本质
+16. [参考文献](09_references.md) - 量子经典二元论的参考文献
+17. [更新历史](update_history.md) - 理论发展与更新记录
 
 ### 主要目录
 
@@ -45,6 +46,7 @@
 - 灵性维度可理解为高维观察者的经典化特性，转世与修行是经典化过程的不同表现
 - 生育过程是父母量子纠缠经典化的结果，亲子关系包含超越DNA的量子信息传递
 - 社会行为中的量子纠缠效率存在明显差异，高效纠缠（如生育、长期亲密关系）产生大量经典知识和极少熵
+- 黑洞是宇宙中极端高效的信息经典化节点，事件视界代表量子与经典世界的边界
 
 ### 最新更新
 
@@ -55,6 +57,7 @@
 - 整合了灵性维度与经典化理论，解释高维观察者、转世与修行
 - 新增生育过程与亲子关系的量子经典解释，阐述亲子间量子信息传递机制
 - 提出社会行为中的量子纠缠效率排序，分析不同社会互动的经典化效率差异
+- 阐述黑洞作为宇宙信息经典化的极致节点，解释事件视界作为量子-经典边界的本质
 
 ## English Version
 
@@ -76,8 +79,9 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 12. [Spiritual Dimensions and Classicalization](12_spiritual_dimensions.md) - Quantum-Classical Explanation of Higher-Dimensional Observers, Reincarnation, and Spiritual Practice
 13. [Reproduction and Parent-Child Relationships](13_reproduction_parent_child.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
 14. [Quantum Entanglement Efficiency in Social Behaviors](14_social_quantum_entanglement.md) - Quantum Entanglement Efficiency Ranking in Social Behaviors
-15. [References](09_references.md) - References for Quantum-Classical Dualism
-16. [Update History](update_history.md) - Theory Development and Update Records
+15. [Black Holes: Ultimate Nodes of Universal Information Classicalization](15_black_hole_classicalization.md) - The Nature of Black Holes as Extremely Efficient Information Classicalization Nodes
+16. [References](09_references.md) - References for Quantum-Classical Dualism
+17. [Update History](update_history.md) - Theory Development and Update Records
 
 ### Main Directories
 
@@ -101,6 +105,7 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 - Spiritual dimensions can be understood as classicalization characteristics of higher-dimensional observers, with reincarnation and spiritual practice being different manifestations of the classicalization process
 - Reproduction is the result of parental quantum entanglement classicalization, and parent-child relationships involve quantum information transfer beyond DNA
 - Quantum entanglement efficiency in social behaviors shows significant differences, with high-efficiency entanglement (e.g., reproduction, long-term intimate relationships) producing large amounts of classical knowledge and minimal entropy
+- Black holes are extremely efficient information classicalization nodes in the universe, with the event horizon representing the boundary between the quantum and classical worlds
 
 ### Latest Updates
 
@@ -111,3 +116,4 @@ Quantum-Classical Dualism is a theoretical framework that unifies the universe, 
 - Integrated spiritual dimensions and classicalization theory, explaining higher-dimensional observers, reincarnation, and spiritual practice
 - Added quantum-classical explanation of reproduction and parent-child relationships, elaborating on quantum information transfer mechanisms between parents and children
 - Proposed quantum entanglement efficiency ranking in social behaviors, analyzing classicalization efficiency differences in various social interactions
+- Elaborated on black holes as ultimate nodes of universal information classicalization, explaining the nature of the event horizon as a quantum-classical boundary

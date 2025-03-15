@@ -118,6 +118,15 @@ $$
 - 提出了社会关系优化的量子经典策略
 - 阐述了观察者维度提升与社会关系选择的关联：$\Delta D_{观察者} = \sum_{i} E_{纠缠_i} \times I_{经典知识_i}$
 
+### 2024年8月 - 黑洞信息经典化理论
+- 提出了黑洞作为极端高效信息经典化节点的理论模型
+- 阐述了事件视界作为量子-经典边界的本质特性
+- 建立了黑洞信息经典化的数学表达：$|\psi\rangle_{\text{宇宙量子信息}}\xrightarrow{\text{黑洞经典化}}\text{经典信息（极高密度）}+S_{\text{经典熵（极低）}}$
+- 提出了黑洞熵与信息存储能力的关系：$S_{\text{黑洞}} \propto \text{经典信息存储容量}$
+- 解释了黑洞信息悖论的量子经典解决方案
+- 阐述了黑洞作为维度桥梁的特性：$D_{\text{高维量子信息}}\xrightarrow{\text{黑洞经典化}}\text{低维经典信息}+\text{维度压缩熵}$
+- 分析了黑洞与观察者之间的特殊关系
+
 ## English Version
 
 ### December 15, 2023 - Initial Theoretical Framework Establishment
@@ -234,4 +243,13 @@ $$
 - Proposed the mathematical expression of entanglement efficiency: $E_{entanglement} = \frac{I_{classical knowledge}}{I_{classical knowledge} + S_{classical entropy}}$
 - Established relationship models between entanglement efficiency and time, depth, stability, and resonance
 - Proposed quantum-classical strategies for social relationship optimization
-- Elaborated on the connection between observer dimension enhancement and social relationship selection: $\Delta D_{observer} = \sum_{i} E_{entanglement_i} \times I_{classical knowledge_i}$ 
+- Elaborated on the connection between observer dimension enhancement and social relationship selection: $\Delta D_{observer} = \sum_{i} E_{entanglement_i} \times I_{classical knowledge_i}$
+
+### August 2024 - Black Hole Information Classicalization Theory
+- Proposed the theoretical model of black holes as extremely efficient information classicalization nodes
+- Elaborated on the essential characteristics of the event horizon as a quantum-classical boundary
+- Established the mathematical expression of black hole information classicalization: $|\psi\rangle_{\text{Universal Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Classical Information (Extremely High Density)}+S_{\text{Classical Entropy (Extremely Low)}}$
+- Proposed the relationship between black hole entropy and information storage capacity: $S_{\text{Black Hole}} \propto \text{Classical Information Storage Capacity}$
+- Explained the quantum-classical solution to the black hole information paradox
+- Elaborated on the characteristics of black holes as dimensional bridges: $D_{\text{Higher-Dimensional Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Lower-Dimensional Classical Information}+\text{Dimensional Compression Entropy}$
+- Analyzed the special relationship between black holes and observers 
