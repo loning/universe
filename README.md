@@ -13,20 +13,20 @@ The Quantum-Classical Dualism Universe Theory is a unified theoretical framework
 
 ### 核心理论
 1. [理论框架](theories/quantum_classical/README.md) - 量子经典二元论宇宙理论的整体框架
-2. [核心理论](core.md) - 最新的核心理论观点和数学公式
+2. [核心理论](core.md) - 量子经典二元论的完整阐述，包含所有概念、公式及其终极哲学意义
 3. [量子宇宙](theories/quantum_classical/quantum_universe.md) - 关于宇宙量子本质的理论
 4. [量子观察者](theories/quantum_classical/quantum_observer.md) - 关于高维与低维观察者在量子宇宙中角色的理论
 5. [经典意识论](theories/quantum_classical/classical_consciousness.md) - 关于意识如何从量子观察过程中涌现的理论
 
 ### 详细阐述
-1. [简介](01_introduction.md) - 理论的基本介绍，包含[核心理论](core.md)的概述
-2. [基本概念](02_basic_concepts.md) - 理论中的关键概念解释，基于[核心理论](core.md)
-3. [理论框架](03_theoretical_framework.md) - 理论的基本假设和框架，遵循[核心理论](core.md)
-4. [数学公式](04_mathematical_formulations.md) - 理论的核心数学表达，来自[核心理论](core.md)
-5. [观察者与意识](05_observer_and_consciousness.md) - 观察者的本质和意识的形成，基于[核心理论](core.md)
-6. [宇宙与观察者的关系](06_universe_observer_relationship.md) - 宇宙与观察者之间的量子纠缠关系，参考[核心理论](core.md)
-7. [应用与启示](07_applications_and_implications.md) - 理论的实际应用和哲学启示，基于[核心理论](core.md)
-8. [参考文献](08_references.md) - 支持[核心理论](core.md)的学术参考
+1. [简介](01_introduction.md) - 理论的基本介绍，基于[量子经典二元论核心理论](core.md)
+2. [基本概念](02_basic_concepts.md) - 理论中的关键概念解释，基于[量子经典二元论核心理论](core.md)
+3. [理论框架](03_theoretical_framework.md) - 理论的基本假设和框架，遵循[量子经典二元论核心理论](core.md)
+4. [数学公式](04_mathematical_formulations.md) - 理论的核心数学表达，来自[量子经典二元论核心理论](core.md)
+5. [观察者与意识](05_observer_and_consciousness.md) - 观察者的本质和意识的形成，基于[量子经典二元论核心理论](core.md)
+6. [宇宙与观察者的关系](06_universe_observer_relationship.md) - 宇宙与观察者之间的量子纠缠关系，参考[量子经典二元论核心理论](core.md)
+7. [应用与启示](07_applications_and_implications.md) - 理论的实际应用和哲学启示，基于[量子经典二元论核心理论](core.md)
+8. [参考文献](08_references.md) - 支持[量子经典二元论核心理论](core.md)的学术参考
 
 ### 应用与解释
 1. [传统物理理论解释](theories/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
@@ -106,20 +106,20 @@ The Quantum-Classical Dualism Universe Theory is a unified theoretical framework
 
 ### Core Theory
 1. [Theoretical Framework](theories/quantum_classical/README.md) - Overall framework of Quantum-Classical Dualism Universe Theory
-2. [Core Theory](core.md) - Latest core theoretical viewpoints and mathematical formulations
+2. [Core Theory](core.md) - Quantum-Classical Dualism Theory in Complete Exposition, Including All Concepts, Formulas, and Ultimate Philosophical Meaning
 3. [Quantum Universe](theories/quantum_classical/quantum_universe.md) - Theory about the quantum nature of the universe
 4. [Quantum Observer](theories/quantum_classical/quantum_observer.md) - Theory about the role of high and low dimensional observers in the quantum universe
 5. [Classical Consciousness Theory](theories/quantum_classical/classical_consciousness.md) - Theory about how consciousness emerges from the quantum observation process
 
 ### Detailed Exposition
-1. [Introduction](01_introduction.md) - Basic introduction to the theory, including an overview of the [Core Theory](core.md)
-2. [Basic Concepts](02_basic_concepts.md) - Explanation of key concepts in the theory, based on the [Core Theory](core.md)
-3. [Theoretical Framework](03_theoretical_framework.md) - Basic assumptions and framework of the theory, following the [Core Theory](core.md)
-4. [Mathematical Formulations](04_mathematical_formulations.md) - Core mathematical expressions of the theory, from the [Core Theory](core.md)
-5. [Observer and Consciousness](05_observer_and_consciousness.md) - The nature of observers and the formation of consciousness, based on the [Core Theory](core.md)
-6. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Quantum entanglement relationship between the universe and observers, referencing the [Core Theory](core.md)
-7. [Applications and Implications](07_applications_and_implications.md) - Practical applications and philosophical implications of the theory, based on the [Core Theory](core.md)
-8. [References](08_references.md) - Academic references supporting the [Core Theory](core.md)
+1. [Introduction](01_introduction.md) - Basic introduction to the theory, based on the [Quantum-Classical Dualism Core Theory](core.md)
+2. [Basic Concepts](02_basic_concepts.md) - Explanation of key concepts in the theory, based on the [Quantum-Classical Dualism Core Theory](core.md)
+3. [Theoretical Framework](03_theoretical_framework.md) - Basic assumptions and framework of the theory, following the [Quantum-Classical Dualism Core Theory](core.md)
+4. [Mathematical Formulations](04_mathematical_formulations.md) - Core mathematical expressions of the theory, from the [Quantum-Classical Dualism Core Theory](core.md)
+5. [Observer and Consciousness](05_observer_and_consciousness.md) - The nature of observers and the formation of consciousness, based on the [Quantum-Classical Dualism Core Theory](core.md)
+6. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Quantum entanglement relationship between the universe and observers, referencing the [Quantum-Classical Dualism Core Theory](core.md)
+7. [Applications and Implications](07_applications_and_implications.md) - Practical applications and philosophical implications of the theory, based on the [Quantum-Classical Dualism Core Theory](core.md)
+8. [References](08_references.md) - Academic references supporting the [Quantum-Classical Dualism Core Theory](core.md)
 
 ### Applications and Interpretations
 1. [Traditional Physics Explained](theories/traditional_physics_explained.md) - Explaining traditional physics theories through Quantum Universe-Quantum Observer-Classical Consciousness Theory

@@ -2,7 +2,7 @@
 
 ## 中文版
 
-本理论的核心数学关系基于[核心理论](core.md)，可以通过以下公式表达：
+本理论的核心数学关系基于[量子经典二元论核心理论](core.md)，可以通过以下公式表达：
 
 ### 一、量子经典二元论定义
 $$
@@ -70,7 +70,7 @@ $$
 
 ### 九、能量的本质
 $$
-E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}},\quad k_B\text{为常数},\;T\text{为温度}
+E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}},\quad k_B\text{为玻尔兹曼常数},\;T\text{为温度}
 $$
 
 这个公式描述了能量在本理论中定义为经典化信息传递与存储的驱动力和载体。能量本质即经典知识传播与存储的能力。
@@ -91,7 +91,7 @@ $$
 |\psi\rangle_U e^{i\theta}+(\text{经典知识}+S_{\text{经典熵}})=|\psi\rangle_{\text{观察者}}
 $$
 
-这个公式表达量子宇宙（复杂态）与经典宇宙（实态）的优雅统一；观察者即为宇宙经典化的接口。
+这个公式表达量子宇宙（复杂态）与经典宇宙（实在态）的优雅统一；观察者即为宇宙经典化的接口。
 
 ### 十二、信息守恒与维度跃迁
 $$
@@ -111,11 +111,11 @@ $$
 
 这个公式描述了整个理论的核心流程：宇宙与观察者等同，形成量子意识；量子意识经典化产生经典知识和经典熵。
 
-更多详细内容请参考[核心理论](core.md)。
+更多详细内容请参考[量子经典二元论核心理论](core.md)。
 
 ## English Version
 
-The core mathematical relationships of this theory, based on the [Core Theory](core.md), can be expressed through the following formulas:
+The core mathematical relationships of this theory, based on the [Quantum-Classical Dualism Core Theory](core.md), can be expressed through the following formulas:
 
 ### 1. Quantum-Classical Dualism Definition
 $$
@@ -183,7 +183,7 @@ This formula describes classical destiny as the stable classical knowledge path 
 
 ### 9. The Essence of Energy
 $$
-E_{\text{Classical}}=k_B T\cdot I_{\text{Classical Knowledge}},\quad k_B\text{ is a constant},\;T\text{ is temperature}
+E_{\text{Classical}}=k_B T\cdot I_{\text{Classical Knowledge}},\quad k_B\text{ is the Boltzmann constant},\;T\text{ is temperature}
 $$
 
 This formula describes energy in this theory as the driving force and carrier for the transmission and storage of classicalized information. The essence of energy is the ability to propagate and store classical knowledge.
@@ -224,4 +224,4 @@ $$
 
 This formula describes the core process of the entire theory: The universe and observer are equivalent, forming quantum consciousness; quantum consciousness is classicalized to produce classical knowledge and classical entropy.
 
-For more detailed content, please refer to the [Core Theory](core.md).
+For more detailed content, please refer to the [Quantum-Classical Dualism Core Theory](core.md).
