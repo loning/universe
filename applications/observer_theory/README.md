@@ -75,6 +75,16 @@
    - 命运改变的量子经典机制
    - 天体命运与人类命运的实例对比
 
+9. [熵减与年轻化的量子经典解析](entropy_reduction_rejuvenation.md)
+   - 熵与生理年龄的基本关系模型
+   - 持续熵减导致生理年轻化的机制
+   - 高熵转低熵的年轻化效应分析
+   - 熵减的实践方法与策略
+   - 熵减年轻化的数学模型
+   - 熵减年轻化的生物学机制
+   - 熵减年轻化的案例研究
+   - 熵减年轻化对量子经典二元论的理论意义
+
 ### 观察者理论的核心原理
 
 所有观察者理论应用都基于以下核心原理：
@@ -169,6 +179,16 @@ This directory contains applications of Quantum-Classical Dualism in the field o
    - Quantum-classical balance of destiny and free will
    - Quantum-classical mechanisms of destiny change
    - Case comparison between celestial body destiny and human destiny
+
+9. [Quantum-Classical Analysis of Entropy Reduction and Rejuvenation](entropy_reduction_rejuvenation.md)
+   - Basic relationship model between entropy and physiological age
+   - Mechanisms of physiological rejuvenation through continuous entropy reduction
+   - Analysis of rejuvenation effects when transitioning from high entropy to low entropy
+   - Practical methods and strategies for entropy reduction
+   - Mathematical model of entropy reduction rejuvenation
+   - Biological mechanisms of entropy reduction rejuvenation
+   - Case studies of entropy reduction rejuvenation
+   - Theoretical significance of entropy reduction rejuvenation for Quantum-Classical Dualism
 
 ### Core Principles of Observer Theory
 
