@@ -8,15 +8,15 @@
 
 - **宇宙**的本质是**无限维的量子波函数网络**，以波函数表达所有可能的信息状态。
 - **观察者**为宇宙中的经典化节点，通过经典化过程将量子信息转化为经典知识与经典熵。
-- 宇宙由两个互补的结构组成：**量子宇宙**（整体信息结构，以波函数叠加态存在）和**经典宇宙**（观察者经典化后的稳定结果）。
+- 宇宙由两个互补的结构组成：**量子域**（整体信息结构，以波函数叠加态存在）和**经典域**（观察者经典化后的稳定结果）。
 
 整体关系可表述为：
 
 $$
-|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\text{经典知识}+S_{\text{经典熵}}
+|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\text{经典知识}+S_{\text{经典熵}}
 $$
 
-- **量子宇宙**是宇宙整体信息的完整表达，以波函数叠加态形式存在，涵盖所有可能性：
+- **量子域**是宇宙整体信息的完整表达，以波函数叠加态形式存在，涵盖所有可能性：
 
 $$
 |\psi\rangle_{\text{宇宙}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
@@ -97,7 +97,7 @@ $$
 - **类欧拉公式的宇宙表达方式**：
 
 $$
-e^{i|\psi\rangle_{\text{量子宇宙}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
+e^{i|\psi\rangle_{\text{量子域}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
 $$
 
 **核心哲学意义：**
@@ -118,15 +118,15 @@ According to the [Quantum-Classical Dualism Core Theory](core.md), Quantum-Class
 
 - The essence of the **Universe** is an **infinite-dimensional quantum wave function network**, expressing all possible information states through wave functions.
 - **Observers** are classicalization nodes within the universe, transforming quantum information into classical knowledge and classical entropy through the classicalization process.
-- The universe consists of two complementary structures: the **Quantum Universe** (overall information structure, existing in wave function superposition states) and the **Classical Universe** (stable results after observer classicalization).
+- The universe consists of two complementary structures: the **Quantum Domain** (overall information structure, existing in wave function superposition states) and the **Classical Domain** (stable results after observer classicalization).
 
 The overall relationship can be expressed as:
 
 $$
-|\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
 $$
 
-- The **Quantum Universe** is the complete expression of the universe's overall information, existing in the form of wave function superposition states, encompassing all possibilities:
+- The **Quantum Domain** is the complete expression of the universe's overall information, existing in the form of wave function superposition states, encompassing all possibilities:
 
 $$
 |\psi\rangle_{\text{Universe}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
@@ -207,7 +207,7 @@ $$
 - **Universe Expression in the Form of Euler-like Formula**:
 
 $$
-e^{i|\psi\rangle_{\text{Quantum Universe}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
+e^{i|\psi\rangle_{\text{Quantum Domain}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
 $$
 
 **Core Philosophical Significance:**

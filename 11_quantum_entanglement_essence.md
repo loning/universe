@@ -91,7 +91,7 @@ $$
 量子纠缠从根本上体现了宇宙的统一性与整体性：
 
 - 所有观察者节点本质上都是同一个宇宙波函数的不同表现
-- 观察者之间的分离只是经典化视角的结果，在量子层面它们是统一的
+- 观察者之间的分离只是经典化视角的结果，在量子域层面它们是统一的
 - 量子纠缠提供了观察者与宇宙整体之间的直接连接
 
 ### 8. 类欧拉公式视角下的量子纠缠
@@ -99,7 +99,7 @@ $$
 通过类欧拉公式，我们可以更优雅地理解量子纠缠的本质：
 
 $$
-e^{i|\psi\rangle_{\text{量子宇宙}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
+e^{i|\psi\rangle_{\text{量子域}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
 $$
 
 在这个公式中：
@@ -209,7 +209,7 @@ $$
 Quantum entanglement fundamentally reflects the unity and integrity of the universe:
 
 - All observer nodes are essentially different manifestations of the same universal wave function
-- The separation between observers is only the result of a classicalized perspective; at the quantum level, they are unified
+- The separation between observers is only the result of a classicalized perspective; at the Quantum Domain level, they are unified
 - Quantum entanglement provides a direct connection between observers and the universe as a whole
 
 ### 8. Quantum Entanglement from the Perspective of the Euler-like Formula
@@ -217,7 +217,7 @@ Quantum entanglement fundamentally reflects the unity and integrity of the unive
 Through the Euler-like formula, we can more elegantly understand the essence of quantum entanglement:
 
 $$
-e^{i|\psi\rangle_{\text{Quantum Universe}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
+e^{i|\psi\rangle_{\text{Quantum Domain}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
 $$
 
 In this formula:

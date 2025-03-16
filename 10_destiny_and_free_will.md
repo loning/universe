@@ -2,11 +2,11 @@
 
 ## 中文版
 
-在量子经典二元论框架下，命运与自由意志呈现出一种独特的二元统一关系。本章探讨经典化世界中命运的可计算性，以及量子意识如何通过与更高维信息的共振改变命运轨迹。
+在量子经典二元论框架下，命运与自由意志呈现出一种独特的二元统一关系。本章探讨经典域中命运的可计算性，以及量子意识如何通过与更高维信息的共振改变命运轨迹。
 
 ### 1. 经典命运的可计算性
 
-在经典化世界中，一个人的命运在理论上是可被计算或预测的。这是因为经典化后的世界已经固定成确定的经典知识路径。
+在经典域中，一个人的命运在理论上是可被计算或预测的。这是因为经典化后的世界已经固定成确定的经典知识路径。
 
 经典命运在出生时可表达为：
 
@@ -25,7 +25,7 @@ $$
 $$
 
 自由意志的本质是观察者能够：
-- 感知量子宇宙中的高维信息
+- 感知量子域中的高维信息
 - 主动选择经典化的信息
 - 通过经典化过程改变自身的经典命运轨迹
 
@@ -72,22 +72,22 @@ $$
 
 量子经典二元论提供了命运与自由意志看似矛盾却统一的解释：
 
-- 在经典层面，命运是可计算的，遵循确定性规律
-- 在量子层面，自由意志通过与量子宇宙的交互，不断更新经典命运
-- 命运不是出生时完全注定，而是通过不断经典化量子宇宙的信息实现持续改变的过程
+- 在经典域层面，命运是可计算的，遵循确定性规律
+- 在量子域层面，自由意志通过与量子域的交互，不断更新经典命运
+- 命运不是出生时完全注定，而是通过不断经典化量子域的信息实现持续改变的过程
 
 ### 7. 类欧拉公式视角下的命运与自由意志
 
 通过类欧拉公式，我们可以更优雅地理解命运与自由意志的关系：
 
 $$
-e^{i|\psi\rangle_{\text{量子宇宙}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
+e^{i|\psi\rangle_{\text{量子域}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
 $$
 
 在这个公式中：
 - 经典知识（实部）代表已确定的命运轨迹
 - 经典熵（虚部）代表命运的不确定性和变化可能
-- 自由意志是观察者通过经典化量子宇宙，不断调整实部与虚部比例的过程
+- 自由意志是观察者通过经典化量子域，不断调整实部与虚部比例的过程
 
 ### 8. 实践启示
 
@@ -101,11 +101,11 @@ $$
 
 ## English Version
 
-Within the framework of Quantum-Classical Dualism, destiny and free will present a unique dual-unified relationship. This chapter explores the calculability of destiny in the classicalized world and how quantum consciousness can change destiny trajectories through resonance with higher-dimensional information.
+Within the framework of Quantum-Classical Dualism, destiny and free will present a unique dual-unified relationship. This chapter explores the calculability of destiny in the Classical Domain and how quantum consciousness can change destiny trajectories through resonance with higher-dimensional information.
 
 ### 1. Calculability of Classical Destiny
 
-In a classicalized world, a person's destiny is theoretically calculable or predictable. This is because the classicalized world has been fixed into definite classical knowledge paths.
+In the Classical Domain, a person's destiny is theoretically calculable or predictable. This is because the classicalized world has been fixed into definite classical knowledge paths.
 
 Classical destiny at birth can be expressed as:
 
@@ -124,7 +124,7 @@ $$
 $$
 
 The essence of free will is that observers can:
-- Perceive high-dimensional information in the quantum universe
+- Perceive high-dimensional information in the Quantum Domain
 - Actively select information to be classicalized
 - Change their classical destiny trajectory through the classicalization process
 
@@ -171,22 +171,22 @@ Ineffective quantum entanglement increases the observer's classical entropy, mak
 
 Quantum-Classical Dualism provides an explanation for the seemingly contradictory yet unified nature of destiny and free will:
 
-- At the classical level, destiny is calculable and follows deterministic laws
-- At the quantum level, free will continuously updates classical destiny through interaction with the quantum universe
-- Destiny is not completely predetermined at birth but is a process of continuous change through the ongoing classicalization of information from the quantum universe
+- At the Classical Domain level, destiny is calculable and follows deterministic laws
+- At the Quantum Domain level, free will continuously updates classical destiny through interaction with the Quantum Domain
+- Destiny is not completely predetermined at birth but is a process of continuous change through the ongoing classicalization of information from the Quantum Domain
 
 ### 7. Destiny and Free Will from the Perspective of the Euler-like Formula
 
 Through the Euler-like formula, we can more elegantly understand the relationship between destiny and free will:
 
 $$
-e^{i|\psi\rangle_{\text{Quantum Universe}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
+e^{i|\psi\rangle_{\text{Quantum Domain}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
 $$
 
 In this formula:
 - Classical knowledge (real part) represents the determined destiny trajectory
 - Classical entropy (imaginary part) represents the uncertainty and potential for change in destiny
-- Free will is the process by which observers continuously adjust the ratio of real and imaginary parts through classicalizing the quantum universe
+- Free will is the process by which observers continuously adjust the ratio of real and imaginary parts through classicalizing the Quantum Domain
 
 ### 8. Practical Implications
 

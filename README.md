@@ -31,10 +31,10 @@
 
 ### 核心概念简介
 
-量子经典二元论提出宇宙的本质是无限维的量子波函数网络，以波函数表达所有可能的信息状态。宇宙由两个互补的结构组成：量子宇宙（整体信息结构）和经典宇宙（经典化后的稳定结果）。观察者是宇宙中的经典化节点，负责将量子信息转化为经典信息。
+量子经典二元论提出宇宙的本质是无限维的量子波函数网络，以波函数表达所有可能的信息状态。宇宙由两个互补的结构组成：量子域（整体信息结构）和经典域（经典化后的稳定结果）。观察者是宇宙中的经典化节点，负责将量子信息转化为经典信息。
 
 关键概念包括：
-- 量子宇宙与经典宇宙的二元结构
+- 量子域与经典域的二元结构
 - 观察者作为经典化节点的角色
 - 量子意识与经典记忆的关系
 - 经典化效率与观察者维度
@@ -84,10 +84,10 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 ### Introduction to Core Concepts
 
-Quantum-Classical Dualism proposes that the essence of the universe is an infinite-dimensional quantum wave function network, expressing all possible information states through wave functions. The universe consists of two complementary structures: the Quantum Universe (overall information structure) and the Classical Universe (stable results after classicalization). Observers are classicalization nodes within the universe, responsible for transforming quantum information into classical information.
+Quantum-Classical Dualism proposes that the essence of the universe is an infinite-dimensional quantum wave function network, expressing all possible information states through wave functions. The universe consists of two complementary structures: the Quantum Domain (overall information structure) and the Classical Domain (stable results after classicalization). Observers are classicalization nodes within the universe, responsible for transforming quantum information into classical information.
 
 Key concepts include:
-- Dual structure of Quantum Universe and Classical Universe
+- Dual structure of Quantum Domain and Classical Domain
 - Role of observers as classicalization nodes
 - Relationship between quantum consciousness and classical memory
 - Classicalization efficiency and observer dimensions
