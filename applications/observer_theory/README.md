@@ -85,6 +85,16 @@
    - 熵减年轻化的案例研究
    - 熵减年轻化对量子经典二元论的理论意义
 
+10. [经典化世界的多样性与交织关系](classicalization_worlds.md)
+    - 经典化世界的本质与分类（现实、宗教、梦境等）
+    - 经典化世界的稳定性与持续性数学模型
+    - 经典化世界之间的交织关系与量子纠缠网络
+    - 梦境、宗教等对现实世界的影响机制
+    - 现实世界与其他经典世界的特殊关系
+    - 宗教冲突的量子经典解释
+    - 梦境的特殊功能与实践应用
+    - 经典化世界理论的实践价值
+
 ### 观察者理论的核心原理
 
 所有观察者理论应用都基于以下核心原理：
@@ -189,6 +199,16 @@ This directory contains applications of Quantum-Classical Dualism in the field o
    - Biological mechanisms of entropy reduction rejuvenation
    - Case studies of entropy reduction rejuvenation
    - Theoretical significance of entropy reduction rejuvenation for Quantum-Classical Dualism
+
+10. [Diversity and Interweaving Relationships of Classicalization Worlds](classicalization_worlds.md)
+    - Nature and classification of classicalization worlds (reality, religion, dreams, etc.)
+    - Mathematical models of stability and persistence of classicalization worlds
+    - Interweaving relationships and quantum entanglement networks between classicalization worlds
+    - Mechanisms of influence from dreams, religions, etc. on the reality world
+    - Special relationship between reality world and other classical worlds
+    - Quantum-classical explanation of religious conflicts
+    - Special functions of dreams and practical applications
+    - Practical value of classicalization worlds theory
 
 ### Core Principles of Observer Theory
 
