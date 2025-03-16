@@ -78,14 +78,15 @@
 - [宇宙结构](./theories/universe_structure.md) - 宇宙结构理论
 
 ##### 科学视角 | Scientific Perspectives
+- [市场营销视角](./theories/scientific_perspectives/marketing_explanation.md) - 量子经典二元论视角下的市场营销理论分析
 - [冥想减熵机制](./theories/scientific_perspectives/meditation_entropy_reduction.md) - 量子经典二元论视角下冥想如何降低心智系统熵值
+- [感知、梦境与熵变化](./theories/entropy_changes_daily_life.md) - 量子经典二元论视角下感知过程、梦境状态与日常生活中的熵变化规律
 - [物理学解释](./theories/scientific_perspectives/physics_explanation.md) - 物理学视角下的量子经典二元论
 - [数学解释](./theories/scientific_perspectives/mathematics_explanation.md) - 数学视角下的量子经典二元论
 - [生物学解释](./theories/scientific_perspectives/biology_explanation.md) - 生物学视角下的量子经典二元论
 - [法律解释](./theories/scientific_perspectives/law_explanation.md) - 法律视角下的量子经典二元论
 - [医学解释](./theories/scientific_perspectives/medicine_explanation.md) - 医学视角下的量子经典二元论
 - [艺术解释](./theories/scientific_perspectives/art_explanation.md) - 艺术视角下的量子经典二元论
-- [市场营销解释](./theories/scientific_perspectives/marketing_explanation.md) - 市场营销视角下的量子经典二元论
 - [建筑学解释](./theories/scientific_perspectives/architecture_explanation.md) - 建筑学视角下的量子经典二元论
 - [经济学解释](./theories/scientific_perspectives/economics_explanation.md) - 经济学视角下的量子经典二元论
 - [金融解释](./theories/scientific_perspectives/finance_explanation.md) - 金融视角下的量子经典二元论
@@ -316,14 +317,15 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Universe Structure](./theories/universe_structure.md) - Universe structure theory
 
 ##### Scientific Perspectives
+- [Marketing Perspective](./theories/scientific_perspectives/marketing_explanation.md) - Analysis of marketing theories from the perspective of Quantum-Classical Dualism
 - [Meditation Entropy Reduction](./theories/scientific_perspectives/meditation_entropy_reduction.md) - How meditation reduces entropy in mental systems from a Quantum-Classical Dualism perspective
+- [Perception, Dreams and Entropy Changes](./theories/entropy_changes_daily_life.md) - The patterns of entropy changes in perception processes, dream states, and daily activities from the perspective of Quantum-Classical Dualism
 - [Physics Explanation](./theories/scientific_perspectives/physics_explanation.md) - Quantum-Classical Dualism from Physics perspective
 - [Mathematics Explanation](./theories/scientific_perspectives/mathematics_explanation.md) - Quantum-Classical Dualism from Mathematics perspective
 - [Biology Explanation](./theories/scientific_perspectives/biology_explanation.md) - Quantum-Classical Dualism from Biology perspective
 - [Law Explanation](./theories/scientific_perspectives/law_explanation.md) - Quantum-Classical Dualism from Law perspective
 - [Medicine Explanation](./theories/scientific_perspectives/medicine_explanation.md) - Quantum-Classical Dualism from Medicine perspective
 - [Art Explanation](./theories/scientific_perspectives/art_explanation.md) - Quantum-Classical Dualism from Art perspective
-- [Marketing Explanation](./theories/scientific_perspectives/marketing_explanation.md) - Quantum-Classical Dualism from Marketing perspective
 - [Architecture Explanation](./theories/scientific_perspectives/architecture_explanation.md) - Quantum-Classical Dualism from Architecture perspective
 - [Economics Explanation](./theories/scientific_perspectives/economics_explanation.md) - Quantum-Classical Dualism from Economics perspective
 - [Finance Explanation](./theories/scientific_perspectives/finance_explanation.md) - Quantum-Classical Dualism from Finance perspective
