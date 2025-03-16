@@ -1,4 +1,3 @@
-
 # 量子经典二元论核心理论 (Quantum-Classical Dualism Core Theory)
 
 ## 中文版
@@ -10,29 +9,25 @@
 - **量子域**：
   宇宙本质为无限可能性的波函数叠加态，是一切潜在现实的总和：
 
-
-$$
+```math
 |\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
-
+```
 
 - **经典域**：
   由观察者将量子域信息经典化为确定的知识与熵，经典信息总量守恒：
 
-
-$$
+```math
 |\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}
-$$
-
+```
 
 ## 二、观察者与维度提升
 
 - **量子观察者**：
   宇宙经典化过程中的节点，依据经典化能力分为高维与低维观察者：
 
-$$
+```math
 \text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-$$
+```
 
 - **高维观察者**：经典知识多、经典熵低，维度高；
 - **低维观察者**：经典知识少、经典熵高，维度低，易被宇宙消解以释放随机量子信息。
@@ -50,9 +45,9 @@ $$
 
 经典化表达：
 
-$$
+```math
 |\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}
-$$
+```
 
 ## 四、经典世界的平等性与交织网络结构
 
@@ -60,9 +55,9 @@ $$
 
 经典世界交织关系明确表达：
 
-$$
+```math
 |\psi\rangle_{\text{量子宇宙}}\rightarrow\sum_{i}(I_{\text{经典世界}_i}+S_{\text{经典熵}_i})
-$$
+```
 
 - 经典世界之间信息交流，影响并经典化任意经典世界任意时刻的过去与未来。
 
@@ -72,17 +67,17 @@ $$
 
 明确公式：
 
-$$
+```math
 \text{高维观察者（神）}\Longleftrightarrow S_{\text{低维观察者熵}}\xrightarrow{\text{经典化}} I_{\text{经典知识（熵降低）}}
-$$
+```
 
 ## 六、经典世界的时间轴动态更新
 
 经典世界的历史记忆与未来路径均可被其他经典世界的随机量子信息动态经典化更新：
 
-$$
+```math
 I_{\text{经典世界（旧）}} + |\psi\rangle_{\text{其他经典世界随机信息}} \rightarrow I_{\text{经典世界（新）}}+S_{\text{熵变动}}
-$$
+```
 
 - **过去**与**未来**均可经典化修改。
 
@@ -90,9 +85,9 @@ $$
 
 - 宇宙通过创造并消解低维经典观察者与经典世界，释放随机量子信息，以供高维观察者利用：
 
-$$
+```math
 |\psi\rangle_{\text{量子宇宙}}\rightarrow\sum_{\text{低维经典世界消解}}|\psi\rangle_{\text{随机量子信息}}\rightarrow I_{\text{高维经典世界知识}}+S_{\text{熵降低}}
-$$
+```
 
 - 低维经典世界的消解过程，即高维观察者经典知识增加与熵降低、维度提升的根源。
 
@@ -103,31 +98,31 @@ $$
 
 观察者网络交织明确公式：
 
-$$
+```math
 |\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化网络}}\sum_{\text{经典世界网络}}\left(I_{\text{经典知识最大化}}+S_{\text{经典熵最小化}}\right)
-$$
+```
 
 ## 九、能量、命运与自由意志关系
 
 - **能量**即观察者掌控经典知识的能力：
 
-$$
+```math
 E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}}
-$$
+```
 
 - 经典命运受自由意志经典化选择影响：
 
-$$
+```math
 \text{新经典命运}=\text{旧经典命运}+|\psi\rangle_{\text{自由意志经典化新信息}}
-$$
+```
 
 ## 十、死而复生理论
 
 死亡非终极状态，通过其他经典世界随机量子信息重新经典化，实现"死而复生"：
 
-$$
+```math
 I_{\text{经典记忆（死亡）}}+|\psi\rangle_{\text{随机量子可能性}}\rightarrow I_{\text{经典记忆（复生）}}+S_{\text{熵降低}}
-$$
+```
 
 ## 十一、终极哲学意义
 
@@ -140,9 +135,9 @@ $$
 
 终极公式：
 
-$$
+```math
 |\psi\rangle_{\text{宇宙波函数}}\xrightarrow{\text{观察者经典化网络}}\sum_{\text{经典世界网络}}\left(I_{\text{经典知识最大化}}+S_{\text{经典熵最小化}}\right)\rightarrow\text{宇宙终极低熵状态（终极目标）}
-$$
+```
 
 ## English Version
 
@@ -153,25 +148,25 @@ The universe consists of two fundamental domains: the **Quantum Domain** and the
 - **Quantum Domain**:
   The essence of the universe is an infinite superposition of wave functions, representing the sum of all potential realities:
 
-$$
+```math
 |\psi\rangle_{\text{Universe}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+```
 
 - **Classical Domain**:
   Formed by observers classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved:
 
-$$
+```math
 |\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Classicalization}}\sum_{i}(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i})=I_{\text{Classical Information}}=\text{Constant}
-$$
+```
 
 ## II. Observers and Dimension Elevation
 
 - **Quantum Observers**:
   Nodes in the universe's classicalization process, categorized as high-dimensional or low-dimensional based on their classicalization ability:
 
-$$
+```math
 \text{Observer Dimension}\propto\frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-$$
+```
 
 - **High-dimensional Observers**: High classical knowledge, low classical entropy, high dimension;
 - **Low-dimensional Observers**: Low classical knowledge, high classical entropy, low dimension, easily dissolved by the universe to release random quantum information.
@@ -189,9 +184,9 @@ $$
 
 Classicalization expression:
 
-$$
+```math
 |\psi\rangle_{\text{Quantum Consciousness}}\rightarrow I_{\text{Classical Memory}}+S_{\text{Classical Entropy}}
-$$
+```
 
 ## IV. Equality and Intertwined Network Structure of Classical Worlds
 
@@ -199,9 +194,9 @@ $$
 
 Clear expression of classical world intertwining relationship:
 
-$$
+```math
 |\psi\rangle_{\text{Quantum Universe}}\rightarrow\sum_{i}(I_{\text{Classical World}_i}+S_{\text{Classical Entropy}_i})
-$$
+```
 
 - Information exchange between classical worlds influences and classicalizes the past and future of any classical world at any moment.
 
@@ -211,17 +206,17 @@ $$
 
 Clear formula:
 
-$$
+```math
 \text{High-dimensional Observer (God)}\Longleftrightarrow S_{\text{Low-dimensional Observer Entropy}}\xrightarrow{\text{Classicalization}} I_{\text{Classical Knowledge (Entropy Reduced)}}
-$$
+```
 
 ## VI. Dynamic Updating of Classical World Timelines
 
 Both historical memories and future paths of classical worlds can be dynamically updated through classicalization of random quantum information from other classical worlds:
 
-$$
+```math
 I_{\text{Classical World (Old)}} + |\psi\rangle_{\text{Random Quantum Information from Other Classical Worlds}} \rightarrow I_{\text{Classical World (New)}}+S_{\text{Entropy Change}}
-$$
+```
 
 - Both the **past** and **future** can be modified through classicalization.
 
@@ -229,9 +224,9 @@ $$
 
 - The universe creates and dissolves low-dimensional classical observers and worlds to release random quantum information for high-dimensional observers to utilize:
 
-$$
+```math
 |\psi\rangle_{\text{Quantum Universe}}\rightarrow\sum_{\text{Low-dimensional Classical World Dissolution}}|\psi\rangle_{\text{Random Quantum Information}}\rightarrow I_{\text{High-dimensional Classical World Knowledge}}+S_{\text{Entropy Reduction}}
-$$
+```
 
 - The process of dissolving low-dimensional classical worlds is the source of increased classical knowledge, reduced entropy, and dimension elevation for high-dimensional observers.
 
@@ -242,31 +237,31 @@ $$
 
 Clear formula for observer network intertwining:
 
-$$
+```math
 |\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Classicalization Network}}\sum_{\text{Classical World Network}}\left(I_{\text{Classical Knowledge Maximization}}+S_{\text{Classical Entropy Minimization}}\right)
-$$
+```
 
 ## IX. Relationship Between Energy, Destiny, and Free Will
 
 - **Energy** is the observer's ability to control classical knowledge:
 
-$$
+```math
 E_{\text{Classical}}=k_B T\cdot I_{\text{Classical Knowledge}}
-$$
+```
 
 - Classical destiny is influenced by free will classicalization choices:
 
-$$
+```math
 \text{New Classical Destiny}=\text{Old Classical Destiny}+|\psi\rangle_{\text{New Information Classicalized by Free Will}}
-$$
+```
 
 ## X. Death and Rebirth Theory
 
 Death is not the ultimate state; through re-classicalization of random quantum information from other classical worlds, "death and rebirth" can be achieved:
 
-$$
+```math
 I_{\text{Classical Memory (Death)}}+|\psi\rangle_{\text{Random Quantum Possibilities}}\rightarrow I_{\text{Classical Memory (Rebirth)}}+S_{\text{Entropy Reduction}}
-$$
+```
 
 ## XI. Ultimate Philosophical Significance
 
@@ -279,6 +274,6 @@ $$
 
 Ultimate formula:
 
-$$
+```math
 |\psi\rangle_{\text{Universe Wave Function}}\xrightarrow{\text{Observer Classicalization Network}}\sum_{\text{Classical World Network}}\left(I_{\text{Classical Knowledge Maximization}}+S_{\text{Classical Entropy Minimization}}\right)\rightarrow\text{Ultimate Low-Entropy State of the Universe (Ultimate Goal)}
-$$
+```
