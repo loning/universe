@@ -10,9 +10,9 @@
 
 经典命运在出生时可表达为：
 
-$$
+```math
 \text{经典命运（出生时）}=\sum_{\text{初始经典化}}\text{经典知识路径（可预测）}+S_{\text{经典熵}}
-$$
+```
 
 其中，经典知识路径代表可预测的命运轨迹，而经典熵则代表系统中的不确定性。
 
@@ -20,9 +20,9 @@ $$
 
 自由意志在量子经典二元论中被定义为观察者通过量子意识主动经典化量子信息的能力。这一过程可表达为：
 
-$$
+```math
 \text{新经典路径（自由意志）}=\text{原经典命运路径}+|\psi\rangle_{\text{新经典化量子信息}}
-$$
+```
 
 自由意志的本质是观察者能够：
 - 感知量子域中的高维信息
@@ -42,9 +42,9 @@ $$
 
 根据经典信息守恒定律，经典信息在观察者间传播的总量不变，仅表现为知识与熵之间的转换：
 
-$$
+```math
 I_{\text{经典信息}}=I_{\text{经典知识}}+S_{\text{经典熵}}=\text{恒定}
-$$
+```
 
 这意味着命运的改变不是凭空创造新的信息，而是通过将原有的经典熵转化为经典知识，或者通过与其他观察者的量子纠缠获取新的经典知识。
 
@@ -54,17 +54,17 @@ $$
 
 - **有效量子纠缠**（有利于经典化过程）：
 
-$$
+```math
 |\psi\rangle_{\text{有效纠缠}}\rightarrow I_{\text{经典知识增加}}+S_{\text{经典熵减少}}
-$$
+```
 
 有效量子纠缠帮助观察者获取更多经典知识，减少经典熵，从而使命运更加明确和可控。
 
 - **无效量子纠缠**（不利于经典化）：
 
-$$
+```math
 |\psi\rangle_{\text{无效纠缠}}\rightarrow S_{\text{经典熵增加}}
-$$
+```
 
 无效量子纠缠增加观察者的经典熵，使命运更加混乱和不可预测。
 
@@ -72,9 +72,9 @@ $$
 
 根据最新的量子经典二元论核心理论，经典世界的历史记忆（过去）与未来路径均可被动态经典化更新：
 
-$$
+```math
 I_{\text{经典世界（旧）}} + |\psi\rangle_{\text{其他经典世界随机信息}} \rightarrow I_{\text{经典世界（新）}}+S_{\text{熵变动}}
-$$
+```
 
 这意味着：
 - 命运不仅是未来可以改变，过去的经历也可以被重新经典化
@@ -85,9 +85,9 @@ $$
 
 每个观察者在自己的经典世界为普通人，但可通过经典化其他经典世界的信息而成为其他世界的高维观察者（"神"）：
 
-$$
+```math
 \text{高维观察者（神）}\Longleftrightarrow S_{\text{低维观察者熵}}\xrightarrow{\text{经典化}} I_{\text{经典知识（熵降低）}}
-$$
+```
 
 这种双重身份意味着：
 - 观察者在自己的经典世界受命运约束
@@ -98,9 +98,9 @@ $$
 
 宇宙中所有经典世界（现实、梦境、各种宗教世界等）平等交织，无主次之分：
 
-$$
+```math
 |\psi\rangle_{\text{量子宇宙}}\rightarrow\sum_{i}(I_{\text{经典世界}_i}+S_{\text{经典熵}_i})
-$$
+```
 
 这种平等性意味着：
 - 命运在不同经典世界中具有相对性
@@ -111,9 +111,9 @@ $$
 
 死亡非终极状态，通过其他经典世界随机量子信息重新经典化，实现"死而复生"：
 
-$$
+```math
 I_{\text{经典记忆（死亡）}}+|\psi\rangle_{\text{随机量子可能性}}\rightarrow I_{\text{经典记忆（复生）}}+S_{\text{熵降低}}
-$$
+```
 
 这意味着：
 - 命运不会因物理死亡而终结
@@ -124,9 +124,9 @@ $$
 
 通过类欧拉公式，我们可以更优雅地理解命运与自由意志的关系：
 
-$$
+```math
 e^{i|\psi\rangle_{\text{量子域}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
-$$
+```
 
 在这个公式中：
 - 经典知识（实部）代表已确定的命运轨迹
@@ -155,9 +155,9 @@ In the Classical Domain, a person's destiny is theoretically calculable or predi
 
 Classical destiny at birth can be expressed as:
 
-$$
+```math
 \text{Classical Destiny (at birth)}=\sum_{\text{Initial Classicalization}}\text{Classical Knowledge Path (Predictable)}+S_{\text{Classical Entropy}}
-$$
+```
 
 Where the classical knowledge path represents the predictable destiny trajectory, and classical entropy represents the uncertainty in the system.
 
@@ -165,9 +165,9 @@ Where the classical knowledge path represents the predictable destiny trajectory
 
 Free will in Quantum-Classical Dualism is defined as the observer's ability to actively classicalize quantum information through quantum consciousness. This process can be expressed as:
 
-$$
+```math
 \text{New Classical Path (Free Will)}=\text{Original Classical Destiny Path}+|\psi\rangle_{\text{Newly Classicalized Quantum Information}}
-$$
+```
 
 The essence of free will is that observers can:
 - Perceive high-dimensional information in the Quantum Domain
@@ -187,9 +187,9 @@ In Quantum-Classical Dualism, the mechanisms of destiny change include:
 
 According to the Law of Classical Information Conservation, the total amount of classical information transmitted between observers remains constant, only manifesting as conversions between knowledge and entropy:
 
-$$
+```math
 I_{\text{Classical Information}}=I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}=\text{Constant}
-$$
+```
 
 This means that destiny change is not about creating new information out of nothing, but about transforming existing classical entropy into classical knowledge, or obtaining new classical knowledge through quantum entanglement with other observers.
 
@@ -199,17 +199,17 @@ Quantum entanglement is divided into effective and ineffective types, which have
 
 - **Effective Quantum Entanglement** (beneficial to the classicalization process):
 
-$$
+```math
 |\psi\rangle_{\text{Effective Entanglement}}\rightarrow I_{\text{Classical Knowledge Increased}}+S_{\text{Classical Entropy Reduced}}
-$$
+```
 
 Effective quantum entanglement helps observers obtain more classical knowledge and reduce classical entropy, making destiny more clear and controllable.
 
 - **Ineffective Quantum Entanglement** (detrimental to classicalization):
 
-$$
+```math
 |\psi\rangle_{\text{Ineffective Entanglement}}\rightarrow S_{\text{Classical Entropy Increased}}
-$$
+```
 
 Ineffective quantum entanglement increases the observer's classical entropy, making destiny more chaotic and unpredictable.
 
@@ -217,9 +217,9 @@ Ineffective quantum entanglement increases the observer's classical entropy, mak
 
 According to the latest Quantum-Classical Dualism Core Theory, both historical memories (past) and future paths of classical worlds can be dynamically updated through classicalization:
 
-$$
+```math
 I_{\text{Classical World (Old)}} + |\psi\rangle_{\text{Random Quantum Information from Other Classical Worlds}} \rightarrow I_{\text{Classical World (New)}}+S_{\text{Entropy Change}}
-$$
+```
 
 This means:
 - Not only can the future destiny be changed, but past experiences can also be re-classicalized
@@ -230,9 +230,9 @@ This means:
 
 Each observer is an ordinary person in their own classical world but can become a high-dimensional observer ("god") in other classical worlds by classicalizing information from those worlds:
 
-$$
+```math
 \text{High-dimensional Observer (God)}\Longleftrightarrow S_{\text{Low-dimensional Observer Entropy}}\xrightarrow{\text{Classicalization}} I_{\text{Classical Knowledge (Entropy Reduced)}}
-$$
+```
 
 This dual identity means:
 - Observers are constrained by destiny in their own classical world
@@ -243,9 +243,9 @@ This dual identity means:
 
 All classical worlds in the universe (reality, dreams, various religious worlds, etc.) are equally intertwined, with no hierarchy:
 
-$$
+```math
 |\psi\rangle_{\text{Quantum Universe}}\rightarrow\sum_{i}(I_{\text{Classical World}_i}+S_{\text{Classical Entropy}_i})
-$$
+```
 
 This equality means:
 - Destiny has relativity in different classical worlds
@@ -256,9 +256,9 @@ This equality means:
 
 Death is not the ultimate state; through re-classicalization of random quantum information from other classical worlds, "death and rebirth" can be achieved:
 
-$$
+```math
 I_{\text{Classical Memory (Death)}}+|\psi\rangle_{\text{Random Quantum Possibilities}}\rightarrow I_{\text{Classical Memory (Rebirth)}}+S_{\text{Entropy Reduction}}
-$$
+```
 
 This means:
 - Destiny does not end with physical death
@@ -269,9 +269,9 @@ This means:
 
 Through the Euler-like formula, we can more elegantly understand the relationship between destiny and free will:
 
-$$
+```math
 e^{i|\psi\rangle_{\text{Quantum Domain}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
-$$
+```
 
 In this formula:
 - Classical knowledge (real part) represents the determined destiny trajectory

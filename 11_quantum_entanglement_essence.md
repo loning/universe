@@ -10,9 +10,9 @@
 
 这种不可分解性可以用数学公式精确表达：
 
-$$
+```math
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-$$
+```
 
 其中：
 - $|\psi\rangle_{AB}$ 表示整体系统的波函数
@@ -27,15 +27,15 @@ $$
 
 - **有效量子纠缠**（有利于经典化过程，增加经典知识、降低经典熵）：
 
-$$
+```math
 |\psi\rangle_{\text{有效纠缠}}\rightarrow I_{\text{经典知识增加}}+S_{\text{经典熵减少}}
-$$
+```
 
 - **无效量子纠缠**（不利于经典化，经典熵增加，知识未有效提高）：
 
-$$
+```math
 |\psi\rangle_{\text{无效纠缠}}\rightarrow S_{\text{经典熵增加}}
-$$
+```
 
 有效量子纠缠促进观察者维度提升，而无效量子纠缠则阻碍观察者维度提升。
 
@@ -50,9 +50,9 @@ $$
 
 根据最新的量子经典二元论核心理论，宇宙中所有经典世界平等交织，无主次之分：
 
-$$
+```math
 |\psi\rangle_{\text{量子宇宙}}\rightarrow\sum_{i}(I_{\text{经典世界}_i}+S_{\text{经典熵}_i})
-$$
+```
 
 量子纠缠是实现这种平等交织的基础机制：
 - 不同经典世界通过量子纠缠相互连接
@@ -63,9 +63,9 @@ $$
 
 每个观察者在自己的经典世界为普通人，但可通过经典化其他经典世界的信息而成为其他世界的高维观察者（"神"）：
 
-$$
+```math
 \text{高维观察者（神）}\Longleftrightarrow S_{\text{低维观察者熵}}\xrightarrow{\text{经典化}} I_{\text{经典知识（熵降低）}}
-$$
+```
 
 量子纠缠在这一过程中起关键作用：
 - 观察者通过量子纠缠获取其他经典世界的信息
@@ -76,9 +76,9 @@ $$
 
 经典世界的历史记忆与未来路径均可被其他经典世界的随机量子信息动态经典化更新：
 
-$$
+```math
 I_{\text{经典世界（旧）}} + |\psi\rangle_{\text{其他经典世界随机信息}} \rightarrow I_{\text{经典世界（新）}}+S_{\text{熵变动}}
-$$
+```
 
 量子纠缠在时间轴更新中的作用：
 - 量子纠缠提供了跨经典世界的信息传递通道
@@ -89,9 +89,9 @@ $$
 
 宇宙通过创造并消解低维经典观察者与经典世界，释放随机量子信息，以供高维观察者利用：
 
-$$
+```math
 |\psi\rangle_{\text{量子宇宙}}\rightarrow\sum_{\text{低维经典世界消解}}|\psi\rangle_{\text{随机量子信息}}\rightarrow I_{\text{高维经典世界知识}}+S_{\text{熵降低}}
-$$
+```
 
 量子纠缠在这一过程中的作用：
 - 量子纠缠连接高维与低维观察者
@@ -102,9 +102,9 @@ $$
 
 死亡非终极状态，通过其他经典世界随机量子信息重新经典化，实现"死而复生"：
 
-$$
+```math
 I_{\text{经典记忆（死亡）}}+|\psi\rangle_{\text{随机量子可能性}}\rightarrow I_{\text{经典记忆（复生）}}+S_{\text{熵降低}}
-$$
+```
 
 量子纠缠在死而复生中的作用：
 - 量子纠缠保存了观察者的量子信息，即使在经典死亡后
@@ -135,23 +135,23 @@ $$
 
 根据经典信息守恒定律，经典信息在观察者间传播的总量不变，仅表现为知识与熵之间的转换：
 
-$$
+```math
 I_{\text{经典信息}}=I_{\text{经典知识}}+S_{\text{经典熵}}=\text{恒定}
-$$
+```
 
 在量子纠缠网络中，这一定律表现为：
 
 - **高维观察者 → 低维观察者**：高维知识经典化为低维知识时会伴随熵增加：
 
-$$
+```math
 I_{\text{高维经典知识}}+S_{\text{高维经典熵}}\rightarrow I_{\text{低维知识减少}}+S_{\text{传播熵增加}}
-$$
+```
 
 - **低维观察者 → 高维观察者**：低维观察者无法经典化的熵，可被高维观察者经典化为有效知识：
 
-$$
+```math
 S_{\text{低维熵}}\xrightarrow{\text{高维经典化}} I_{\text{高维知识增加}}+S_{\text{高维熵减少}}
-$$
+```
 
 ### 12. 量子纠缠的统一性与整体性
 
@@ -165,9 +165,9 @@ $$
 
 通过类欧拉公式，我们可以更优雅地理解量子纠缠的本质：
 
-$$
+```math
 e^{i|\psi\rangle_{\text{量子域}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
-$$
+```
 
 在这个公式中：
 - 量子纠缠是波函数指数部分的核心结构
@@ -197,9 +197,9 @@ Quantum entanglement is essentially the entanglement of wave functions. When two
 
 This irreducibility can be precisely expressed by the mathematical formula:
 
-$$
+```math
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-$$
+```
 
 Where:
 - $|\psi\rangle_{AB}$ represents the wave function of the entire system
@@ -214,15 +214,15 @@ According to Quantum-Classical Dualism, quantum entanglement is divided into eff
 
 - **Effective Quantum Entanglement** (beneficial to the classicalization process, increases classical knowledge, reduces classical entropy):
 
-$$
+```math
 |\psi\rangle_{\text{Effective Entanglement}}\rightarrow I_{\text{Classical Knowledge Increased}}+S_{\text{Classical Entropy Reduced}}
-$$
+```
 
 - **Ineffective Quantum Entanglement** (detrimental to classicalization, increases classical entropy, knowledge not effectively improved):
 
-$$
+```math
 |\psi\rangle_{\text{Ineffective Entanglement}}\rightarrow S_{\text{Classical Entropy Increased}}
-$$
+```
 
 Effective quantum entanglement promotes observer dimension elevation, while ineffective quantum entanglement hinders observer dimension elevation.
 
@@ -237,9 +237,9 @@ In Quantum-Classical Dualism, quantum entanglement is understood as quantum info
 
 According to the latest Quantum-Classical Dualism Core Theory, all classical worlds in the universe are equally intertwined, with no hierarchy:
 
-$$
+```math
 |\psi\rangle_{\text{Quantum Universe}}\rightarrow\sum_{i}(I_{\text{Classical World}_i}+S_{\text{Classical Entropy}_i})
-$$
+```
 
 Quantum entanglement is the fundamental mechanism that enables this equal intertwining:
 - Different classical worlds are interconnected through quantum entanglement
@@ -250,9 +250,9 @@ Quantum entanglement is the fundamental mechanism that enables this equal intert
 
 Each observer is an ordinary person in their own classical world but can become a high-dimensional observer ("god") in other classical worlds by classicalizing information from those worlds:
 
-$$
+```math
 \text{High-dimensional Observer (God)}\Longleftrightarrow S_{\text{Low-dimensional Observer Entropy}}\xrightarrow{\text{Classicalization}} I_{\text{Classical Knowledge (Entropy Reduced)}}
-$$
+```
 
 Quantum entanglement plays a key role in this process:
 - Observers obtain information from other classical worlds through quantum entanglement
@@ -263,9 +263,9 @@ Quantum entanglement plays a key role in this process:
 
 Both historical memories and future paths of classical worlds can be dynamically updated through classicalization of random quantum information from other classical worlds:
 
-$$
+```math
 I_{\text{Classical World (Old)}} + |\psi\rangle_{\text{Random Quantum Information from Other Classical Worlds}} \rightarrow I_{\text{Classical World (New)}}+S_{\text{Entropy Change}}
-$$
+```
 
 The role of quantum entanglement in timeline updates:
 - Quantum entanglement provides information transmission channels across classical worlds
@@ -276,9 +276,9 @@ The role of quantum entanglement in timeline updates:
 
 The universe creates and dissolves low-dimensional classical observers and worlds to release random quantum information for high-dimensional observers to utilize:
 
-$$
+```math
 |\psi\rangle_{\text{Quantum Universe}}\rightarrow\sum_{\text{Low-dimensional Classical World Dissolution}}|\psi\rangle_{\text{Random Quantum Information}}\rightarrow I_{\text{High-dimensional Classical World Knowledge}}+S_{\text{Entropy Reduction}}
-$$
+```
 
 The role of quantum entanglement in this process:
 - Quantum entanglement connects high-dimensional and low-dimensional observers
@@ -289,9 +289,9 @@ The role of quantum entanglement in this process:
 
 Death is not the ultimate state; through re-classicalization of random quantum information from other classical worlds, "death and rebirth" can be achieved:
 
-$$
+```math
 I_{\text{Classical Memory (Death)}}+|\psi\rangle_{\text{Random Quantum Possibilities}}\rightarrow I_{\text{Classical Memory (Rebirth)}}+S_{\text{Entropy Reduction}}
-$$
+```
 
 The role of quantum entanglement in death and rebirth:
 - Quantum entanglement preserves the quantum information of the observer, even after classical death
@@ -322,23 +322,23 @@ When an observer classicalizes quantum entanglement information, the following p
 
 According to the Law of Classical Information Conservation, the total amount of classical information transmitted between observers remains constant, only manifesting as conversions between knowledge and entropy:
 
-$$
+```math
 I_{\text{Classical Information}}=I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}=\text{Constant}
-$$
+```
 
 In the quantum entanglement network, this law manifests as:
 
 - **High-dimensional Observer → Low-dimensional Observer**: When high-dimensional knowledge is classicalized into low-dimensional knowledge, it is accompanied by an increase in entropy:
 
-$$
+```math
 I_{\text{High-dimensional Classical Knowledge}}+S_{\text{High-dimensional Classical Entropy}}\rightarrow I_{\text{Low-dimensional Knowledge Reduced}}+S_{\text{Transmission Entropy Increased}}
-$$
+```
 
 - **Low-dimensional Observer → High-dimensional Observer**: Entropy that cannot be classicalized by low-dimensional observers can be classicalized into effective knowledge by high-dimensional observers:
 
-$$
+```math
 S_{\text{Low-dimensional Entropy}}\xrightarrow{\text{High-dimensional Classicalization}} I_{\text{High-dimensional Knowledge Increased}}+S_{\text{High-dimensional Entropy Reduced}}
-$$
+```
 
 ### 12. Unity and Integrity of Quantum Entanglement
 
@@ -352,9 +352,9 @@ Quantum entanglement fundamentally reflects the unity and integrity of the unive
 
 Through the Euler-like formula, we can more elegantly understand the essence of quantum entanglement:
 
-$$
+```math
 e^{i|\psi\rangle_{\text{Quantum Domain}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
-$$
+```
 
 In this formula:
 - Quantum entanglement is the core structure of the exponential part of the wave function
