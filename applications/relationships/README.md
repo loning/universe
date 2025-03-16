@@ -31,6 +31,13 @@
    - 单相思现象的量子不对称性分析
    - 爱情关系的量子经典优化策略
 
+5. [熵减与人际关系年轻化](../observer_theory/entropy_reduction_rejuvenation.md)
+   - 熵减在人际关系中的应用
+   - 社会关系优化降低系统熵的机制
+   - 高质量社交对生理年轻化的贡献
+   - 人际关系熵减的实践策略
+   - 集体熵减对群体年轻化的影响
+
 ### 人际关系应用的核心原理
 
 所有人际关系应用理论都基于以下核心原理：
@@ -50,6 +57,7 @@
 - 社会关系选择和发展的策略
 - 人际互动中维度提升的实践路径
 - 关系修复和增强的系统方法
+- 通过优化人际关系实现生理和心理年轻化
 
 ## English Version
 
@@ -82,6 +90,13 @@ This directory contains application theories of Quantum-Classical Dualism in the
    - Quantum asymmetry analysis of unrequited love phenomena
    - Quantum-classical optimization strategies for love relationships
 
+5. [Entropy Reduction and Relationship Rejuvenation](../observer_theory/entropy_reduction_rejuvenation.md)
+   - Application of entropy reduction in interpersonal relationships
+   - Mechanisms of system entropy reduction through social relationship optimization
+   - Contribution of high-quality social interactions to physiological rejuvenation
+   - Practical strategies for entropy reduction in relationships
+   - Effects of collective entropy reduction on group rejuvenation
+
 ### Core Principles of Relationship Applications
 
 All relationship application theories are based on the following core principles:
@@ -100,4 +115,5 @@ These theories not only provide new frameworks for understanding interpersonal r
 - Deep understanding and optimization of parent-child relationships
 - Strategies for social relationship selection and development
 - Practical paths for dimension elevation in interpersonal interactions
-- Systematic methods for relationship repair and enhancement 
+- Systematic methods for relationship repair and enhancement
+- Physiological and psychological rejuvenation through optimized interpersonal relationships 
