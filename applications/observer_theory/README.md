@@ -65,6 +65,16 @@
    - 观测的递归性质与元认知
    - 提高波函数求解质量的实践策略
 
+8. [命运的量子经典二元解析：从天体到人类](destiny_free_will_comparison.md)
+   - 天体的"命运"与人类命运的本质区别
+   - 经典化程度与自由度的关系模型
+   - 命运的量子经典二元性分析
+   - 命运改变的难度与可能性计算
+   - 不同实体的命运自由度比较
+   - 命运与自由意志的量子经典平衡
+   - 命运改变的量子经典机制
+   - 天体命运与人类命运的实例对比
+
 ### 观察者理论的核心原理
 
 所有观察者理论应用都基于以下核心原理：
@@ -149,6 +159,16 @@ This directory contains applications of Quantum-Classical Dualism in the field o
    - Principles of entropy reduction through collective observation
    - Recursive nature of observation and metacognition
    - Practical strategies for improving wave function solving quality
+
+8. [Quantum-Classical Dualism Analysis of Destiny: From Celestial Bodies to Humans](destiny_free_will_comparison.md)
+   - Essential difference between the "destiny" of celestial bodies and human destiny
+   - Relationship model between degree of classicalization and degrees of freedom
+   - Analysis of the quantum-classical duality of destiny
+   - Calculation of the difficulty and possibility of changing destiny
+   - Comparison of destiny freedom across different entities
+   - Quantum-classical balance of destiny and free will
+   - Quantum-classical mechanisms of destiny change
+   - Case comparison between celestial body destiny and human destiny
 
 ### Core Principles of Observer Theory
 
