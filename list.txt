@@ -13,6 +13,7 @@
 ./applications/README.md
 ./applications/destiny_free_will_applications.md
 ./applications/mathematics/README.md
+./applications/mathematics/collective_dynamics_models.md
 ./applications/mathematics/mathematical_bridges.md
 ./applications/observer_theory/README.md
 ./applications/observer_theory/civilization_classicalization.md
@@ -27,6 +28,7 @@
 ./applications/observer_theory/universe_game_time_longevity.md
 ./applications/quantum_computing_consciousness.md
 ./applications/relationships/README.md
+./applications/relationships/collective_social_entanglement.md
 ./applications/relationships/interpersonal_conflicts.md
 ./applications/relationships/love_attraction.md
 ./articles/README.md
@@ -73,6 +75,7 @@
 ./theories/applied_disciplines/urban_planning_development_explanations.md
 ./theories/black_hole_classicalization.md
 ./theories/consciousness_persistence.md
+./theories/entropy_changes_daily_life.md
 ./theories/entropy_observer_dimension.md
 ./theories/explained_puzzles.md
 ./theories/free_will_quantum_entanglement.md
@@ -104,6 +107,7 @@
 ./theories/reproduction_quantum_information.md
 ./theories/sci_fi_analysis/three_body_critique.md
 ./theories/scientific_explanations.md
+./theories/scientific_perspectives/meditation_entropy_reduction.md
 ./theories/social_sciences/economic_classical_quantum.md
 ./theories/social_sciences/economic_explanations.md
 ./theories/social_sciences/economics_explanation.md
@@ -123,6 +127,7 @@
 ./theories/universe_entanglement_entropy.md
 ./theories/universe_structure.md
 ./theories/universe_structure/observer_dimension_evolution.md
+./titles.md
 ./update_history.md
 ./update_plan.md
 ./visualizations/README.md

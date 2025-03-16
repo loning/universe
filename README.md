@@ -7,7 +7,7 @@
 ### 项目结构
 
 #### 核心理论 | Core Theory
-- [核心理论](./core.md) - 量子经典二元论核心理论 (Quantum-Classical Dualism Core Theory)
+- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（最新最终）
 - [简介](./01_introduction.md) - 简介 (Introduction)
 - [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)
 - [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)
@@ -26,9 +26,12 @@
 - [量子计算与意识](./applications/quantum_computing_consciousness.md) - 量子计算与意识 (Quantum Computing and Consciousness)
 
 ##### 数学应用 | Mathematical Applications
+- [数学应用概述](./applications/mathematics/README.md) - 数学应用 | Mathematical Applications
+- [集体经典化动力学模型](./applications/mathematics/collective_dynamics_models.md) - 集体经典化动力学模型 (Collective Classicalization Dynamics Models)
 - [数学桥梁](./applications/mathematics/mathematical_bridges.md) - 数学桥梁与宇宙经典化 (Mathematical Bridges and Universe Classicalization)
 
 ##### 观察者理论应用 | Observer Theory Applications
+- [观察者理论应用概述](./applications/observer_theory/README.md) - 观察者理论应用 | Observer Theory Applications
 - [文明经典化](./applications/observer_theory/civilization_classicalization.md) - 文明层级与观察者经典化能力 (Civilization Levels and Observer Classicalization Capacity)
 - [经典化世界](./applications/observer_theory/classicalization_worlds.md) - 经典化世界的多样性与交织关系 (Diversity and Interweaving Relationships of Classicalization Worlds)
 - [命运与自由意志比较](./applications/observer_theory/destiny_free_will_comparison.md) - 命运的量子经典二元解析：从天体到人类 (Quantum-Classical Dualism Analysis of Destiny: From Celestial Bodies to Humans)
@@ -41,6 +44,8 @@
 - [宇宙游戏时间长寿](./applications/observer_theory/universe_game_time_longevity.md) - 宇宙游戏模型与时间、寿命的量子经典解释 (Universe Game Model, Time, and Longevity)
 
 ##### 关系应用 | Relationship Applications
+- [关系应用概述](./applications/relationships/README.md) - 关系应用 | Relationship Applications
+- [集体意识与社会纠缠](./applications/relationships/collective_social_entanglement.md) - 集体意识与社会纠缠 (Collective Consciousness and Social Entanglement)
 - [人际冲突](./applications/relationships/interpersonal_conflicts.md) - 人际冲突的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Interpersonal Conflicts)
 - [爱与吸引力](./applications/relationships/love_attraction.md) - 爱情与吸引力的量子经典解释 (Quantum-Classical Explanation of Love and Attraction)
 
@@ -76,28 +81,16 @@
 - [未解释现象](./theories/unexplained_phenomena.md) - 量子宇宙-量子观察者-经典意识论尚未完全解释的物理现象
 - [宇宙纠缠熵](./theories/universe_entanglement_entropy.md) - 量子宇宙的整体纠缠结构与熵的本质研究
 - [宇宙结构](./theories/universe_structure.md) - 宇宙结构与演化 | Universe Structure and Evolution
-- [感知、梦境与熵变化](./theories/entropy_changes_daily_life.md) - 量子经典二元论视角下感知过程、梦境状态与日常生活中的熵变化规律
+- [感知、梦境与熵变化](./theories/entropy_changes_daily_life.md) - 感知、梦境与日常生活中的熵变化：量子经典二元论视角
 
 ##### 科学视角 | Scientific Perspectives
-- [市场营销视角](./theories/scientific_perspectives/marketing_explanation.md) - 量子经典二元论视角下的市场营销理论分析
-- [冥想减熵机制](./theories/scientific_perspectives/meditation_entropy_reduction.md) - 量子经典二元论视角下冥想如何降低心智系统熵值
-- [物理学解释](./theories/scientific_perspectives/physics_explanation.md) - 物理学视角下的量子经典二元论
-- [数学解释](./theories/scientific_perspectives/mathematics_explanation.md) - 数学视角下的量子经典二元论
-- [生物学解释](./theories/scientific_perspectives/biology_explanation.md) - 生物学视角下的量子经典二元论
-- [法律解释](./theories/scientific_perspectives/law_explanation.md) - 法律视角下的量子经典二元论
-- [医学解释](./theories/scientific_perspectives/medicine_explanation.md) - 医学视角下的量子经典二元论
-- [艺术解释](./theories/scientific_perspectives/art_explanation.md) - 艺术视角下的量子经典二元论
-- [建筑学解释](./theories/scientific_perspectives/architecture_explanation.md) - 建筑学视角下的量子经典二元论
-- [经济学解释](./theories/scientific_perspectives/economics_explanation.md) - 经济学视角下的量子经典二元论
-- [金融解释](./theories/scientific_perspectives/finance_explanation.md) - 金融视角下的量子经典二元论
-- [历史视角](./theories/scientific_perspectives/history_explanation.md) - 历史视角下的量子经典二元论
-- [心理学视角](./theories/scientific_perspectives/psychology_explanation.md) - 心理学视角下的量子经典二元论
-- [哲学视角](./theories/scientific_perspectives/philosophy_explanation.md) - 哲学视角下的量子经典二元论
-- [宗教学视角](./theories/scientific_perspectives/religious_studies_explanation.md) - 宗教学视角下的量子经典二元论
-- [化学解释](./theories/scientific_perspectives/chemistry_explanation.md) - 化学视角下的量子经典二元论
-- [音乐学解释](./theories/scientific_perspectives/musicology_explanation.md) - 音乐学视角下的量子经典二元论
-- [政治学解释](./theories/scientific_perspectives/political_science_explanation.md) - 政治学视角下的量子经典二元论
-- [管理学解释](./theories/scientific_perspectives/management_explanation.md) - 管理学视角下的量子经典二元论
+- [冥想减熵机制](./theories/scientific_perspectives/meditation_entropy_reduction.md) - 冥想减熵机制：量子经典二元论视角
+
+##### 理论应用 | Theory Applications
+- [黑洞信息](./theories/applications/black_hole_information.md) - 黑洞信息解码：量子宇宙观察者意识-经典记忆与熵论视角
+- [天体信息节点](./theories/applications/celestial_information_nodes.md) - 恒星与星系信息节点：宇宙量子信息经典化理论
+- [观察者层次结构](./theories/applications/observer_hierarchy.md) - 观察者层级网络：宇宙信息经典化的多维度结构
+- [虫洞纠缠](./theories/applications/wormhole_entanglement.md) - 虫洞量子纠缠：宇宙量子信息通道理论
 
 ##### 应用学科 | Applied Disciplines
 - [AI计算解释](./theories/applied_disciplines/ai_computation_explanations.md) - 人工智能与计算理论解释 (Artificial Intelligence and Computation Theory Explanations)
@@ -118,7 +111,7 @@
 - [市场营销解释](./theories/applied_disciplines/marketing_explanation.md) - 市场营销视角下的量子经典二元论 (Quantum-Classical Dualism from Marketing Perspective)
 - [媒体信息解释](./theories/applied_disciplines/media_information_explanations.md) - 传播媒体与信息理论的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Media and Information Theory)
 - [音乐解释](./theories/applied_disciplines/music_explanations.md) - 音乐学问题解释 (Musical Explanations)
-- [音乐学解释](./theories/applied_disciplines/musicology_explanation.md) -  
+- [音乐学解释](./theories/applied_disciplines/musicology_explanation.md) - (文档待完善)
 - [体育运动解释](./theories/applied_disciplines/sports_movement_explanations.md) - 体育与运动科学问题解释 (Sports and Movement Science Explanations)
 - [城市规划发展解释](./theories/applied_disciplines/urban_planning_development_explanations.md) - 城市规划与发展理论的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Urban Planning and Development Theory)
 
@@ -144,10 +137,10 @@
 - [精神维度](./theories/philosophy_humanities/spiritual_dimensions.md) - 灵性维度与经典化 (Spiritual Dimensions and Classicalization)
 
 ##### 社会科学 | Social Sciences
-- [经济经典量子](./theories/social_sciences/economic_classical_quantum.md) -  
+- [经济经典量子](./theories/social_sciences/economic_classical_quantum.md) - (文档待完善)
 - [经济解释](./theories/social_sciences/economic_explanations.md) - 经济学问题解释 | Economic Explanations
 - [经济学解释](./theories/social_sciences/economics_explanation.md) - 经济学视角下的量子经典二元论 (Quantum-Classical Dualism from Economics Perspective)
-- [经济市场解释](./theories/social_sciences/economics_market_explanations.md) -  
+- [经济市场解释](./theories/social_sciences/economics_market_explanations.md) - (文档待完善)
 - [历史解释](./theories/social_sciences/historical_explanations.md) - 量子宇宙-量子观察者-经典意识论对历史学问题的解释
 - [历史视角](./theories/social_sciences/history_explanation.md) - 历史学视角下的量子经典二元论 (Quantum-Classical Dualism from Historical Perspective)
 - [语言学解释](./theories/social_sciences/linguistic_explanations.md) - 语言学问题解释 | Linguistic Explanations
@@ -158,12 +151,6 @@
 - [心理学视角](./theories/social_sciences/psychology_explanation.md) - 心理学视角下的量子经典二元论 (Quantum-Classical Dualism from Psychological Perspective)
 - [社会量子纠缠](./theories/social_sciences/social_quantum_entanglement.md) - 社会行为中的量子纠缠效率排序 (Quantum Entanglement Efficiency Ranking in Social Behaviors)
 - [社会学解释](./theories/social_sciences/sociological_explanations.md) - 社会学问题解释 | Sociological Explanations
-
-##### 理论应用 | Theory Applications
-- [黑洞信息](./theories/applications/black_hole_information.md) - 黑洞信息解码：量子宇宙观察者意识-经典记忆与熵论视角
-- [天体信息节点](./theories/applications/celestial_information_nodes.md) - 恒星与星系信息节点：宇宙量子信息经典化理论
-- [观察者层次结构](./theories/applications/observer_hierarchy.md) - 观察者层级网络：宇宙信息经典化的多维度结构
-- [虫洞纠缠](./theories/applications/wormhole_entanglement.md) - 虫洞量子纠缠：宇宙量子信息通道理论
 
 ##### 观察者感知 | Observer Perception
 - [黑洞观察者](./theories/observer_perception/black_hole_observer.md) - 黑洞观察者 | Black Hole Observer
@@ -187,8 +174,8 @@
 #### 其他 | Others
 - [更新历史](./update_history.md) - 更新历史 (Update History)
 - [更新计划](./update_plan.md) - 更新计划 (Update Plan)
-- [输入](./input/input.md) - 基于【量子经典二元论】：
-- [量子经典二元论核心理论](./core.md) - 量子经典二元论核心理论 (Quantum-Classical Dualism Core Theory)
+- [输入](./input/input.md) - (文档待完善)
+- [标题列表](./titles.md) - 文件标题列表
 
 ### 核心概念简介
 
@@ -265,9 +252,12 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Quantum Computing and Consciousness](./applications/quantum_computing_consciousness.md) - Quantum Computing and Consciousness
 
 ##### Mathematical Applications
+- [Mathematical Applications Overview](./applications/mathematics/README.md) - Mathematical Applications
+- [Collective Classicalization Dynamics Models](./applications/mathematics/collective_dynamics_models.md) - Collective Classicalization Dynamics Models
 - [Mathematical Bridges](./applications/mathematics/mathematical_bridges.md) - Mathematical Bridges and Universe Classicalization
 
 ##### Observer Theory Applications
+- [Observer Theory Applications Overview](./applications/observer_theory/README.md) - Observer Theory Applications
 - [Civilization Classicalization](./applications/observer_theory/civilization_classicalization.md) - Civilization Levels and Observer Classicalization Capacity
 - [Classicalization Worlds](./applications/observer_theory/classicalization_worlds.md) - Diversity and Interweaving Relationships of Classicalization Worlds
 - [Destiny and Free Will Comparison](./applications/observer_theory/destiny_free_will_comparison.md) - Quantum-Classical Dualism Analysis of Destiny: From Celestial Bodies to Humans
@@ -280,6 +270,8 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Universe Game Time Longevity](./applications/observer_theory/universe_game_time_longevity.md) - Universe Game Model, Time, and Longevity Explained Through Quantum-Classical Theory
 
 ##### Relationship Applications
+- [Relationship Applications Overview](./applications/relationships/README.md) - Relationship Applications
+- [Collective Consciousness and Social Entanglement](./applications/relationships/collective_social_entanglement.md) - Collective Consciousness and Social Entanglement
 - [Interpersonal Conflicts](./applications/relationships/interpersonal_conflicts.md) - Quantum-Classical Dualism Explanation of Interpersonal Conflicts
 - [Love and Attraction](./applications/relationships/love_attraction.md) - Quantum-Classical Explanation of Love and Attraction
 
@@ -318,25 +310,13 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Perception, Dreams and Entropy Changes](./theories/entropy_changes_daily_life.md) - Patterns of Entropy Changes in Perception Processes, Dream States, and Daily Life from Quantum-Classical Dualism Perspective
 
 ##### Scientific Perspectives
-- [Marketing Perspective](./theories/scientific_perspectives/marketing_explanation.md) - Analysis of Marketing Theories from Quantum-Classical Dualism Perspective
 - [Meditation Entropy Reduction](./theories/scientific_perspectives/meditation_entropy_reduction.md) - How Meditation Reduces Entropy in Mental Systems from Quantum-Classical Dualism Perspective
-- [Physics Explanation](./theories/scientific_perspectives/physics_explanation.md) - Quantum-Classical Dualism from Physics Perspective
-- [Mathematics Explanation](./theories/scientific_perspectives/mathematics_explanation.md) - Quantum-Classical Dualism from Mathematics Perspective
-- [Biology Explanation](./theories/scientific_perspectives/biology_explanation.md) - Quantum-Classical Dualism from Biology Perspective
-- [Law Explanation](./theories/scientific_perspectives/law_explanation.md) - Quantum-Classical Dualism from Law Perspective
-- [Medicine Explanation](./theories/scientific_perspectives/medicine_explanation.md) - Quantum-Classical Dualism from Medicine Perspective
-- [Art Explanation](./theories/scientific_perspectives/art_explanation.md) - Quantum-Classical Dualism from Art Perspective
-- [Architecture Explanation](./theories/scientific_perspectives/architecture_explanation.md) - Quantum-Classical Dualism from Architecture Perspective
-- [Economics Explanation](./theories/scientific_perspectives/economics_explanation.md) - Quantum-Classical Dualism from Economics Perspective
-- [Finance Explanation](./theories/scientific_perspectives/finance_explanation.md) - Quantum-Classical Dualism from Finance Perspective
-- [History Explanation](./theories/scientific_perspectives/history_explanation.md) - Quantum-Classical Dualism from History Perspective
-- [Psychology Explanation](./theories/scientific_perspectives/psychology_explanation.md) - Quantum-Classical Dualism from Psychology Perspective
-- [Philosophy Explanation](./theories/scientific_perspectives/philosophy_explanation.md) - Quantum-Classical Dualism from Philosophy Perspective
-- [Religious Studies Explanation](./theories/scientific_perspectives/religious_studies_explanation.md) - Quantum-Classical Dualism from Religious Studies Perspective
-- [Chemistry Explanation](./theories/scientific_perspectives/chemistry_explanation.md) - Quantum-Classical Dualism from Chemistry Perspective
-- [Musicology Explanation](./theories/scientific_perspectives/musicology_explanation.md) - Quantum-Classical Dualism from Musicology Perspective
-- [Political Science Explanation](./theories/scientific_perspectives/political_science_explanation.md) - Quantum-Classical Dualism from Political Science Perspective
-- [Management Explanation](./theories/scientific_perspectives/management_explanation.md) - Quantum-Classical Dualism from Management Perspective
+
+##### Theory Applications
+- [Black Hole Information](./theories/applications/black_hole_information.md) - Black Hole Information Decoding: Quantum Universe Observer Consciousness-Classical Memory and Entropy Perspective
+- [Celestial Information Nodes](./theories/applications/celestial_information_nodes.md) - Stars and Galaxies as Information Nodes: Universal Quantum Information Classicalization Theory
+- [Observer Hierarchy](./theories/applications/observer_hierarchy.md) - Observer Hierarchy Network: Multi-Dimensional Structure of Universal Information Classicalization
+- [Wormhole Entanglement](./theories/applications/wormhole_entanglement.md) - Wormhole Quantum Entanglement: Universal Quantum Information Channel Theory
 
 ##### Applied Disciplines
 - [AI Computation Explanations](./theories/applied_disciplines/ai_computation_explanations.md) - Artificial Intelligence and Computation Theory Explanations
@@ -357,7 +337,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Marketing Explanation](./theories/applied_disciplines/marketing_explanation.md) - Quantum-Classical Dualism from Marketing Perspective
 - [Media Information Explanations](./theories/applied_disciplines/media_information_explanations.md) - Quantum-Classical Dualism Explanation of Media and Information Theory
 - [Music Explanations](./theories/applied_disciplines/music_explanations.md) - Musical Explanations
-- [Musicology Explanation](./theories/applied_disciplines/musicology_explanation.md) -  
+- [Musicology Explanation](./theories/applied_disciplines/musicology_explanation.md) - (Document to be completed)
 - [Sports Movement Explanations](./theories/applied_disciplines/sports_movement_explanations.md) - Sports and Movement Science Explanations
 - [Urban Planning Development Explanations](./theories/applied_disciplines/urban_planning_development_explanations.md) - Quantum-Classical Dualism Explanation of Urban Planning and Development Theory
 
@@ -383,10 +363,10 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Spiritual Dimensions](./theories/philosophy_humanities/spiritual_dimensions.md) - Spiritual Dimensions and Classicalization
 
 ##### Social Sciences
-- [Economic Classical Quantum](./theories/social_sciences/economic_classical_quantum.md) -  
+- [Economic Classical Quantum](./theories/social_sciences/economic_classical_quantum.md) - (Document to be completed)
 - [Economic Explanations](./theories/social_sciences/economic_explanations.md) - Economic Explanations
 - [Economics Explanation](./theories/social_sciences/economics_explanation.md) - Quantum-Classical Dualism from Economics Perspective
-- [Economics Market Explanations](./theories/social_sciences/economics_market_explanations.md) -  
+- [Economics Market Explanations](./theories/social_sciences/economics_market_explanations.md) - (Document to be completed)
 - [Historical Explanations](./theories/social_sciences/historical_explanations.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory on Historical Issues
 - [History Explanation](./theories/social_sciences/history_explanation.md) - Quantum-Classical Dualism from Historical Perspective
 - [Linguistic Explanations](./theories/social_sciences/linguistic_explanations.md) - Linguistic Explanations
@@ -397,12 +377,6 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Psychology Explanation](./theories/social_sciences/psychology_explanation.md) - Quantum-Classical Dualism from Psychological Perspective
 - [Social Quantum Entanglement](./theories/social_sciences/social_quantum_entanglement.md) - Quantum Entanglement Efficiency Ranking in Social Behaviors
 - [Sociological Explanations](./theories/social_sciences/sociological_explanations.md) - Sociological Explanations
-
-##### Theory Applications
-- [Black Hole Information](./theories/applications/black_hole_information.md) - Black Hole Information Decoding: Quantum Universe Observer Consciousness-Classical Memory and Entropy Perspective
-- [Celestial Information Nodes](./theories/applications/celestial_information_nodes.md) - Stars and Galaxies as Information Nodes: Universal Quantum Information Classicalization Theory
-- [Observer Hierarchy](./theories/applications/observer_hierarchy.md) - Observer Hierarchy Network: Multi-Dimensional Structure of Universal Information Classicalization
-- [Wormhole Entanglement](./theories/applications/wormhole_entanglement.md) - Wormhole Quantum Entanglement: Universal Quantum Information Channel Theory
 
 ##### Observer Perception
 - [Black Hole Observer](./theories/observer_perception/black_hole_observer.md) - Black Hole Observer
@@ -426,8 +400,8 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 #### Others
 - [Update History](./update_history.md) - Update History
 - [Update Plan](./update_plan.md) - Update Plan
-- [Input](./input/input.md) - Based on [Quantum-Classical Dualism]:
-- [Quantum-Classical Dualism Core Theory](./core.md) - Quantum-Classical Dualism Core Theory
+- [Input](./input/input.md) - (Document to be completed)
+- [Title List](./titles.md) - Document Title List
 
 ### Introduction to Core Concepts
 
@@ -446,7 +420,7 @@ Key concepts include:
 - Dual identity of observers and definition of divinity
 - Dynamic updating of classical world timelines
 - Significance of universe dissolving low-dimensional observers and classical worlds
-- Observation of classicalization and consciousness isomorphism
+- Observer classicalization communication and consciousness isomorphism
 - Specific changes in classical entropy during information transmission
 
 ### Mathematical Formulas Note
