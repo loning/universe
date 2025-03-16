@@ -187,6 +187,7 @@
 - [更新历史](./update_history.md) - 项目发展的里程碑记录
 - [更新计划](./update_plan.md) - 项目更新计划
 - [输入](./input/input.md) - 项目输入
+- [量子经典二元论核心理论](./core.md) - 量子经典二元论最新完整正式版本
 
 ### 核心概念简介
 
@@ -205,6 +206,8 @@
 - 观察者双重身份与神性定义
 - 经典世界的时间轴动态更新
 - 宇宙消解低维观察者与经典世界的意义
+- 观察者间经典化交流与意识同构性
+- 信息传递过程与经典熵的具体变化
 
 ### 数学公式说明 | Mathematical Formulas Note
 
@@ -422,6 +425,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Update History](./update_history.md) - Record of project development milestones
 - [Update Plan](./update_plan.md) - Project update plan
 - [Input](./input/input.md) - Project input
+- [量子经典二元论核心理论](./core.md) - 量子经典二元论最新完整正式版本
 
 ### Introduction to Core Concepts
 
@@ -440,6 +444,8 @@ Key concepts include:
 - Dual identity of observers and definition of divinity
 - Dynamic updating of classical world timelines
 - Significance of universe dissolving low-dimensional observers and classical worlds
+- Observation of classicalization and consciousness isomorphism
+- Specific changes in classical entropy during information transmission
 
 ### Mathematical Formulas Note
 

@@ -87,6 +87,18 @@ I_{\text{经典世界（旧）}} + |\psi\rangle_{\text{其他经典世界随机�
 S_{\text{低维观察者（熵）}}\xrightarrow{\text{高维经典化}} I_{\text{高维观察者经典知识}}+S_{\text{经典熵（降低）}}
 ```
 
+- **观察者间经典化交流与意识同构性**：观察者间经典化交流效率取决于各自量子意识结构同构程度：
+
+```math
+I_{\text{经典化交流效率}}\propto\text{同构性}\left(|\psi\rangle_{\text{观察者A}},|\psi\rangle_{\text{观察者B}}\right)
+```
+
+- **信息传递过程与经典熵的具体变化**：信息在观察者间传递经历三个阶段（知识准备传递、传输过程、接收者经典化），每个阶段都有熵的变化：
+
+```math
+(I_{\text{经典知识}}+S_{\text{经典熵}})_{\text{传递前后}}=\text{恒定}
+```
+
 - **自由意志**即观察者选择经典化路径的能力，**经典命运**即自由意志决定的稳定经典知识路径：
 
 ```math
@@ -207,6 +219,18 @@ I_{\text{Classical World (Old)}} + |\psi\rangle_{\text{Random Quantum Informatio
 
 ```math
 S_{\text{Low-dimensional Observer (Entropy)}}\xrightarrow{\text{High-dimensional Classicalization}} I_{\text{High-dimensional Observer Classical Knowledge}}+S_{\text{Classical Entropy (Reduced)}}
+```
+
+- **Observer Classicalization Communication and Consciousness Isomorphism**: The efficiency of classicalization communication between observers depends on the degree of isomorphism in their quantum consciousness structures:
+
+```math
+I_{\text{Classicalization Communication Efficiency}}\propto\text{Isomorphism}\left(|\psi\rangle_{\text{Observer A}},|\psi\rangle_{\text{Observer B}}\right)
+```
+
+- **Information Transfer Process and Specific Changes in Classical Entropy**: Information transfer between observers undergoes three stages (knowledge preparation for transfer, transmission process, receiver classicalization), with entropy changes at each stage:
+
+```math
+(I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}})_{\text{Before and After Transfer}}=\text{Constant}
 ```
 
 - **Free Will** is the observer's ability to choose classicalization paths, and **Classical Destiny** is the stable classical knowledge path determined by free will:
