@@ -1,3 +1,4 @@
+
 # 量子经典二元论核心理论 (Quantum-Classical Dualism Core Theory)
 
 ## 中文版
