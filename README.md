@@ -62,54 +62,80 @@
 
 #### 理论 | Theories
 - [理论概述](./theories/README.md) - 理论概述
-- [AI计算解释](./theories/ai_computation_explanations.md) - AI计算的解释
-- [AI计算解释(替代)](./theories/ai_computational_explanations.md) - AI计算的替代解释
-- [建筑空间解释](./theories/architecture_space_explanations.md) - 建筑空间的解释
-- [艺术美学解释](./theories/art_aesthetics_explanations.md) - 艺术美学的解释
-- [生物学解释](./theories/biological_explanations.md) - 生物学的解释
-- [黑洞经典化](./theories/black_hole_classicalization.md) - 黑洞经典化理论
-- [意识持久性](./theories/consciousness_persistence.md) - 意识持久性理论
-- [烹饪食物解释](./theories/cooking_food_explanations.md) - 烹饪食物的解释
-- [梦境睡眠解释](./theories/dream_sleep_explanations.md) - 梦境睡眠的解释
-- [经济经典量子](./theories/economic_classical_quantum.md) - 经济的经典量子解释
-- [经济解释](./theories/economic_explanations.md) - 经济的解释
-- [经济市场解释](./theories/economics_market_explanations.md) - 经济市场的解释
-- [教育学习解释](./theories/education_learning_explanations.md) - 教育学习的解释
-- [教育解释](./theories/educational_explanations.md) - 教育的解释
-- [熵观察者维度](./theories/entropy_observer_dimension.md) - 熵观察者维度理论
-- [环境生态解释](./theories/environment_ecology_explanations.md) - 环境生态的解释
-- [环境解释](./theories/environmental_explanations.md) - 环境的解释
-- [伦理解释](./theories/ethical_explanations.md) - 伦理的解释
 - [解释谜题](./theories/explained_puzzles.md) - 解释谜题
 - [科学解释](./theories/scientific_explanations.md) - 主流科学视角下的量子经典二元论
-- [时尚服装解释](./theories/fashion_clothing_explanations.md) - 时尚服装的解释
+- [黑洞经典化](./theories/black_hole_classicalization.md) - 黑洞经典化理论
+- [意识持久性](./theories/consciousness_persistence.md) - 意识持久性理论
+- [熵观察者维度](./theories/entropy_observer_dimension.md) - 熵观察者维度理论
 - [自由意志量子纠缠](./theories/free_will_quantum_entanglement.md) - 自由意志与量子纠缠
 - [未来研究](./theories/future_research.md) - 未来研究方向
-- [游戏娱乐解释](./theories/game_entertainment_explanations.md) - 游戏娱乐的解释
 - [高维经典化](./theories/higher_dimensional_classicalization.md) - 高维经典化理论
-- [历史解释](./theories/historical_explanations.md) - 历史的解释
-- [语言学解释](./theories/linguistic_explanations.md) - 语言学的解释
-- [语言学通信解释](./theories/linguistics_communication_explanations.md) - 语言学通信的解释
-- [数学自然解释](./theories/mathematics_nature_explanations.md) - 数学自然的解释
-- [媒体信息解释](./theories/media_information_explanations.md) - 媒体信息的解释
-- [医学健康解释](./theories/medicine_health_explanations.md) - 医学健康的解释
-- [音乐解释](./theories/music_explanations.md) - 音乐的解释
 - [观察者感知](./theories/observer_perception.md) - 观察者感知理论
-- [哲学解释](./theories/philosophical_explanations.md) - 哲学的解释
-- [政治治理解释](./theories/politics_governance_explanations.md) - 政治治理的解释
-- [心理学解释](./theories/psychological_explanations.md) - 心理学的解释
-- [宗教解释](./theories/religious_explanations.md) - 宗教的解释
 - [繁殖量子信息](./theories/reproduction_quantum_information.md) - 繁殖量子信息理论
-- [社会量子纠缠](./theories/social_quantum_entanglement.md) - 社会量子纠缠理论
-- [社会学解释](./theories/sociological_explanations.md) - 社会学的解释
-- [精神维度](./theories/spiritual_dimensions.md) - 精神维度理论
-- [体育运动解释](./theories/sports_movement_explanations.md) - 体育运动的解释
 - [术语](./theories/terminology.md) - 术语解释
-- [传统物理解释](./theories/traditional_physics_explained.md) - 传统物理的解释
 - [未解释现象](./theories/unexplained_phenomena.md) - 未解释现象
 - [宇宙纠缠熵](./theories/universe_entanglement_entropy.md) - 宇宙纠缠熵理论
 - [宇宙结构](./theories/universe_structure.md) - 宇宙结构理论
-- [城市规划发展解释](./theories/urban_planning_development_explanations.md) - 城市规划发展的解释
+
+##### 应用学科 | Applied Disciplines
+- [AI计算解释](./theories/applied_disciplines/ai_computation_explanations.md) - AI计算的解释
+- [AI解释](./theories/applied_disciplines/ai_explanations.md) - AI的解释
+- [建筑学解释](./theories/applied_disciplines/architecture_explanation.md) - 建筑学解释
+- [建筑空间解释](./theories/applied_disciplines/architecture_space_explanations.md) - 建筑空间的解释
+- [艺术美学解释](./theories/applied_disciplines/art_aesthetics_explanations.md) - 艺术美学的解释
+- [艺术解释](./theories/applied_disciplines/art_explanation.md) - 艺术解释
+- [烹饪食物解释](./theories/applied_disciplines/cooking_food_explanations.md) - 烹饪食物的解释
+- [梦境睡眠解释](./theories/applied_disciplines/dream_sleep_explanations.md) - 梦境睡眠的解释
+- [教育学习解释](./theories/applied_disciplines/education_learning_explanations.md) - 教育学习的解释
+- [教育解释](./theories/applied_disciplines/educational_explanations.md) - 教育的解释
+- [时尚服装解释](./theories/applied_disciplines/fashion_clothing_explanations.md) - 时尚服装的解释
+- [金融解释](./theories/applied_disciplines/finance_explanation.md) - 金融解释
+- [游戏娱乐解释](./theories/applied_disciplines/game_entertainment_explanations.md) - 游戏娱乐的解释
+- [法律解释](./theories/applied_disciplines/law_explanation.md) - 法律解释
+- [管理学解释](./theories/applied_disciplines/management_explanation.md) - 管理学解释
+- [市场营销解释](./theories/applied_disciplines/marketing_explanation.md) - 市场营销解释
+- [媒体信息解释](./theories/applied_disciplines/media_information_explanations.md) - 媒体信息的解释
+- [音乐解释](./theories/applied_disciplines/music_explanations.md) - 音乐的解释
+- [音乐学解释](./theories/applied_disciplines/musicology_explanation.md) - 音乐学解释
+- [体育运动解释](./theories/applied_disciplines/sports_movement_explanations.md) - 体育运动的解释
+- [城市规划发展解释](./theories/applied_disciplines/urban_planning_development_explanations.md) - 城市规划发展的解释
+
+##### 自然科学 | Natural Sciences
+- [生物学解释](./theories/natural_sciences/biological_explanations.md) - 生物学的解释
+- [生物学视角](./theories/natural_sciences/biology_explanation.md) - 生物学视角
+- [化学解释](./theories/natural_sciences/chemistry_explanation.md) - 化学解释
+- [环境生态解释](./theories/natural_sciences/environment_ecology_explanations.md) - 环境生态的解释
+- [环境解释](./theories/natural_sciences/environmental_explanations.md) - 环境的解释
+- [数学解释](./theories/natural_sciences/mathematics_explanation.md) - 数学解释
+- [数学自然解释](./theories/natural_sciences/mathematics_nature_explanations.md) - 数学自然的解释
+- [医学解释](./theories/natural_sciences/medicine_explanation.md) - 医学解释
+- [医学健康解释](./theories/natural_sciences/medicine_health_explanations.md) - 医学健康的解释
+- [物理学解释](./theories/natural_sciences/physics_explanation.md) - 物理学解释
+- [传统物理解释](./theories/natural_sciences/traditional_physics_explained.md) - 传统物理的解释
+
+##### 哲学人文 | Philosophy and Humanities
+- [伦理解释](./theories/philosophy_humanities/ethical_explanations.md) - 伦理的解释
+- [哲学解释](./theories/philosophy_humanities/philosophical_explanations.md) - 哲学的解释
+- [哲学视角](./theories/philosophy_humanities/philosophy_explanation.md) - 哲学视角
+- [宗教解释](./theories/philosophy_humanities/religious_explanations.md) - 宗教的解释
+- [宗教研究视角](./theories/philosophy_humanities/religious_studies_explanation.md) - 宗教研究视角
+- [精神维度](./theories/philosophy_humanities/spiritual_dimensions.md) - 精神维度理论
+
+##### 社会科学 | Social Sciences
+- [经济经典量子](./theories/social_sciences/economic_classical_quantum.md) - 经济的经典量子解释
+- [经济解释](./theories/social_sciences/economic_explanations.md) - 经济的解释
+- [经济学解释](./theories/social_sciences/economics_explanation.md) - 经济学解释
+- [经济市场解释](./theories/social_sciences/economics_market_explanations.md) - 经济市场的解释
+- [历史解释](./theories/social_sciences/historical_explanations.md) - 历史的解释
+- [历史视角](./theories/social_sciences/history_explanation.md) - 历史视角
+- [语言学解释](./theories/social_sciences/linguistic_explanations.md) - 语言学的解释
+- [语言学通信解释](./theories/social_sciences/linguistics_communication_explanations.md) - 语言学通信的解释
+- [政治学解释](./theories/social_sciences/political_science_explanation.md) - 政治学解释
+- [政治治理解释](./theories/social_sciences/politics_governance_explanations.md) - 政治治理的解释
+- [心理学解释](./theories/social_sciences/psychological_explanations.md) - 心理学的解释
+- [心理学视角](./theories/social_sciences/psychology_explanation.md) - 心理学视角
+- [社会量子纠缠](./theories/social_sciences/social_quantum_entanglement.md) - 社会量子纠缠理论
+- [社会学解释](./theories/social_sciences/sociological_explanations.md) - 社会学的解释
 
 ##### 理论应用 | Theory Applications
 - [黑洞信息](./theories/applications/black_hole_information.md) - 黑洞信息理论
@@ -128,26 +154,6 @@
 
 ##### 科幻分析 | Sci-Fi Analysis
 - [三体评论](./theories/sci_fi_analysis/three_body_critique.md) - 三体评论
-
-##### 科学视角 | Scientific Perspectives
-- [建筑学解释](./theories/scientific_perspectives/architecture_explanation.md) - 建筑学视角下的量子经典二元论
-- [艺术解释](./theories/scientific_perspectives/art_explanation.md) - 艺术视角下的量子经典二元论
-- [生物学解释](./theories/scientific_perspectives/biology_explanation.md) - 生物学视角下的量子经典二元论
-- [化学解释](./theories/scientific_perspectives/chemistry_explanation.md) - 化学视角下的量子经典二元论
-- [经济学解释](./theories/scientific_perspectives/economics_explanation.md) - 经济学视角下的量子经典二元论
-- [金融解释](./theories/scientific_perspectives/finance_explanation.md) - 金融视角下的量子经典二元论
-- [历史解释](./theories/scientific_perspectives/history_explanation.md) - 历史视角下的量子经典二元论
-- [法律解释](./theories/scientific_perspectives/law_explanation.md) - 法律视角下的量子经典二元论
-- [管理学解释](./theories/scientific_perspectives/management_explanation.md) - 管理学视角下的量子经典二元论
-- [市场营销解释](./theories/scientific_perspectives/marketing_explanation.md) - 市场营销视角下的量子经典二元论
-- [数学解释](./theories/scientific_perspectives/mathematics_explanation.md) - 数学视角下的量子经典二元论
-- [医学解释](./theories/scientific_perspectives/medicine_explanation.md) - 医学视角下的量子经典二元论
-- [音乐学解释](./theories/scientific_perspectives/musicology_explanation.md) - 音乐学视角下的量子经典二元论
-- [哲学解释](./theories/scientific_perspectives/philosophy_explanation.md) - 哲学视角下的量子经典二元论
-- [物理学解释](./theories/scientific_perspectives/physics_explanation.md) - 物理学视角下的量子经典二元论
-- [政治学解释](./theories/scientific_perspectives/political_science_explanation.md) - 政治学视角下的量子经典二元论
-- [心理学解释](./theories/scientific_perspectives/psychology_explanation.md) - 心理学视角下的量子经典二元论
-- [宗教研究解释](./theories/scientific_perspectives/religious_studies_explanation.md) - 宗教研究视角下的量子经典二元论
 
 ##### 宇宙结构 | Universe Structure
 - [观察者维度演化](./theories/universe_structure/observer_dimension_evolution.md) - 观察者维度演化理论
@@ -270,54 +276,80 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 #### Theories
 - [Theories Overview](./theories/README.md) - Overview of theories
-- [AI Computation Explanations](./theories/ai_computation_explanations.md) - Explanations of AI computation
-- [AI Computational Explanations](./theories/ai_computational_explanations.md) - Alternative explanations of AI computation
-- [Architecture Space Explanations](./theories/architecture_space_explanations.md) - Explanations of architecture space
-- [Art Aesthetics Explanations](./theories/art_aesthetics_explanations.md) - Explanations of art aesthetics
-- [Biological Explanations](./theories/biological_explanations.md) - Explanations of biology
-- [Black Hole Classicalization](./theories/black_hole_classicalization.md) - Black hole classicalization theory
-- [Consciousness Persistence](./theories/consciousness_persistence.md) - Consciousness persistence theory
-- [Cooking Food Explanations](./theories/cooking_food_explanations.md) - Explanations of cooking food
-- [Dream Sleep Explanations](./theories/dream_sleep_explanations.md) - Explanations of dream sleep
-- [Economic Classical Quantum](./theories/economic_classical_quantum.md) - Classical quantum explanation of economics
-- [Economic Explanations](./theories/economic_explanations.md) - Explanations of economics
-- [Economics Market Explanations](./theories/economics_market_explanations.md) - Explanations of economics market
-- [Education Learning Explanations](./theories/education_learning_explanations.md) - Explanations of education learning
-- [Educational Explanations](./theories/educational_explanations.md) - Explanations of education
-- [Entropy Observer Dimension](./theories/entropy_observer_dimension.md) - Entropy observer dimension theory
-- [Environment Ecology Explanations](./theories/environment_ecology_explanations.md) - Explanations of environment ecology
-- [Environmental Explanations](./theories/environmental_explanations.md) - Explanations of environment
-- [Ethical Explanations](./theories/ethical_explanations.md) - Explanations of ethics
 - [Explained Puzzles](./theories/explained_puzzles.md) - Explained puzzles
 - [Scientific Explanations](./theories/scientific_explanations.md) - Quantum-Classical Dualism from Mainstream Scientific Perspectives
-- [Fashion Clothing Explanations](./theories/fashion_clothing_explanations.md) - Explanations of fashion clothing
+- [Black Hole Classicalization](./theories/black_hole_classicalization.md) - Black hole classicalization theory
+- [Consciousness Persistence](./theories/consciousness_persistence.md) - Consciousness persistence theory
+- [Entropy Observer Dimension](./theories/entropy_observer_dimension.md) - Entropy observer dimension theory
 - [Free Will Quantum Entanglement](./theories/free_will_quantum_entanglement.md) - Free will and quantum entanglement
 - [Future Research](./theories/future_research.md) - Future research directions
-- [Game Entertainment Explanations](./theories/game_entertainment_explanations.md) - Explanations of game entertainment
 - [Higher Dimensional Classicalization](./theories/higher_dimensional_classicalization.md) - Higher dimensional classicalization theory
-- [Historical Explanations](./theories/historical_explanations.md) - Explanations of history
-- [Linguistic Explanations](./theories/linguistic_explanations.md) - Explanations of linguistics
-- [Linguistics Communication Explanations](./theories/linguistics_communication_explanations.md) - Explanations of linguistics communication
-- [Mathematics Nature Explanations](./theories/mathematics_nature_explanations.md) - Explanations of mathematics nature
-- [Media Information Explanations](./theories/media_information_explanations.md) - Explanations of media information
-- [Medicine Health Explanations](./theories/medicine_health_explanations.md) - Explanations of medicine health
-- [Music Explanations](./theories/music_explanations.md) - Explanations of music
 - [Observer Perception](./theories/observer_perception.md) - Observer perception theory
-- [Philosophical Explanations](./theories/philosophical_explanations.md) - Explanations of philosophy
-- [Politics Governance Explanations](./theories/politics_governance_explanations.md) - Explanations of politics governance
-- [Psychological Explanations](./theories/psychological_explanations.md) - Explanations of psychology
-- [Religious Explanations](./theories/religious_explanations.md) - Explanations of religion
 - [Reproduction Quantum Information](./theories/reproduction_quantum_information.md) - Reproduction quantum information theory
-- [Social Quantum Entanglement](./theories/social_quantum_entanglement.md) - Social quantum entanglement theory
-- [Sociological Explanations](./theories/sociological_explanations.md) - Explanations of sociology
-- [Spiritual Dimensions](./theories/spiritual_dimensions.md) - Spiritual dimensions theory
-- [Sports Movement Explanations](./theories/sports_movement_explanations.md) - Explanations of sports movement
 - [Terminology](./theories/terminology.md) - Terminology explanations
-- [Traditional Physics Explained](./theories/traditional_physics_explained.md) - Explanations of traditional physics
 - [Unexplained Phenomena](./theories/unexplained_phenomena.md) - Unexplained phenomena
 - [Universe Entanglement Entropy](./theories/universe_entanglement_entropy.md) - Universe entanglement entropy theory
 - [Universe Structure](./theories/universe_structure.md) - Universe structure theory
-- [Urban Planning Development Explanations](./theories/urban_planning_development_explanations.md) - Explanations of urban planning development
+
+##### Applied Disciplines
+- [AI Computation Explanations](./theories/applied_disciplines/ai_computation_explanations.md) - Explanations of AI computation
+- [AI Explanations](./theories/applied_disciplines/ai_explanations.md) - Explanations of AI
+- [Architecture Explanation](./theories/applied_disciplines/architecture_explanation.md) - Architecture explanation
+- [Architecture Space Explanations](./theories/applied_disciplines/architecture_space_explanations.md) - Explanations of architecture space
+- [Art Aesthetics Explanations](./theories/applied_disciplines/art_aesthetics_explanations.md) - Explanations of art aesthetics
+- [Art Explanation](./theories/applied_disciplines/art_explanation.md) - Art explanation
+- [Cooking Food Explanations](./theories/applied_disciplines/cooking_food_explanations.md) - Explanations of cooking food
+- [Dream Sleep Explanations](./theories/applied_disciplines/dream_sleep_explanations.md) - Explanations of dream sleep
+- [Education Learning Explanations](./theories/applied_disciplines/education_learning_explanations.md) - Explanations of education learning
+- [Educational Explanations](./theories/applied_disciplines/educational_explanations.md) - Explanations of education
+- [Fashion Clothing Explanations](./theories/applied_disciplines/fashion_clothing_explanations.md) - Explanations of fashion clothing
+- [Finance Explanation](./theories/applied_disciplines/finance_explanation.md) - Finance explanation
+- [Game Entertainment Explanations](./theories/applied_disciplines/game_entertainment_explanations.md) - Explanations of game entertainment
+- [Law Explanation](./theories/applied_disciplines/law_explanation.md) - Law explanation
+- [Management Explanation](./theories/applied_disciplines/management_explanation.md) - Management explanation
+- [Marketing Explanation](./theories/applied_disciplines/marketing_explanation.md) - Marketing explanation
+- [Media Information Explanations](./theories/applied_disciplines/media_information_explanations.md) - Explanations of media information
+- [Music Explanations](./theories/applied_disciplines/music_explanations.md) - Explanations of music
+- [Musicology Explanation](./theories/applied_disciplines/musicology_explanation.md) - Musicology explanation
+- [Sports Movement Explanations](./theories/applied_disciplines/sports_movement_explanations.md) - Explanations of sports movement
+- [Urban Planning Development Explanations](./theories/applied_disciplines/urban_planning_development_explanations.md) - Explanations of urban planning development
+
+##### Natural Sciences
+- [Biological Explanations](./theories/natural_sciences/biological_explanations.md) - Explanations of biology
+- [Biology Explanation](./theories/natural_sciences/biology_explanation.md) - Biology perspective
+- [Chemistry Explanation](./theories/natural_sciences/chemistry_explanation.md) - Chemistry explanation
+- [Environment Ecology Explanations](./theories/natural_sciences/environment_ecology_explanations.md) - Explanations of environment ecology
+- [Environmental Explanations](./theories/natural_sciences/environmental_explanations.md) - Explanations of environment
+- [Mathematics Explanation](./theories/natural_sciences/mathematics_explanation.md) - Mathematics explanation
+- [Mathematics Nature Explanations](./theories/natural_sciences/mathematics_nature_explanations.md) - Explanations of mathematics nature
+- [Medicine Explanation](./theories/natural_sciences/medicine_explanation.md) - Medicine explanation
+- [Medicine Health Explanations](./theories/natural_sciences/medicine_health_explanations.md) - Explanations of medicine health
+- [Physics Explanation](./theories/natural_sciences/physics_explanation.md) - Physics explanation
+- [Traditional Physics Explained](./theories/natural_sciences/traditional_physics_explained.md) - Explanations of traditional physics
+
+##### Philosophy and Humanities
+- [Ethical Explanations](./theories/philosophy_humanities/ethical_explanations.md) - Explanations of ethics
+- [Philosophical Explanations](./theories/philosophy_humanities/philosophical_explanations.md) - Explanations of philosophy
+- [Philosophy Explanation](./theories/philosophy_humanities/philosophy_explanation.md) - Philosophy perspective
+- [Religious Explanations](./theories/philosophy_humanities/religious_explanations.md) - Explanations of religion
+- [Religious Studies Explanation](./theories/philosophy_humanities/religious_studies_explanation.md) - Religious studies perspective
+- [Spiritual Dimensions](./theories/philosophy_humanities/spiritual_dimensions.md) - Spiritual dimensions theory
+
+##### Social Sciences
+- [Economic Classical Quantum](./theories/social_sciences/economic_classical_quantum.md) - Classical quantum explanation of economics
+- [Economic Explanations](./theories/social_sciences/economic_explanations.md) - Explanations of economics
+- [Economics Explanation](./theories/social_sciences/economics_explanation.md) - Economics explanation
+- [Economics Market Explanations](./theories/social_sciences/economics_market_explanations.md) - Explanations of economics market
+- [Historical Explanations](./theories/social_sciences/historical_explanations.md) - Explanations of history
+- [History Explanation](./theories/social_sciences/history_explanation.md) - History perspective
+- [Linguistic Explanations](./theories/social_sciences/linguistic_explanations.md) - Explanations of linguistics
+- [Linguistics Communication Explanations](./theories/social_sciences/linguistics_communication_explanations.md) - Explanations of linguistics communication
+- [Political Science Explanation](./theories/social_sciences/political_science_explanation.md) - Political science explanation
+- [Politics Governance Explanations](./theories/social_sciences/politics_governance_explanations.md) - Explanations of politics governance
+- [Psychological Explanations](./theories/social_sciences/psychological_explanations.md) - Explanations of psychology
+- [Psychology Explanation](./theories/social_sciences/psychology_explanation.md) - Psychology perspective
+- [Social Quantum Entanglement](./theories/social_sciences/social_quantum_entanglement.md) - Social quantum entanglement theory
+- [Sociological Explanations](./theories/social_sciences/sociological_explanations.md) - Explanations of sociology
 
 ##### Theory Applications
 - [Black Hole Information](./theories/applications/black_hole_information.md) - Black hole information theory
@@ -336,26 +368,6 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 ##### Sci-Fi Analysis
 - [Three Body Critique](./theories/sci_fi_analysis/three_body_critique.md) - Three body critique
-
-##### Scientific Perspectives
-- [Architecture Explanation](./theories/scientific_perspectives/architecture_explanation.md) - Quantum-Classical Dualism from architecture perspective
-- [Art Explanation](./theories/scientific_perspectives/art_explanation.md) - Quantum-Classical Dualism from art perspective
-- [Biology Explanation](./theories/scientific_perspectives/biology_explanation.md) - Quantum-Classical Dualism from biology perspective
-- [Chemistry Explanation](./theories/scientific_perspectives/chemistry_explanation.md) - Quantum-Classical Dualism from chemistry perspective
-- [Economics Explanation](./theories/scientific_perspectives/economics_explanation.md) - Quantum-Classical Dualism from economics perspective
-- [Finance Explanation](./theories/scientific_perspectives/finance_explanation.md) - Quantum-Classical Dualism from finance perspective
-- [History Explanation](./theories/scientific_perspectives/history_explanation.md) - Quantum-Classical Dualism from history perspective
-- [Law Explanation](./theories/scientific_perspectives/law_explanation.md) - Quantum-Classical Dualism from law perspective
-- [Management Explanation](./theories/scientific_perspectives/management_explanation.md) - Quantum-Classical Dualism from management perspective
-- [Marketing Explanation](./theories/scientific_perspectives/marketing_explanation.md) - Quantum-Classical Dualism from marketing perspective
-- [Mathematics Explanation](./theories/scientific_perspectives/mathematics_explanation.md) - Quantum-Classical Dualism from mathematics perspective
-- [Medicine Explanation](./theories/scientific_perspectives/medicine_explanation.md) - Quantum-Classical Dualism from medicine perspective
-- [Musicology Explanation](./theories/scientific_perspectives/musicology_explanation.md) - Quantum-Classical Dualism from musicology perspective
-- [Philosophy Explanation](./theories/scientific_perspectives/philosophy_explanation.md) - Quantum-Classical Dualism from philosophy perspective
-- [Physics Explanation](./theories/scientific_perspectives/physics_explanation.md) - Quantum-Classical Dualism from physics perspective
-- [Political Science Explanation](./theories/scientific_perspectives/political_science_explanation.md) - Quantum-Classical Dualism from political science perspective
-- [Psychology Explanation](./theories/scientific_perspectives/psychology_explanation.md) - Quantum-Classical Dualism from psychology perspective
-- [Religious Studies Explanation](./theories/scientific_perspectives/religious_studies_explanation.md) - Quantum-Classical Dualism from religious studies perspective
 
 ##### Universe Structure
 - [Observer Dimension Evolution](./theories/universe_structure/observer_dimension_evolution.md) - Observer dimension evolution theory
