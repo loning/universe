@@ -81,6 +81,7 @@
 - [环境解释](./theories/environmental_explanations.md) - 环境的解释
 - [伦理解释](./theories/ethical_explanations.md) - 伦理的解释
 - [解释谜题](./theories/explained_puzzles.md) - 解释谜题
+- [科学解释](./theories/scientific_explanations.md) - 主流科学视角下的量子经典二元论
 - [时尚服装解释](./theories/fashion_clothing_explanations.md) - 时尚服装的解释
 - [自由意志量子纠缠](./theories/free_will_quantum_entanglement.md) - 自由意志与量子纠缠
 - [未来研究](./theories/future_research.md) - 未来研究方向
@@ -255,6 +256,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Environmental Explanations](./theories/environmental_explanations.md) - Explanations of environment
 - [Ethical Explanations](./theories/ethical_explanations.md) - Explanations of ethics
 - [Explained Puzzles](./theories/explained_puzzles.md) - Explained puzzles
+- [Scientific Explanations](./theories/scientific_explanations.md) - Quantum-Classical Dualism from Mainstream Scientific Perspectives
 - [Fashion Clothing Explanations](./theories/fashion_clothing_explanations.md) - Explanations of fashion clothing
 - [Free Will Quantum Entanglement](./theories/free_will_quantum_entanglement.md) - Free will and quantum entanglement
 - [Future Research](./theories/future_research.md) - Future research directions
