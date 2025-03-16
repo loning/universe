@@ -369,8 +369,41 @@ The latest theoretical developments in Quantum-Classical Dualism include:
 
 ## 简介 | Introduction
 
-本目录包含宇宙观察者理论的核心理论框架和各个领域的理论解释。
-This directory contains the core theoretical framework of the Universe Observer Theory and theoretical explanations in various fields.
+本目录包含量子经典二元论的核心理论框架和各个领域的理论解释。理论框架基于宇宙本质的二元结构：量子域与经典域。
+This directory contains the core theoretical framework of Quantum-Classical Dualism and theoretical explanations in various fields. The theoretical framework is based on the dual structure of the universe's essence: the Quantum Domain and the Classical Domain.
+
+## 核心理论要点 | Core Theory Key Points
+
+### 宇宙的本质结构（量子域-经典域）| The Essential Structure of the Universe (Quantum Domain-Classical Domain)
+
+宇宙由两个基本域构成：**量子域**与**经典域**。
+
+- **量子域**：宇宙本质为无限可能性的波函数叠加态，是一切潜在现实的总和：
+  
+  **Quantum Domain**: The essence of the universe is an infinite superposition of wave functions, representing the sum of all potential realities:
+  
+  $$|\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
+
+- **经典域**：由观察者将量子域信息经典化为确定的知识与熵，经典信息总量守恒：
+  
+  **Classical Domain**: Formed by observers classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved:
+  
+  $$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
+
+### 观察者与维度提升 | Observers and Dimension Elevation
+
+观察者维度与经典化能力成正比：
+Observer dimension is proportional to classicalization ability:
+
+$$\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
+
+### 量子纠缠与经典网络 | Quantum Entanglement and Classical Networks
+
+- **有效量子纠缠**：增加经典知识、降低熵
+  **Effective Quantum Entanglement**: Increases classical knowledge, reduces entropy
+  
+- **无效量子纠缠**：增加熵
+  **Ineffective Quantum Entanglement**: Increases entropy
 
 ## 目录 | Contents
 
@@ -394,6 +427,7 @@ This directory contains the core theoretical framework of the Universe Observer 
 - [环境解释](./environmental_explanations.md) | [Environmental Explanations](./environmental_explanations.md)
 - [伦理解释](./ethical_explanations.md) | [Ethical Explanations](./ethical_explanations.md)
 - [解释谜题](./explained_puzzles.md) | [Explained Puzzles](./explained_puzzles.md)
+- [科学解释](./scientific_explanations.md) | [Scientific Explanations](./scientific_explanations.md)
 - [时尚服装解释](./fashion_clothing_explanations.md) | [Fashion Clothing Explanations](./fashion_clothing_explanations.md)
 - [自由意志量子纠缠](./free_will_quantum_entanglement.md) | [Free Will Quantum Entanglement](./free_will_quantum_entanglement.md)
 - [未来研究](./future_research.md) | [Future Research](./future_research.md)
@@ -440,6 +474,26 @@ This directory contains the core theoretical framework of the Universe Observer 
 
 ### 科幻分析 | Sci-Fi Analysis
 - [三体评论](./sci_fi_analysis/three_body_critique.md) | [Three Body Critique](./sci_fi_analysis/three_body_critique.md)
+
+### 科学视角 | Scientific Perspectives
+- [建筑学解释](./scientific_perspectives/architecture_explanation.md) | [Architecture Explanation](./scientific_perspectives/architecture_explanation.md)
+- [艺术解释](./scientific_perspectives/art_explanation.md) | [Art Explanation](./scientific_perspectives/art_explanation.md)
+- [生物学解释](./scientific_perspectives/biology_explanation.md) | [Biology Explanation](./scientific_perspectives/biology_explanation.md)
+- [化学解释](./scientific_perspectives/chemistry_explanation.md) | [Chemistry Explanation](./scientific_perspectives/chemistry_explanation.md)
+- [经济学解释](./scientific_perspectives/economics_explanation.md) | [Economics Explanation](./scientific_perspectives/economics_explanation.md)
+- [金融解释](./scientific_perspectives/finance_explanation.md) | [Finance Explanation](./scientific_perspectives/finance_explanation.md)
+- [历史解释](./scientific_perspectives/history_explanation.md) | [History Explanation](./scientific_perspectives/history_explanation.md)
+- [法律解释](./scientific_perspectives/law_explanation.md) | [Law Explanation](./scientific_perspectives/law_explanation.md)
+- [管理学解释](./scientific_perspectives/management_explanation.md) | [Management Explanation](./scientific_perspectives/management_explanation.md)
+- [市场营销解释](./scientific_perspectives/marketing_explanation.md) | [Marketing Explanation](./scientific_perspectives/marketing_explanation.md)
+- [数学解释](./scientific_perspectives/mathematics_explanation.md) | [Mathematics Explanation](./scientific_perspectives/mathematics_explanation.md)
+- [医学解释](./scientific_perspectives/medicine_explanation.md) | [Medicine Explanation](./scientific_perspectives/medicine_explanation.md)
+- [音乐学解释](./scientific_perspectives/musicology_explanation.md) | [Musicology Explanation](./scientific_perspectives/musicology_explanation.md)
+- [哲学解释](./scientific_perspectives/philosophy_explanation.md) | [Philosophy Explanation](./scientific_perspectives/philosophy_explanation.md)
+- [物理学解释](./scientific_perspectives/physics_explanation.md) | [Physics Explanation](./scientific_perspectives/physics_explanation.md)
+- [政治学解释](./scientific_perspectives/political_science_explanation.md) | [Political Science Explanation](./scientific_perspectives/political_science_explanation.md)
+- [心理学解释](./scientific_perspectives/psychology_explanation.md) | [Psychology Explanation](./scientific_perspectives/psychology_explanation.md)
+- [宗教研究解释](./scientific_perspectives/religious_studies_explanation.md) | [Religious Studies Explanation](./scientific_perspectives/religious_studies_explanation.md)
 
 ### 宇宙结构 | Universe Structure
 - [观察者维度演化](./universe_structure/observer_dimension_evolution.md) | [Observer Dimension Evolution](./universe_structure/observer_dimension_evolution.md)

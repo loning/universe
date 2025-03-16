@@ -2,14 +2,58 @@
 
 ## 简介 | Introduction
 
-本目录探讨量子与经典世界之间的关系，以及观察者在这两个领域中的角色。
-This directory explores the relationship between quantum and classical worlds, and the role of observers in these domains.
+本目录探讨量子与经典世界之间的关系，以及观察者在这两个领域中的角色。量子经典二元论的核心就是这种二元结构的统一解释，阐明宇宙如何通过观察者的经典化过程从量子可能性转化为经典现实。
+This directory explores the relationship between quantum and classical worlds, and the role of observers in these domains. The core of Quantum-Classical Dualism is this unified explanation of the dual structure, clarifying how the universe transforms from quantum possibilities to classical reality through the classicalization process of observers.
+
+## 核心概念 | Core Concepts
+
+### 量子域与经典域 | Quantum Domain and Classical Domain
+
+宇宙由两个基本域构成：
+
+- **量子域**：宇宙本质为无限可能性的波函数叠加态，是一切潜在现实的总和
+  **Quantum Domain**: The essence of the universe is an infinite superposition of wave functions, representing the sum of all potential realities
+
+  $$|\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
+
+- **经典域**：由观察者将量子域信息经典化为确定的知识与熵，经典信息总量守恒
+  **Classical Domain**: Formed by observers classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved
+
+  $$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
+
+### 观察者本质 | Observer Essence
+
+观察者是宇宙经典化过程中的节点，既是量子信息的接收者，也是经典现实的创造者。观察者通过经典化过程从量子域提取信息，转化为经典知识和熵：
+
+$$|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}$$
 
 ## 目录 | Contents
 
 - [经典意识](./classical_consciousness.md) | [Classical Consciousness](./classical_consciousness.md)
 - [量子观察者](./quantum_observer.md) | [Quantum Observer](./quantum_observer.md)
 - [量子宇宙](./quantum_universe.md) | [Quantum Universe](./quantum_universe.md)
+
+## 理论组成部分 | Theory Components
+
+本理论由三个主要部分组成，它们相互关联形成一个统一的理论框架：
+
+### 1. [量子宇宙](quantum_universe.md) | [Quantum Universe](quantum_universe.md)
+
+量子宇宙理论提出宇宙在其最基本层面是量子力学的，整个宇宙可以被描述为一个巨大的量子系统或波函数。这一部分探讨宇宙的量子本质、量子宇宙学基础、量子宇宙的特性以及量子宇宙与经典宇宙的关系。
+
+Quantum Universe Theory proposes that the universe at its most fundamental level is quantum mechanical, and the entire universe can be described as a vast quantum system or wave function. This part explores the quantum nature of the universe, the foundations of quantum cosmology, the characteristics of the quantum universe, and the relationship between the quantum universe and the classical universe.
+
+### 2. [量子观察者](quantum_observer.md) | [Quantum Observer](quantum_observer.md)
+
+量子观察者理论研究观察者在量子宇宙中的角色和本质。它探讨了观察者作为量子系统的特性、观察过程的量子描述、观察者与被观察系统的量子纠缠，以及观察者在量子-经典过渡中的作用。
+
+Quantum Observer Theory studies the role and nature of observers in the quantum universe. It explores the characteristics of observers as quantum systems, the quantum description of the observation process, the quantum entanglement between observers and observed systems, and the role of observers in the quantum-to-classical transition.
+
+### 3. [经典意识论](classical_consciousness.md) | [Classical Consciousness Theory](classical_consciousness.md)
+
+经典意识论探讨意识如何从量子观察过程中涌现。它研究意识的物理基础、意识与量子测量的关系、意识的信息处理特性，以及意识在宇宙自我认知中的角色。
+
+Classical Consciousness Theory explores how consciousness emerges from the quantum observation process. It studies the physical basis of consciousness, the relationship between consciousness and quantum measurement, the information processing characteristics of consciousness, and the role of consciousness in the universe's self-cognition.
 
 ## 返回 | Return
 

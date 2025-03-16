@@ -129,6 +129,26 @@
 ##### 科幻分析 | Sci-Fi Analysis
 - [三体评论](./theories/sci_fi_analysis/three_body_critique.md) - 三体评论
 
+##### 科学视角 | Scientific Perspectives
+- [建筑学解释](./theories/scientific_perspectives/architecture_explanation.md) - 建筑学视角下的量子经典二元论
+- [艺术解释](./theories/scientific_perspectives/art_explanation.md) - 艺术视角下的量子经典二元论
+- [生物学解释](./theories/scientific_perspectives/biology_explanation.md) - 生物学视角下的量子经典二元论
+- [化学解释](./theories/scientific_perspectives/chemistry_explanation.md) - 化学视角下的量子经典二元论
+- [经济学解释](./theories/scientific_perspectives/economics_explanation.md) - 经济学视角下的量子经典二元论
+- [金融解释](./theories/scientific_perspectives/finance_explanation.md) - 金融视角下的量子经典二元论
+- [历史解释](./theories/scientific_perspectives/history_explanation.md) - 历史视角下的量子经典二元论
+- [法律解释](./theories/scientific_perspectives/law_explanation.md) - 法律视角下的量子经典二元论
+- [管理学解释](./theories/scientific_perspectives/management_explanation.md) - 管理学视角下的量子经典二元论
+- [市场营销解释](./theories/scientific_perspectives/marketing_explanation.md) - 市场营销视角下的量子经典二元论
+- [数学解释](./theories/scientific_perspectives/mathematics_explanation.md) - 数学视角下的量子经典二元论
+- [医学解释](./theories/scientific_perspectives/medicine_explanation.md) - 医学视角下的量子经典二元论
+- [音乐学解释](./theories/scientific_perspectives/musicology_explanation.md) - 音乐学视角下的量子经典二元论
+- [哲学解释](./theories/scientific_perspectives/philosophy_explanation.md) - 哲学视角下的量子经典二元论
+- [物理学解释](./theories/scientific_perspectives/physics_explanation.md) - 物理学视角下的量子经典二元论
+- [政治学解释](./theories/scientific_perspectives/political_science_explanation.md) - 政治学视角下的量子经典二元论
+- [心理学解释](./theories/scientific_perspectives/psychology_explanation.md) - 心理学视角下的量子经典二元论
+- [宗教研究解释](./theories/scientific_perspectives/religious_studies_explanation.md) - 宗教研究视角下的量子经典二元论
+
 ##### 宇宙结构 | Universe Structure
 - [观察者维度演化](./theories/universe_structure/observer_dimension_evolution.md) - 观察者维度演化理论
 
@@ -167,6 +187,14 @@ $$E = mc^2$$
 
 对于行内公式，使用单个美元符号：$E = mc^2$
 
+量子域表达式：
+
+$$|\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
+
+经典域表达式：
+
+$$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
+
 ### 参与贡献
 
 我们欢迎对量子经典二元论感兴趣的研究者、思想家和实践者参与贡献。您可以通过以下方式参与：
@@ -174,6 +202,11 @@ $$E = mc^2$$
 - 完善现有理论模型
 - 分享基于理论的实践经验
 - 提供数学或可视化的改进
+
+### 版本信息 | Version Information
+
+当前版本：1.1.0
+上次更新：2023年12月10日
 
 ## English Version
 
@@ -304,6 +337,26 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 ##### Sci-Fi Analysis
 - [Three Body Critique](./theories/sci_fi_analysis/three_body_critique.md) - Three body critique
 
+##### Scientific Perspectives
+- [Architecture Explanation](./theories/scientific_perspectives/architecture_explanation.md) - Quantum-Classical Dualism from architecture perspective
+- [Art Explanation](./theories/scientific_perspectives/art_explanation.md) - Quantum-Classical Dualism from art perspective
+- [Biology Explanation](./theories/scientific_perspectives/biology_explanation.md) - Quantum-Classical Dualism from biology perspective
+- [Chemistry Explanation](./theories/scientific_perspectives/chemistry_explanation.md) - Quantum-Classical Dualism from chemistry perspective
+- [Economics Explanation](./theories/scientific_perspectives/economics_explanation.md) - Quantum-Classical Dualism from economics perspective
+- [Finance Explanation](./theories/scientific_perspectives/finance_explanation.md) - Quantum-Classical Dualism from finance perspective
+- [History Explanation](./theories/scientific_perspectives/history_explanation.md) - Quantum-Classical Dualism from history perspective
+- [Law Explanation](./theories/scientific_perspectives/law_explanation.md) - Quantum-Classical Dualism from law perspective
+- [Management Explanation](./theories/scientific_perspectives/management_explanation.md) - Quantum-Classical Dualism from management perspective
+- [Marketing Explanation](./theories/scientific_perspectives/marketing_explanation.md) - Quantum-Classical Dualism from marketing perspective
+- [Mathematics Explanation](./theories/scientific_perspectives/mathematics_explanation.md) - Quantum-Classical Dualism from mathematics perspective
+- [Medicine Explanation](./theories/scientific_perspectives/medicine_explanation.md) - Quantum-Classical Dualism from medicine perspective
+- [Musicology Explanation](./theories/scientific_perspectives/musicology_explanation.md) - Quantum-Classical Dualism from musicology perspective
+- [Philosophy Explanation](./theories/scientific_perspectives/philosophy_explanation.md) - Quantum-Classical Dualism from philosophy perspective
+- [Physics Explanation](./theories/scientific_perspectives/physics_explanation.md) - Quantum-Classical Dualism from physics perspective
+- [Political Science Explanation](./theories/scientific_perspectives/political_science_explanation.md) - Quantum-Classical Dualism from political science perspective
+- [Psychology Explanation](./theories/scientific_perspectives/psychology_explanation.md) - Quantum-Classical Dualism from psychology perspective
+- [Religious Studies Explanation](./theories/scientific_perspectives/religious_studies_explanation.md) - Quantum-Classical Dualism from religious studies perspective
+
 ##### Universe Structure
 - [Observer Dimension Evolution](./theories/universe_structure/observer_dimension_evolution.md) - Observer dimension evolution theory
 
@@ -342,6 +395,14 @@ $$E = mc^2$$
 
 For inline formulas, use single dollar signs: $E = mc^2$
 
+Quantum domain expression:
+
+$$|\psi\rangle_{\text{Universe}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
+
+Classical domain expression:
+
+$$|\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Classicalization}}\sum_{i}(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i})=I_{\text{Classical Information}}=\text{Constant}$$
+
 ### Contributing
 
 We welcome researchers, thinkers, and practitioners interested in Quantum-Classical Dualism to contribute. You can participate by:
@@ -349,3 +410,8 @@ We welcome researchers, thinkers, and practitioners interested in Quantum-Classi
 - Refining existing theoretical models
 - Sharing practical experiences based on the theory
 - Providing mathematical or visualization improvements
+
+### Version Information
+
+Current Version: 1.1.0
+Last Updated: December 10, 2023

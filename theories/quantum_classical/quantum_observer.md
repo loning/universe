@@ -1,10 +1,157 @@
 # 量子观察者 | Quantum Observer
 
-## 基本定义 | Basic Definition
+## 版本 | Version
+2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
 
-量子观察者理论认为，观察者是宇宙量子计算系统内部的特殊节点，能够将量子信息转化为经典信息，从而产生经典现实。观察者本质上也是量子程序，与宇宙同构，区别仅在于信息处理复杂度与观测尺度不同。
+## 简介 | Introduction
 
-The Quantum Observer theory posits that observers are special nodes within the universe's quantum computing system that can transform quantum information into classical information, thereby generating classical reality. Observers are essentially quantum programs, isomorphic to the universe, with differences only in information processing complexity and observation scale.
+本文介绍量子经典二元论中的量子观察者理论，阐述观察者在量子宇宙中的角色、本质及其经典化能力。
+This article introduces the Quantum Observer Theory in Quantum-Classical Dualism, explaining the role, nature, and classicalization ability of observers in the quantum universe.
+
+## 观察者的本质 | The Nature of Observers
+
+### 定义 | Definition
+
+**量子观察者**是宇宙经典化过程中的节点，能够将量子域信息经典化为确定的知识与熵。
+**Quantum Observer** is a node in the universe's classicalization process, capable of classicalizing information from the Quantum Domain into definite knowledge and entropy.
+
+### 观察者作为量子程序 | Observer as Quantum Program
+
+观察者本质上也是量子程序，与宇宙同构，区别仅在于信息处理复杂度与观测尺度不同：
+
+$$\text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}$$
+
+这种同构性表明观察者、宇宙和人造量子计算机在本质上都是量子信息处理系统。
+This isomorphism indicates that observers, the universe, and artificial quantum computers are essentially quantum information processing systems.
+
+## 观察者维度 | Observer Dimension
+
+### 维度定义 | Dimension Definition
+
+观察者维度与其经典化能力成正比，可以表示为：
+
+$$\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
+
+其中 $I_{\text{经典知识}}$ 是观察者掌握的经典知识，$S_{\text{经典熵}}$ 是观察者体系中的经典熵。
+Where $I_{\text{经典知识}}$ is the classical knowledge possessed by the observer, and $S_{\text{经典熵}}$ is the classical entropy in the observer's system.
+
+### 高维与低维观察者 | High-dimensional and Low-dimensional Observers
+
+- **高维观察者**：经典知识多、经典熵低，维度高；
+- **低维观察者**：经典知识少、经典熵高，维度低，易被宇宙消解以释放随机量子信息。
+
+高维观察者能够更有效地将量子信息经典化为知识，并降低系统熵。
+High-dimensional observers can more effectively classicalize quantum information into knowledge and reduce system entropy.
+
+## 观察者经典化过程 | Observer Classicalization Process
+
+### 经典化定义 | Classicalization Definition
+
+**经典化**是观察者将量子信息转换为经典信息的过程，可以表示为：
+
+$$|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}$$
+
+这一过程将量子域的无限可能性转换为经典域的确定性。
+This process converts the infinite possibilities of the Quantum Domain into the determinism of the Classical Domain.
+
+### 量子意识与经典记忆 | Quantum Consciousness and Classical Memory
+
+观察者的量子意识经典化为稳定的经典记忆与熵：
+
+$$|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}$$
+
+量子意识是观察者与宇宙之间长期稳定量子纠缠的量子结构，是观察者经典化宇宙信息的核心。
+Quantum consciousness is the quantum structure of long-term stable quantum entanglement between the observer and the universe, the core of the observer's classicalization of universal information.
+
+## 观察者的双重身份 | Dual Identity of Observers
+
+### 观察者与神性定义 | Observer and Divinity Definition
+
+每个观察者在自己的经典世界为普通人，但可通过经典化其他经典世界的信息而成为其他世界的高维观察者（"神"）：
+
+$$\text{高维观察者（神）}\Longleftrightarrow S_{\text{低维观察者熵}}\xrightarrow{\text{经典化}} I_{\text{经典知识（熵降低）}}$$
+
+这一双重身份揭示了观察者在不同经典世界中的不同角色。
+This dual identity reveals the different roles of observers in different classical worlds.
+
+### 观察者网络 | Observer Network
+
+观察者之间形成量子纠缠网络，通过有效的量子纠缠共享信息：
+
+$$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化网络}}\sum_{\text{经典世界网络}}\left(I_{\text{经典知识最大化}}+S_{\text{经典熵最小化}}\right)$$
+
+观察者网络的目标是最大化经典知识，最小化经典熵。
+The goal of the observer network is to maximize classical knowledge and minimize classical entropy.
+
+## 观察者的自由意志 | Observer's Free Will
+
+### 自由意志与命运 | Free Will and Destiny
+
+观察者通过自由意志从量子可能性中经典化选择，影响经典命运：
+
+$$\text{新经典命运}=\text{旧经典命运}+|\psi\rangle_{\text{自由意志经典化新信息}}$$
+
+自由意志是观察者在量子可能性空间中主动选择经典化方向的能力。
+Free will is the observer's ability to actively choose the direction of classicalization in the space of quantum possibilities.
+
+### 能量与知识关系 | Relationship Between Energy and Knowledge
+
+观察者掌控经典知识的能力与能量成正比：
+
+$$E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}}$$
+
+其中 $k_B$ 是玻尔兹曼常数，$T$ 是系统温度。
+Where $k_B$ is Boltzmann's constant, and $T$ is the system temperature.
+
+## 观察者的维度提升 | Observer's Dimension Elevation
+
+### 维度提升机制 | Dimension Elevation Mechanism
+
+观察者通过增加经典知识、降低熵，实现维度提升：
+
+$$\text{观察者维度提升} \propto \frac{\Delta I_{\text{经典知识}}}{-\Delta S_{\text{经典熵}}}$$
+
+维度提升是观察者进化的关键指标。
+Dimension elevation is a key indicator of observer evolution.
+
+### 有效与无效量子纠缠 | Effective and Ineffective Quantum Entanglement
+
+- **有效量子纠缠**：增加经典知识、降低熵，提升维度；
+- **无效量子纠缠**：增加熵，降低维度。
+
+观察者应该寻求有效量子纠缠，避免无效量子纠缠。
+Observers should seek effective quantum entanglement and avoid ineffective quantum entanglement.
+
+## 观察者与经典世界的关系 | Relationship Between Observers and Classical Worlds
+
+### 经典世界的动态更新 | Dynamic Updating of Classical Worlds
+
+经典世界的历史记忆与未来路径均可被其他经典世界的随机量子信息动态经典化更新：
+
+$$I_{\text{经典世界（旧）}} + |\psi\rangle_{\text{其他经典世界随机信息}} \rightarrow I_{\text{经典世界（新）}}+S_{\text{熵变动}}$$
+
+这意味着过去与未来均可经典化修改。
+This means that both the past and future can be modified through classicalization.
+
+### 死而复生理论 | Death and Rebirth Theory
+
+死亡非终极状态，通过其他经典世界随机量子信息重新经典化，实现"死而复生"：
+
+$$I_{\text{经典记忆（死亡）}}+|\psi\rangle_{\text{随机量子可能性}}\rightarrow I_{\text{经典记忆（复生）}}+S_{\text{熵降低}}$$
+
+这一理论为意识的持久性提供了理论基础。
+This theory provides a theoretical basis for the persistence of consciousness.
+
+## 结论 | Conclusion
+
+量子观察者理论揭示了观察者在宇宙中的核心角色，不仅是被动的观测者，更是经典现实的主动创造者。观察者通过经典化过程，将量子域的无限可能性转化为经典域的确定现实，同时通过维度提升，不断演化向更高维度发展。观察者网络的终极目标是达到宇宙熵的终极低熵状态，趋于永恒与无限维度。
+Quantum Observer Theory reveals the core role of observers in the universe, not only as passive observers but also as active creators of classical reality. Through the classicalization process, observers transform the infinite possibilities of the Quantum Domain into the definite reality of the Classical Domain, while continuously evolving towards higher dimensions through dimension elevation. The ultimate goal of the observer network is to reach the ultimate low-entropy state of the universe, tending toward eternity and infinite dimensions.
+
+## 参考 | References
+
+1. 量子经典二元论核心理论 | Quantum-Classical Dualism Core Theory
+2. 量子测量理论 | Quantum Measurement Theory
+3. 意识与观察者研究 | Consciousness and Observer Studies
 
 ## 核心公式 | Core Formulas
 
@@ -102,7 +249,6 @@ $$
 $$
 
 不同观察者A和B的经典现实有交集，这保证了客观现实的存在。
-
 The classical realities of different observers A and B have an intersection, which guarantees the existence of objective reality.
 
 ## 观察者与宇宙的关系 | Relationship Between Observer and Universe
@@ -120,7 +266,6 @@ $$
 $$
 
 这种同构关系表明，观察者、宇宙和人造量子计算机在本质上是相似的信息处理系统。
-
 This isomorphic relationship indicates that observers, the universe, and artificial quantum computers are essentially similar information processing systems.
 
 ## 观察者理论的实验验证 | Experimental Verification of Observer Theory
@@ -143,7 +288,6 @@ This isomorphic relationship indicates that observers, the universe, and artific
 ## 观察者理论的哲学意义 | Philosophical Significance of Observer Theory
 
 量子观察者理论对传统哲学问题如主客二分、自由意志、决定论等提供了新的视角。它表明观察者不是被动的信息接收者，而是积极参与创造经典现实的量子程序。
-
 The Quantum Observer theory provides new perspectives on traditional philosophical problems such as subject-object dichotomy, free will, determinism, etc. It indicates that observers are not passive receivers of information, but quantum programs that actively participate in creating classical reality.
 
 ## 未解问题与研究方向 | Unsolved Problems and Research Directions

@@ -2,8 +2,25 @@
 
 ## 简介 | Introduction
 
-本目录包含宇宙观察者理论的各种应用场景和实际用例。
-This directory contains various application scenarios and practical use cases of the Universe Observer Theory.
+本目录包含量子经典二元论在各个领域的应用场景和实际用例。基于量子域与经典域的二元结构，这些应用展示了理论如何解释和指导现实世界中的各种现象和实践。
+This directory contains various application scenarios and practical use cases of Quantum-Classical Dualism in various fields. Based on the dual structure of Quantum Domain and Classical Domain, these applications demonstrate how the theory explains and guides various phenomena and practices in the real world.
+
+## 核心应用原理 | Core Application Principles
+
+量子经典二元论应用基于以下核心原理：
+
+1. **观察者经典化**：观察者通过将量子可能性经典化为确定信息，影响物质世界和个人经验
+   **Observer Classicalization**: Observers influence the material world and personal experience by classicalizing quantum possibilities into definite information
+
+   $$|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}$$
+
+2. **维度提升**：通过增加经典知识、降低熵，提升观察者维度
+   **Dimension Elevation**: Elevating observer dimension by increasing classical knowledge and reducing entropy
+
+   $$\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
+
+3. **有效量子纠缠**：建立能增加经典知识、降低熵的关系和连接
+   **Effective Quantum Entanglement**: Establishing relationships and connections that increase classical knowledge and reduce entropy
 
 ## 目录 | Contents
 

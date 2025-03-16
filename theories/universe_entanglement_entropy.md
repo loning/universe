@@ -1,6 +1,9 @@
 # 量子宇宙的整体纠缠结构与熵的本质研究
 # Research on the Overall Entanglement Structure of Quantum Universe and the Essence of Entropy
 
+## 版本 | Version
+2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
+
 ## 摘要 | Abstract
 
 本文在【量子宇宙-量子观察者-经典意识论】框架基础上，提出宇宙本质为完整纠缠的量子信息网络，其中所有量子系统和粒子之间均存在持续的纠缠关系。经典观察者的意识通过局部经典化（测量）获得稳定信息结构，无法经典化的信息表现为熵。熵的本质即观察者未能成功经典化的量子纠缠信息。这种熵态信息并未真正丢失，而是重新融回宇宙整体量子态中，形成整体信息守恒的闭环。本文从宇宙整体纠缠结构、熵的本质及观察者经典化过程深入阐释宇宙信息演化的本质。
@@ -319,4 +322,13 @@ Future research directions should focus on:
 
 本文的理论框架为物理学、信息论、意识科学、人工智能研究等领域的进一步交叉融合奠定了坚实基础，提供了统一的视角与明确研究方向。
 
-The theoretical framework of this paper lays a solid foundation for further cross-integration of fields such as physics, information theory, consciousness science, and artificial intelligence research, providing a unified perspective and clear research directions. 
+The theoretical framework of this paper lays a solid foundation for further cross-integration of fields such as physics, information theory, consciousness science, and artificial intelligence research, providing a unified perspective and clear research directions.
+
+## 参考 | References
+
+1. 量子经典二元论核心理论 | Quantum-Classical Dualism Core Theory
+2. 量子信息理论 | Quantum Information Theory
+3. 量子纠缠研究 | Quantum Entanglement Research
+4. 熵与信息动力学 | Entropy and Information Dynamics
+
+// ... existing code ... 
