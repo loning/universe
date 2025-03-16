@@ -58,24 +58,33 @@ This directory contains various application scenarios and practical use cases of
 
 ### 目录
 
-1. [人际关系应用](relationships/)
-   - [人际冲突理论](relationships/interpersonal_conflicts.md) - 解释人际冲突的量子经典本质及解决路径
-   - [亲子关系理论](relationships/parent_child.md) - 生育过程与亲子量子纠缠的理论框架
-   - [社会行为中的量子纠缠效率](relationships/social_entanglement.md) - 社会关系中的纠缠效率排序与优化
+1. [观察者理论应用](observer_theory/README.md)
+   - 观察者熵知识对偶性理论
+   - 文明层级与观察者经典化能力
+   - 观察者自我理解的局限性理论
+   - 信息传递的量子经典过程
+   - 维度、快乐与人际关系的量子经典分析
+   - 宇宙游戏模型与时间、寿命的量子经典解释
+   - 观测的本质：波函数求解与熵产生的关系
+   - 命运的量子经典二元解析：从天体到人类
+   - 熵减与年轻化的量子经典解析
+   - 经典化世界的多样性与交织关系
+   - **集体意识与经典化世界形成理论**：集体记忆形成机制、集体经典化世界类型、原型的量子经典解释、集体经典化世界的层级结构与动态演化
 
-2. [经济与资源应用](economics/)
-   - [经济系统的量子经典解析](economics/economic_systems.md) - 经济系统与货币本质的量子经典解释
-   - [人类资源的量子经典框架](economics/human_resources.md) - 人类资源的量子经典解析框架
+2. [人际关系应用](relationships/README.md)
+   - 人际冲突理论
+   - 亲子关系理论
+   - 社会行为中的量子纠缠效率
+   - 爱情与吸引力的量子经典解释
+   - 熵减与人际关系年轻化
+   - **集体意识与社会纠缠**：基于集体经典化世界理论的社会关系理解
 
-3. [时间与感知应用](perception/)
-   - [时间感知的量子经典解释](perception/time_perception.md) - 关联经典化效率与感知时间长度
-
-4. [灵性与修行应用](spiritual/)
-   - [修行作为经典化效率提升](spiritual/practice.md) - 修行的量子经典解释框架
-   - [转世的量子经典解释](spiritual/reincarnation.md) - 转世现象的量子经典解释模型
-
-5. [物理现象应用](physics/)
-   - [黑洞信息经典化理论](physics/black_holes.md) - 黑洞作为极端高效信息经典化节点的理论
+3. [数学应用](mathematics/README.md)
+   - 数学桥梁：傅里叶变换与欧拉公式
+   - 黑洞信息经典化理论
+   - 经济系统与货币本质
+   - 熵减数学模型与应用
+   - **集体经典化动力学模型**：基于多观察者共振经典化的数学描述
 
 ### 应用理论的共同特点
 
@@ -93,24 +102,33 @@ This directory contains application theories of Quantum-Classical Dualism in var
 
 ### Directory
 
-1. [Relationship Applications](relationships/)
-   - [Interpersonal Conflict Theory](relationships/interpersonal_conflicts.md) - Explaining the quantum-classical nature of interpersonal conflicts and resolution paths
-   - [Parent-Child Relationship Theory](relationships/parent_child.md) - Theoretical framework of reproduction process and parent-child quantum entanglement
-   - [Quantum Entanglement Efficiency in Social Behaviors](relationships/social_entanglement.md) - Ranking and optimization of entanglement efficiency in social relationships
+1. [Observer Theory Applications](observer_theory/README.md)
+   - Observer Entropy-Knowledge Duality Theory
+   - Civilization Levels and Observer Classicalization Capacity
+   - Theory of Observer Self-Understanding Limitations
+   - Quantum-Classical Process of Information Transmission
+   - Dimensional Analysis of Happiness and Relationships
+   - Universe Game Model, Time, and Longevity
+   - The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation
+   - Quantum-Classical Dualism Analysis of Destiny: From Celestial Bodies to Humans
+   - Quantum-Classical Analysis of Entropy Reduction and Rejuvenation
+   - Diversity and Interweaving Relationships of Classicalization Worlds
+   - **Collective Consciousness and Formation of Classicalization Worlds**: Collective Memory Formation Mechanisms, Types of Collective Classicalization Worlds, Quantum-Classical Explanation of Archetypes, Hierarchical Structure and Dynamic Evolution of Collective Classicalization Worlds
 
-2. [Economic and Resource Applications](economics/)
-   - [Quantum-Classical Analysis of Economic Systems](economics/economic_systems.md) - Quantum-classical explanation of economic systems and the nature of money
-   - [Quantum-Classical Framework of Human Resources](economics/human_resources.md) - Quantum-classical analytical framework for human resources
+2. [Relationship Applications](relationships/README.md)
+   - Interpersonal Conflict Theory
+   - Parent-Child Relationship Theory
+   - Quantum Entanglement Efficiency in Social Behaviors
+   - Quantum-Classical Explanation of Love and Attraction
+   - Entropy Reduction and Relationship Rejuvenation
+   - **Collective Consciousness and Social Entanglement**: Understanding Social Relationships Based on Collective Classicalization Worlds Theory
 
-3. [Time and Perception Applications](perception/)
-   - [Quantum-Classical Explanation of Time Perception](perception/time_perception.md) - Correlating classicalization efficiency with perceived time length
-
-4. [Spiritual and Practice Applications](spiritual/)
-   - [Practice as Classicalization Efficiency Improvement](spiritual/practice.md) - Quantum-classical explanation framework for spiritual practice
-   - [Quantum-Classical Explanation of Reincarnation](spiritual/reincarnation.md) - Quantum-classical explanation model for reincarnation phenomena
-
-5. [Physical Phenomena Applications](physics/)
-   - [Black Hole Information Classicalization Theory](physics/black_holes.md) - Theory of black holes as extremely efficient information classicalization nodes
+3. [Mathematical Applications](mathematics/README.md)
+   - Mathematical Bridges: Fourier Transform and Euler's Formula
+   - Black Hole Information Classicalization Theory
+   - Economic Systems and the Nature of Money
+   - Mathematical Models and Applications of Entropy Reduction
+   - **Collective Classicalization Dynamics Models**: Mathematical Description Based on Multi-Observer Resonant Classicalization
 
 ### Common Features of Application Theories
 

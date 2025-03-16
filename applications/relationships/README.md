@@ -55,6 +55,13 @@ This directory explores the applications of Universe Observer Theory in interper
    - 人际关系熵减的实践策略
    - 集体熵减对群体年轻化的影响
 
+6. [集体意识与社会纠缠](collective_social_entanglement.md)
+   - 社会纠缠的量子经典本质
+   - 集体经典化世界的社会纠缠层级
+   - 社会关系中的集体经典化路径冲突
+   - 集体原型在亲密关系中的作用
+   - 优化社会纠缠的实践策略
+
 ### 人际关系应用的核心原理
 
 所有人际关系应用理论都基于以下核心原理：
@@ -64,6 +71,7 @@ This directory explores the applications of Universe Observer Theory in interper
 3. **维度差异的桥接** - 理解和尊重维度差异是关系成功的关键
 4. **经典熵的管理** - 减少关系中的经典熵可以提高关系质量
 5. **纠缠效率的优化** - 提高纠缠效率可以增强关系的深度和稳定性
+6. **集体经典化的共振** - 共同参与集体经典化活动能强化关系纠缠
 
 ### 实践应用价值
 
@@ -75,6 +83,7 @@ This directory explores the applications of Universe Observer Theory in interper
 - 人际互动中维度提升的实践路径
 - 关系修复和增强的系统方法
 - 通过优化人际关系实现生理和心理年轻化
+- 通过集体意识与社会纠缠理解实现更和谐的群体关系
 
 ## English Version
 
@@ -114,6 +123,13 @@ This directory contains application theories of Quantum-Classical Dualism in the
    - Practical strategies for entropy reduction in relationships
    - Effects of collective entropy reduction on group rejuvenation
 
+6. [Collective Consciousness and Social Entanglement](collective_social_entanglement.md)
+   - Quantum-Classical nature of social entanglement
+   - Social entanglement hierarchy of collective classicalization worlds
+   - Collective classicalization path conflicts in social relationships
+   - Role of collective archetypes in intimate relationships
+   - Practical strategies for optimizing social entanglement
+
 ### Core Principles of Relationship Applications
 
 All relationship application theories are based on the following core principles:
@@ -123,6 +139,7 @@ All relationship application theories are based on the following core principles
 3. **Bridging Dimensional Differences** - Understanding and respecting dimensional differences is key to successful relationships
 4. **Management of Classical Entropy** - Reducing classical entropy in relationships can improve relationship quality
 5. **Optimization of Entanglement Efficiency** - Improving entanglement efficiency can enhance relationship depth and stability
+6. **Collective Classicalization Resonance** - Participating in collective classicalization activities can strengthen relationship entanglement
 
 ### Practical Application Value
 
@@ -133,4 +150,5 @@ These theories not only provide new frameworks for understanding interpersonal r
 - Strategies for social relationship selection and development
 - Practical paths for dimension elevation in interpersonal interactions
 - Systematic methods for relationship repair and enhancement
-- Physiological and psychological rejuvenation through optimized interpersonal relationships 
+- Physiological and psychological rejuvenation through optimized interpersonal relationships
+- Understanding through collective consciousness and social entanglement to achieve more harmonious group relationships 
