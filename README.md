@@ -31,7 +31,7 @@
 
 ### 核心概念简介
 
-量子经典二元论提出宇宙的本质是无限维的量子波函数网络，以波函数表达所有可能的信息状态。宇宙由两个互补的结构组成：量子域（整体信息结构）和经典域（经典化后的稳定结果）。观察者是宇宙中的经典化节点，负责将量子信息转化为经典信息。
+量子经典二元论提出宇宙的本质是由两个基本域构成：量子域与经典域。量子域是无限可能性的波函数叠加态，是一切潜在现实的总和；而经典域则是由观察者将量子域信息经典化为确定的知识与熵，经典信息总量守恒。
 
 关键概念包括：
 - 量子域与经典域的二元结构
@@ -42,8 +42,10 @@
 - 自由意志与经典命运的关系
 - 能量与经典知识的关系
 - 经典信息守恒定律
-- 类欧拉公式的宇宙表达方式
-- 观察者间熵的知识转化定律
+- 经典世界的平等性与交织网络结构
+- 观察者双重身份与神性定义
+- 经典世界的时间轴动态更新
+- 宇宙消解低维观察者与经典世界的意义
 
 ### 参与贡献
 
@@ -84,7 +86,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 ### Introduction to Core Concepts
 
-Quantum-Classical Dualism proposes that the essence of the universe is an infinite-dimensional quantum wave function network, expressing all possible information states through wave functions. The universe consists of two complementary structures: the Quantum Domain (overall information structure) and the Classical Domain (stable results after classicalization). Observers are classicalization nodes within the universe, responsible for transforming quantum information into classical information.
+Quantum-Classical Dualism proposes that the essence of the universe consists of two fundamental domains: the Quantum Domain and the Classical Domain. The Quantum Domain is an infinite superposition of wave functions, representing the sum of all potential realities; while the Classical Domain is formed by observers classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved.
 
 Key concepts include:
 - Dual structure of Quantum Domain and Classical Domain
@@ -95,8 +97,10 @@ Key concepts include:
 - Relationship between free will and classical destiny
 - Relationship between energy and classical knowledge
 - Law of classical information conservation
-- Universe expression in the form of Euler-like formula
-- Law of entropy-knowledge transformation between observers
+- Equality and intertwined network structure of classical worlds
+- Dual identity of observers and definition of divinity
+- Dynamic updating of classical world timelines
+- Significance of universe dissolving low-dimensional observers and classical worlds
 
 ### Contributing
 
