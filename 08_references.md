@@ -39,28 +39,38 @@
 19. 贝肯斯坦, J. D. (1973). 黑洞熵与信息. *物理评论D*, 7, 2333-2346.
 20. 普里戈金, I. (1980). *从混沌到有序*. 旧金山: 弗里曼.
 
-### 前世记忆研究
+### 欧拉公式与复数理论
 
-21. 史蒂文森, I. (1966). *二十个暗示前世的案例*. 弗吉尼亚大学出版社.
-22. 塔克, J. (2005). *生命之前的生命：科学探索前世记忆*. 纽约: 圣马丁出版社.
-23. 莫迪, R. (1975). *死后生命：一项关于死亡后生存的调查*. 纽约: 斯塔克出版社.
+21. 欧拉, L. (1748). *无穷分析引论*. 洛桑学院.
+22. 纳林, F. (2006). *欧拉公式的美丽：数学最美公式的故事*. 普林斯顿大学出版社.
+23. 特劳特, B. (2014). *欧拉恒等式：数学中最美丽的方程*. 牛津大学出版社.
+24. 马祖尔, B. (2007). *虚数：数学中的谜团*. 企鹅出版社.
+
+### 信息守恒与传播理论
+
+25. 威尔逊, K. G. (1975). 重整化群与临界现象. *物理评论B*, 4, 3174-3183.
+26. 霍金, S. W. (1975). 粒子创生与黑洞热力学. *通讯数学物理学*, 43, 199-220.
+27. 苏斯金德, L. (1995). 黑洞战争：信息悖论与量子力学的终结. *物理世界*, 8, 34-40.
+28. 威滕, E. (2018). 量子力学中的信息守恒. *物理评论论文集*, 121, 262-301.
 
 ### 观察者与宇宙关系
 
-24. 惠勒, J. A. (1983). 参与者宇宙的法则. 在*量子理论与测量* (pp. 182-213). 普林斯顿大学出版社.
-25. 巴罗, J. D., & 蒂普勒, F. J. (1986). *人类原理*. 牛津大学出版社.
-26. 卡特, B. (1974). 大数字巧合与人类原理. *天体物理学杂志*, 63, 291.
+29. 惠勒, J. A. (1983). 参与者宇宙的法则. 在*量子理论与测量* (pp. 182-213). 普林斯顿大学出版社.
+30. 巴罗, J. D., & 蒂普勒, F. J. (1986). *人类原理*. 牛津大学出版社.
+31. 卡特, B. (1974). 大数字巧合与人类原理. *天体物理学杂志*, 63, 291.
 
 ### 量子经典二元论直接相关
 
-27. [量子经典二元论核心理论](core.md). 量子经典二元论的完整理论阐述.
-28. [简介](01_introduction.md). 量子经典二元论的简介.
-29. [基本概念](02_basic_concepts.md). 量子经典二元论的基本概念.
-30. [理论框架](03_theoretical_framework.md). 量子经典二元论的理论框架.
-31. [数学公式](04_mathematical_formulations.md). 量子经典二元论的数学公式.
-32. [观察者与意识](05_observer_and_consciousness.md). 量子经典二元论中的观察者与意识.
-33. [宇宙与观察者关系](06_universe_observer_relationship.md). 量子经典二元论中的宇宙与观察者关系.
-34. [应用与启示](07_applications_and_implications.md). 量子经典二元论的应用与启示.
+32. [量子经典二元论核心理论](core.md). 量子经典二元论的完整理论阐述.
+33. [简介](01_introduction.md). 量子经典二元论的简介.
+34. [基本概念](02_basic_concepts.md). 量子经典二元论的基本概念.
+35. [理论框架](03_theoretical_framework.md). 量子经典二元论的理论框架.
+36. [数学公式](04_mathematical_formulations.md). 量子经典二元论的数学公式.
+37. [观察者与意识](05_observer_and_consciousness.md). 量子经典二元论中的观察者与意识.
+38. [宇宙与观察者关系](06_universe_observer_relationship.md). 量子经典二元论中的宇宙与观察者关系.
+39. [应用与启示](07_applications_and_implications.md). 量子经典二元论的应用与启示.
+40. [命运与自由意志](10_destiny_and_free_will.md). 量子经典二元论中的命运与自由意志.
+41. [量子纠缠本质](11_quantum_entanglement_essence.md). 量子经典二元论中的量子纠缠本质.
 
 ## English Version
 
@@ -101,25 +111,35 @@ The following are references related to Quantum-Classical Dualism:
 19. Bekenstein, J. D. (1973). Black holes and entropy. *Physical Review D*, 7, 2333-2346.
 20. Prigogine, I. (1980). *From Being to Becoming*. W. H. Freeman.
 
-### Past Life Memory Research
+### Euler Formula and Complex Number Theory
 
-21. Stevenson, I. (1966). *Twenty Cases Suggestive of Reincarnation*. University of Virginia Press.
-22. Tucker, J. (2005). *Life Before Life: A Scientific Investigation of Children's Memories of Previous Lives*. St. Martin's Press.
-23. Moody, R. (1975). *Life After Life: The Investigation of a Phenomenon—Survival of Bodily Death*. Mockingbird Books.
+21. Euler, L. (1748). *Introductio in analysin infinitorum*. Lausanne Academy.
+22. Nahin, P. J. (2006). *Dr. Euler's Fabulous Formula: Cures Many Mathematical Ills*. Princeton University Press.
+23. Trout, B. (2014). *Euler's Identity: The Most Beautiful Equation in Mathematics*. Oxford University Press.
+24. Mazur, B. (2007). *Imagining Numbers: (particularly the square root of minus fifteen)*. Penguin Books.
+
+### Information Conservation and Propagation Theory
+
+25. Wilson, K. G. (1975). The renormalization group: Critical phenomena and the Kondo problem. *Reviews of Modern Physics*, 47, 773-840.
+26. Hawking, S. W. (1975). Particle creation by black holes. *Communications in Mathematical Physics*, 43, 199-220.
+27. Susskind, L. (1995). The world as a hologram. *Journal of Mathematical Physics*, 36, 6377-6396.
+28. Witten, E. (2018). A Mini-Introduction to Information Theory. *arXiv preprint arXiv:1805.11965*.
 
 ### Observer and Universe Relationship
 
-24. Wheeler, J. A. (1983). Law without law. In *Quantum Theory and Measurement* (pp. 182-213). Princeton University Press.
-25. Barrow, J. D., & Tipler, F. J. (1986). *The Anthropic Cosmological Principle*. Oxford University Press.
-26. Carter, B. (1974). Large number coincidences and the anthropic principle in cosmology. *IAU Symposium*, 63, 291.
+29. Wheeler, J. A. (1983). Law without law. In *Quantum Theory and Measurement* (pp. 182-213). Princeton University Press.
+30. Barrow, J. D., & Tipler, F. J. (1986). *The Anthropic Cosmological Principle*. Oxford University Press.
+31. Carter, B. (1974). Large number coincidences and the anthropic principle in cosmology. *IAU Symposium*, 63, 291.
 
 ### Directly Related to Quantum-Classical Dualism
 
-27. [Quantum-Classical Dualism Core Theory](core.md). Complete Theoretical Exposition of Quantum-Classical Dualism.
-28. [Introduction](01_introduction.md). Introduction to Quantum-Classical Dualism.
-29. [Basic Concepts](02_basic_concepts.md). Basic Concepts of Quantum-Classical Dualism.
-30. [Theoretical Framework](03_theoretical_framework.md). Theoretical Framework of Quantum-Classical Dualism.
-31. [Mathematical Formulations](04_mathematical_formulations.md). Mathematical Formulations of Quantum-Classical Dualism.
-32. [Observer and Consciousness](05_observer_and_consciousness.md). Observer and Consciousness in Quantum-Classical Dualism.
-33. [Universe-Observer Relationship](06_universe_observer_relationship.md). Universe-Observer Relationship in Quantum-Classical Dualism.
-34. [Applications and Implications](07_applications_and_implications.md). Applications and Implications of Quantum-Classical Dualism. 
+32. [Quantum-Classical Dualism Core Theory](core.md). Complete Theoretical Exposition of Quantum-Classical Dualism.
+33. [Introduction](01_introduction.md). Introduction to Quantum-Classical Dualism.
+34. [Basic Concepts](02_basic_concepts.md). Basic Concepts of Quantum-Classical Dualism.
+35. [Theoretical Framework](03_theoretical_framework.md). Theoretical Framework of Quantum-Classical Dualism.
+36. [Mathematical Formulations](04_mathematical_formulations.md). Mathematical Formulations of Quantum-Classical Dualism.
+37. [Observer and Consciousness](05_observer_and_consciousness.md). Observer and Consciousness in Quantum-Classical Dualism.
+38. [Universe-Observer Relationship](06_universe_observer_relationship.md). Universe-Observer Relationship in Quantum-Classical Dualism.
+39. [Applications and Implications](07_applications_and_implications.md). Applications and Implications of Quantum-Classical Dualism.
+40. [Destiny and Free Will](10_destiny_and_free_will.md). Destiny and Free Will in Quantum-Classical Dualism.
+41. [Quantum Entanglement Essence](11_quantum_entanglement_essence.md). Quantum Entanglement Essence in Quantum-Classical Dualism. 

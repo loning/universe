@@ -15,7 +15,9 @@
 7. [宇宙与观察者关系](06_universe_observer_relationship.md) - 量子经典二元论中的宇宙与观察者关系
 8. [应用与启示](07_applications_and_implications.md) - 量子经典二元论的应用与启示
 9. [参考文献](08_references.md) - 量子经典二元论的相关参考文献
-10. [应用理论](applications/) - 理论在各个领域的应用
+10. [命运与自由意志](10_destiny_and_free_will.md) - 量子经典二元论中的命运与自由意志
+11. [量子纠缠本质](11_quantum_entanglement_essence.md) - 量子经典二元论中的量子纠缠本质
+12. [应用理论](applications/) - 理论在各个领域的应用
    - [人际关系应用](applications/relationships/) - 人际关系的量子经典解释
      - [人际冲突理论](applications/relationships/interpersonal_conflicts.md) - 冲突的量子经典本质及解决路径
      - 亲子关系理论 - 生育过程与亲子量子纠缠
@@ -24,8 +26,8 @@
    - [时间与感知应用](applications/perception/) - 时间感知的量子经典解释
    - [灵性与修行应用](applications/spiritual/) - 修行作为经典化效率提升
    - [物理现象应用](applications/physics/) - 黑洞信息经典化理论
-11. [更新历史](update_history.md) - 项目发展的里程碑记录
-12. [目录结构](directory_structure.md) - 完整的项目文件组织
+13. [更新历史](update_history.md) - 项目发展的里程碑记录
+14. [目录结构](directory_structure.md) - 完整的项目文件组织
 
 ### 核心概念简介
 
@@ -39,7 +41,8 @@
 - 量子纠缠作为信息共享的基本机制
 - 自由意志与经典命运的关系
 - 能量与经典知识的关系
-- 前世记忆的量子经典化机制
+- 经典信息守恒定律
+- 类欧拉公式的宇宙表达方式
 - 观察者间熵的知识转化定律
 
 ### 参与贡献
@@ -65,7 +68,9 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 7. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Universe-observer relationship in Quantum-Classical Dualism
 8. [Applications and Implications](07_applications_and_implications.md) - Applications and implications of Quantum-Classical Dualism
 9. [References](08_references.md) - Related references for Quantum-Classical Dualism
-10. [Application Theories](applications/) - Applications of the theory in various fields
+10. [Destiny and Free Will](10_destiny_and_free_will.md) - Destiny and free will in Quantum-Classical Dualism
+11. [Quantum Entanglement Essence](11_quantum_entanglement_essence.md) - Quantum entanglement essence in Quantum-Classical Dualism
+12. [Application Theories](applications/) - Applications of the theory in various fields
    - [Relationship Applications](applications/relationships/) - Quantum-classical explanations of interpersonal relationships
      - [Interpersonal Conflict Theory](applications/relationships/interpersonal_conflicts.md) - Quantum-classical nature of conflicts and resolution paths
      - Parent-Child Relationship Theory - Reproduction process and parent-child quantum entanglement
@@ -74,8 +79,8 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
    - [Time and Perception Applications](applications/perception/) - Quantum-classical explanation of time perception
    - [Spiritual and Practice Applications](applications/spiritual/) - Practice as classicalization efficiency improvement
    - [Physical Phenomena Applications](applications/physics/) - Black hole information classicalization theory
-11. [Update History](update_history.md) - Record of project development milestones
-12. [Directory Structure](directory_structure.md) - Complete project file organization
+13. [Update History](update_history.md) - Record of project development milestones
+14. [Directory Structure](directory_structure.md) - Complete project file organization
 
 ### Introduction to Core Concepts
 
@@ -89,7 +94,8 @@ Key concepts include:
 - Quantum entanglement as the basic mechanism for information sharing
 - Relationship between free will and classical destiny
 - Relationship between energy and classical knowledge
-- Quantum classicalization mechanism of past life memories
+- Law of classical information conservation
+- Universe expression in the form of Euler-like formula
 - Law of entropy-knowledge transformation between observers
 
 ### Contributing

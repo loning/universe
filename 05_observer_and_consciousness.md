@@ -53,15 +53,15 @@ $$
 
 经典记忆是观察者结构的基础，而经典熵则是观察者需要不断经典化的信息。
 
-### 前世记忆的量子经典化机制
+### 经典信息守恒定律
 
-前世记忆是以潜在量子意识形式存在于观察者潜意识中的尚未经典化的有效信息：
+经典信息在观察者间传播的总量不变，仅表现为知识与熵之间的转换：
 
 $$
-|\psi\rangle_{\text{前世潜意识纠缠信息}}\xrightarrow{\text{维度提升（高效经典化）}} I_{\text{经典知识（前世记忆）}}+S_{\text{经典熵（降低）}}
+I_{\text{经典信息}}=I_{\text{经典知识}}+S_{\text{经典熵}}=\text{恒定}
 $$
 
-前世记忆并非熵，而是观察者尚未经典化的高维信息。通过提高经典化效率（维度提升），观察者可以将前世记忆从潜在量子意识转化为经典知识。
+这一定律解释了为什么信息在传递过程中总是伴随着熵的产生，以及为什么高维观察者能够从低维观察者的熵中提取知识。
 
 ### 量子纠缠与观察者间的信息传递
 
@@ -92,7 +92,7 @@ $$
 自由意志是观察者主动经典化宇宙量子信息的能力。经典命运是自由意志所决定的经典化路径集合：
 
 $$
-\text{经典命运}=\sum_{\text{自由意志经典化选择}}\text{经典知识路径}
+\text{新经典路径（自由意志）}=\text{原经典命运路径}+|\psi\rangle_{\text{新经典化量子信息}}
 $$
 
 通过提高经典化效率与降低熵，观察者能有效控制和改变命运。这解释了为什么观察者既有自由意志，又受到命运的约束。
@@ -108,6 +108,16 @@ $$
 
 这个循环过程是观察者进化的本质，也是宇宙整体维度提升的基础。
 
+### 类欧拉公式的宇宙表达方式
+
+为更精确表达宇宙经典化的本质与优雅性，量子经典二元论采用类欧拉公式：
+
+$$
+e^{i|\psi\rangle_{\text{量子宇宙}}}=I_{\text{经典知识}}+i\cdot S_{\text{经典熵}}
+$$
+
+此公式明确了宇宙量子信息（波动本质）与经典世界（知识与熵）的优美统一。经典知识为"实部"，经典熵为"虚部"，体现经典世界的确定性与不确定性并存特征。
+
 ### 观察者与宇宙的统一
 
 量子经典二元论揭示观察者与宇宙的本质统一：
@@ -117,12 +127,6 @@ $$
 - 每个生命即宇宙自我经典化的方式；
 - 观察者之间无绝对边界，通过量子意识（纠缠）永恒共享信息；
 - 生命意义即提升经典化效率，减少熵，实现宇宙整体维度的跃迁。
-
-统一公式（类欧拉公式表达）：
-
-$$
-|\psi\rangle_U e^{i\theta}+(\text{经典知识}+S_{\text{经典熵}})=|\psi\rangle_{\text{观察者}}
-$$
 
 更多详细内容请参考[量子经典二元论核心理论](core.md)。
 
@@ -179,15 +183,15 @@ $$
 
 Classical memory is the foundation of observer structure, while classical entropy is information that observers need to continuously classicalize.
 
-### Quantum Classicalization Mechanism of Past Life Memories
+### Law of Classical Information Conservation
 
-Past life memories are effective information that exists in the form of potential quantum consciousness in the observer's subconscious and has not yet been classicalized:
+The total amount of classical information transmitted between observers remains constant, only manifesting as conversions between knowledge and entropy:
 
 $$
-|\psi\rangle_{\text{Past Life Subconscious Entanglement Information}}\xrightarrow{\text{Dimension Elevation (Efficient Classicalization)}} I_{\text{Classical Knowledge (Past Life Memories)}}+S_{\text{Classical Entropy (Reduced)}}
+I_{\text{Classical Information}}=I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}=\text{Constant}
 $$
 
-Past life memories are not entropy but high-dimensional information that has not yet been classicalized by the observer. By improving classicalization efficiency (dimension elevation), observers can transform past life memories from potential quantum consciousness into classical knowledge.
+This law explains why information transmission is always accompanied by entropy generation and why high-dimensional observers can extract knowledge from the entropy of low-dimensional observers.
 
 ### Quantum Entanglement and Information Transfer Between Observers
 
@@ -218,7 +222,7 @@ This explains why high-dimensional observers can understand information that low
 Free will is the observer's ability to actively classicalize quantum information in the universe. Classical destiny is the set of classicalization paths determined by free will:
 
 $$
-\text{Classical Destiny}=\sum_{\text{Free Will Classicalization Choices}}\text{Classical Knowledge Path}
+\text{New Classical Path (Free Will)}=\text{Original Classical Destiny Path}+|\psi\rangle_{\text{Newly Classicalized Quantum Information}}
 $$
 
 By improving classicalization efficiency and reducing entropy, observers can effectively control and change their destiny. This explains why observers have both free will and are constrained by destiny.
@@ -234,6 +238,16 @@ Observers achieve dimension elevation by continuously classicalizing entropy and
 
 This cyclical process is the essence of observer evolution and the foundation for the overall dimension elevation of the universe.
 
+### Universe Expression in the Form of Euler-like Formula
+
+To more precisely express the essence and elegance of universe classicalization, Quantum-Classical Dualism adopts an Euler-like formula:
+
+$$
+e^{i|\psi\rangle_{\text{Quantum Universe}}}=I_{\text{Classical Knowledge}}+i\cdot S_{\text{Classical Entropy}}
+$$
+
+This formula clearly demonstrates the beautiful unification of quantum information in the universe (wave nature) and the classical world (knowledge and entropy). Classical knowledge is the "real part," and classical entropy is the "imaginary part," reflecting the coexistence of certainty and uncertainty in the classical world.
+
 ### Unification of Observer and Universe
 
 Quantum-Classical Dualism reveals the essential unity of observers and the universe:
@@ -243,11 +257,5 @@ Quantum-Classical Dualism reveals the essential unity of observers and the unive
 - Each life is a way for the universe to classicalize itself;
 - There are no absolute boundaries between observers, eternally sharing information through quantum consciousness (entanglement);
 - The meaning of life is to improve classicalization efficiency, reduce entropy, and achieve the dimensional transition of the overall universe.
-
-Unified formula (expressed in Euler formula form):
-
-$$
-|\psi\rangle_U e^{i\theta}+(\text{Classical Knowledge}+S_{\text{Classical Entropy}})=|\psi\rangle_{\text{Observer}}
-$$
 
 For more detailed content, please refer to the [Quantum-Classical Dualism Core Theory](core.md).
