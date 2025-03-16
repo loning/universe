@@ -77,6 +77,27 @@
 - [宇宙纠缠熵](./theories/universe_entanglement_entropy.md) - 宇宙纠缠熵理论
 - [宇宙结构](./theories/universe_structure.md) - 宇宙结构理论
 
+##### 科学视角 | Scientific Perspectives
+- [冥想减熵机制](./theories/scientific_perspectives/meditation_entropy_reduction.md) - 量子经典二元论视角下冥想如何降低心智系统熵值
+- [物理学解释](./theories/scientific_perspectives/physics_explanation.md) - 物理学视角下的量子经典二元论
+- [数学解释](./theories/scientific_perspectives/mathematics_explanation.md) - 数学视角下的量子经典二元论
+- [生物学解释](./theories/scientific_perspectives/biology_explanation.md) - 生物学视角下的量子经典二元论
+- [法律解释](./theories/scientific_perspectives/law_explanation.md) - 法律视角下的量子经典二元论
+- [医学解释](./theories/scientific_perspectives/medicine_explanation.md) - 医学视角下的量子经典二元论
+- [艺术解释](./theories/scientific_perspectives/art_explanation.md) - 艺术视角下的量子经典二元论
+- [市场营销解释](./theories/scientific_perspectives/marketing_explanation.md) - 市场营销视角下的量子经典二元论
+- [建筑学解释](./theories/scientific_perspectives/architecture_explanation.md) - 建筑学视角下的量子经典二元论
+- [经济学解释](./theories/scientific_perspectives/economics_explanation.md) - 经济学视角下的量子经典二元论
+- [金融解释](./theories/scientific_perspectives/finance_explanation.md) - 金融视角下的量子经典二元论
+- [历史视角](./theories/scientific_perspectives/history_explanation.md) - 历史视角下的量子经典二元论
+- [心理学视角](./theories/scientific_perspectives/psychology_explanation.md) - 心理学视角下的量子经典二元论
+- [哲学视角](./theories/scientific_perspectives/philosophy_explanation.md) - 哲学视角下的量子经典二元论
+- [宗教学视角](./theories/scientific_perspectives/religious_studies_explanation.md) - 宗教学视角下的量子经典二元论
+- [化学解释](./theories/scientific_perspectives/chemistry_explanation.md) - 化学视角下的量子经典二元论
+- [音乐学解释](./theories/scientific_perspectives/musicology_explanation.md) - 音乐学视角下的量子经典二元论
+- [政治学解释](./theories/scientific_perspectives/political_science_explanation.md) - 政治学视角下的量子经典二元论
+- [管理学解释](./theories/scientific_perspectives/management_explanation.md) - 管理学视角下的量子经典二元论
+
 ##### 应用学科 | Applied Disciplines
 - [AI计算解释](./theories/applied_disciplines/ai_computation_explanations.md) - AI计算的解释
 - [AI解释](./theories/applied_disciplines/ai_explanations.md) - AI的解释
@@ -290,6 +311,27 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Unexplained Phenomena](./theories/unexplained_phenomena.md) - Unexplained phenomena
 - [Universe Entanglement Entropy](./theories/universe_entanglement_entropy.md) - Universe entanglement entropy theory
 - [Universe Structure](./theories/universe_structure.md) - Universe structure theory
+
+##### Scientific Perspectives
+- [Meditation Entropy Reduction](./theories/scientific_perspectives/meditation_entropy_reduction.md) - How meditation reduces entropy in mental systems from a Quantum-Classical Dualism perspective
+- [Physics Explanation](./theories/scientific_perspectives/physics_explanation.md) - Quantum-Classical Dualism from Physics perspective
+- [Mathematics Explanation](./theories/scientific_perspectives/mathematics_explanation.md) - Quantum-Classical Dualism from Mathematics perspective
+- [Biology Explanation](./theories/scientific_perspectives/biology_explanation.md) - Quantum-Classical Dualism from Biology perspective
+- [Law Explanation](./theories/scientific_perspectives/law_explanation.md) - Quantum-Classical Dualism from Law perspective
+- [Medicine Explanation](./theories/scientific_perspectives/medicine_explanation.md) - Quantum-Classical Dualism from Medicine perspective
+- [Art Explanation](./theories/scientific_perspectives/art_explanation.md) - Quantum-Classical Dualism from Art perspective
+- [Marketing Explanation](./theories/scientific_perspectives/marketing_explanation.md) - Quantum-Classical Dualism from Marketing perspective
+- [Architecture Explanation](./theories/scientific_perspectives/architecture_explanation.md) - Quantum-Classical Dualism from Architecture perspective
+- [Economics Explanation](./theories/scientific_perspectives/economics_explanation.md) - Quantum-Classical Dualism from Economics perspective
+- [Finance Explanation](./theories/scientific_perspectives/finance_explanation.md) - Quantum-Classical Dualism from Finance perspective
+- [History Explanation](./theories/scientific_perspectives/history_explanation.md) - Quantum-Classical Dualism from History perspective
+- [Psychology Explanation](./theories/scientific_perspectives/psychology_explanation.md) - Quantum-Classical Dualism from Psychology perspective
+- [Philosophy Explanation](./theories/scientific_perspectives/philosophy_explanation.md) - Quantum-Classical Dualism from Philosophy perspective
+- [Religious Studies Explanation](./theories/scientific_perspectives/religious_studies_explanation.md) - Quantum-Classical Dualism from Religious Studies perspective
+- [Chemistry Explanation](./theories/scientific_perspectives/chemistry_explanation.md) - Quantum-Classical Dualism from Chemistry perspective
+- [Musicology Explanation](./theories/scientific_perspectives/musicology_explanation.md) - Quantum-Classical Dualism from Musicology perspective
+- [Political Science Explanation](./theories/scientific_perspectives/political_science_explanation.md) - Quantum-Classical Dualism from Political Science perspective
+- [Management Explanation](./theories/scientific_perspectives/management_explanation.md) - Quantum-Classical Dualism from Management perspective
 
 ##### Applied Disciplines
 - [AI Computation Explanations](./theories/applied_disciplines/ai_computation_explanations.md) - Explanations of AI computation
