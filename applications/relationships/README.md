@@ -1,3 +1,20 @@
+# 关系应用 | Relationship Applications
+
+## 简介 | Introduction
+
+本目录探讨宇宙观察者理论在人际关系和社会互动中的应用。
+This directory explores the applications of Universe Observer Theory in interpersonal relationships and social interactions.
+
+## 目录 | Contents
+
+- [人际冲突](./interpersonal_conflicts.md) | [Interpersonal Conflicts](./interpersonal_conflicts.md)
+- [爱与吸引力](./love_attraction.md) | [Love and Attraction](./love_attraction.md)
+
+## 返回 | Return
+
+[返回应用目录](../README.md) | [Return to Applications](../README.md)
+[返回主页](../../README.md) | [Return to Main Page](../../README.md)
+
 # 量子经典二元论人际关系应用 (Quantum-Classical Dualism Relationship Applications)
 
 ## 中文版

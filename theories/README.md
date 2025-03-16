@@ -363,4 +363,87 @@ The latest theoretical developments in Quantum-Classical Dualism include:
 5. **Economy and Resources Theory**:
    - The nature of money as a medium for exchanging classical knowledge and classical energy
    - Human resources as a combination of classical knowledge and classical energy
-   - Relationship between time perception and classicalization efficiency 
+   - Relationship between time perception and classicalization efficiency
+
+# 理论 | Theories
+
+## 简介 | Introduction
+
+本目录包含宇宙观察者理论的核心理论框架和各个领域的理论解释。
+This directory contains the core theoretical framework of the Universe Observer Theory and theoretical explanations in various fields.
+
+## 目录 | Contents
+
+### 基础理论 | Basic Theories
+- [AI计算解释](./ai_computation_explanations.md) | [AI Computation Explanations](./ai_computation_explanations.md)
+- [AI计算解释(替代)](./ai_computational_explanations.md) | [AI Computational Explanations](./ai_computational_explanations.md)
+- [建筑空间解释](./architecture_space_explanations.md) | [Architecture Space Explanations](./architecture_space_explanations.md)
+- [艺术美学解释](./art_aesthetics_explanations.md) | [Art Aesthetics Explanations](./art_aesthetics_explanations.md)
+- [生物学解释](./biological_explanations.md) | [Biological Explanations](./biological_explanations.md)
+- [黑洞经典化](./black_hole_classicalization.md) | [Black Hole Classicalization](./black_hole_classicalization.md)
+- [意识持久性](./consciousness_persistence.md) | [Consciousness Persistence](./consciousness_persistence.md)
+- [烹饪食物解释](./cooking_food_explanations.md) | [Cooking Food Explanations](./cooking_food_explanations.md)
+- [梦境睡眠解释](./dream_sleep_explanations.md) | [Dream Sleep Explanations](./dream_sleep_explanations.md)
+- [经济经典量子](./economic_classical_quantum.md) | [Economic Classical Quantum](./economic_classical_quantum.md)
+- [经济解释](./economic_explanations.md) | [Economic Explanations](./economic_explanations.md)
+- [经济市场解释](./economics_market_explanations.md) | [Economics Market Explanations](./economics_market_explanations.md)
+- [教育学习解释](./education_learning_explanations.md) | [Education Learning Explanations](./education_learning_explanations.md)
+- [教育解释](./educational_explanations.md) | [Educational Explanations](./educational_explanations.md)
+- [熵观察者维度](./entropy_observer_dimension.md) | [Entropy Observer Dimension](./entropy_observer_dimension.md)
+- [环境生态解释](./environment_ecology_explanations.md) | [Environment Ecology Explanations](./environment_ecology_explanations.md)
+- [环境解释](./environmental_explanations.md) | [Environmental Explanations](./environmental_explanations.md)
+- [伦理解释](./ethical_explanations.md) | [Ethical Explanations](./ethical_explanations.md)
+- [解释谜题](./explained_puzzles.md) | [Explained Puzzles](./explained_puzzles.md)
+- [时尚服装解释](./fashion_clothing_explanations.md) | [Fashion Clothing Explanations](./fashion_clothing_explanations.md)
+- [自由意志量子纠缠](./free_will_quantum_entanglement.md) | [Free Will Quantum Entanglement](./free_will_quantum_entanglement.md)
+- [未来研究](./future_research.md) | [Future Research](./future_research.md)
+- [游戏娱乐解释](./game_entertainment_explanations.md) | [Game Entertainment Explanations](./game_entertainment_explanations.md)
+- [高维经典化](./higher_dimensional_classicalization.md) | [Higher Dimensional Classicalization](./higher_dimensional_classicalization.md)
+- [历史解释](./historical_explanations.md) | [Historical Explanations](./historical_explanations.md)
+- [语言学解释](./linguistic_explanations.md) | [Linguistic Explanations](./linguistic_explanations.md)
+- [语言学通信解释](./linguistics_communication_explanations.md) | [Linguistics Communication Explanations](./linguistics_communication_explanations.md)
+- [数学自然解释](./mathematics_nature_explanations.md) | [Mathematics Nature Explanations](./mathematics_nature_explanations.md)
+- [媒体信息解释](./media_information_explanations.md) | [Media Information Explanations](./media_information_explanations.md)
+- [医学健康解释](./medicine_health_explanations.md) | [Medicine Health Explanations](./medicine_health_explanations.md)
+- [音乐解释](./music_explanations.md) | [Music Explanations](./music_explanations.md)
+- [观察者感知](./observer_perception.md) | [Observer Perception](./observer_perception.md)
+- [哲学解释](./philosophical_explanations.md) | [Philosophical Explanations](./philosophical_explanations.md)
+- [政治治理解释](./politics_governance_explanations.md) | [Politics Governance Explanations](./politics_governance_explanations.md)
+- [心理学解释](./psychological_explanations.md) | [Psychological Explanations](./psychological_explanations.md)
+- [宗教解释](./religious_explanations.md) | [Religious Explanations](./religious_explanations.md)
+- [繁殖量子信息](./reproduction_quantum_information.md) | [Reproduction Quantum Information](./reproduction_quantum_information.md)
+- [社会量子纠缠](./social_quantum_entanglement.md) | [Social Quantum Entanglement](./social_quantum_entanglement.md)
+- [社会学解释](./sociological_explanations.md) | [Sociological Explanations](./sociological_explanations.md)
+- [精神维度](./spiritual_dimensions.md) | [Spiritual Dimensions](./spiritual_dimensions.md)
+- [体育运动解释](./sports_movement_explanations.md) | [Sports Movement Explanations](./sports_movement_explanations.md)
+- [术语](./terminology.md) | [Terminology](./terminology.md)
+- [传统物理解释](./traditional_physics_explained.md) | [Traditional Physics Explained](./traditional_physics_explained.md)
+- [未解释现象](./unexplained_phenomena.md) | [Unexplained Phenomena](./unexplained_phenomena.md)
+- [宇宙纠缠熵](./universe_entanglement_entropy.md) | [Universe Entanglement Entropy](./universe_entanglement_entropy.md)
+- [宇宙结构](./universe_structure.md) | [Universe Structure](./universe_structure.md)
+- [城市规划发展解释](./urban_planning_development_explanations.md) | [Urban Planning Development Explanations](./urban_planning_development_explanations.md)
+
+### 理论应用 | Theory Applications
+- [黑洞信息](./applications/black_hole_information.md) | [Black Hole Information](./applications/black_hole_information.md)
+- [天体信息节点](./applications/celestial_information_nodes.md) | [Celestial Information Nodes](./applications/celestial_information_nodes.md)
+- [观察者层次结构](./applications/observer_hierarchy.md) | [Observer Hierarchy](./applications/observer_hierarchy.md)
+- [虫洞纠缠](./applications/wormhole_entanglement.md) | [Wormhole Entanglement](./applications/wormhole_entanglement.md)
+
+### 观察者感知 | Observer Perception
+- [黑洞观察者](./observer_perception/black_hole_observer.md) | [Black Hole Observer](./observer_perception/black_hole_observer.md)
+
+### 量子经典 | Quantum Classical
+- [量子经典概述](./quantum_classical/README.md) | [Quantum Classical Overview](./quantum_classical/README.md)
+- [经典意识](./quantum_classical/classical_consciousness.md) | [Classical Consciousness](./quantum_classical/classical_consciousness.md)
+- [量子观察者](./quantum_classical/quantum_observer.md) | [Quantum Observer](./quantum_classical/quantum_observer.md)
+- [量子宇宙](./quantum_classical/quantum_universe.md) | [Quantum Universe](./quantum_classical/quantum_universe.md)
+
+### 科幻分析 | Sci-Fi Analysis
+- [三体评论](./sci_fi_analysis/three_body_critique.md) | [Three Body Critique](./sci_fi_analysis/three_body_critique.md)
+
+### 宇宙结构 | Universe Structure
+- [观察者维度演化](./universe_structure/observer_dimension_evolution.md) | [Observer Dimension Evolution](./universe_structure/observer_dimension_evolution.md)
+
+## 返回 | Return
+
+[返回主页](../README.md) | [Return to Main Page](../README.md) 

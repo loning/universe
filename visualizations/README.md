@@ -186,4 +186,19 @@ Visualizations in Quantum-Classical Dualism follow these design principles:
 4. **Interactivity**: Allowing users to deepen understanding through interaction
 5. **Aesthetics**: Focusing on visual design to enhance aesthetic experience
 6. **Cross-cultural**: Considering different cultural backgrounds in understanding
-7. **Bilingual Expression**: Providing bilingual explanations for all visualizations 
+7. **Bilingual Expression**: Providing bilingual explanations for all visualizations
+
+# 可视化 | Visualizations
+
+## 简介 | Introduction
+
+本目录包含宇宙观察者理论的各种可视化表示和图表。
+This directory contains various visual representations and diagrams of the Universe Observer Theory.
+
+## 目录 | Contents
+
+- [核心概念可视化](./core_concepts.md) | [Core Concepts Visualization](./core_concepts.md)
+
+## 返回 | Return
+
+[返回主页](../README.md) | [Return to Main Page](../README.md) 

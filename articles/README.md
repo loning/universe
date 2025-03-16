@@ -1,3 +1,30 @@
+# 文章 | Articles
+
+## 简介 | Introduction
+
+本目录包含与宇宙观察者理论相关的各种文章和探讨。
+This directory contains various articles and discussions related to the Universe Observer Theory.
+
+## 目录 | Contents
+
+- [古代智慧与量子](./ancient_wisdom_quantum.md) | [Ancient Wisdom and Quantum](./ancient_wisdom_quantum.md)
+- [大脑量子计算机](./brain_quantum_computer.md) | [Brain as Quantum Computer](./brain_quantum_computer.md)
+- [意识塑造宇宙](./consciousness_shapes_universe.md) | [Consciousness Shapes Universe](./consciousness_shapes_universe.md)
+- [死亡幻觉量子](./death_illusion_quantum.md) | [Death Illusion Quantum](./death_illusion_quantum.md)
+- [情绪DNA量子](./emotions_dna_quantum.md) | [Emotions DNA Quantum](./emotions_dna_quantum.md)
+- [量子经典入门](./quantum_classical_for_beginners.md) | [Quantum Classical for Beginners](./quantum_classical_for_beginners.md)
+- [量子创造力](./quantum_creativity.md) | [Quantum Creativity](./quantum_creativity.md)
+- [量子梦境](./quantum_dreams.md) | [Quantum Dreams](./quantum_dreams.md)
+- [量子健康](./quantum_health.md) | [Quantum Health](./quantum_health.md)
+- [量子直觉](./quantum_intuition.md) | [Quantum Intuition](./quantum_intuition.md)
+- [量子爱情](./quantum_love.md) | [Quantum Love](./quantum_love.md)
+- [量子成功](./quantum_success.md) | [Quantum Success](./quantum_success.md)
+- [模拟现实量子](./simulated_reality_quantum.md) | [Simulated Reality Quantum](./simulated_reality_quantum.md)
+
+## 返回 | Return
+
+[返回主页](../README.md) | [Return to Main Page](../README.md)
+
 # 量子经典二元论文章 (Quantum-Classical Dualism Articles)
 
 ## 中文版

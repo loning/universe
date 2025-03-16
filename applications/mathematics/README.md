@@ -1,3 +1,19 @@
+# 数学应用 | Mathematical Applications
+
+## 简介 | Introduction
+
+本目录探讨宇宙观察者理论的数学应用和数学基础。
+This directory explores the mathematical applications and foundations of the Universe Observer Theory.
+
+## 目录 | Contents
+
+- [数学桥梁](./mathematical_bridges.md) | [Mathematical Bridges](./mathematical_bridges.md)
+
+## 返回 | Return
+
+[返回应用目录](../README.md) | [Return to Applications](../README.md)
+[返回主页](../../README.md) | [Return to Main Page](../../README.md)
+
 # 量子经典二元论数学应用 (Quantum-Classical Dualism Mathematical Applications)
 
 ## 中文版

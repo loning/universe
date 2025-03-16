@@ -1,3 +1,38 @@
+# 应用 | Applications
+
+## 简介 | Introduction
+
+本目录包含宇宙观察者理论的各种应用场景和实际用例。
+This directory contains various application scenarios and practical use cases of the Universe Observer Theory.
+
+## 目录 | Contents
+
+- [命运与自由意志应用](./destiny_free_will_applications.md) | [Destiny and Free Will Applications](./destiny_free_will_applications.md)
+- [量子计算与意识](./quantum_computing_consciousness.md) | [Quantum Computing and Consciousness](./quantum_computing_consciousness.md)
+
+### 数学应用 | Mathematical Applications
+- [数学桥梁](./mathematics/mathematical_bridges.md) | [Mathematical Bridges](./mathematics/mathematical_bridges.md)
+
+### 观察者理论应用 | Observer Theory Applications
+- [文明经典化](./observer_theory/civilization_classicalization.md) | [Civilization Classicalization](./observer_theory/civilization_classicalization.md)
+- [经典化世界](./observer_theory/classicalization_worlds.md) | [Classicalization Worlds](./observer_theory/classicalization_worlds.md)
+- [命运与自由意志比较](./observer_theory/destiny_free_will_comparison.md) | [Destiny and Free Will Comparison](./observer_theory/destiny_free_will_comparison.md)
+- [维度幸福关系](./observer_theory/dimension_happiness_relationships.md) | [Dimension Happiness Relationships](./observer_theory/dimension_happiness_relationships.md)
+- [熵与知识二元性](./observer_theory/entropy_knowledge_duality.md) | [Entropy Knowledge Duality](./observer_theory/entropy_knowledge_duality.md)
+- [熵减少与再生](./observer_theory/entropy_reduction_rejuvenation.md) | [Entropy Reduction and Rejuvenation](./observer_theory/entropy_reduction_rejuvenation.md)
+- [信息传输](./observer_theory/information_transmission.md) | [Information Transmission](./observer_theory/information_transmission.md)
+- [观察波函数熵](./observer_theory/observation_wavefunction_entropy.md) | [Observation Wavefunction Entropy](./observer_theory/observation_wavefunction_entropy.md)
+- [观察者自我理解](./observer_theory/observer_self_understanding.md) | [Observer Self-Understanding](./observer_theory/observer_self_understanding.md)
+- [宇宙游戏时间长寿](./observer_theory/universe_game_time_longevity.md) | [Universe Game Time Longevity](./observer_theory/universe_game_time_longevity.md)
+
+### 关系应用 | Relationship Applications
+- [人际冲突](./relationships/interpersonal_conflicts.md) | [Interpersonal Conflicts](./relationships/interpersonal_conflicts.md)
+- [爱与吸引力](./relationships/love_attraction.md) | [Love and Attraction](./relationships/love_attraction.md)
+
+## 返回 | Return
+
+[返回主页](../README.md) | [Return to Main Page](../README.md)
+
 # 量子经典二元论应用理论 (Quantum-Classical Dualism Application Theories)
 
 ## 中文版

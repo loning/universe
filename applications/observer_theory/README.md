@@ -1,3 +1,28 @@
+# 观察者理论应用 | Observer Theory Applications
+
+## 简介 | Introduction
+
+本目录包含与观察者理论相关的各种应用和实际案例。
+This directory contains various applications and practical cases related to Observer Theory.
+
+## 目录 | Contents
+
+- [文明经典化](./civilization_classicalization.md) | [Civilization Classicalization](./civilization_classicalization.md)
+- [经典化世界](./classicalization_worlds.md) | [Classicalization Worlds](./classicalization_worlds.md)
+- [命运与自由意志比较](./destiny_free_will_comparison.md) | [Destiny and Free Will Comparison](./destiny_free_will_comparison.md)
+- [维度幸福关系](./dimension_happiness_relationships.md) | [Dimension Happiness Relationships](./dimension_happiness_relationships.md)
+- [熵与知识二元性](./entropy_knowledge_duality.md) | [Entropy Knowledge Duality](./entropy_knowledge_duality.md)
+- [熵减少与再生](./entropy_reduction_rejuvenation.md) | [Entropy Reduction and Rejuvenation](./entropy_reduction_rejuvenation.md)
+- [信息传输](./information_transmission.md) | [Information Transmission](./information_transmission.md)
+- [观察波函数熵](./observation_wavefunction_entropy.md) | [Observation Wavefunction Entropy](./observation_wavefunction_entropy.md)
+- [观察者自我理解](./observer_self_understanding.md) | [Observer Self-Understanding](./observer_self_understanding.md)
+- [宇宙游戏时间长寿](./universe_game_time_longevity.md) | [Universe Game Time Longevity](./universe_game_time_longevity.md)
+
+## 返回 | Return
+
+[返回应用目录](../README.md) | [Return to Applications](../README.md)
+[返回主页](../../README.md) | [Return to Main Page](../../README.md)
+
 # 量子经典二元论观察者理论应用 (Quantum-Classical Dualism Observer Theory Applications)
 
 ## 中文版
