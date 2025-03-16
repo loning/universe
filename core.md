@@ -22,6 +22,10 @@ $$
 |\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{观察者经典化}}\sum_i(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息（恒定）}}
 $$
 
+```math
+|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{观察者经典化}}\sum_i(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息（恒定）}}
+```
+
 ### 二、量子观察者与维度机制
 
 - **量子观察者**：  
@@ -207,6 +211,10 @@ $$
 $$
 |\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Observer Classicalization}}\sum_i(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i})=I_{\text{Classical Information (Constant)}}
 $$
+
+```math
+|\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Observer Classicalization}}\sum_i(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i})=I_{\text{Classical Information (Constant)}}
+```
 
 ### II. Quantum Observer and Dimension Mechanism
 
