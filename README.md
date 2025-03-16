@@ -7,80 +7,80 @@
 ### 项目结构
 
 #### 核心理论 | Core Theory
-- [核心理论](./core.md) - 量子经典二元论的基本概念和数学框架
-- [简介](./01_introduction.md) - 量子经典二元论的基本介绍
-- [基本概念](./02_basic_concepts.md) - 量子经典二元论的关键概念解释
-- [理论框架](./03_theoretical_framework.md) - 量子经典二元论的理论结构
-- [数学公式](./04_mathematical_formulations.md) - 量子经典二元论的数学表达
-- [观察者与意识](./05_observer_and_consciousness.md) - 量子经典二元论中的观察者与意识
-- [宇宙与观察者关系](./06_universe_observer_relationship.md) - 量子经典二元论中的宇宙与观察者关系
-- [应用与启示](./07_applications_and_implications.md) - 量子经典二元论的应用与启示
-- [框架应用](./08_framework_application.md) - 量子经典二元论的框架应用
-- [参考文献](./08_references.md) - 量子经典二元论的相关参考文献
-- [命运与自由意志](./10_destiny_and_free_will.md) - 量子经典二元论中的命运与自由意志
-- [量子纠缠本质](./11_quantum_entanglement_essence.md) - 量子经典二元论中的量子纠缠本质
+- [核心理论](./core.md) - 量子经典二元论核心理论 (Quantum-Classical Dualism Core Theory)
+- [简介](./01_introduction.md) - 简介 (Introduction)
+- [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)
+- [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)
+- [数学公式](./04_mathematical_formulations.md) - 数学公式 (Mathematical Formulations)
+- [观察者与意识](./05_observer_and_consciousness.md) - 观察者与意识 (Observer and Consciousness)
+- [宇宙与观察者关系](./06_universe_observer_relationship.md) - 宇宙与观察者关系 (Universe-Observer Relationship)
+- [应用与启示](./07_applications_and_implications.md) - 应用与启示 (Applications and Implications)
+- [框架应用](./08_framework_application.md) - 量子经典二元论在实际框架中的应用
+- [参考文献](./08_references.md) - 参考文献 (References)
+- [命运与自由意志](./10_destiny_and_free_will.md) - 命运与自由意志 (Destiny and Free Will)
+- [量子纠缠本质](./11_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)
 
 #### 应用 | Applications
-- [应用概述](./applications/README.md) - 理论在各个领域的应用
-- [命运与自由意志应用](./applications/destiny_free_will_applications.md) - 命运与自由意志的应用
-- [量子计算与意识](./applications/quantum_computing_consciousness.md) - 量子计算与意识的关系
+- [应用概述](./applications/README.md) - 应用 | Applications
+- [命运与自由意志应用](./applications/destiny_free_will_applications.md) - 命运与自由意志应用 (Destiny and Free Will Applications)
+- [量子计算与意识](./applications/quantum_computing_consciousness.md) - 量子计算与意识 (Quantum Computing and Consciousness)
 
 ##### 数学应用 | Mathematical Applications
-- [数学桥梁](./applications/mathematics/mathematical_bridges.md) - 数学桥梁理论
+- [数学桥梁](./applications/mathematics/mathematical_bridges.md) - 数学桥梁与宇宙经典化 (Mathematical Bridges and Universe Classicalization)
 
 ##### 观察者理论应用 | Observer Theory Applications
-- [文明经典化](./applications/observer_theory/civilization_classicalization.md) - 文明经典化理论
-- [经典化世界](./applications/observer_theory/classicalization_worlds.md) - 经典化世界理论
-- [命运与自由意志比较](./applications/observer_theory/destiny_free_will_comparison.md) - 命运与自由意志比较
-- [维度幸福关系](./applications/observer_theory/dimension_happiness_relationships.md) - 维度与幸福的关系
-- [熵与知识二元性](./applications/observer_theory/entropy_knowledge_duality.md) - 熵与知识的二元性
-- [熵减少与再生](./applications/observer_theory/entropy_reduction_rejuvenation.md) - 熵减少与再生理论
-- [信息传输](./applications/observer_theory/information_transmission.md) - 信息传输理论
-- [观察波函数熵](./applications/observer_theory/observation_wavefunction_entropy.md) - 观察波函数熵理论
-- [观察者自我理解](./applications/observer_theory/observer_self_understanding.md) - 观察者自我理解理论
-- [宇宙游戏时间长寿](./applications/observer_theory/universe_game_time_longevity.md) - 宇宙游戏时间长寿理论
+- [文明经典化](./applications/observer_theory/civilization_classicalization.md) - 文明层级与观察者经典化能力 (Civilization Levels and Observer Classicalization Capacity)
+- [经典化世界](./applications/observer_theory/classicalization_worlds.md) - 经典化世界的多样性与交织关系 (Diversity and Interweaving Relationships of Classicalization Worlds)
+- [命运与自由意志比较](./applications/observer_theory/destiny_free_will_comparison.md) - 命运的量子经典二元解析：从天体到人类 (Quantum-Classical Dualism Analysis of Destiny: From Celestial Bodies to Humans)
+- [维度幸福关系](./applications/observer_theory/dimension_happiness_relationships.md) - 维度、快乐与人际关系的量子经典分析 (Dimensional Analysis of Happiness and Relationships)
+- [熵与知识二元性](./applications/observer_theory/entropy_knowledge_duality.md) - 观察者熵知识对偶性理论 (Observer Entropy-Knowledge Duality Theory)
+- [熵减少与再生](./applications/observer_theory/entropy_reduction_rejuvenation.md) - 熵减与年轻化的量子经典解析
+- [信息传输](./applications/observer_theory/information_transmission.md) - 信息传递的量子经典过程 (Quantum-Classical Process of Information Transmission)
+- [观察波函数熵](./applications/observer_theory/observation_wavefunction_entropy.md) - 观测的本质：波函数求解与熵产生的关系 (The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation)
+- [观察者自我理解](./applications/observer_theory/observer_self_understanding.md) - 观察者自我理解的局限性理论 (Theory of Observer Self-Understanding Limitations)
+- [宇宙游戏时间长寿](./applications/observer_theory/universe_game_time_longevity.md) - 宇宙游戏模型与时间、寿命的量子经典解释 (Universe Game Model, Time, and Longevity)
 
 ##### 关系应用 | Relationship Applications
-- [人际冲突](./applications/relationships/interpersonal_conflicts.md) - 人际冲突的量子经典本质及解决路径
-- [爱与吸引力](./applications/relationships/love_attraction.md) - 爱与吸引力的量子经典解释
+- [人际冲突](./applications/relationships/interpersonal_conflicts.md) - 人际冲突的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Interpersonal Conflicts)
+- [爱与吸引力](./applications/relationships/love_attraction.md) - 爱情与吸引力的量子经典解释 (Quantum-Classical Explanation of Love and Attraction)
 
 #### 文章 | Articles
-- [文章概述](./articles/README.md) - 相关文章概述
-- [古代智慧与量子](./articles/ancient_wisdom_quantum.md) - 古代智慧与量子的关系
-- [大脑量子计算机](./articles/brain_quantum_computer.md) - 大脑作为量子计算机的解释
-- [意识塑造宇宙](./articles/consciousness_shapes_universe.md) - 意识如何塑造宇宙
-- [死亡幻觉量子](./articles/death_illusion_quantum.md) - 死亡幻觉的量子解释
-- [情绪DNA量子](./articles/emotions_dna_quantum.md) - 情绪与DNA的量子关系
-- [量子经典入门](./articles/quantum_classical_for_beginners.md) - 量子经典理论入门
-- [量子创造力](./articles/quantum_creativity.md) - 量子创造力理论
-- [量子梦境](./articles/quantum_dreams.md) - 量子梦境理论
-- [量子健康](./articles/quantum_health.md) - 量子健康理论
-- [量子直觉](./articles/quantum_intuition.md) - 量子直觉理论
-- [量子爱情](./articles/quantum_love.md) - 量子爱情理论
-- [量子成功](./articles/quantum_success.md) - 量子成功理论
-- [模拟现实量子](./articles/simulated_reality_quantum.md) - 模拟现实的量子解释
+- [文章概述](./articles/README.md) - 文章 | Articles
+- [古代智慧与量子](./articles/ancient_wisdom_quantum.md) - 【震惊】古代智慧与现代量子物理的惊人一致！数千年前的先知已经知道的秘密
+- [大脑量子计算机](./articles/brain_quantum_computer.md) - 【颠覆认知】你的大脑其实是宇宙最强大的量子计算机！科学家揭示惊人真相
+- [意识塑造宇宙](./articles/consciousness_shapes_universe.md) - 【震撼真相】你的意识正在塑造宇宙！量子经典二元论揭示的惊人秘密
+- [死亡幻觉量子](./articles/death_illusion_quantum.md) - 【震撼揭秘】死亡可能只是一种幻觉！量子经典二元论对生命终极问题的惊人解答
+- [情绪DNA量子](./articles/emotions_dna_quantum.md) - 【惊人发现】科学家证实：你的情绪正在改变你的DNA！量子生物学的突破性发现
+- [量子经典入门](./articles/quantum_classical_for_beginners.md) - 量子经典二元论入门 (Quantum-Classical Dualism for Beginners)
+- [量子创造力](./articles/quantum_creativity.md) - 【突破性发现】创造力的量子秘密：为什么灵感总是在最意想不到的时刻出现？
+- [量子梦境](./articles/quantum_dreams.md) - 【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现
+- [量子健康](./articles/quantum_health.md) - 【颠覆医学】健康不是你想的那样！量子经典二元论揭示的身体真相
+- [量子直觉](./articles/quantum_intuition.md) - 【揭秘】为什么有些人总能预见未来？科学家发现的惊人能力与量子纠缠的关系
+- [量子爱情](./articles/quantum_love.md) - 【颠覆认知】爱不只是情感，而是一种量子连接！科学家发现的惊人真相
+- [量子成功](./articles/quantum_success.md) - 【揭秘】为什么有些人能轻松成功而其他人却挣扎不已？量子经典二元论揭示的成功秘密
+- [模拟现实量子](./articles/simulated_reality_quantum.md) - 【惊人发现】我们可能生活在一个模拟宇宙中！量子经典二元论与模拟现实理论的惊人联系
 
 #### 理论 | Theories
-- [理论概述](./theories/README.md) - 理论概述
-- [解释谜题](./theories/explained_puzzles.md) - 解释谜题
-- [科学解释](./theories/scientific_explanations.md) - 主流科学视角下的量子经典二元论
-- [黑洞经典化](./theories/black_hole_classicalization.md) - 黑洞经典化理论
-- [意识持久性](./theories/consciousness_persistence.md) - 意识持久性理论
-- [熵观察者维度](./theories/entropy_observer_dimension.md) - 熵观察者维度理论
-- [自由意志量子纠缠](./theories/free_will_quantum_entanglement.md) - 自由意志与量子纠缠
-- [未来研究](./theories/future_research.md) - 未来研究方向
-- [高维经典化](./theories/higher_dimensional_classicalization.md) - 高维经典化理论
-- [观察者感知](./theories/observer_perception.md) - 观察者感知理论
-- [繁殖量子信息](./theories/reproduction_quantum_information.md) - 繁殖量子信息理论
-- [术语](./theories/terminology.md) - 术语解释
-- [未解释现象](./theories/unexplained_phenomena.md) - 未解释现象
-- [宇宙纠缠熵](./theories/universe_entanglement_entropy.md) - 宇宙纠缠熵理论
-- [宇宙结构](./theories/universe_structure.md) - 宇宙结构理论
+- [理论概述](./theories/README.md) - 量子宇宙-量子观察者-经典意识论理论集
+- [解释谜题](./theories/explained_puzzles.md) - 已解释谜题
+- [科学解释](./theories/scientific_explanations.md) - 主流科学视角下的量子经典二元论 (Quantum-Classical Dualism from Mainstream Scientific Perspectives)
+- [黑洞经典化](./theories/black_hole_classicalization.md) - 黑洞：宇宙信息经典化的极致节点 (Black Holes: Ultimate Nodes of Universal Information Classicalization)
+- [意识持久性](./theories/consciousness_persistence.md) - 意识的持久性与传递 | Consciousness Persistence and Transmission
+- [熵观察者维度](./theories/entropy_observer_dimension.md) - 熵、观察者与维度 | Entropy, Observer, and Dimension
+- [自由意志量子纠缠](./theories/free_will_quantum_entanglement.md) - 自由意志与量子纠缠 (Free Will and Quantum Entanglement)
+- [未来研究](./theories/future_research.md) - 未来研究方向 | Future Research Directions
+- [高维经典化](./theories/higher_dimensional_classicalization.md) - 高维信息经典化学 (Higher-Dimensional Information Classicalization)
+- [观察者感知](./theories/observer_perception.md) - 观察者感知宇宙的机制 | Observer's Perception of the Universe
+- [繁殖量子信息](./theories/reproduction_quantum_information.md) - 生育过程与亲子关系的量子经典解释 (Quantum-Classical Explanation of Reproduction and Parent-Child Relationships)
+- [术语](./theories/terminology.md) - 量子经典二元论术语表 (Quantum-Classical Dualism Terminology)
+- [未解释现象](./theories/unexplained_phenomena.md) - 量子宇宙-量子观察者-经典意识论尚未完全解释的物理现象
+- [宇宙纠缠熵](./theories/universe_entanglement_entropy.md) - 量子宇宙的整体纠缠结构与熵的本质研究
+- [宇宙结构](./theories/universe_structure.md) - 宇宙结构与演化 | Universe Structure and Evolution
+- [感知、梦境与熵变化](./theories/entropy_changes_daily_life.md) - 量子经典二元论视角下感知过程、梦境状态与日常生活中的熵变化规律
 
 ##### 科学视角 | Scientific Perspectives
 - [市场营销视角](./theories/scientific_perspectives/marketing_explanation.md) - 量子经典二元论视角下的市场营销理论分析
 - [冥想减熵机制](./theories/scientific_perspectives/meditation_entropy_reduction.md) - 量子经典二元论视角下冥想如何降低心智系统熵值
-- [感知、梦境与熵变化](./theories/entropy_changes_daily_life.md) - 量子经典二元论视角下感知过程、梦境状态与日常生活中的熵变化规律
 - [物理学解释](./theories/scientific_perspectives/physics_explanation.md) - 物理学视角下的量子经典二元论
 - [数学解释](./theories/scientific_perspectives/mathematics_explanation.md) - 数学视角下的量子经典二元论
 - [生物学解释](./theories/scientific_perspectives/biology_explanation.md) - 生物学视角下的量子经典二元论
@@ -100,95 +100,95 @@
 - [管理学解释](./theories/scientific_perspectives/management_explanation.md) - 管理学视角下的量子经典二元论
 
 ##### 应用学科 | Applied Disciplines
-- [AI计算解释](./theories/applied_disciplines/ai_computation_explanations.md) - AI计算的解释
-- [AI解释](./theories/applied_disciplines/ai_explanations.md) - AI的解释
-- [建筑学解释](./theories/applied_disciplines/architecture_explanation.md) - 建筑学解释
-- [建筑空间解释](./theories/applied_disciplines/architecture_space_explanations.md) - 建筑空间的解释
-- [艺术美学解释](./theories/applied_disciplines/art_aesthetics_explanations.md) - 艺术美学的解释
-- [艺术解释](./theories/applied_disciplines/art_explanation.md) - 艺术解释
-- [烹饪食物解释](./theories/applied_disciplines/cooking_food_explanations.md) - 烹饪食物的解释
-- [梦境睡眠解释](./theories/applied_disciplines/dream_sleep_explanations.md) - 梦境睡眠的解释
-- [教育学习解释](./theories/applied_disciplines/education_learning_explanations.md) - 教育学习的解释
-- [教育解释](./theories/applied_disciplines/educational_explanations.md) - 教育的解释
-- [时尚服装解释](./theories/applied_disciplines/fashion_clothing_explanations.md) - 时尚服装的解释
-- [金融解释](./theories/applied_disciplines/finance_explanation.md) - 金融解释
-- [游戏娱乐解释](./theories/applied_disciplines/game_entertainment_explanations.md) - 游戏娱乐的解释
-- [法律解释](./theories/applied_disciplines/law_explanation.md) - 法律解释
-- [管理学解释](./theories/applied_disciplines/management_explanation.md) - 管理学解释
-- [市场营销解释](./theories/applied_disciplines/marketing_explanation.md) - 市场营销解释
-- [媒体信息解释](./theories/applied_disciplines/media_information_explanations.md) - 媒体信息的解释
-- [音乐解释](./theories/applied_disciplines/music_explanations.md) - 音乐的解释
-- [音乐学解释](./theories/applied_disciplines/musicology_explanation.md) - 音乐学解释
-- [体育运动解释](./theories/applied_disciplines/sports_movement_explanations.md) - 体育运动的解释
-- [城市规划发展解释](./theories/applied_disciplines/urban_planning_development_explanations.md) - 城市规划发展的解释
+- [AI计算解释](./theories/applied_disciplines/ai_computation_explanations.md) - 人工智能与计算理论解释 (Artificial Intelligence and Computation Theory Explanations)
+- [AI解释](./theories/applied_disciplines/ai_explanations.md) - 人工智能与计算科学解释 | AI and Computational Science Explanations
+- [建筑学解释](./theories/applied_disciplines/architecture_explanation.md) - 建筑学视角下的量子经典二元论 (Quantum-Classical Dualism from Architectural Perspective)
+- [建筑空间解释](./theories/applied_disciplines/architecture_space_explanations.md) - 建筑学与空间设计解释 (Architecture and Spatial Design Explanations)
+- [艺术美学解释](./theories/applied_disciplines/art_aesthetics_explanations.md) - 艺术与美学问题解释 | Art and Aesthetics Explanations
+- [艺术解释](./theories/applied_disciplines/art_explanation.md) - 艺术视角下的量子经典二元论 (Quantum-Classical Dualism from Art Perspective)
+- [烹饪食物解释](./theories/applied_disciplines/cooking_food_explanations.md) - 烹饪与食物文化解释 (Cooking and Food Culture Explanations)
+- [梦境睡眠解释](./theories/applied_disciplines/dream_sleep_explanations.md) - 梦境与睡眠科学解释 (Dream and Sleep Science Explanations)
+- [教育学习解释](./theories/applied_disciplines/education_learning_explanations.md) - 教育与学习理论解释 (Education and Learning Theory Explanations)
+- [教育解释](./theories/applied_disciplines/educational_explanations.md) - 教育学问题解释 | Educational Explanations
+- [时尚服装解释](./theories/applied_disciplines/fashion_clothing_explanations.md) - 时尚与服装研究解释 (Fashion and Clothing Studies Explanations)
+- [金融解释](./theories/applied_disciplines/finance_explanation.md) - 金融视角下的量子经典二元论 (Quantum-Classical Dualism from Financial Perspective)
+- [游戏娱乐解释](./theories/applied_disciplines/game_entertainment_explanations.md) - 游戏与娱乐理论解释 (Game and Entertainment Theory Explanations)
+- [法律解释](./theories/applied_disciplines/law_explanation.md) - 法律视角下的量子经典二元论 (Quantum-Classical Dualism from Legal Perspective)
+- [管理学解释](./theories/applied_disciplines/management_explanation.md) - 管理学视角下的量子经典二元论 (Quantum-Classical Dualism from Management Perspective)
+- [市场营销解释](./theories/applied_disciplines/marketing_explanation.md) - 市场营销视角下的量子经典二元论 (Quantum-Classical Dualism from Marketing Perspective)
+- [媒体信息解释](./theories/applied_disciplines/media_information_explanations.md) - 传播媒体与信息理论的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Media and Information Theory)
+- [音乐解释](./theories/applied_disciplines/music_explanations.md) - 音乐学问题解释 (Musical Explanations)
+- [音乐学解释](./theories/applied_disciplines/musicology_explanation.md) -  
+- [体育运动解释](./theories/applied_disciplines/sports_movement_explanations.md) - 体育与运动科学问题解释 (Sports and Movement Science Explanations)
+- [城市规划发展解释](./theories/applied_disciplines/urban_planning_development_explanations.md) - 城市规划与发展理论的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Urban Planning and Development Theory)
 
 ##### 自然科学 | Natural Sciences
-- [生物学解释](./theories/natural_sciences/biological_explanations.md) - 生物学的解释
-- [生物学视角](./theories/natural_sciences/biology_explanation.md) - 生物学视角
-- [化学解释](./theories/natural_sciences/chemistry_explanation.md) - 化学解释
-- [环境生态解释](./theories/natural_sciences/environment_ecology_explanations.md) - 环境生态的解释
-- [环境解释](./theories/natural_sciences/environmental_explanations.md) - 环境的解释
-- [数学解释](./theories/natural_sciences/mathematics_explanation.md) - 数学解释
-- [数学自然解释](./theories/natural_sciences/mathematics_nature_explanations.md) - 数学自然的解释
-- [医学解释](./theories/natural_sciences/medicine_explanation.md) - 医学解释
-- [医学健康解释](./theories/natural_sciences/medicine_health_explanations.md) - 医学健康的解释
-- [物理学解释](./theories/natural_sciences/physics_explanation.md) - 物理学解释
-- [传统物理解释](./theories/natural_sciences/traditional_physics_explained.md) - 传统物理的解释
+- [生物学解释](./theories/natural_sciences/biological_explanations.md) - 生物学问题解释 | Biological Explanations
+- [生物学视角](./theories/natural_sciences/biology_explanation.md) - 生物学视角下的量子经典二元论 (Quantum-Classical Dualism from Biological Perspective)
+- [化学解释](./theories/natural_sciences/chemistry_explanation.md) - 化学视角下的量子经典二元论 (Quantum-Classical Dualism from Chemical Perspective)
+- [环境生态解释](./theories/natural_sciences/environment_ecology_explanations.md) - 环境科学与生态系统解释 (Environmental Science and Ecosystem Explanations)
+- [环境解释](./theories/natural_sciences/environmental_explanations.md) - 量子宇宙-量子观察者-经典意识论对环境科学问题的解释
+- [数学解释](./theories/natural_sciences/mathematics_explanation.md) - 数学视角下的量子经典二元论 (Quantum-Classical Dualism from Mathematics Perspective)
+- [数学自然解释](./theories/natural_sciences/mathematics_nature_explanations.md) - 数学本质解释 (Mathematics Nature Explanations)
+- [医学解释](./theories/natural_sciences/medicine_explanation.md) - 医学视角下的量子经典二元论 (Quantum-Classical Dualism from Medical Perspective)
+- [医学健康解释](./theories/natural_sciences/medicine_health_explanations.md) - 医学与健康科学解释 (Medicine and Health Science Explanations)
+- [物理学解释](./theories/natural_sciences/physics_explanation.md) - 物理学视角下的量子经典二元论 (Quantum-Classical Dualism from Physics Perspective)
+- [传统物理解释](./theories/natural_sciences/traditional_physics_explained.md) - 传统物理理论解释
 
 ##### 哲学人文 | Philosophy and Humanities
-- [伦理解释](./theories/philosophy_humanities/ethical_explanations.md) - 伦理的解释
-- [哲学解释](./theories/philosophy_humanities/philosophical_explanations.md) - 哲学的解释
-- [哲学视角](./theories/philosophy_humanities/philosophy_explanation.md) - 哲学视角
-- [宗教解释](./theories/philosophy_humanities/religious_explanations.md) - 宗教的解释
-- [宗教研究视角](./theories/philosophy_humanities/religious_studies_explanation.md) - 宗教研究视角
-- [精神维度](./theories/philosophy_humanities/spiritual_dimensions.md) - 精神维度理论
+- [伦理解释](./theories/philosophy_humanities/ethical_explanations.md) - 伦理学问题解释 | Ethical Explanations
+- [哲学解释](./theories/philosophy_humanities/philosophical_explanations.md) - 哲学问题解释 | Philosophical Explanations
+- [哲学视角](./theories/philosophy_humanities/philosophy_explanation.md) - 哲学视角下的量子经典二元论 (Quantum-Classical Dualism from Philosophical Perspective)
+- [宗教解释](./theories/philosophy_humanities/religious_explanations.md) - 量子宇宙-量子观察者-经典意识论对宗教学问题的解释
+- [宗教研究视角](./theories/philosophy_humanities/religious_studies_explanation.md) - 宗教学视角下的量子经典二元论 (Quantum-Classical Dualism from Religious Studies Perspective)
+- [精神维度](./theories/philosophy_humanities/spiritual_dimensions.md) - 灵性维度与经典化 (Spiritual Dimensions and Classicalization)
 
 ##### 社会科学 | Social Sciences
-- [经济经典量子](./theories/social_sciences/economic_classical_quantum.md) - 经济的经典量子解释
-- [经济解释](./theories/social_sciences/economic_explanations.md) - 经济的解释
-- [经济学解释](./theories/social_sciences/economics_explanation.md) - 经济学解释
-- [经济市场解释](./theories/social_sciences/economics_market_explanations.md) - 经济市场的解释
-- [历史解释](./theories/social_sciences/historical_explanations.md) - 历史的解释
-- [历史视角](./theories/social_sciences/history_explanation.md) - 历史视角
-- [语言学解释](./theories/social_sciences/linguistic_explanations.md) - 语言学的解释
-- [语言学通信解释](./theories/social_sciences/linguistics_communication_explanations.md) - 语言学通信的解释
-- [政治学解释](./theories/social_sciences/political_science_explanation.md) - 政治学解释
-- [政治治理解释](./theories/social_sciences/politics_governance_explanations.md) - 政治治理的解释
-- [心理学解释](./theories/social_sciences/psychological_explanations.md) - 心理学的解释
-- [心理学视角](./theories/social_sciences/psychology_explanation.md) - 心理学视角
-- [社会量子纠缠](./theories/social_sciences/social_quantum_entanglement.md) - 社会量子纠缠理论
-- [社会学解释](./theories/social_sciences/sociological_explanations.md) - 社会学的解释
+- [经济经典量子](./theories/social_sciences/economic_classical_quantum.md) -  
+- [经济解释](./theories/social_sciences/economic_explanations.md) - 经济学问题解释 | Economic Explanations
+- [经济学解释](./theories/social_sciences/economics_explanation.md) - 经济学视角下的量子经典二元论 (Quantum-Classical Dualism from Economics Perspective)
+- [经济市场解释](./theories/social_sciences/economics_market_explanations.md) -  
+- [历史解释](./theories/social_sciences/historical_explanations.md) - 量子宇宙-量子观察者-经典意识论对历史学问题的解释
+- [历史视角](./theories/social_sciences/history_explanation.md) - 历史学视角下的量子经典二元论 (Quantum-Classical Dualism from Historical Perspective)
+- [语言学解释](./theories/social_sciences/linguistic_explanations.md) - 语言学问题解释 | Linguistic Explanations
+- [语言学通信解释](./theories/social_sciences/linguistics_communication_explanations.md) - 语言学与交流理论解释 (Linguistics and Communication Theory Explanations)
+- [政治学解释](./theories/social_sciences/political_science_explanation.md) - 政治学视角下的量子经典二元论 (Quantum-Classical Dualism from Political Science Perspective)
+- [政治治理解释](./theories/social_sciences/politics_governance_explanations.md) - 政治科学与治理理论解释 (Political Science and Governance Theory Explanations)
+- [心理学解释](./theories/social_sciences/psychological_explanations.md) - 心理学问题解释 | Psychological Explanations
+- [心理学视角](./theories/social_sciences/psychology_explanation.md) - 心理学视角下的量子经典二元论 (Quantum-Classical Dualism from Psychological Perspective)
+- [社会量子纠缠](./theories/social_sciences/social_quantum_entanglement.md) - 社会行为中的量子纠缠效率排序 (Quantum Entanglement Efficiency Ranking in Social Behaviors)
+- [社会学解释](./theories/social_sciences/sociological_explanations.md) - 社会学问题解释 | Sociological Explanations
 
 ##### 理论应用 | Theory Applications
-- [黑洞信息](./theories/applications/black_hole_information.md) - 黑洞信息理论
-- [天体信息节点](./theories/applications/celestial_information_nodes.md) - 天体信息节点理论
-- [观察者层次结构](./theories/applications/observer_hierarchy.md) - 观察者层次结构理论
-- [虫洞纠缠](./theories/applications/wormhole_entanglement.md) - 虫洞纠缠理论
+- [黑洞信息](./theories/applications/black_hole_information.md) - 黑洞信息解码：量子宇宙观察者意识-经典记忆与熵论视角
+- [天体信息节点](./theories/applications/celestial_information_nodes.md) - 恒星与星系信息节点：宇宙量子信息经典化理论
+- [观察者层次结构](./theories/applications/observer_hierarchy.md) - 观察者层级网络：宇宙信息经典化的多维度结构
+- [虫洞纠缠](./theories/applications/wormhole_entanglement.md) - 虫洞量子纠缠：宇宙量子信息通道理论
 
 ##### 观察者感知 | Observer Perception
-- [黑洞观察者](./theories/observer_perception/black_hole_observer.md) - 黑洞观察者理论
+- [黑洞观察者](./theories/observer_perception/black_hole_observer.md) - 黑洞观察者 | Black Hole Observer
 
 ##### 量子经典 | Quantum Classical
-- [量子经典概述](./theories/quantum_classical/README.md) - 量子经典理论概述
-- [经典意识](./theories/quantum_classical/classical_consciousness.md) - 经典意识理论
-- [量子观察者](./theories/quantum_classical/quantum_observer.md) - 量子观察者理论
-- [量子宇宙](./theories/quantum_classical/quantum_universe.md) - 量子宇宙理论
+- [量子经典概述](./theories/quantum_classical/README.md) - 量子经典 | Quantum Classical
+- [经典意识](./theories/quantum_classical/classical_consciousness.md) - 经典意识 | Classical Consciousness
+- [量子观察者](./theories/quantum_classical/quantum_observer.md) - 量子观察者 | Quantum Observer
+- [量子宇宙](./theories/quantum_classical/quantum_universe.md) - 量子宇宙 | Quantum Universe
 
 ##### 科幻分析 | Sci-Fi Analysis
-- [三体评论](./theories/sci_fi_analysis/three_body_critique.md) - 三体评论
+- [三体评论](./theories/sci_fi_analysis/three_body_critique.md) - 《三体》宇宙观批判：基于量子经典二元论视角
 
 ##### 宇宙结构 | Universe Structure
-- [观察者维度演化](./theories/universe_structure/observer_dimension_evolution.md) - 观察者维度演化理论
+- [观察者维度演化](./theories/universe_structure/observer_dimension_evolution.md) - 宇宙本质与观察者维度提升
 
 #### 可视化 | Visualizations
-- [可视化概述](./visualizations/README.md) - 可视化概述
-- [核心概念可视化](./visualizations/core_concepts.md) - 核心概念可视化
+- [可视化概述](./visualizations/README.md) - 量子经典二元论可视化 (Quantum-Classical Dualism Visualizations)
+- [核心概念可视化](./visualizations/core_concepts.md) - 量子经典二元论核心概念可视化 (Quantum-Classical Dualism Core Concepts Visualization)
 
 #### 其他 | Others
-- [更新历史](./update_history.md) - 项目发展的里程碑记录
-- [更新计划](./update_plan.md) - 项目更新计划
-- [输入](./input/input.md) - 项目输入
-- [量子经典二元论核心理论](./core.md) - 量子经典二元论最新完整正式版本
+- [更新历史](./update_history.md) - 更新历史 (Update History)
+- [更新计划](./update_plan.md) - 更新计划 (Update Plan)
+- [输入](./input/input.md) - 基于【量子经典二元论】：
+- [量子经典二元论核心理论](./core.md) - 量子经典二元论核心理论 (Quantum-Classical Dualism Core Theory)
 
 ### 核心概念简介
 
@@ -246,188 +246,188 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 ### Project Structure
 
 #### Core Theory
-- [Core Theory](./core.md) - Basic concepts and mathematical framework of Quantum-Classical Dualism
-- [Introduction](./01_introduction.md) - Basic introduction to Quantum-Classical Dualism
-- [Basic Concepts](./02_basic_concepts.md) - Explanation of key concepts in Quantum-Classical Dualism
-- [Theoretical Framework](./03_theoretical_framework.md) - Theoretical structure of Quantum-Classical Dualism
-- [Mathematical Formulations](./04_mathematical_formulations.md) - Mathematical expressions of Quantum-Classical Dualism
-- [Observer and Consciousness](./05_observer_and_consciousness.md) - Observer and consciousness in Quantum-Classical Dualism
-- [Universe-Observer Relationship](./06_universe_observer_relationship.md) - Universe-observer relationship in Quantum-Classical Dualism
-- [Applications and Implications](./07_applications_and_implications.md) - Applications and implications of Quantum-Classical Dualism
-- [Framework Application](./08_framework_application.md) - Framework application of Quantum-Classical Dualism
-- [References](./08_references.md) - Related references for Quantum-Classical Dualism
-- [Destiny and Free Will](./10_destiny_and_free_will.md) - Destiny and free will in Quantum-Classical Dualism
-- [Quantum Entanglement Essence](./11_quantum_entanglement_essence.md) - Quantum entanglement essence in Quantum-Classical Dualism
+- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory
+- [Introduction](./01_introduction.md) - Introduction
+- [Basic Concepts](./02_basic_concepts.md) - Basic Concepts
+- [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework
+- [Mathematical Formulations](./04_mathematical_formulations.md) - Mathematical Formulations
+- [Observer and Consciousness](./05_observer_and_consciousness.md) - Observer and Consciousness
+- [Universe-Observer Relationship](./06_universe_observer_relationship.md) - Universe-Observer Relationship
+- [Applications and Implications](./07_applications_and_implications.md) - Applications and Implications
+- [Framework Application](./08_framework_application.md) - Quantum-Classical Dualism in Practical Framework Application
+- [References](./08_references.md) - References
+- [Destiny and Free Will](./10_destiny_and_free_will.md) - Destiny and Free Will
+- [Quantum Entanglement Essence](./11_quantum_entanglement_essence.md) - Quantum Entanglement Essence
 
 #### Applications
-- [Applications Overview](./applications/README.md) - Applications of the theory in various fields
-- [Destiny and Free Will Applications](./applications/destiny_free_will_applications.md) - Applications of destiny and free will
-- [Quantum Computing and Consciousness](./applications/quantum_computing_consciousness.md) - Relationship between quantum computing and consciousness
+- [Applications Overview](./applications/README.md) - Applications
+- [Destiny and Free Will Applications](./applications/destiny_free_will_applications.md) - Destiny and Free Will Applications
+- [Quantum Computing and Consciousness](./applications/quantum_computing_consciousness.md) - Quantum Computing and Consciousness
 
 ##### Mathematical Applications
-- [Mathematical Bridges](./applications/mathematics/mathematical_bridges.md) - Mathematical bridges theory
+- [Mathematical Bridges](./applications/mathematics/mathematical_bridges.md) - Mathematical Bridges and Universe Classicalization
 
 ##### Observer Theory Applications
-- [Civilization Classicalization](./applications/observer_theory/civilization_classicalization.md) - Civilization classicalization theory
-- [Classicalization Worlds](./applications/observer_theory/classicalization_worlds.md) - Classicalization worlds theory
-- [Destiny and Free Will Comparison](./applications/observer_theory/destiny_free_will_comparison.md) - Comparison of destiny and free will
-- [Dimension Happiness Relationships](./applications/observer_theory/dimension_happiness_relationships.md) - Relationship between dimension and happiness
-- [Entropy Knowledge Duality](./applications/observer_theory/entropy_knowledge_duality.md) - Duality of entropy and knowledge
-- [Entropy Reduction and Rejuvenation](./applications/observer_theory/entropy_reduction_rejuvenation.md) - Entropy reduction and rejuvenation theory
-- [Information Transmission](./applications/observer_theory/information_transmission.md) - Information transmission theory
-- [Observation Wavefunction Entropy](./applications/observer_theory/observation_wavefunction_entropy.md) - Observation wavefunction entropy theory
-- [Observer Self-Understanding](./applications/observer_theory/observer_self_understanding.md) - Observer self-understanding theory
-- [Universe Game Time Longevity](./applications/observer_theory/universe_game_time_longevity.md) - Universe game time longevity theory
+- [Civilization Classicalization](./applications/observer_theory/civilization_classicalization.md) - Civilization Levels and Observer Classicalization Capacity
+- [Classicalization Worlds](./applications/observer_theory/classicalization_worlds.md) - Diversity and Interweaving Relationships of Classicalization Worlds
+- [Destiny and Free Will Comparison](./applications/observer_theory/destiny_free_will_comparison.md) - Quantum-Classical Dualism Analysis of Destiny: From Celestial Bodies to Humans
+- [Dimension Happiness Relationships](./applications/observer_theory/dimension_happiness_relationships.md) - Dimensional Analysis of Happiness and Relationships
+- [Entropy Knowledge Duality](./applications/observer_theory/entropy_knowledge_duality.md) - Observer Entropy-Knowledge Duality Theory
+- [Entropy Reduction and Rejuvenation](./applications/observer_theory/entropy_reduction_rejuvenation.md) - Quantum-Classical Analysis of Entropy Reduction and Rejuvenation
+- [Information Transmission](./applications/observer_theory/information_transmission.md) - Quantum-Classical Process of Information Transmission
+- [Observation Wavefunction Entropy](./applications/observer_theory/observation_wavefunction_entropy.md) - The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation
+- [Observer Self-Understanding](./applications/observer_theory/observer_self_understanding.md) - Theory of Observer Self-Understanding Limitations
+- [Universe Game Time Longevity](./applications/observer_theory/universe_game_time_longevity.md) - Universe Game Model, Time, and Longevity Explained Through Quantum-Classical Theory
 
 ##### Relationship Applications
-- [Interpersonal Conflicts](./applications/relationships/interpersonal_conflicts.md) - Quantum-classical nature of interpersonal conflicts and resolution paths
-- [Love and Attraction](./applications/relationships/love_attraction.md) - Quantum-classical explanation of love and attraction
+- [Interpersonal Conflicts](./applications/relationships/interpersonal_conflicts.md) - Quantum-Classical Dualism Explanation of Interpersonal Conflicts
+- [Love and Attraction](./applications/relationships/love_attraction.md) - Quantum-Classical Explanation of Love and Attraction
 
 #### Articles
-- [Articles Overview](./articles/README.md) - Overview of related articles
-- [Ancient Wisdom and Quantum](./articles/ancient_wisdom_quantum.md) - Relationship between ancient wisdom and quantum
-- [Brain as Quantum Computer](./articles/brain_quantum_computer.md) - Explanation of the brain as a quantum computer
-- [Consciousness Shapes Universe](./articles/consciousness_shapes_universe.md) - How consciousness shapes the universe
-- [Death Illusion Quantum](./articles/death_illusion_quantum.md) - Quantum explanation of death illusion
-- [Emotions DNA Quantum](./articles/emotions_dna_quantum.md) - Quantum relationship between emotions and DNA
-- [Quantum Classical for Beginners](./articles/quantum_classical_for_beginners.md) - Introduction to quantum classical theory
-- [Quantum Creativity](./articles/quantum_creativity.md) - Quantum creativity theory
-- [Quantum Dreams](./articles/quantum_dreams.md) - Quantum dreams theory
-- [Quantum Health](./articles/quantum_health.md) - Quantum health theory
-- [Quantum Intuition](./articles/quantum_intuition.md) - Quantum intuition theory
-- [Quantum Love](./articles/quantum_love.md) - Quantum love theory
-- [Quantum Success](./articles/quantum_success.md) - Quantum success theory
-- [Simulated Reality Quantum](./articles/simulated_reality_quantum.md) - Quantum explanation of simulated reality
+- [Articles Overview](./articles/README.md) - Articles
+- [Ancient Wisdom and Quantum](./articles/ancient_wisdom_quantum.md) - [SHOCKING] The Amazing Consistency Between Ancient Wisdom and Modern Quantum Physics! Secrets Known to Prophets Thousands of Years Ago
+- [Brain as Quantum Computer](./articles/brain_quantum_computer.md) - [MIND-BLOWING] Your Brain is Actually the Universe's Most Powerful Quantum Computer! Scientists Reveal Astonishing Truth
+- [Consciousness Shapes Universe](./articles/consciousness_shapes_universe.md) - [STUNNING TRUTH] Your Consciousness is Shaping the Universe! Amazing Secrets Revealed by Quantum-Classical Dualism
+- [Death Illusion Quantum](./articles/death_illusion_quantum.md) - [SHOCKING REVELATION] Death Might Just Be an Illusion! Quantum-Classical Dualism's Astonishing Answer to Life's Ultimate Question
+- [Emotions DNA Quantum](./articles/emotions_dna_quantum.md) - [AMAZING DISCOVERY] Scientists Confirm: Your Emotions Are Changing Your DNA! Breakthrough Findings in Quantum Biology
+- [Quantum Classical for Beginners](./articles/quantum_classical_for_beginners.md) - Quantum-Classical Dualism for Beginners
+- [Quantum Creativity](./articles/quantum_creativity.md) - [BREAKTHROUGH] The Quantum Secret of Creativity: Why Inspiration Always Strikes at the Most Unexpected Moments
+- [Quantum Dreams](./articles/quantum_dreams.md) - [AMAZING TRUTH] Dreams Aren't Illusions, You're Visiting Parallel Universes! Breakthrough Discoveries in Quantum Dream Theory
+- [Quantum Health](./articles/quantum_health.md) - [MEDICAL REVOLUTION] Health Isn't What You Think! The Body Truth Revealed by Quantum-Classical Dualism
+- [Quantum Intuition](./articles/quantum_intuition.md) - [REVEALED] Why Can Some People Always Foresee the Future? The Astonishing Connection Between Scientists' Discovered Abilities and Quantum Entanglement
+- [Quantum Love](./articles/quantum_love.md) - [MIND-BLOWING] Love Isn't Just an Emotion, It's a Quantum Connection! Astonishing Truth Discovered by Scientists
+- [Quantum Success](./articles/quantum_success.md) - [REVEALED] Why Some People Succeed Effortlessly While Others Struggle? The Secret of Success Revealed by Quantum-Classical Dualism
+- [Simulated Reality Quantum](./articles/simulated_reality_quantum.md) - [AMAZING DISCOVERY] We Might Be Living in a Simulated Universe! The Astonishing Connection Between Quantum-Classical Dualism and Simulated Reality Theory
 
 #### Theories
-- [Theories Overview](./theories/README.md) - Overview of theories
-- [Explained Puzzles](./theories/explained_puzzles.md) - Explained puzzles
+- [Theories Overview](./theories/README.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory Collection
+- [Explained Puzzles](./theories/explained_puzzles.md) - Explained Puzzles
 - [Scientific Explanations](./theories/scientific_explanations.md) - Quantum-Classical Dualism from Mainstream Scientific Perspectives
-- [Black Hole Classicalization](./theories/black_hole_classicalization.md) - Black hole classicalization theory
-- [Consciousness Persistence](./theories/consciousness_persistence.md) - Consciousness persistence theory
-- [Entropy Observer Dimension](./theories/entropy_observer_dimension.md) - Entropy observer dimension theory
-- [Free Will Quantum Entanglement](./theories/free_will_quantum_entanglement.md) - Free will and quantum entanglement
-- [Future Research](./theories/future_research.md) - Future research directions
-- [Higher Dimensional Classicalization](./theories/higher_dimensional_classicalization.md) - Higher dimensional classicalization theory
-- [Observer Perception](./theories/observer_perception.md) - Observer perception theory
-- [Reproduction Quantum Information](./theories/reproduction_quantum_information.md) - Reproduction quantum information theory
-- [Terminology](./theories/terminology.md) - Terminology explanations
-- [Unexplained Phenomena](./theories/unexplained_phenomena.md) - Unexplained phenomena
-- [Universe Entanglement Entropy](./theories/universe_entanglement_entropy.md) - Universe entanglement entropy theory
-- [Universe Structure](./theories/universe_structure.md) - Universe structure theory
+- [Black Hole Classicalization](./theories/black_hole_classicalization.md) - Black Holes: Ultimate Nodes of Universal Information Classicalization
+- [Consciousness Persistence](./theories/consciousness_persistence.md) - Consciousness Persistence and Transmission
+- [Entropy Observer Dimension](./theories/entropy_observer_dimension.md) - Entropy, Observer, and Dimension
+- [Free Will Quantum Entanglement](./theories/free_will_quantum_entanglement.md) - Free Will and Quantum Entanglement
+- [Future Research](./theories/future_research.md) - Future Research Directions
+- [Higher Dimensional Classicalization](./theories/higher_dimensional_classicalization.md) - Higher-Dimensional Information Classicalization
+- [Observer Perception](./theories/observer_perception.md) - Observer's Perception of the Universe
+- [Reproduction Quantum Information](./theories/reproduction_quantum_information.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
+- [Terminology](./theories/terminology.md) - Quantum-Classical Dualism Terminology
+- [Unexplained Phenomena](./theories/unexplained_phenomena.md) - Physical Phenomena Not Fully Explained by Quantum Universe-Quantum Observer-Classical Consciousness Theory
+- [Universe Entanglement Entropy](./theories/universe_entanglement_entropy.md) - Research on the Holistic Entanglement Structure and Entropy Nature of the Quantum Universe
+- [Universe Structure](./theories/universe_structure.md) - Universe Structure and Evolution
+- [Perception, Dreams and Entropy Changes](./theories/entropy_changes_daily_life.md) - Patterns of Entropy Changes in Perception Processes, Dream States, and Daily Life from Quantum-Classical Dualism Perspective
 
 ##### Scientific Perspectives
-- [Marketing Perspective](./theories/scientific_perspectives/marketing_explanation.md) - Analysis of marketing theories from the perspective of Quantum-Classical Dualism
-- [Meditation Entropy Reduction](./theories/scientific_perspectives/meditation_entropy_reduction.md) - How meditation reduces entropy in mental systems from a Quantum-Classical Dualism perspective
-- [Perception, Dreams and Entropy Changes](./theories/entropy_changes_daily_life.md) - The patterns of entropy changes in perception processes, dream states, and daily activities from the perspective of Quantum-Classical Dualism
-- [Physics Explanation](./theories/scientific_perspectives/physics_explanation.md) - Quantum-Classical Dualism from Physics perspective
-- [Mathematics Explanation](./theories/scientific_perspectives/mathematics_explanation.md) - Quantum-Classical Dualism from Mathematics perspective
-- [Biology Explanation](./theories/scientific_perspectives/biology_explanation.md) - Quantum-Classical Dualism from Biology perspective
-- [Law Explanation](./theories/scientific_perspectives/law_explanation.md) - Quantum-Classical Dualism from Law perspective
-- [Medicine Explanation](./theories/scientific_perspectives/medicine_explanation.md) - Quantum-Classical Dualism from Medicine perspective
-- [Art Explanation](./theories/scientific_perspectives/art_explanation.md) - Quantum-Classical Dualism from Art perspective
-- [Architecture Explanation](./theories/scientific_perspectives/architecture_explanation.md) - Quantum-Classical Dualism from Architecture perspective
-- [Economics Explanation](./theories/scientific_perspectives/economics_explanation.md) - Quantum-Classical Dualism from Economics perspective
-- [Finance Explanation](./theories/scientific_perspectives/finance_explanation.md) - Quantum-Classical Dualism from Finance perspective
-- [History Explanation](./theories/scientific_perspectives/history_explanation.md) - Quantum-Classical Dualism from History perspective
-- [Psychology Explanation](./theories/scientific_perspectives/psychology_explanation.md) - Quantum-Classical Dualism from Psychology perspective
-- [Philosophy Explanation](./theories/scientific_perspectives/philosophy_explanation.md) - Quantum-Classical Dualism from Philosophy perspective
-- [Religious Studies Explanation](./theories/scientific_perspectives/religious_studies_explanation.md) - Quantum-Classical Dualism from Religious Studies perspective
-- [Chemistry Explanation](./theories/scientific_perspectives/chemistry_explanation.md) - Quantum-Classical Dualism from Chemistry perspective
-- [Musicology Explanation](./theories/scientific_perspectives/musicology_explanation.md) - Quantum-Classical Dualism from Musicology perspective
-- [Political Science Explanation](./theories/scientific_perspectives/political_science_explanation.md) - Quantum-Classical Dualism from Political Science perspective
-- [Management Explanation](./theories/scientific_perspectives/management_explanation.md) - Quantum-Classical Dualism from Management perspective
+- [Marketing Perspective](./theories/scientific_perspectives/marketing_explanation.md) - Analysis of Marketing Theories from Quantum-Classical Dualism Perspective
+- [Meditation Entropy Reduction](./theories/scientific_perspectives/meditation_entropy_reduction.md) - How Meditation Reduces Entropy in Mental Systems from Quantum-Classical Dualism Perspective
+- [Physics Explanation](./theories/scientific_perspectives/physics_explanation.md) - Quantum-Classical Dualism from Physics Perspective
+- [Mathematics Explanation](./theories/scientific_perspectives/mathematics_explanation.md) - Quantum-Classical Dualism from Mathematics Perspective
+- [Biology Explanation](./theories/scientific_perspectives/biology_explanation.md) - Quantum-Classical Dualism from Biology Perspective
+- [Law Explanation](./theories/scientific_perspectives/law_explanation.md) - Quantum-Classical Dualism from Law Perspective
+- [Medicine Explanation](./theories/scientific_perspectives/medicine_explanation.md) - Quantum-Classical Dualism from Medicine Perspective
+- [Art Explanation](./theories/scientific_perspectives/art_explanation.md) - Quantum-Classical Dualism from Art Perspective
+- [Architecture Explanation](./theories/scientific_perspectives/architecture_explanation.md) - Quantum-Classical Dualism from Architecture Perspective
+- [Economics Explanation](./theories/scientific_perspectives/economics_explanation.md) - Quantum-Classical Dualism from Economics Perspective
+- [Finance Explanation](./theories/scientific_perspectives/finance_explanation.md) - Quantum-Classical Dualism from Finance Perspective
+- [History Explanation](./theories/scientific_perspectives/history_explanation.md) - Quantum-Classical Dualism from History Perspective
+- [Psychology Explanation](./theories/scientific_perspectives/psychology_explanation.md) - Quantum-Classical Dualism from Psychology Perspective
+- [Philosophy Explanation](./theories/scientific_perspectives/philosophy_explanation.md) - Quantum-Classical Dualism from Philosophy Perspective
+- [Religious Studies Explanation](./theories/scientific_perspectives/religious_studies_explanation.md) - Quantum-Classical Dualism from Religious Studies Perspective
+- [Chemistry Explanation](./theories/scientific_perspectives/chemistry_explanation.md) - Quantum-Classical Dualism from Chemistry Perspective
+- [Musicology Explanation](./theories/scientific_perspectives/musicology_explanation.md) - Quantum-Classical Dualism from Musicology Perspective
+- [Political Science Explanation](./theories/scientific_perspectives/political_science_explanation.md) - Quantum-Classical Dualism from Political Science Perspective
+- [Management Explanation](./theories/scientific_perspectives/management_explanation.md) - Quantum-Classical Dualism from Management Perspective
 
 ##### Applied Disciplines
-- [AI Computation Explanations](./theories/applied_disciplines/ai_computation_explanations.md) - Explanations of AI computation
-- [AI Explanations](./theories/applied_disciplines/ai_explanations.md) - Explanations of AI
-- [Architecture Explanation](./theories/applied_disciplines/architecture_explanation.md) - Architecture explanation
-- [Architecture Space Explanations](./theories/applied_disciplines/architecture_space_explanations.md) - Explanations of architecture space
-- [Art Aesthetics Explanations](./theories/applied_disciplines/art_aesthetics_explanations.md) - Explanations of art aesthetics
-- [Art Explanation](./theories/applied_disciplines/art_explanation.md) - Art explanation
-- [Cooking Food Explanations](./theories/applied_disciplines/cooking_food_explanations.md) - Explanations of cooking food
-- [Dream Sleep Explanations](./theories/applied_disciplines/dream_sleep_explanations.md) - Explanations of dream sleep
-- [Education Learning Explanations](./theories/applied_disciplines/education_learning_explanations.md) - Explanations of education learning
-- [Educational Explanations](./theories/applied_disciplines/educational_explanations.md) - Explanations of education
-- [Fashion Clothing Explanations](./theories/applied_disciplines/fashion_clothing_explanations.md) - Explanations of fashion clothing
-- [Finance Explanation](./theories/applied_disciplines/finance_explanation.md) - Finance explanation
-- [Game Entertainment Explanations](./theories/applied_disciplines/game_entertainment_explanations.md) - Explanations of game entertainment
-- [Law Explanation](./theories/applied_disciplines/law_explanation.md) - Law explanation
-- [Management Explanation](./theories/applied_disciplines/management_explanation.md) - Management explanation
-- [Marketing Explanation](./theories/applied_disciplines/marketing_explanation.md) - Marketing explanation
-- [Media Information Explanations](./theories/applied_disciplines/media_information_explanations.md) - Explanations of media information
-- [Music Explanations](./theories/applied_disciplines/music_explanations.md) - Explanations of music
-- [Musicology Explanation](./theories/applied_disciplines/musicology_explanation.md) - Musicology explanation
-- [Sports Movement Explanations](./theories/applied_disciplines/sports_movement_explanations.md) - Explanations of sports movement
-- [Urban Planning Development Explanations](./theories/applied_disciplines/urban_planning_development_explanations.md) - Explanations of urban planning development
+- [AI Computation Explanations](./theories/applied_disciplines/ai_computation_explanations.md) - Artificial Intelligence and Computation Theory Explanations
+- [AI Explanations](./theories/applied_disciplines/ai_explanations.md) - AI and Computational Science Explanations
+- [Architecture Explanation](./theories/applied_disciplines/architecture_explanation.md) - Quantum-Classical Dualism from Architectural Perspective
+- [Architecture Space Explanations](./theories/applied_disciplines/architecture_space_explanations.md) - Architecture and Spatial Design Explanations
+- [Art Aesthetics Explanations](./theories/applied_disciplines/art_aesthetics_explanations.md) - Art and Aesthetics Explanations
+- [Art Explanation](./theories/applied_disciplines/art_explanation.md) - Quantum-Classical Dualism from Art Perspective
+- [Cooking Food Explanations](./theories/applied_disciplines/cooking_food_explanations.md) - Cooking and Food Culture Explanations
+- [Dream Sleep Explanations](./theories/applied_disciplines/dream_sleep_explanations.md) - Dream and Sleep Science Explanations
+- [Education Learning Explanations](./theories/applied_disciplines/education_learning_explanations.md) - Education and Learning Theory Explanations
+- [Educational Explanations](./theories/applied_disciplines/educational_explanations.md) - Educational Explanations
+- [Fashion Clothing Explanations](./theories/applied_disciplines/fashion_clothing_explanations.md) - Fashion and Clothing Studies Explanations
+- [Finance Explanation](./theories/applied_disciplines/finance_explanation.md) - Quantum-Classical Dualism from Financial Perspective
+- [Game Entertainment Explanations](./theories/applied_disciplines/game_entertainment_explanations.md) - Game and Entertainment Theory Explanations
+- [Law Explanation](./theories/applied_disciplines/law_explanation.md) - Quantum-Classical Dualism from Legal Perspective
+- [Management Explanation](./theories/applied_disciplines/management_explanation.md) - Quantum-Classical Dualism from Management Perspective
+- [Marketing Explanation](./theories/applied_disciplines/marketing_explanation.md) - Quantum-Classical Dualism from Marketing Perspective
+- [Media Information Explanations](./theories/applied_disciplines/media_information_explanations.md) - Quantum-Classical Dualism Explanation of Media and Information Theory
+- [Music Explanations](./theories/applied_disciplines/music_explanations.md) - Musical Explanations
+- [Musicology Explanation](./theories/applied_disciplines/musicology_explanation.md) -  
+- [Sports Movement Explanations](./theories/applied_disciplines/sports_movement_explanations.md) - Sports and Movement Science Explanations
+- [Urban Planning Development Explanations](./theories/applied_disciplines/urban_planning_development_explanations.md) - Quantum-Classical Dualism Explanation of Urban Planning and Development Theory
 
 ##### Natural Sciences
-- [Biological Explanations](./theories/natural_sciences/biological_explanations.md) - Explanations of biology
-- [Biology Explanation](./theories/natural_sciences/biology_explanation.md) - Biology perspective
-- [Chemistry Explanation](./theories/natural_sciences/chemistry_explanation.md) - Chemistry explanation
-- [Environment Ecology Explanations](./theories/natural_sciences/environment_ecology_explanations.md) - Explanations of environment ecology
-- [Environmental Explanations](./theories/natural_sciences/environmental_explanations.md) - Explanations of environment
-- [Mathematics Explanation](./theories/natural_sciences/mathematics_explanation.md) - Mathematics explanation
-- [Mathematics Nature Explanations](./theories/natural_sciences/mathematics_nature_explanations.md) - Explanations of mathematics nature
-- [Medicine Explanation](./theories/natural_sciences/medicine_explanation.md) - Medicine explanation
-- [Medicine Health Explanations](./theories/natural_sciences/medicine_health_explanations.md) - Explanations of medicine health
-- [Physics Explanation](./theories/natural_sciences/physics_explanation.md) - Physics explanation
-- [Traditional Physics Explained](./theories/natural_sciences/traditional_physics_explained.md) - Explanations of traditional physics
+- [Biological Explanations](./theories/natural_sciences/biological_explanations.md) - Biological Explanations
+- [Biology Explanation](./theories/natural_sciences/biology_explanation.md) - Quantum-Classical Dualism from Biological Perspective
+- [Chemistry Explanation](./theories/natural_sciences/chemistry_explanation.md) - Quantum-Classical Dualism from Chemical Perspective
+- [Environment Ecology Explanations](./theories/natural_sciences/environment_ecology_explanations.md) - Environmental Science and Ecosystem Explanations
+- [Environmental Explanations](./theories/natural_sciences/environmental_explanations.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory on Environmental Science Issues
+- [Mathematics Explanation](./theories/natural_sciences/mathematics_explanation.md) - Quantum-Classical Dualism from Mathematics Perspective
+- [Mathematics Nature Explanations](./theories/natural_sciences/mathematics_nature_explanations.md) - Mathematics Nature Explanations
+- [Medicine Explanation](./theories/natural_sciences/medicine_explanation.md) - Quantum-Classical Dualism from Medical Perspective
+- [Medicine Health Explanations](./theories/natural_sciences/medicine_health_explanations.md) - Medicine and Health Science Explanations
+- [Physics Explanation](./theories/natural_sciences/physics_explanation.md) - Quantum-Classical Dualism from Physics Perspective
+- [Traditional Physics Explained](./theories/natural_sciences/traditional_physics_explained.md) - Traditional Physics Theory Explanations
 
 ##### Philosophy and Humanities
-- [Ethical Explanations](./theories/philosophy_humanities/ethical_explanations.md) - Explanations of ethics
-- [Philosophical Explanations](./theories/philosophy_humanities/philosophical_explanations.md) - Explanations of philosophy
-- [Philosophy Explanation](./theories/philosophy_humanities/philosophy_explanation.md) - Philosophy perspective
-- [Religious Explanations](./theories/philosophy_humanities/religious_explanations.md) - Explanations of religion
-- [Religious Studies Explanation](./theories/philosophy_humanities/religious_studies_explanation.md) - Religious studies perspective
-- [Spiritual Dimensions](./theories/philosophy_humanities/spiritual_dimensions.md) - Spiritual dimensions theory
+- [Ethical Explanations](./theories/philosophy_humanities/ethical_explanations.md) - Ethical Explanations
+- [Philosophical Explanations](./theories/philosophy_humanities/philosophical_explanations.md) - Philosophical Explanations
+- [Philosophy Explanation](./theories/philosophy_humanities/philosophy_explanation.md) - Quantum-Classical Dualism from Philosophical Perspective
+- [Religious Explanations](./theories/philosophy_humanities/religious_explanations.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory on Religious Studies Issues
+- [Religious Studies Explanation](./theories/philosophy_humanities/religious_studies_explanation.md) - Quantum-Classical Dualism from Religious Studies Perspective
+- [Spiritual Dimensions](./theories/philosophy_humanities/spiritual_dimensions.md) - Spiritual Dimensions and Classicalization
 
 ##### Social Sciences
-- [Economic Classical Quantum](./theories/social_sciences/economic_classical_quantum.md) - Classical quantum explanation of economics
-- [Economic Explanations](./theories/social_sciences/economic_explanations.md) - Explanations of economics
-- [Economics Explanation](./theories/social_sciences/economics_explanation.md) - Economics explanation
-- [Economics Market Explanations](./theories/social_sciences/economics_market_explanations.md) - Explanations of economics market
-- [Historical Explanations](./theories/social_sciences/historical_explanations.md) - Explanations of history
-- [History Explanation](./theories/social_sciences/history_explanation.md) - History perspective
-- [Linguistic Explanations](./theories/social_sciences/linguistic_explanations.md) - Explanations of linguistics
-- [Linguistics Communication Explanations](./theories/social_sciences/linguistics_communication_explanations.md) - Explanations of linguistics communication
-- [Political Science Explanation](./theories/social_sciences/political_science_explanation.md) - Political science explanation
-- [Politics Governance Explanations](./theories/social_sciences/politics_governance_explanations.md) - Explanations of politics governance
-- [Psychological Explanations](./theories/social_sciences/psychological_explanations.md) - Explanations of psychology
-- [Psychology Explanation](./theories/social_sciences/psychology_explanation.md) - Psychology perspective
-- [Social Quantum Entanglement](./theories/social_sciences/social_quantum_entanglement.md) - Social quantum entanglement theory
-- [Sociological Explanations](./theories/social_sciences/sociological_explanations.md) - Explanations of sociology
+- [Economic Classical Quantum](./theories/social_sciences/economic_classical_quantum.md) -  
+- [Economic Explanations](./theories/social_sciences/economic_explanations.md) - Economic Explanations
+- [Economics Explanation](./theories/social_sciences/economics_explanation.md) - Quantum-Classical Dualism from Economics Perspective
+- [Economics Market Explanations](./theories/social_sciences/economics_market_explanations.md) -  
+- [Historical Explanations](./theories/social_sciences/historical_explanations.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory on Historical Issues
+- [History Explanation](./theories/social_sciences/history_explanation.md) - Quantum-Classical Dualism from Historical Perspective
+- [Linguistic Explanations](./theories/social_sciences/linguistic_explanations.md) - Linguistic Explanations
+- [Linguistics Communication Explanations](./theories/social_sciences/linguistics_communication_explanations.md) - Linguistics and Communication Theory Explanations
+- [Political Science Explanation](./theories/social_sciences/political_science_explanation.md) - Quantum-Classical Dualism from Political Science Perspective
+- [Politics Governance Explanations](./theories/social_sciences/politics_governance_explanations.md) - Political Science and Governance Theory Explanations
+- [Psychological Explanations](./theories/social_sciences/psychological_explanations.md) - Psychological Explanations
+- [Psychology Explanation](./theories/social_sciences/psychology_explanation.md) - Quantum-Classical Dualism from Psychological Perspective
+- [Social Quantum Entanglement](./theories/social_sciences/social_quantum_entanglement.md) - Quantum Entanglement Efficiency Ranking in Social Behaviors
+- [Sociological Explanations](./theories/social_sciences/sociological_explanations.md) - Sociological Explanations
 
 ##### Theory Applications
-- [Black Hole Information](./theories/applications/black_hole_information.md) - Black hole information theory
-- [Celestial Information Nodes](./theories/applications/celestial_information_nodes.md) - Celestial information nodes theory
-- [Observer Hierarchy](./theories/applications/observer_hierarchy.md) - Observer hierarchy theory
-- [Wormhole Entanglement](./theories/applications/wormhole_entanglement.md) - Wormhole entanglement theory
+- [Black Hole Information](./theories/applications/black_hole_information.md) - Black Hole Information Decoding: Quantum Universe Observer Consciousness-Classical Memory and Entropy Perspective
+- [Celestial Information Nodes](./theories/applications/celestial_information_nodes.md) - Stars and Galaxies as Information Nodes: Universal Quantum Information Classicalization Theory
+- [Observer Hierarchy](./theories/applications/observer_hierarchy.md) - Observer Hierarchy Network: Multi-Dimensional Structure of Universal Information Classicalization
+- [Wormhole Entanglement](./theories/applications/wormhole_entanglement.md) - Wormhole Quantum Entanglement: Universal Quantum Information Channel Theory
 
 ##### Observer Perception
-- [Black Hole Observer](./theories/observer_perception/black_hole_observer.md) - Black hole observer theory
+- [Black Hole Observer](./theories/observer_perception/black_hole_observer.md) - Black Hole Observer
 
 ##### Quantum Classical
-- [Quantum Classical Overview](./theories/quantum_classical/README.md) - Overview of quantum classical theory
-- [Classical Consciousness](./theories/quantum_classical/classical_consciousness.md) - Classical consciousness theory
-- [Quantum Observer](./theories/quantum_classical/quantum_observer.md) - Quantum observer theory
-- [Quantum Universe](./theories/quantum_classical/quantum_universe.md) - Quantum universe theory
+- [Quantum Classical Overview](./theories/quantum_classical/README.md) - Quantum Classical
+- [Classical Consciousness](./theories/quantum_classical/classical_consciousness.md) - Classical Consciousness
+- [Quantum Observer](./theories/quantum_classical/quantum_observer.md) - Quantum Observer
+- [Quantum Universe](./theories/quantum_classical/quantum_universe.md) - Quantum Universe
 
 ##### Sci-Fi Analysis
-- [Three Body Critique](./theories/sci_fi_analysis/three_body_critique.md) - Three body critique
+- [Three Body Critique](./theories/sci_fi_analysis/three_body_critique.md) - Three-Body Universe View Critique: Based on Quantum-Classical Dualism Perspective
 
 ##### Universe Structure
-- [Observer Dimension Evolution](./theories/universe_structure/observer_dimension_evolution.md) - Observer dimension evolution theory
+- [Observer Dimension Evolution](./theories/universe_structure/observer_dimension_evolution.md) - Universe Essence and Observer Dimension Promotion
 
 #### Visualizations
-- [Visualizations Overview](./visualizations/README.md) - Overview of visualizations
-- [Core Concepts Visualization](./visualizations/core_concepts.md) - Visualization of core concepts
+- [Visualizations Overview](./visualizations/README.md) - Quantum-Classical Dualism Visualizations
+- [Core Concepts Visualization](./visualizations/core_concepts.md) - Quantum-Classical Dualism Core Concepts Visualization
 
 #### Others
-- [Update History](./update_history.md) - Record of project development milestones
-- [Update Plan](./update_plan.md) - Project update plan
-- [Input](./input/input.md) - Project input
-- [量子经典二元论核心理论](./core.md) - 量子经典二元论最新完整正式版本
+- [Update History](./update_history.md) - Update History
+- [Update Plan](./update_plan.md) - Update Plan
+- [Input](./input/input.md) - Based on [Quantum-Classical Dualism]:
+- [Quantum-Classical Dualism Core Theory](./core.md) - Quantum-Classical Dualism Core Theory
 
 ### Introduction to Core Concepts
 
