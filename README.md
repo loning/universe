@@ -29,6 +29,27 @@
 
 - [图示库](figures/README.md) - 理论相关图示与可视化资源
 
+### 宗教解释
+
+- [宗教视角](religions/README.md) - 通过量子经典二元论解释各主要宗教
+
+本目录包含对主要世界宗教的解释，基于量子经典二元论框架。每个宗教都在其独立文件中通过二元论视角进行了解释，展示了这一理论如何与各种宗教思想相融合。
+
+#### 包含的宗教
+
+1. [佛教 (Buddhism)](religions/Buddhism.md)
+2. [基督教 (Christianity)](religions/Christianity.md)
+3. [伊斯兰教 (Islam)](religions/Islam.md)
+4. [道教 (Taoism)](religions/Taoism.md)
+5. [印度教 (Hinduism)](religions/Hinduism.md)
+6. [犹太教 (Judaism)](religions/Judaism.md)
+7. [儒家思想 (Confucianism)](religions/Confucianism.md)
+8. [锡克教 (Sikhism)](religions/Sikhism.md)
+
+#### 目的
+
+这些解释旨在展示量子经典二元论如何提供一个统一的框架来理解各种宗教传统，不是为了取代或重新定义这些传统，而是提供一种新的视角来欣赏它们的智慧和洞见。
+
 ## English Introduction
 
 Welcome to the Quantum-Classical Dualism theoretical system! This is a theoretical framework exploring the essential structure of the universe, the role of observers, and the nature of consciousness. Quantum-Classical Dualism proposes that the universe consists of a quantum domain and a classical domain, with observers transforming quantum information into classical knowledge and classical entropy through the classicalization process.
@@ -57,3 +78,24 @@ This theoretical system provides a unified framework for explaining fundamental 
 ### Resources
 
 - [Illustration Library](figures/README.md) - Theory-related Illustrations and Visualization Resources
+
+### Religious Explanations
+
+- [Religious Perspectives](religions/README.md) - Explaining Major Religions Through Quantum-Classical Dualism
+
+This directory contains explanations of major world religions based on the Quantum-Classical Dualism framework. Each religion is explained in its own file through the dualistic perspective, showing how this theory integrates with various religious thoughts.
+
+#### Included Religions
+
+1. [Buddhism](religions/Buddhism.md)
+2. [Christianity](religions/Christianity.md)
+3. [Islam](religions/Islam.md)
+4. [Taoism](religions/Taoism.md)
+5. [Hinduism](religions/Hinduism.md)
+6. [Judaism](religions/Judaism.md)
+7. [Confucianism](religions/Confucianism.md)
+8. [Sikhism](religions/Sikhism.md)
+
+#### Purpose
+
+These explanations aim to demonstrate how Quantum-Classical Dualism provides a unified framework for understanding various religious traditions, not to replace or redefine these traditions, but to offer a fresh perspective to appreciate their wisdom and insights.
