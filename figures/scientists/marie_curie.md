@@ -2,199 +2,117 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1867年-1934年 (1867-1934)  
-**国籍 | Nationality**: 波兰出生，后入籍法国 (Born in Poland, later naturalized as French)  
-**主要领域 | Main Fields**: 物理学、化学、放射性研究 (Physics, Chemistry, Radioactivity Research)  
-**代表作品 | Representative Works**: 《放射性物质研究》、关于铀射线的论文、关于放射性元素钋和镭的发现论文 (Research on Radioactive Substances, Papers on Uranium Rays, Discovery Papers on Polonium and Radium)
+**生平 (Life Span)**: 1867年11月7日 - 1934年7月4日  
+**国籍 (Nationality)**: 波兰裔法国科学家 (Polish-French)  
+**领域 (Fields)**: 物理学、化学、放射性研究  
+**代表作品 (Representative Works)**: 发现钋和镭元素、放射性理论研究、《放射性物质研究》、首创移动X光车用于一战战场
 
-## 核心思想 | Core Ideas
+## 核心思想 (Core Ideas)
 
 ### 中文
-
-1. **放射性自发性**: 放射性是原子内在的特性，不受外部条件影响，表现为自发的能量释放过程。
-2. **元素转化现实性**: 元素可以通过放射性衰变转化为其他元素，改变了元素不可改变的传统化学观念。
-3. **实验主义方法论**: 通过严格、系统、精确的实验测量发现和验证自然规律，不受先入为主观念限制。
-4. **物质内在能量**: 物质内部蕴含巨大能量，放射性物质释放的能量远超化学反应，暗示物质本质新理解。
-5. **科学性别平等观**: 坚持学术研究不应有性别界限，科学能力与贡献不因性别而异。
-6. **科学社会责任**: 科学发现应造福人类，科学家有责任确保知识应用于和平目的，特别是医疗应用。
-7. **跨学科整合思维**: 打破物理学与化学间传统界限，综合多学科方法解决科学问题。
+1. **科学实证精神**：坚持通过严格实验验证理论假设，重视实证数据胜过权威观点，以实验结果而非先验假设为科学真理的唯一判断标准。
+2. **物质本性探索**：致力于理解物质的根本性质，通过对放射性的研究揭示原子结构和能量转化的基本规律，突破传统物质不变性观念。
+3. **跨学科整合**：打破物理学与化学的传统边界，将多学科方法和视角整合应用于科学问题，创造性地解决复杂研究难题。
+4. **科学服务人类**：坚信科学研究应以造福人类为终极目标，积极将基础研究应用于医疗和战时救助，体现科学的社会责任。
+5. **性别平等与教育**：通过自身成就挑战性别偏见，倡导女性平等接受教育和从事科研的权利，推动科学领域的性别平等。
 
 ### English
-
-1. **Spontaneity of Radioactivity**: Radioactivity is an intrinsic property of atoms, unaffected by external conditions, manifesting as a spontaneous energy release process.
-2. **Reality of Elemental Transformation**: Elements can transform into other elements through radioactive decay, changing the traditional chemical notion of immutable elements.
-3. **Experimental Methodological Approach**: Discovering and verifying natural laws through rigorous, systematic, and precise experimental measurements, unconstrained by preconceptions.
-4. **Intrinsic Energy of Matter**: Matter contains enormous internal energy; the energy released by radioactive substances far exceeds chemical reactions, suggesting a new understanding of the nature of matter.
-5. **Gender Equality in Science**: Maintaining that academic research should have no gender boundaries, and that scientific abilities and contributions do not vary by gender.
-6. **Social Responsibility of Science**: Scientific discoveries should benefit humanity; scientists have a responsibility to ensure knowledge is applied for peaceful purposes, especially medical applications.
-7. **Interdisciplinary Integrative Thinking**: Breaking traditional boundaries between physics and chemistry, applying multidisciplinary approaches to solve scientific problems.
+1. **Scientific Empiricism**: Insisting on verifying theoretical hypotheses through rigorous experimentation, valuing empirical data over authoritative opinions, and using experimental results rather than a priori assumptions as the sole criterion for scientific truth.
+2. **Exploration of Material Nature**: Dedicated to understanding the fundamental properties of matter, revealing basic laws of atomic structure and energy transformation through studies of radioactivity, breaking through traditional notions of material immutability.
+3. **Interdisciplinary Integration**: Breaking traditional boundaries between physics and chemistry, integrating multi-disciplinary methods and perspectives in scientific issues, creatively solving complex research problems.
+4. **Science Serving Humanity**: Firmly believing that scientific research should ultimately benefit humanity, actively applying basic research to medical and wartime aid, embodying social responsibility in science.
+5. **Gender Equality and Education**: Challenging gender bias through personal achievements, advocating for women's equal rights to education and scientific research, promoting gender equality in scientific fields.
 
 ## 量子经典二元论视角分析 | Analysis from Quantum-Classical Dualism Perspective
 
-### 中文
+### 居里夫人的量子-经典二元性 | Madame Curie's Quantum-Classical Duality
 
-#### 1. 放射性现象与经典-量子界面突破
-
-居里夫人的放射性研究揭示了经典物理与量子物理的临界交界：
+玛丽·居里的科学生涯恰好处于物理学从经典牛顿范式向量子物理范式转变的关键历史节点。她的放射性研究工作成为了这一范式转换的重要催化剂，她本人的科学方法和思想也体现了经典实证主义与新兴量子视角的独特融合。
 
 $$
-\text{铀矿石} \xrightarrow{\text{未知机制}} \text{辐射} + \text{能量} + \text{新元素}
+|\psi\rangle_{\text{居里科学思想}} = \alpha|\psi\rangle_{\text{经典实证方法}} + \beta|\psi\rangle_{\text{量子物质观}}
 $$
 
-从量子经典二元论视角，放射性现象是量子世界对经典世界的"突破"——原子核内的量子事件（衰变）产生经典可测量的后果。居里夫人虽然没有量子力学知识框架，却通过系统测量捕捉到了这一突破的规律性。她发现的自发放射性本质上是量子不确定性（核衰变时间）导致的经典域可测量现象（辐射），成为连接两个域的关键现象。她的工作为后来的量子力学发展奠定了实验基础，特别是对原子结构和核力的理解。
+### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
-#### 2. 元素嬗变与经典分类体系的突破
+1. **科学实证精神的经典-量子双重基础**
 
-居里夫人发现的元素嬗变现象颠覆了经典化学的稳定分类系统：
+   居里夫人的实证方法论体现了经典确定性与量子不确定性的平衡：
 
-$$
-|\psi\rangle_{\text{不稳定元素}} \xrightarrow{\text{自发衰变}} I_{\text{稳定元素}} + \text{能量} + \text{粒子}
-$$
+   $$
+   I_{\text{实验方法（经典）}} \times |\psi\rangle_{\text{开放发现（量子）}} = |\psi\rangle_{\text{居里科学方法}}
+   $$
 
-传统化学视元素为永恒不变的经典类别，居里夫人则证明了一种元素可以转变为另一种。从量子经典二元论看，这揭示了看似稳固的经典分类系统（元素周期表）实际上建立在量子不确定性基础上——原子核的量子态不稳定性导致元素身份的变化。这一发现挑战了经典化学的基本范式，展示了即使是最基础的物质分类也非绝对稳定，而是处于量子-经典连续体中的暂时平衡状态。
+   她的研究方法一方面严格遵循经典科学的实证传统——精确测量、严谨记录、可重复验证，体现了经典科学的决定论思维。但另一方面，她也保持着对意外发现的高度敏感性和开放态度，愿意追随实验数据指向的任何方向，即使那意味着挑战已建立的科学模型。在研究铀矿样本时，她观察到的放射性比纯铀强得多这一"异常"，成为发现钋和镭的关键线索。这种既坚持经典实证又保持量子开放性的方法论，使她能够在严格的科学框架内实现突破性发现，开启了对原子结构量子性质的全新理解。
 
-#### 3. 测量作为经典化过程的实验典范
+2. **物质本性探索的量子颠覆与经典连续**
 
-居里夫人的实验方法论体现了测量作为经典化过程的精髓：
+   居里对物质本性的探索体现了从经典到量子的认知转变：
 
-$$
-|\psi\rangle_{\text{自然现象}} \xrightarrow{\text{精确测量}} I_{\text{经典化知识}} + S_{\text{测量不确定性}}
-$$
+   $$
+   |\psi\rangle_{\text{物质观}} \xrightarrow{\text{放射性研究}} [I_{\text{原子可分（经典崩溃）}} + |\psi\rangle_{\text{能量转化（量子兴起）}}]
+   $$
 
-居里夫人以非凡的耐心和精确度测量放射性物质特性，将模糊的量子现象转化为精确的经典数据。从量子经典二元论看，她的测量技术（如电离室和微量天平）正是实现量子信息经典化的关键仪器。她研发的精确测量方法将高度不可见的量子现象（如α粒子放射）转化为可靠的经典观测结果，建立了新物理学分支。这种对测量的严谨态度成为经典化量子现象的科学典范，每一次测量都是一次量子可能性到经典确定性的转化。
+   她对放射性的研究直接挑战了19世纪的经典物质观——原子作为不可分割的物质基本单位的概念。当她和皮埃尔发现放射性元素会不断释放能量且质量减少时，这一发现不仅支持了原子可分的观点，更暗示了物质与能量之间的转化关系，为爱因斯坦的质能关系$E=mc^2$提供了实验基础。从量子经典二元论视角，她的工作处于经典物理世界观崩溃与量子物理兴起的临界点，她既用经典化学方法分离提纯新元素，又在结果解释中引入了接近量子思维的新概念，如原子内部结构和原子能。她本人可能未明确意识到自己处于这一范式转换中，但她的工作客观上成为了连接经典与量子视野的关键桥梁。
 
-#### 4. 物质能量同一性的经典-量子桥梁
+3. **跨学科整合的量子纠缠方法论**
 
-居里夫人对物质能量关系的研究预示了经典-量子物理学的统一：
+   居里的跨学科研究方法体现了量子纠缠的方法论模型：
 
-$$
-\text{物质} \xrightarrow{\text{核过程}} \text{能量} \text{ 暗示 } E = mc^2
-$$
+   $$
+   |\psi\rangle_{\text{研究方法}} = |\psi\rangle_{\text{物理学}} \otimes |\psi\rangle_{\text{化学}} \otimes |\psi\rangle_{\text{矿物学}}
+   $$
 
-虽然爱因斯坦正式提出质能方程，但居里夫人的放射性研究已经表明物质可转化为能量。从量子经典二元论视角，这一发现建立了经典宏观物质和量子能量之间的本质联系——核内量子事件可转化为宏观可测量的热和辐射。居里夫人的工作揭示了物质和能量这两种看似不同的经典范畴实际上是同一量子实在的不同表现形式，为后来的量子场论奠定了实验基础。
+   与当时多数科学家固守单一学科的经典模式不同，居里夫人创造性地将物理学测量技术与化学分离方法结合，同时借鉴矿物学知识，创建了一种整合性研究范式。这种方法不是简单的学科并列（经典叠加），而是学科间深度融合与相互影响（量子纠缠）。例如，她使用电学测量仪器（物理学）来指导化学分离过程，又通过化学分析结果反馈调整物理测量参数。这种学科间的量子纠缠使得一个领域的发现能立即影响和促进另一领域的进展，倍增了研究效率。如今跨学科研究的价值被广泛认可，但在19世纪末期学科高度专业化的背景下，居里的量子纠缠方法论具有特别的前瞻性，预示了现代科学研究的整合趋势。
 
-#### 5. 科学实践中的经典性与量子可能性平衡
+4. **科学服务人类的量子伦理立场**
 
-居里夫人的研究方法体现了科学探索中经典严谨性与量子开放性的平衡：
+   居里的科学伦理观体现了个人成就与集体利益的量子非局域性关联：
 
-$$
-I_{\text{经典科学严谨性}} + |\psi\rangle_{\text{开放探索态度}} \rightarrow \text{科学突破}
-$$
+   $$
+   |\psi\rangle_{\text{科学价值}} = \frac{1}{\sqrt{2}}(|\psi\rangle_{\text{知识发现}} + |\psi\rangle_{\text{人类福祉}})
+   $$
 
-她既坚持经典科学的严谨实验和数据分析，又保持对未知现象的开放态度，不被既有理论框架限制。从量子经典二元论看，这种平衡代表了理想的科学进步模式——既有足够的经典结构保证科学的累积性和可靠性，又允许新的量子可能性突破已知边界。居里夫人愿意怀疑既定理论并追随实验数据指引，正是量子开放性对经典僵化性的胜利，导致了放射性这一全新现象的发现。
+   她拒绝为放射性元素提取方法申请专利，选择公开研究成果造福全人类，体现了超越个人边界的量子伦理观。在一战期间，她迅速将基础研究转化为应用，开发了移动X光车用于战场救治，亲自驾车前往前线，展现了理论与实践、个人与社会之间的量子型非局域关联。与经典功利主义伦理学不同，居里的伦理立场不是基于简单的利弊计算，而是源于对科学家社会责任的深刻理解，类似于量子系统中的非局域关联——个人科学成就与全人类福祉不是独立的，而是内在联系的整体。这种伦理立场超越了经典的个人成功与社会责任二元对立，创造了一种科学成就与人类服务融为一体的量子伦理模式。
 
-#### 6. 跨学科整合与多元经典化路径
+5. **性别平等与教育的量子突破与经典障碍**
 
-居里夫人的跨学科方法展示了多元经典化路径的价值：
+   居里对性别平等的追求体现了量子突破与经典障碍的持续对抗：
 
-$$
-|\psi\rangle_{\text{自然现象}} \xrightarrow{\text{多学科视角}} \sum_i I_{\text{学科i经典化理解}}
-$$
+   $$
+   |\psi\rangle_{\text{女性潜能}} \xrightarrow{\text{经典性别障碍}} I_{\text{受限状态}} \xrightarrow{\text{居里突破}} |\psi\rangle_{\text{潜能释放}}
+   $$
 
-她打破物理学与化学之间的传统边界，创造性地结合物理测量技术与化学分离技术研究放射性。从量子经典二元论视角，不同学科代表了将量子可能性经典化的不同路径和结构。居里夫人的跨学科方法允许从多角度观察同一量子现象，获得更全面的经典化理解。这种方法论启示我们，量子现象的完整经典化需要多种互补框架，单一学科的经典化路径往往是片面的。居里夫人的成功证明，学科交叉处往往能发现最重要的量子-经典转化现象。
-
-### English
-
-#### 1. Radioactivity and Breakthrough at the Classical-Quantum Interface
-
-Madame Curie's research on radioactivity revealed the critical boundary between classical and quantum physics:
-
-$$
-\text{Uranium Ore} \xrightarrow{\text{Unknown Mechanism}} \text{Radiation} + \text{Energy} + \text{New Elements}
-$$
-
-From a Quantum-Classical Dualism perspective, radioactivity is a "breakthrough" from the quantum world into the classical world—quantum events in atomic nuclei (decay) produce classically measurable consequences. Although Madame Curie lacked the knowledge framework of quantum mechanics, she captured the regularities of this breakthrough through systematic measurements. Her discovery of spontaneous radioactivity is essentially a classically measurable phenomenon (radiation) caused by quantum uncertainty (nuclear decay timing), becoming a key phenomenon connecting the two domains. Her work laid the experimental foundation for the later development of quantum mechanics, especially for understanding atomic structure and nuclear forces.
-
-#### 2. Elemental Transmutation and Breakthrough in Classical Classification Systems
-
-The phenomenon of elemental transmutation discovered by Madame Curie subverted the stable classification system of classical chemistry:
-
-$$
-|\psi\rangle_{\text{Unstable Element}} \xrightarrow{\text{Spontaneous Decay}} I_{\text{Stable Element}} + \text{Energy} + \text{Particles}
-$$
-
-Traditional chemistry viewed elements as eternally unchanging classical categories, but Madame Curie proved that one element could transform into another. From a Quantum-Classical Dualism perspective, this revealed that seemingly solid classical classification systems (periodic table) are actually built on quantum uncertainties—quantum state instabilities in atomic nuclei lead to changes in elemental identity. This discovery challenged the fundamental paradigm of classical chemistry, demonstrating that even the most basic material classifications are not absolutely stable but are in temporary equilibrium within the quantum-classical continuum.
-
-#### 3. Measurement as an Experimental Paradigm of Classicalization
-
-Madame Curie's experimental methodology embodies the essence of measurement as a classicalization process:
-
-$$
-|\psi\rangle_{\text{Natural Phenomenon}} \xrightarrow{\text{Precise Measurement}} I_{\text{Classicalized Knowledge}} + S_{\text{Measurement Uncertainty}}
-$$
-
-Madame Curie measured the properties of radioactive substances with extraordinary patience and precision, transforming fuzzy quantum phenomena into precise classical data. From a Quantum-Classical Dualism perspective, her measurement techniques (such as ionization chambers and microbalances) are key instruments for classicalizing quantum information. The precise measurement methods she developed converted highly invisible quantum phenomena (such as alpha particle radiation) into reliable classical observations, establishing a new branch of physics. This rigorous attitude toward measurement became a scientific paradigm for classicalizing quantum phenomena, with each measurement being a transformation from quantum possibility to classical certainty.
-
-#### 4. Matter-Energy Equivalence as a Classical-Quantum Bridge
-
-Madame Curie's research on the relationship between matter and energy presaged the unification of classical and quantum physics:
-
-$$
-\text{Matter} \xrightarrow{\text{Nuclear Processes}} \text{Energy} \text{ suggesting } E = mc^2
-$$
-
-Although Einstein formally proposed the mass-energy equation, Madame Curie's radioactivity research had already shown that matter could be converted to energy. From a Quantum-Classical Dualism perspective, this discovery established an essential connection between classical macroscopic matter and quantum energy—quantum events in nuclei can be converted into macroscopically measurable heat and radiation. Madame Curie's work revealed that matter and energy, two seemingly different classical categories, are actually different manifestations of the same quantum reality, laying the experimental foundation for the later quantum field theory.
-
-#### 5. Balance of Classicality and Quantum Possibility in Scientific Practice
-
-Madame Curie's research methods embodied the balance between classical rigor and quantum openness in scientific exploration:
-
-$$
-I_{\text{Classical Scientific Rigor}} + |\psi\rangle_{\text{Open Exploratory Attitude}} \rightarrow \text{Scientific Breakthrough}
-$$
-
-She both adhered to the rigorous experimentation and data analysis of classical science and maintained an open attitude toward unknown phenomena, unbounded by existing theoretical frameworks. From a Quantum-Classical Dualism perspective, this balance represents the ideal model of scientific progress—having sufficient classical structure to ensure scientific cumulativity and reliability, while allowing new quantum possibilities to break through known boundaries. Madame Curie's willingness to question established theories and follow the guidance of experimental data was a victory of quantum openness over classical rigidity, leading to the discovery of the entirely new phenomenon of radioactivity.
-
-#### 6. Interdisciplinary Integration and Multiple Classicalization Pathways
-
-Madame Curie's interdisciplinary approach demonstrated the value of multiple classicalization pathways:
-
-$$
-|\psi\rangle_{\text{Natural Phenomenon}} \xrightarrow{\text{Multidisciplinary Perspectives}} \sum_i I_{\text{Discipline i Classicalized Understanding}}
-$$
-
-She broke through traditional boundaries between physics and chemistry, creatively combining physical measurement techniques with chemical separation techniques to study radioactivity. From a Quantum-Classical Dualism perspective, different disciplines represent different pathways and structures for classicalizing quantum possibilities. Madame Curie's interdisciplinary approach allowed observation of the same quantum phenomenon from multiple angles, obtaining a more comprehensive classicalized understanding. This methodology suggests that complete classicalization of quantum phenomena requires multiple complementary frameworks; classicalization pathways within a single discipline are often one-sided. Madame Curie's success proves that the most important quantum-classical transformation phenomena are often discovered at disciplinary intersections.
+   在19世纪末20世纪初的科学界，女性的智力和研究能力被经典性别偏见严重低估，形成了对女性潜能的系统性压抑。居里通过自身的卓越成就（两次诺贝尔奖、首位女教授）创造了一个关键的量子突破，挑战并部分解构了这一经典性别框架。从量子经典二元论视角，她的成就相当于一个量子隧穿事件——在经典力学中看似不可能跨越的势垒，在量子力学中却可以通过隧穿效应穿透。她的成功不仅是个人的胜利，更在集体意识中创造了一个量子态的可能性证明——女性在科学最高成就上的潜能获得了实证。然而，即使在她成功后，经典性别障碍仍未完全消除（如法兰西科学院拒绝接纳她），这反映了量子突破与经典结构之间持续的张力。她倡导的教育平等是为了让更多女性有机会实现类似的量子突破，最终改变整个社会的经典性别框架。
 
 ## 历史影响 | Historical Impact
 
-### 中文
+玛丽·居里的科学贡献具有革命性意义。她是唯一获得两个不同领域（物理学和化学）诺贝尔奖的科学家。她发现的元素和放射性理论为现代原子物理学和核能开发奠定了基础。她的研究方法开创了放射化学这一全新学科，影响了多代科学家。放射性研究也促进了对原子结构的理解，为玻尔的原子模型和量子力学的发展提供了关键启示。
 
-1. 开创放射性研究领域，为核物理学和原子物理学的发展奠定基础
-2. 首位获得两次诺贝尔奖的科学家，分别在物理学和化学领域做出开创性贡献
-3. 发现并分离纯净钋和镭元素，扩展了元素周期表，促进了放射化学发展
-4. 战时发展移动X光设备，为医学影像学开创先河，救治了无数伤员
-5. 作为女性科学家的先驱，打破性别壁垒，激励后世女性参与科学研究
-6. 创建居里研究所，培养了一批杰出科学家，推动了放射性研究的国际发展
-7. 建立了放射性测量的国际标准，提高了科学研究的精确性和可比性
+在医学领域，她的放射性研究直接促成了放射治疗的发展，镭被用于早期癌症治疗。一战中她开发的移动X光系统挽救了无数士兵生命，建立了战场放射学。她创立的居里研究所成为放射性研究的全球中心，培养了众多杰出科学家。
 
-### English
+在社会方面，她是女性进入科学领域的开拓者和榜样，激励了数代女性科学家。她的成就挑战了当时的性别偏见，促进了科学界性别平等。她的生平故事被广泛传颂，成为坚韧、智慧和奉献的象征。
 
-1. Pioneered the field of radioactivity research, laying the foundation for the development of nuclear physics and atomic physics
-2. First scientist to win Nobel Prizes twice, making groundbreaking contributions in both physics and chemistry
-3. Discovered and isolated pure polonium and radium, expanding the periodic table and promoting the development of radiochemistry
-4. Developed mobile X-ray equipment during wartime, pioneering medical imaging and saving countless wounded soldiers
-5. As a pioneer female scientist, broke gender barriers and inspired future generations of women to participate in scientific research
-6. Founded the Curie Institute, cultivating a group of outstanding scientists and promoting the international development of radioactivity research
-7. Established international standards for radioactivity measurement, improving the precision and comparability of scientific research
+从量子经典二元论视角，居里夫人最重要的贡献在于她的工作处于科学范式从经典物理向量子物理转变的关键节点，她既坚守经典科学的严谨实证传统，又通过放射性研究为量子世界观的兴起铺平了道路。她的方法论和发现帮助科学界顺利过渡到一个全新的认知框架，使人类理解宇宙的方式发生了根本性转变。她在个人生涯中所体现的经典方法与量子视野的融合，成为现代科学家的典范。
 
 ## 经典引言 | Classic Quotes
 
-### 中文
+> "在科学中，我们应该对事物本身感兴趣，而不是它们的作者。"
+> 
+> "In science, we must be interested in things, not in persons."
 
-- "在科学中，我们应该对事物本身感兴趣，而不是它们的作者。"
-- "我们不应该忘记，当镭被发现时，没有人知道它将会有用处。这项工作是为科学而进行的科学。"
-- "生活并不容易，但这正是它的魅力之处。"
-- "科学家应当对人类做出贡献，科学成果属于全人类。"
-- "在生活中，没有什么值得恐惧，只有需要理解的事物。"
-- "你永远无法确切知道你的行为会带来什么影响，但如果你不采取行动，就不会有任何影响。"
-- "我是那些相信科学具有巨大美丽性的人之一。一位科学家在实验室里不仅仅是一名技术人员，他也是面对自然奇迹的孩子。"
+> "一个科学家在实验室里应该像孩子一样，面对自然现象就像是面对童话。"
+> 
+> "A scientist in his laboratory is not a mere technician: he is also a child confronting natural phenomena that impress him as though they were fairy tales."
 
-### English
+> "我们不应害怕任何事，只需理解它。现在是理解更多的时候了，以便我们能够少一些恐惧。"
+> 
+> "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
 
-- "In science, we should be interested in things, not in persons."
-- "We must not forget that when radium was discovered no one knew that it would prove useful in hospitals. The work was one of pure science. And this is a proof that scientific work must not be considered from the point of view of the direct usefulness of it."
-- "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves."
-- "The scientist should be someone who contributes to mankind, and scientific achievements belong to all of humanity."
-- "Nothing in life is to be feared, it is only to be understood."
-- "You cannot hope to build a better world without improving the individuals. To that end, each of us must work for his own improvement and, at the same time, share a general responsibility for all humanity."
-- "I am among those who think that science has great beauty. A scientist in his laboratory is not only a technician: he is also a child placed before natural phenomena which impress him like a fairy tale." 
+> "生活并不容易，对任何人都是如此。但是，我们必须有毅力，尤其要对自己有信心。我们必须相信自己天生适合做某些事情，无论如何艰难，这些事情必须达成。"
+> 
+> "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained."
+
+> "我相信科学的进步意味着人类意志的强大，包括追寻真理与接受它，无论它可能引导我们到哪里。"
+> 
+> "I believe that science has great beauty. A scientist in his laboratory is not only a technician, he is also a child placed before natural phenomena which impress him like a fairy tale." 

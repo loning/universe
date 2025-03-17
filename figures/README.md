@@ -55,6 +55,7 @@ This index catalogs thought analyses of important historical figures from a quan
 ## 领导者 | Leaders
 
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
+- [克利奥帕特拉 | Cleopatra](political_leaders/cleopatra.md)
 
 ## 战略家 | Strategists
 
@@ -82,6 +83,8 @@ This index catalogs thought analyses of important historical figures from a quan
 - [乔治·奥威尔 | George Orwell](literary_figures/george_orwell.md)
 - [列夫·托尔斯泰 | Leo Tolstoy](literary_figures/tolstoy.md)
 - [鲁迅 | Lu Xun](literary_figures/lu_xun.md)
+- [马克·吐温 | Mark Twain](literary_figures/mark_twain.md)
+- [简·奥斯汀 | Jane Austen](literary_figures/jane_austen.md)
 
 ## 经济学家 | Economists
 
@@ -103,6 +106,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
 - [释迦牟尼 | Siddhartha Gautama (Buddha)](religious/buddha.md)
 - [孔子 | Confucius](philosophers/confucius.md)
+- [克利奥帕特拉 | Cleopatra](political_leaders/cleopatra.md)
 
 ### 中世纪 (476-1453) | Middle Ages (476-1453)
 
@@ -135,6 +139,8 @@ This index catalogs thought analyses of important historical figures from a quan
 - [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md)
 - [鲁迅 | Lu Xun](literary_figures/lu_xun.md)
 - [尼古拉·特斯拉 | Nikola Tesla](scientists/nikola_tesla.md)
+- [马克·吐温 | Mark Twain](literary_figures/mark_twain.md)
+- [简·奥斯汀 | Jane Austen](literary_figures/jane_austen.md)
 
 ### 当代 (1945-至今) | Contemporary Era (1945-Present)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
@@ -189,11 +195,14 @@ This index catalogs thought analyses of important historical figures from a quan
 - [罗莎·卢森堡 | Rosa Luxemburg](political_leaders/rosa_luxemburg.md)
 - [伊丽莎白一世 | Elizabeth I](political_leaders/elizabeth_i.md)
 - [尼古拉·特斯拉 | Nikola Tesla](scientists/nikola_tesla.md)
+- [简·奥斯汀 | Jane Austen](literary_figures/jane_austen.md)
 
 ### 中东和北非 | Middle East and North Africa
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
+- [克利奥帕特拉 | Cleopatra](political_leaders/cleopatra.md)
 
 ### 美洲 | Americas
 - [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
 - [马丁·路德·金 | Martin Luther King Jr.](political_leaders/martin_luther_king.md)
-- [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md) 
+- [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md)
+- [马克·吐温 | Mark Twain](literary_figures/mark_twain.md) 

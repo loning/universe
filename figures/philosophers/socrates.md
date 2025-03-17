@@ -11,23 +11,19 @@
 
 ### 中文
 
-1. **"认识你自己"**: 自我认知是一切智慧的基础，真正的智慧始于承认自己的无知。
-2. **苏格拉底方法**: 通过系统性提问和对话揭示假知识，引导对话者发现真理，强调批判性思维和逻辑论证。
-3. **美德即知识**: 认为善的行为源于对善的认知，邪恶源于无知，真知必然导向正确行为。
-4. **灵魂关怀优先**: 关爱灵魂（内在品格与智慧）比关心物质财富与身体更重要，灵魂卓越是人生首要目标。
-5. **不义之害**: 做不义的事对行为者的灵魂造成伤害，远甚于遭受不义，宁受害而不愿害人。
-6. **智性怀疑主义**: 挑战传统权威和习俗，强调基于理性检验而非传统或权威的知识和伦理观。
-7. **哲学即对话**: 真理通过开放的对话和思想交流而非独白或教条得以逼近，哲学是活在人际互动中的实践。
+1. **"认识你自己"与无知之知**: 真正的智慧始于承认自己的无知，人应通过自我反思和批判式思考不断检验自己的信念与知识。
+2. **苏格拉底式对话法**: 通过有针对性的提问和论辩而非直接教导，引导对话者发现问题的矛盾与局限，最终达成更深层次的理解。
+3. **德性即知识**: 认为美德源于知识，真正理解何为善的人必然会选择善行；恶行源于认知的缺失而非意志的薄弱。
+4. **灵魂关怀优先**: 物质财富和社会地位次要，灵魂的培养和道德完善才是人生最重要的追求，宁可受不公正对待也不愿对他人施加不公。
+5. **理性思考与道德自主**: 反对盲从传统和权威，主张个体通过理性思考形成道德判断，个人良知高于社会习俗和成文法律。
 
 ### English
 
-1. **"Know Thyself"**: Self-knowledge is the foundation of all wisdom; true wisdom begins with acknowledging one's own ignorance.
-2. **Socratic Method**: Revealing false knowledge through systematic questioning and dialogue, guiding interlocutors to discover truth, emphasizing critical thinking and logical argumentation.
-3. **Virtue as Knowledge**: Believing that good actions stem from knowledge of the good, evil stems from ignorance, and true knowledge inevitably leads to right action.
-4. **Priority of Soul Care**: Caring for the soul (inner character and wisdom) is more important than caring for material wealth and body; excellence of soul is the primary goal of life.
-5. **Harm of Injustice**: Committing injustice harms the doer's soul far more than suffering injustice; better to suffer harm than to inflict it.
-6. **Intellectual Skepticism**: Challenging traditional authorities and customs, emphasizing knowledge and ethics based on rational examination rather than tradition or authority.
-7. **Philosophy as Dialogue**: Truth is approached through open dialogue and exchange of ideas rather than monologue or dogma; philosophy is practice lived in interpersonal interaction.
+1. **"Know Thyself" and Knowledge of Ignorance**: True wisdom begins with acknowledging one's own ignorance; one should continuously examine one's beliefs and knowledge through self-reflection and critical thinking.
+2. **Socratic Method of Dialogue**: Guiding interlocutors to discover contradictions and limitations in problems through targeted questioning and debate rather than direct teaching, ultimately reaching deeper understanding.
+3. **Virtue as Knowledge**: Virtue stems from knowledge; those who truly understand what is good will necessarily choose good actions; evil actions arise from cognitive deficiency rather than weakness of will.
+4. **Priority of Soul Care**: Material wealth and social status are secondary; cultivation of the soul and moral perfection are life's most important pursuits; better to suffer injustice than to inflict it upon others.
+5. **Rational Thinking and Moral Autonomy**: Opposing blind adherence to tradition and authority, advocating for individuals to form moral judgments through rational thinking; personal conscience supersedes social customs and written laws.
 
 ## 量子经典二元论视角分析 | Analysis from Quantum-Classical Dualism Perspective
 
