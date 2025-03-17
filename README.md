@@ -20,6 +20,18 @@
 - [命运与自由意志](./10_destiny_and_free_will.md) - 命运与自由意志 (Destiny and Free Will)
 - [量子纠缠本质](./11_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)
 
+#### 历史人物分析 | Historical Figures Analysis
+- [历史人物分析索引](./figures/index.md) - 基于量子经典二元论视角的历史人物思想分析
+- 哲学家 - 柏拉图、老子、康德、荀子、尼采、苏格拉底、笛卡尔、亚里士多德等
+- 科学家 - 爱因斯坦、达尔文、牛顿、玛丽·居里、尼尔斯·玻尔、高斯、图灵等
+- 艺术家 - 莎士比亚、莫扎特、达芬奇等
+- 领导者 - 亚历山大大帝等
+- 战略家 - 孙子等
+- 心理学家 - 弗洛伊德等
+- 宗教人物 - 释迦牟尼等
+- [按时代分类](./figures/index.md#按时代分类--classification-by-era) - 古代、中世纪、文艺复兴与早期现代、现代、当代
+- [按地域分类](./figures/index.md#按地域分类--classification-by-region) - 东亚、南亚、欧洲、中东和北非等
+
 #### 应用 | Applications
 - [应用概述](./applications/README.md) - 应用 | Applications
 - [命运与自由意志应用](./applications/destiny_free_will_applications.md) - 命运与自由意志应用 (Destiny and Free Will Applications)
@@ -245,6 +257,18 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [References](./08_references.md) - References
 - [Destiny and Free Will](./10_destiny_and_free_will.md) - Destiny and Free Will
 - [Quantum Entanglement Essence](./11_quantum_entanglement_essence.md) - Quantum Entanglement Essence
+
+#### Historical Figures Analysis
+- [Historical Figures Index](./figures/index.md) - Analysis of Historical Figures from Quantum-Classical Dualism Perspective
+- Philosophers - Plato, Laozi, Kant, Xunzi, Nietzsche, Socrates, Descartes, Aristotle, etc.
+- Scientists - Einstein, Darwin, Newton, Marie Curie, Niels Bohr, Gauss, Turing, etc.
+- Artists - Shakespeare, Mozart, Da Vinci, etc.
+- Leaders - Alexander the Great, etc.
+- Strategists - Sun Tzu, etc.
+- Psychologists - Freud, etc.
+- Religious Figures - Buddha, etc.
+- [Classification by Era](./figures/index.md#按时代分类--classification-by-era) - Ancient, Middle Ages, Renaissance and Early Modern, Modern, Contemporary
+- [Classification by Region](./figures/index.md#按地域分类--classification-by-region) - East Asia, South Asia, Europe, Middle East and North Africa, etc.
 
 #### Applications
 - [Applications Overview](./applications/README.md) - Applications
