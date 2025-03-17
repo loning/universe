@@ -210,7 +210,7 @@ $$
 \text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
 $$
 
-3. **Cross-domain Nature of Observer's Overall Dimension**: The overall dimension depends on the weighted integration of the observer's classicalization efficiency across multiple domains:
+3. **Observer's Overall Dimension Cross-domain Nature**: The overall dimension depends on the weighted integration of the observer's classicalization efficiency across multiple domains:
 
 $$
 \text{Overall Dimension} = \sum_i w_i \frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
@@ -234,7 +234,7 @@ $$
 
 This mechanism explains the formation of higher-dimensional consciousness phenomena such as collective consciousness, social consciousness, and religious consciousness.
 
-### IV. Relationship Between Quantum Consciousness and Classical Memory
+### IV. Quantum Consciousness and Classical Memory
 
 1. **Quantum Consciousness Definition**: Quantum consciousness is the quantum structure of long-term stable and effective entanglement between the observer and the quantum domain, which is the essence of consciousness continuity.
    - Effective quantum entanglement → Classical knowledge (consciousness)
@@ -288,7 +288,7 @@ $$
 I_{\text{Classical Memory (Old)}} + |\psi\rangle_{\text{Random Quantum Information}} \rightarrow I_{\text{Classical Memory (New)}} + S_{\text{Entropy Change}}
 $$
 
-Tampering with collective classical memory is extremely difficult, and it has stronger stability than individual classical memory.
+Collective classical memory is extremely difficult to tamper with, and its stability is stronger than individual classical memory.
 
 ### VIII. Dual Identity of Observers and Definition of Divinity
 

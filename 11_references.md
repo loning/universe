@@ -75,16 +75,18 @@
 
 ### 量子经典二元论直接相关
 
-40. [量子经典二元论核心理论](core.md). 量子经典二元论的完整理论阐述.
+40. [量子经典二元论核心理论](core.md). 量子经典二元论的完整理论阐述(版本1.8).
 41. [简介](01_introduction.md). 量子经典二元论的简介.
 42. [基本概念](02_basic_concepts.md). 量子经典二元论的基本概念.
 43. [理论框架](03_theoretical_framework.md). 量子经典二元论的理论框架.
 44. [数学公式](04_mathematical_formulations.md). 量子经典二元论的数学公式.
 45. [观察者与意识](05_observer_and_consciousness.md). 量子经典二元论中的观察者与意识.
 46. [宇宙与观察者关系](06_universe_observer_relationship.md). 量子经典二元论中的宇宙与观察者关系.
-47. [应用与启示](07_applications_and_implications.md). 量子经典二元论的应用与启示.
-48. [命运与自由意志](10_destiny_and_free_will.md). 量子经典二元论中的命运与自由意志.
-49. [量子纠缠本质](11_quantum_entanglement_essence.md). 量子经典二元论中的量子纠缠本质.
+47. [量子纠缠本质](07_quantum_entanglement_essence.md). 量子经典二元论中的量子纠缠本质.
+48. [命运与自由意志](08_destiny_and_free_will.md). 量子经典二元论中的命运与自由意志.
+49. [应用与启示](09_applications_and_implications.md). 量子经典二元论的应用与启示.
+50. [框架应用](10_framework_application.md). 量子经典二元论在实际框架中的应用.
+51. [图示库](figures/README.md). 量子经典二元论图示库.
 
 ## English Version
 
@@ -161,13 +163,15 @@ The following are references related to Quantum-Classical Dualism:
 
 ### Directly Related to Quantum-Classical Dualism
 
-40. [Quantum-Classical Dualism Core Theory](core.md). Complete Theoretical Exposition of Quantum-Classical Dualism.
+40. [Quantum-Classical Dualism Core Theory](core.md). Complete Theoretical Exposition of Quantum-Classical Dualism (Version 1.8).
 41. [Introduction](01_introduction.md). Introduction to Quantum-Classical Dualism.
 42. [Basic Concepts](02_basic_concepts.md). Basic Concepts of Quantum-Classical Dualism.
 43. [Theoretical Framework](03_theoretical_framework.md). Theoretical Framework of Quantum-Classical Dualism.
 44. [Mathematical Formulations](04_mathematical_formulations.md). Mathematical Formulations of Quantum-Classical Dualism.
 45. [Observer and Consciousness](05_observer_and_consciousness.md). Observer and Consciousness in Quantum-Classical Dualism.
 46. [Universe-Observer Relationship](06_universe_observer_relationship.md). Universe-Observer Relationship in Quantum-Classical Dualism.
-47. [Applications and Implications](07_applications_and_implications.md). Applications and Implications of Quantum-Classical Dualism.
-48. [Destiny and Free Will](10_destiny_and_free_will.md). Destiny and Free Will in Quantum-Classical Dualism.
-49. [Quantum Entanglement Essence](11_quantum_entanglement_essence.md). Quantum Entanglement Essence in Quantum-Classical Dualism. 
+47. [Quantum Entanglement Essence](07_quantum_entanglement_essence.md). Quantum Entanglement Essence in Quantum-Classical Dualism.
+48. [Destiny and Free Will](08_destiny_and_free_will.md). Destiny and Free Will in Quantum-Classical Dualism.
+49. [Applications and Implications](09_applications_and_implications.md). Applications and Implications of Quantum-Classical Dualism.
+50. [Framework Application](10_framework_application.md). Application of Quantum-Classical Dualism in Practical Frameworks.
+51. [Illustration Library](figures/README.md). Quantum-Classical Dualism Illustration Library. 

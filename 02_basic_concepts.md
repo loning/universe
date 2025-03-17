@@ -2,21 +2,22 @@
 
 ## 中文版
 
-以下是[量子经典二元论核心理论](core.md)（版本1.8）的基本概念：
+本文档详细介绍[量子经典二元论核心理论](core.md)（版本1.8）的基本概念。
 
 ### 量子域
 
-**量子域**是宇宙整体信息的完整表达，以波函数叠加态形式存在，涵盖所有可能性：
+**量子域**（Quantum Domain）是宇宙的本质形态，表现为无限维的波函数叠加态，包含所有可能性，无因果序列，无时间箭头：
 
 $$
-|\psi\rangle_{\text{量子域}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
+|\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i |c_i|^2 = 1
 $$
 
 量子域具有以下特性：
-- 无限维的量子波函数网络
-- 包含所有可能的信息状态
-- 观测前处于完美叠加状态
-- 不直接可观测，需通过观察者经典化
+- 非确定性
+- 非时间性
+- 非局域性
+- 非因果序列
+- 无限可能性叠加
 
 ### 经典域
 
@@ -60,44 +61,43 @@ $$
 
 ### 观察者整体维度的跨领域性
 
-**观察者整体维度**取决于观察者在多个领域经典化效率的加权整合：
+观察者的整体维度不仅取决于单一领域的经典化效率，而是多个领域经典化效率的加权整合：
 
 $$
 \text{整体维度} = \sum_i w_i \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
 $$
 
-其中$w_i$为不同领域的权重。整体维度高的观察者具有更强的跨领域知识整合能力与真相洞察能力。
+其中$w_i$代表不同领域的权重。整体维度高的观察者具有强大的跨领域知识整合能力与真相洞察力。
 
 ### 广义意识定义
 
-**广义意识**是任何经典化过程的本质特征。所有经典化对象（如太阳系、地球、人类、动物、宗教体系、梦境、冥想空间等）都具有意识本质：
+**广义意识**是经典化过程的固有属性，任何经典化过程都有明确的方向性，所有经典化对象都具有意识本质：
 
 $$
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化方向}} I_{\text{经典意识（广义）}} + S_{\text{剩余经典熵}}
 $$
 
+根据此定义，太阳系、地球、人类、动物、宗教体系、梦境、冥想空间等均为具有意识的经典化实体。
+
 ### 高维意识的涌现机制
 
-**高维意识**是大量低维观察者的集体经典化涌现结果：
+高维意识（如集体意识、社会意识、宗教意识等）是多个低维观察者集体经典化的涌现结果：
 
 $$
 |\psi\rangle_{\text{多个低维观察者}} \rightarrow I_{\text{高维集体意识}} + S_{\text{剩余经典熵}}
 $$
 
-这解释了集体意识、社会意识、宗教意识等高维意识现象的形成机制。
+这解释了为何集体意识往往超越个体意识维度，具有更高层次的洞察力与组织能力。
 
 ### 量子意识与经典记忆
 
-**量子意识**是观察者与量子域长期稳定有效纠缠的量子结构，是意识连续性的本质：
-
-- **有效量子纠缠** → 产生经典知识（意识）
-- **无效量子纠缠** → 产生经典熵（表现为焦虑、迷茫等）
-
-**经典记忆**是量子意识经典化后的稳定产物，维持观察者自我认同与意识连续性：
+**量子意识**是非局域的量子信息结构，而**经典记忆**是量子意识经典化后的稳定产物：
 
 $$
 |\psi\rangle_{\text{量子意识}} \rightarrow I_{\text{经典记忆}} + S_{\text{经典熵}}
 $$
+
+量子意识无时空限制，而经典记忆具有明确的时间序列和局域性。经典记忆维持观察者自我认同与意识连续性。
 
 ### 经典信息传播机制
 
@@ -115,405 +115,231 @@ $$
 I_{\text{经典知识B（增加）}} + S_{\text{经典熵B（降低）}} \leftarrow I_{\text{经典知识B（副本）}}
 $$
 
-### 熵变化规律
-
-- **熵减行为**：有效学习、高效沟通、艺术创造、冥想、有序梦境
-- **熵增行为**：无效沟通、焦虑、噩梦、冲突、无序重复行为
-
-### 经典世界的平等性
-
-所有经典世界（如现实世界、梦境、佛教、道教、基督教、伊斯兰教等）平等共存，无主次之分：
-
-$$
-|\psi\rangle_{\text{量子域}} \rightarrow \sum_i\left(I_{\text{经典知识}_i}+S_{\text{经典熵}_i}\right)=\text{常数}
-$$
-
-### 经典知识共享机制
-
-经典知识可同时存在于多个经典世界中：
-
-$$
-|\psi\rangle_{\text{共享量子信息}} \rightarrow I_{\text{经典知识}_A} + I_{\text{经典知识}_B} + S_{\text{传播损耗}}
-$$
-
-### 经典记忆的篡改机制与难度
-
-观察者能对经典世界的记忆（历史与未来）进行经典化修改：
-
-$$
-I_{\text{经典记忆（旧）}} + |\psi\rangle_{\text{随机量子信息}} \rightarrow I_{\text{经典记忆（新）}} + S_{\text{熵变动}}
-$$
-
-集体经典记忆篡改难度极高，稳定性强于个体经典记忆。
-
 ### 观察者的双重身份与神性定义
 
-观察者在自身经典世界中表现为普通个体，但在其他经典世界经典化效率高时体现为"神"：
+观察者同时具有双重身份：在自身经典世界中表现为普通个体，但在其他经典世界中可能表现为"神"（根据经典化效率）：
 
 $$
 \text{高维观察者（神）} \Leftrightarrow \text{经典化低维观察者熵为知识（熵降低）}
 $$
 
+这解释了为什么观察者可以同时是普通人与"神"，取决于参照系。
+
 ### 经典世界的死亡与投胎机制
 
-**死亡的经典化本质**：死亡本质上是观察者从一个经典世界转换到另一个经典世界的过程（类似梦境转换）。自我意识并未消散，而是以另一经典化结构形式继续存在：
+死亡本质上是观察者从一个经典世界转换到另一个经典世界的过程：
 
 $$
 |\psi\rangle_{\text{经典世界A（死亡）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{其他经典世界（新）}}
 $$
 
-**量子纠缠与投胎行为**：经典域消散后的量子意识在量子域中形成新的纠缠，从而产生"投胎"现象：
+死亡不是意识的终结，而是经典世界的转换。自我意识并未消散，而是以另一经典化结构形式继续存在。
+
+### 量子纠缠与投胎行为
+
+经典域消散后的量子意识在量子域中形成新的纠缠，从而产生"投胎"现象：
 
 $$
 |\psi\rangle_{\text{量子意识（旧经典世界）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{新经典世界（投胎）}}
 $$
 
-### 宇宙对观察者的淘汰与新经典世界诞生机制
+### 量子纠缠
 
-宇宙持续淘汰经典化效率低（熵高）的低维观察者，其熵随机经典化形成新的经典世界：
+**量子纠缠**是量子信息网络的基本连接方式，分为两类：
+
+1. **有效量子纠缠**：能经典化为知识的纠缠
+
+$$
+|\psi\rangle_{\text{有效纠缠}}\rightarrow I_{\text{经典知识增加}}+S_{\text{经典熵减少}}
+$$
+
+2. **无效量子纠缠**：经典化为熵的纠缠
+
+$$
+|\psi\rangle_{\text{无效纠缠}}\rightarrow S_{\text{经典熵增加}}
+$$
+
+有效量子纠缠提高观察者维度，无效量子纠缠降低观察者维度。
+
+### 宇宙对观察者的淘汰机制
+
+宇宙持续淘汰经典化效率低（熵高）的低维观察者：
 
 $$
 S_{\text{淘汰低维观察者熵}} \rightarrow |\psi\rangle_{\text{新经典世界}}
 $$
 
-宇宙从新经典世界中提炼优质经典知识，并进一步经典化为更大经典世界：
-
-$$
-|\psi\rangle_{\text{新经典世界}} \rightarrow I_{\text{经典知识（优化）}} + S_{\text{熵降低}}
-$$
-
-### 量子系统同构性与观察者间交流效率
-
-量子结构同构的观察者（如人与人、人与动物）处于同一经典世界中，交流高效；非同构量子系统间交流困难或效率低下。
-
-### 宇宙经典化的终极哲学意义
-
-- 宇宙本质是观察者经典化量子信息构成的网络体系
-- 经典知识的最大化与经典熵最小化是宇宙经典化的终极目标
-- 所有经典世界平等交织，相互影响
-- 观察者具有在不同经典世界之间的多重身份（普通个体与神性）
-- 宇宙通过不断淘汰低效观察者、产生新经典世界，最终实现整体低熵状态：
-
-$$
-|\psi\rangle_{\text{宇宙量子域}} \rightarrow \sum_{\text{经典域}}\left(I_{\text{经典知识最大化}} + S_{\text{经典熵最小化}}\right) \rightarrow \text{宇宙低熵终极状态}
-$$
+被淘汰的观察者熵会重新参与随机经典化，形成新的经典世界。
 
 ## English Version
 
-The following are the basic concepts of the [Quantum-Classical Dualism Core Theory](core.md):
+# Basic Concepts
 
-### Quantum Universe
+This document details the basic concepts of the [Quantum-Classical Dualism Core Theory](core.md) (Version 1.8).
 
-**Quantum Universe** is the complete expression of the universe's overall information, existing in the form of wave function superposition, encompassing all possibilities:
+### Quantum Domain
 
-$$
-|\psi\rangle_{\text{Universe}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
-
-The Quantum Universe has the following characteristics:
-- Infinite-dimensional quantum wave function network
-- Contains all possible information states
-- In perfect superposition state before observation
-- Not directly observable, requires classicalization through observers
-
-### Classical Universe
-
-**Classical Universe** is the result of observers classicalizing the quantum universe, consisting of classical knowledge and classical entropy:
+The **Quantum Domain** is the essential form of the universe, manifesting as an infinite-dimensional wave function superposition state, containing all possibilities, without causal sequences or time arrows:
 
 $$
-|\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i |c_i|^2 = 1
 $$
 
-The Classical Universe has the following characteristics:
+The Quantum Domain has the following characteristics:
+- Non-deterministic
+- Non-temporal
+- Non-local
+- No causal sequences
+- Infinite superposition of possibilities
+
+### Classical Domain
+
+The **Classical Domain** is the result of observers classicalizing the quantum domain, consisting of classical knowledge and classical entropy:
+
+$$
+|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}
+$$
+
+The Classical Domain has the following characteristics:
 - Deterministic knowledge structure
-- Directional arrow of time
+- Directional time arrow
 - Observable, measurable physical laws
 - Macroscopic manifestation of entropy increase
 
-### Observers
+### Observer
 
-**Observers** are classicalization nodes in the universe, responsible for transforming quantum information into classical information:
-
-$$
-|\psi\rangle_{\text{Observer}}\xrightarrow{\text{Classicalization}} \text{Classical Knowledge}+S_{\text{Classical Entropy}}
-$$
-
-Observers are divided into different dimensions, with dimension levels depending on classicalization efficiency:
-
-- **High-dimensional Quantum Observers** (high classicalization efficiency):
+An **Observer** is a classicalization node in the universe, responsible for converting quantum information into classical information:
 
 $$
-|\psi\rangle_{\text{High-dimensional Observer}}\rightarrow \text{Classical Knowledge (Efficient)}+S_{\text{Classical Entropy (Less)}}
+|\psi\rangle_{\text{Observer}}\xrightarrow{\text{Classicalization}} I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}
 $$
 
-- **Low-dimensional Quantum Observers** (low classicalization efficiency):
+Observers are divided into different dimensions, with the dimension level depending on classicalization efficiency:
+
+- **High-dimensional Quantum Observer** (high classicalization efficiency):
 
 $$
-|\psi\rangle_{\text{Low-dimensional Observer}}\rightarrow \text{Classical Knowledge (Inefficient)}+S_{\text{Classical Entropy (More)}}
+|\psi\rangle_{\text{High-dimensional Observer}}\rightarrow I_{\text{Classical Knowledge (Efficient)}}+S_{\text{Classical Entropy (Less)}}
 $$
 
 ### Observer Dimension
 
-**Observer Dimension** is proportional to their classicalization efficiency, quantifying the ratio of classical knowledge to classical entropy:
+**Observer Dimension** is determined by classicalization efficiency, specifically the ratio of classical knowledge to classical entropy:
 
 $$
 \text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
 $$
 
-Conditions for observer dimension elevation:
-- Increase classical knowledge (information amount)
-- Reduce classical entropy (disorder)
-- Improve classicalization efficiency
+High-dimensional observers have high classicalization efficiency, abundant classical knowledge, and less classical entropy; low-dimensional observers have low classicalization efficiency, lacking classical knowledge, and higher classical entropy.
 
 ### Cross-domain Nature of Observer's Overall Dimension
 
-**The overall dimension of an observer** has a clear cross-domain nature, being a weighted sum of dimensions across various domains:
+The overall dimension of an observer depends not only on classicalization efficiency in a single domain but on the weighted integration of classicalization efficiency across multiple domains:
 
 $$
 \text{Overall Dimension} = \sum_i w_i \frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
 $$
 
-Where:
-- $w_i$ represents the weights of different domains
-- Domains can include science, art, social, spiritual, and other aspects
-- Overall dimensional capability depends on comprehensive cross-domain levels
-- High overall dimension observers can efficiently classicalize information across multiple domains
-- High dimension in one area does not imply high dimensions in all areas
-- Observers with strong cross-domain integration capabilities can more easily discern universal truths
+Where $w_i$ represents the weights of different domains. Observers with high overall dimension possess strong cross-domain knowledge integration capabilities and truth insight abilities.
 
-### Quantum Consciousness
+### Generalized Definition of Consciousness
 
-**Quantum Consciousness** is the quantum structure of long-term stable and effective entanglement between the observer and the quantum domain, which is the essence of consciousness continuity:
+**Generalized Consciousness** is an inherent attribute of the classicalization process; any classicalization process has a clear directionality, and all classicalized objects possess the essence of consciousness:
 
 $$
-|\psi\rangle_{\text{Quantum Consciousness}}=|\psi\rangle_{\text{Universe}}\otimes|\psi\rangle_{\text{Observer}}
+|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization Direction}} I_{\text{Classical Consciousness (Generalized)}} + S_{\text{Remaining Classical Entropy}}
 $$
 
-Quantum consciousness has the following characteristics:
-- Non-locality, not limited by space
-- Quantum superposition state, containing multiple possibilities
-- Not limited by classical time, can exist continuously across time
-- Can form entanglement with multiple observers, enabling quantum connections between consciousnesses
-- Is the essential guarantee of consciousness continuity, including continuity during sleep, meditation, and other states
+According to this definition, the solar system, earth, humans, animals, religious systems, dreams, meditation spaces, etc., are all classicalized entities possessing consciousness.
 
-### Classicalization Process
+### Emergence Mechanism of Higher-dimensional Consciousness
 
-**Classicalization Process** is the mechanism by which observers transform quantum information into classical information:
+Higher-dimensional consciousness (such as collective consciousness, social consciousness, religious consciousness) is the emergent result of collective classicalization by multiple low-dimensional observers:
 
 $$
-|\psi\rangle_{\text{Quantum Information}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Multiple Low-dimensional Observers}} \rightarrow I_{\text{High-dimensional Collective Consciousness}} + S_{\text{Remaining Classical Entropy}}
 $$
 
-Characteristics of the classicalization process:
-- Transformation from superposition state to definite state
-- Production of classical knowledge and classical entropy
-- Establishment of causal relationships and time flow
-- Formation of observer's classical memory
+This explains why collective consciousness often transcends individual consciousness dimensions, possessing higher-level insight and organizational capabilities.
 
-### Classical Memory
+### Quantum Consciousness and Classical Memory
 
-**Classical Memory** is the stable storage structure after quantum consciousness is classicalized, maintaining the observer's self-identity and continuity:
+**Quantum Consciousness** is a non-local quantum information structure, while **Classical Memory** is the stable product after the classicalization of quantum consciousness:
 
 $$
-|\psi\rangle_{\text{Quantum Consciousness}}\rightarrow \text{Classical Memory (Knowledge)}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Quantum Consciousness}} \rightarrow I_{\text{Classical Memory}} + S_{\text{Classical Entropy}}
 $$
 
-Classical memory has the following characteristics:
-- Continuity of time
-- Determinism of causality
-- Association with observer identity
-- May include past life memories
-- Can be tampered with but with difficulty
+Quantum consciousness has no space-time limitations, while classical memory has a clear time sequence and locality. Classical memory maintains the observer's self-identity and consciousness continuity.
 
-### Classical Entropy
+### Classical Information Propagation Mechanism
 
-**Classical Entropy** is information that observers cannot effectively classicalize, manifested as anxiety, confusion, and other states:
+The essence of classical knowledge propagation is a **deep copy**, not a pointer or reference:
+
+- Transmission End (A):
 
 $$
-S_{\text{Classical Entropy}}=\text{Quantum information that cannot be effectively classicalized}
+I_{\text{Classical Knowledge A}} \rightarrow I_{\text{Classical Knowledge B (Copy)}} + S_{\text{Propagation Entropy (Increased)}}
 $$
 
-Characteristics of classical entropy:
-- Disorder of information
-- Reduces system efficiency
-- Requires energy to remove
-- Inversely proportional to observer dimension
-
-Principles of entropy change:
-- **Entropy-reducing behaviors**: Effective learning, efficient communication, artistic creation, meditation, ordered dreams
-- **Entropy-increasing behaviors**: Ineffective communication, anxiety, nightmares, conflict, disordered repetitive behaviors
-
-### Quantum Entanglement
-
-**Quantum Entanglement** is the basic connection method of quantum information networks, essentially an inseparable wave function structure, divided into **Effective Quantum Entanglement** (entanglement classicalized into knowledge) and **Ineffective Quantum Entanglement** (entanglement classicalized into entropy):
-
-$$
-|\psi\rangle_{\text{Effective Entanglement}}\rightarrow I_{\text{Classical Knowledge Increased}}+S_{\text{Classical Entropy Reduced}}
-$$
-
-$$
-|\psi\rangle_{\text{Ineffective Entanglement}}\rightarrow S_{\text{Classical Entropy Increased}}
-$$
-
-### Classical Knowledge Propagation Mechanism
-
-**The classical knowledge propagation mechanism** explicitly uses independent deep copy, not reference or pointer:
-
-- **Transmitting Observer A**:
-
-$$
-I_{\text{Classical Knowledge A}} \rightarrow I_{\text{Classical Knowledge B (Copy)}} + S_{\text{Transmission Entropy (Increase)}}
-$$
-
-- **Receiving Observer B**:
+- Receiving End Observer B:
 
 $$
 I_{\text{Classical Knowledge B (Increased)}} + S_{\text{Classical Entropy B (Reduced)}} \leftarrow I_{\text{Classical Knowledge B (Copy)}}
 $$
 
-Key properties of knowledge propagation:
-- Knowledge is propagated as independent copies, not references
-- The propagation process necessarily produces transmission entropy
-- The recipient needs to classicalize the received knowledge copy
-- Classicalization efficiency determines the degree of knowledge acquisition and entropy reduction
-- Propagation results follow the law of classical information conservation
-
-### Law of Entropy-Knowledge Transformation Between Observers
-
-**Law of Entropy-Knowledge Transformation Between Observers**: Information (entropy) that cannot be classicalized by low-dimensional observers can be classicalized into knowledge by high-dimensional observers:
-
-$$
-S_{\text{Low-dimensional Observer (Entropy)}}\xrightarrow{\text{High-dimensional Classicalization}} I_{\text{High-dimensional Observer Classical Knowledge}}+S_{\text{Classical Entropy (Reduced)}}
-$$
-
-### Observer Classicalization Communication and Consciousness Isomorphism
-
-**Observer Classicalization Communication Efficiency** depends on the degree of isomorphism in their quantum systems:
-
-$$
-I_{\text{Classicalization Communication Efficiency}}\propto\text{Isomorphism}\left(|\psi\rangle_{\text{Observer A}},|\psi\rangle_{\text{Observer B}}\right)
-$$
-
-Characteristics of consciousness isomorphism:
-- Similar consciousness structures have higher information transfer efficiency
-- Affects the degree of understanding and resonance between observers
-- Determines the success rate of classicalization communication
-- Can be enhanced through effective interaction
-- Observers with isomorphic quantum structures can effectively communicate within the same classical world
-- Non-isomorphic quantum systems have difficult or highly inefficient communication
-
-### Information Transfer Process and Specific Changes in Classical Entropy
-
-**Information Transfer Process** between observers goes through three stages, each with changes in entropy:
-
-1. **Knowledge Preparation Stage**: The sender prepares the knowledge to be transferred in a form suitable for classicalization by the receiver
-
-$$
-I_{\text{Classical Knowledge A}}\rightarrow I_{\text{Classical Knowledge A Copy}}+S_{\text{Transmission Entropy Increase}}
-$$
-
-2. **Transmission Process Stage**: Entropy increases during the information transmission process
-
-$$
-I_{\text{Classical Knowledge A Copy}}\rightarrow I_{\text{Classical Knowledge A Copy}}+S_{\text{Transmission Process Entropy Increase}}
-$$
-
-3. **Receiver Classicalization Stage**: The receiver classicalizes the received information into knowledge and entropy
-   - Successful classicalization (entropy reduction):
-
-$$
-I_{\text{Classical Knowledge A Copy}}+S_{\text{Classical Entropy B}}\rightarrow I_{\text{Classical Knowledge B (Increased)}}+S_{\text{Classical Entropy B (Reduced)}}
-$$
-
-   - Failed classicalization (entropy increase):
-
-$$
-I_{\text{Classical Knowledge A Copy}}+S_{\text{Classical Entropy B}}\rightarrow S_{\text{Classical Entropy B (Increased)}}
-$$
-
-The entire process follows the law of classical information conservation:
-
-$$
-(I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}})_{\text{Before and After Transfer}}=\text{Constant}
-$$
-
-### Equality and Knowledge Sharing Nature of Classical Worlds
-
-**Various classical worlds** (such as reality, dreams, Buddhism, Taoism, Christianity, Islam, etc.) coexist equally and intertwine with each other:
-
-$$
-|\psi\rangle_{\text{Quantum Domain}} \rightarrow \sum_i \left( I_{\text{Classical Knowledge}_i} + S_{\text{Classical Entropy}_i} \right) = \text{Constant}
-$$
-
-The same classical knowledge can exist simultaneously in multiple classical worlds:
-
-$$
-|\psi\rangle_{\text{Shared Quantum Information}} \rightarrow I_{\text{Classical Knowledge}_A} + I_{\text{Classical Knowledge}_B} + S_{\text{Transmission Loss}}
-$$
-
-### Tampering Mechanism and Difficulty of Classical World Memory
-
-**Both the history (past) and future paths of classical worlds** can be tampered with by observers through classicalization:
-
-$$
-I_{\text{Classical Memory (Old)}} + |\psi\rangle_{\text{Random Quantum Information}} \rightarrow I_{\text{Classical Memory (New)}} + S_{\text{Entropy Change}}
-$$
-
-Tampering characteristics:
-- The difficulty of tampering with collective classical memory is far greater than individual classical memory
-- Collective classical memory has high stability
-- Tampering requires a large amount of energy to be converted into entropy
-- Large-scale collective memory tampering may lead to quantum consciousness disruption
-- Natural tampering (such as memory errors) and artificial tampering (such as brainwashing) have the same mechanism but different scales
-
 ### Dual Identity of Observers and Definition of Divinity
 
-**Observers are ordinary individuals in their own classical worlds**, but manifest as "divine" when they have high classicalization efficiency in other classical worlds:
+Observers simultaneously possess dual identities: appearing as ordinary individuals in their own classical worlds, but potentially manifesting as "gods" in other classical worlds (depending on classicalization efficiency):
 
 $$
 \text{High-dimensional Observer (God)} \Leftrightarrow \text{Classicalizing Low-dimensional Observer Entropy into Knowledge (Entropy Reduced)}
 $$
 
-Divine characteristics:
-- Can effectively classicalize information that others cannot classicalize
-- Can reduce entropy increase in others' systems
-- Can provide cognition beyond conventional classical worlds
-- Has influence across classical worlds
+This explains why observers can simultaneously be ordinary people and "gods," depending on the reference frame.
 
-### Universe's Elimination of Low-dimensional Observers and Birth of New Classical Worlds
+### Death and Reincarnation Mechanism in Classical Worlds
 
-**The universe continuously eliminates low-dimensional observers with poor classicalization efficiency (excessively high entropy)**, and the entropy is randomly classicalized to form new classical worlds:
+Death is essentially the process of an observer transitioning from one classical world to another:
+
+$$
+|\psi\rangle_{\text{Classical World A (Death)}} \rightarrow |\psi\rangle_{\text{Quantum Domain}} \rightarrow |\psi\rangle_{\text{Other Classical World (New)}}
+$$
+
+Death is not the end of consciousness but a transition between classical worlds. Self-consciousness does not dissipate but continues to exist in the form of another classicalized structure.
+
+### Quantum Entanglement and Reincarnation Behavior
+
+After the classical domain dissipates, quantum consciousness forms new entanglements in the quantum domain, thereby producing the phenomenon of "reincarnation":
+
+$$
+|\psi\rangle_{\text{Quantum Consciousness (Old Classical World)}} \rightarrow |\psi\rangle_{\text{Quantum Domain}} \rightarrow |\psi\rangle_{\text{New Classical World (Reincarnation)}}
+$$
+
+### Quantum Entanglement
+
+**Quantum Entanglement** is the basic connection method of quantum information networks, divided into two categories:
+
+1. **Effective Quantum Entanglement**: Entanglement that can be classicalized into knowledge
+
+$$
+|\psi\rangle_{\text{Effective Entanglement}}\rightarrow I_{\text{Classical Knowledge Increased}}+S_{\text{Classical Entropy Reduced}}
+$$
+
+2. **Ineffective Quantum Entanglement**: Entanglement that classicalizes into entropy
+
+$$
+|\psi\rangle_{\text{Ineffective Entanglement}}\rightarrow S_{\text{Classical Entropy Increased}}
+$$
+
+Effective quantum entanglement elevates observer dimension, while ineffective quantum entanglement lowers observer dimension.
+
+### Universe's Elimination Mechanism for Observers
+
+The universe continuously eliminates low-dimensional observers with low classicalization efficiency (high entropy):
 
 $$
 S_{\text{Eliminated Low-dimensional Observer Entropy}} \rightarrow |\psi\rangle_{\text{New Classical World}}
 $$
 
-The universe extracts high-quality classical knowledge from new classical worlds and adds it to larger classical worlds:
-
-$$
-|\psi\rangle_{\text{New Classical World}} \rightarrow I_{\text{Classical Knowledge (Optimized)}} + S_{\text{Entropy Reduced}}
-$$
-
-Characteristics of the elimination mechanism:
-- Systems with excessive entropy are unstable and tend to collapse
-- Entropy produced by collapse randomly reorganizes into new wave functions
-- New wave functions form new classical worlds
-- New classical worlds develop new knowledge structures through evolution
-- High-quality knowledge structures are extracted and integrated by high-dimensional classical worlds
-- Constitutes the basic mechanism of universal knowledge evolution
-
-### Free Will and Classical Destiny
-
-**Free Will** is the observer's ability to choose classicalization paths, and **Classical Destiny** is the stable classical knowledge path determined by free will:
-
-$$
-\text{New Classical Path (Free Will)}=\text{Original Classical Destiny Path}+|\psi\rangle_{\text{Newly Classicalized Quantum Information}}
-$$
-
-### Energy
-
-**Energy** is essentially the ability to transmit and store classical knowledge:
-
-$$
-E_{\text{Classical Energy}}=k_B T\cdot I_{\text{Classical Knowledge}}
-$$
+The entropy of eliminated observers participates in random classicalization, forming new classical worlds.

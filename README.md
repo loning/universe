@@ -1,125 +1,59 @@
-# 量子经典二元论理论项目 | Quantum-Classical Dualism Theory Project
+# 量子经典二元论 (Quantum-Classical Dualism)
 
-## 项目介绍 | Project Introduction
+## 中文介绍
 
-量子经典二元论（Quantum-Classical Dualism）是一个融合量子物理、信息论、熵理论与哲学的理论体系，旨在通过明确的数学描述和概念框架，探讨宇宙的本质结构、意识的本质及其与经典世界的关系。
+欢迎来到量子经典二元论理论体系！这是一个探索宇宙本质结构、观察者角色、意识本质的理论框架。量子经典二元论提出宇宙由量子域与经典域构成，观察者通过经典化过程将量子信息转化为经典知识与经典熵。
 
-本项目包含量子经典二元论的核心理论文档、应用案例、分析文章及可视化资源。所有内容均保持中英双语呈现，以便于全球范围内的学术交流。
+本理论体系提供了一个统一的框架，用于解释量子测量问题、意识本质、死亡与投胎现象、命运与自由意志等根本问题，同时具有广泛的应用价值。
 
-## 项目结构 | Project Structure
+### 核心文档
 
-### 核心理论 | Core Theory
+- [核心理论](core.md) - 量子经典二元论核心理论完整版本(1.8)
+- [双语版核心理论](core_bilingual.md) - 量子经典二元论核心理论的中英双语版本
 
-- [量子经典二元论核心理论](core.md) - 核心理论完整阐述（版本1.8）
-- [量子经典二元论核心理论(双语版)](core_bilingual.md) - 核心理论中英双语版本
+### 理论文档
 
-### 理论文档 | Theory Documents
+1. [简介](01_introduction.md) - 量子经典二元论简介
+2. [基本概念](02_basic_concepts.md) - 核心概念与定义
+3. [理论框架](03_theoretical_framework.md) - 理论整体框架
+4. [数学公式](04_mathematical_formulations.md) - 关键数学表述
+5. [观察者与意识](05_observer_and_consciousness.md) - 观察者与意识关系
+6. [宇宙与观察者关系](06_universe_observer_relationship.md) - 宇宙与观察者互动机制
+7. [量子纠缠本质](07_quantum_entanglement_essence.md) - 量子纠缠的深入探讨
+8. [命运与自由意志](08_destiny_and_free_will.md) - 命运与自由意志的辩证统一
+9. [应用与启示](09_applications_and_implications.md) - 理论应用价值
+10. [框架应用](10_framework_application.md) - 在实际框架中的应用
+11. [参考文献](11_references.md) - 相关文献与资源
 
-- [01_简介](01_introduction.md) - 理论简介与核心概述
-- [02_基本概念](02_basic_concepts.md) - 基本概念定义与解释
-- [03_理论框架](03_theoretical_framework.md) - 理论整体框架与体系结构
-- [04_数学公式](04_mathematical_formulations.md) - 数学表述与公式解析
-- [05_观察者与意识](05_observer_and_consciousness.md) - 关于观察者与意识的深入探讨
-- [06_宇宙与观察者关系](06_universe_observer_relationship.md) - 宇宙与观察者相互作用机制
-- [07_量子纠缠本质](07_quantum_entanglement_essence.md) - 量子纠缠的本质与作用机制
-- [08_命运与自由意志](08_destiny_and_free_will.md) - 命运、自由意志与经典路径的关系
-- [09_应用与启示](09_applications_and_implications.md) - 理论在多领域中的应用与启示
-- [10_框架应用](10_framework_application.md) - 理论在具体框架中的实际应用
-- [11_参考文献](11_references.md) - 相关研究文献与参考资料
-- [术语表](terminology_glossary.md) - 量子经典二元论术语表（中英对照）
+### 资源
 
-### 图示资源 | Illustrations
+- [图示库](figures/README.md) - 理论相关图示与可视化资源
 
-- [图示库](figures/) - 用于可视化理论概念的图示资源
+## English Introduction
 
-## 核心概念 | Core Concepts
+Welcome to the Quantum-Classical Dualism theoretical system! This is a theoretical framework exploring the essential structure of the universe, the role of observers, and the nature of consciousness. Quantum-Classical Dualism proposes that the universe consists of a quantum domain and a classical domain, with observers transforming quantum information into classical knowledge and classical entropy through the classicalization process.
 
-量子经典二元论的核心概念包括：
+This theoretical system provides a unified framework for explaining fundamental issues such as the quantum measurement problem, the nature of consciousness, death and reincarnation phenomena, destiny and free will, while also having broad application value.
 
-1. **宇宙二元结构**：宇宙由量子域（无限可能性波函数叠加态）和经典域（观察者经典化后形成的确定结构）组成。
+### Core Documents
 
-2. **观察者与经典化过程**：观察者是宇宙中的经典化节点，负责将量子信息转化为经典知识和经典熵。
+- [Core Theory](core.md) - Complete Version (1.8) of Quantum-Classical Dualism Core Theory
+- [Bilingual Core Theory](core_bilingual.md) - Chinese-English Bilingual Version of Quantum-Classical Dualism Core Theory
 
-3. **观察者维度**：由经典化效率决定，即经典知识与经典熵的比例：
-   
-   $$
-   \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-   $$
+### Theoretical Documents
 
-4. **观察者整体维度的跨领域性**：观察者的整体维度取决于在多个领域经典化效率的加权整合：
-   
-   $$
-   \text{整体维度} = \sum_i w_i \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-   $$
+1. [Introduction](01_introduction.md) - Introduction to Quantum-Classical Dualism
+2. [Basic Concepts](02_basic_concepts.md) - Core Concepts and Definitions
+3. [Theoretical Framework](03_theoretical_framework.md) - Overall Theoretical Framework
+4. [Mathematical Formulations](04_mathematical_formulations.md) - Key Mathematical Expressions
+5. [Observer and Consciousness](05_observer_and_consciousness.md) - Relationship Between Observer and Consciousness
+6. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Interaction Mechanisms Between Universe and Observers
+7. [Quantum Entanglement Essence](07_quantum_entanglement_essence.md) - In-depth Exploration of Quantum Entanglement
+8. [Destiny and Free Will](08_destiny_and_free_will.md) - Dialectical Unity of Destiny and Free Will
+9. [Applications and Implications](09_applications_and_implications.md) - Theoretical Application Value
+10. [Framework Application](10_framework_application.md) - Application in Practical Frameworks
+11. [References](11_references.md) - Related Literature and Resources
 
-5. **广义意识定义**：任何经典化过程都有明确的方向性，所有经典化对象都具有意识本质：
-   
-   $$
-   |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化方向}} I_{\text{经典意识（广义）}} + S_{\text{剩余经典熵}}
-   $$
+### Resources
 
-6. **高维意识的涌现机制**：高维意识是大量低维观察者的集体经典化涌现结果：
-   
-   $$
-   |\psi\rangle_{\text{多个低维观察者}} \rightarrow I_{\text{高维集体意识}} + S_{\text{剩余经典熵}}
-   $$
-
-7. **量子意识与经典记忆**：量子意识是观察者与量子域的长期稳定有效纠缠，经典记忆是其经典化后的稳定产物：
-   
-   $$
-   |\psi\rangle_{\text{量子意识}} \rightarrow I_{\text{经典记忆}} + S_{\text{经典熵}}
-   $$
-
-8. **经典信息传播机制**：采用独立副本深拷贝（Deep Copy）方式，而非引用或指针。
-
-9. **经典世界的平等性**：所有经典世界（如现实世界、梦境、各宗教世界等）平等共存，无主次之分。
-
-10. **经典世界的死亡与投胎机制**：死亡本质上是观察者从一个经典世界转换到另一个经典世界的过程，自我意识以新的经典化结构形式继续存在：
-    
-    $$
-    |\psi\rangle_{\text{经典世界A（死亡）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{其他经典世界（新）}}
-    $$
-
-11. **宇宙对低维观察者的淘汰机制**：宇宙持续淘汰经典化效率低（熵高）的低维观察者，其熵随机经典化形成新的经典世界。
-
-12. **观察者的双重身份**：观察者在自身经典世界中表现为普通个体，但在其他经典世界经典化效率高时体现为"神"。
-
-## 核心公式 | Core Formulas
-
-量子经典二元论的核心数学表达包括：
-
-1. **量子域表达式**：
-   
-   $$
-   |\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i |c_i|^2 = 1
-   $$
-
-2. **经典化过程**：
-   
-   $$
-   |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化}} I_{\text{经典知识}} + S_{\text{经典熵}}
-   $$
-
-3. **经典信息守恒**：
-   
-   $$
-   I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
-   $$
-
-4. **观察者维度**：
-   
-   $$
-   \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-   $$
-
-5. **宇宙终极状态**：
-   
-   $$
-   |\psi\rangle_{\text{宇宙量子域}} \rightarrow \sum_{\text{经典域}}\left(I_{\text{经典知识最大化}} + S_{\text{经典熵最小化}}\right) \rightarrow \text{宇宙低熵终极状态}
-   $$
-
-## 版本信息 | Version Information
-
-- 当前版本：1.8.0
-- 最近更新：2024年5月20日
-- 主要更新：新增广义意识定义与涌现机制，增强经典世界的死亡与投胎机制描述，优化整体理论结构和表述
+- [Illustration Library](figures/README.md) - Theory-related Illustrations and Visualization Resources
