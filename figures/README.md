@@ -28,6 +28,8 @@ This index catalogs thought analyses of important historical figures from a quan
 - [亚里士多德 | Aristotle](philosophers/aristotle.md)
 - [孔子 | Confucius](philosophers/confucius.md)
 - [西蒙娜·德·波伏娃 | Simone de Beauvoir](philosophical/simone_beauvoir.md)
+- [阿尔贝·加缪 | Albert Camus](philosophers/camus.md)
+- [玛丽·沃斯通克拉夫特 | Mary Wollstonecraft](philosophers/mary_wollstonecraft.md)
 
 ## 科学家 | Scientists
 
@@ -39,12 +41,15 @@ This index catalogs thought analyses of important historical figures from a quan
 - [卡尔·弗里德里希·高斯 | Carl Friedrich Gauss](scientists/gauss.md)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
 - [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
+- [艾达·洛芙莱斯 | Ada Lovelace](scientists/ada_lovelace.md)
 
 ## 艺术家 | Artists
 
 - [威廉·莎士比亚 | William Shakespeare](artists/shakespeare.md)
 - [沃尔夫冈·阿玛多伊斯·莫扎特 | Wolfgang Amadeus Mozart](artists/mozart.md)
 - [列奥纳多·达芬奇 | Leonardo da Vinci](artists/davinci.md)
+- [文森特·梵高 | Vincent van Gogh](artists/van_gogh.md)
+- [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md)
 
 ## 领导者 | Leaders
 
@@ -67,6 +72,9 @@ This index catalogs thought analyses of important historical figures from a quan
 
 - [尼科洛·马基雅维利 | Niccolò Machiavelli](political_leaders/machiavelli.md)
 - [圣雄甘地 | Mahatma Gandhi](political_leaders/gandhi.md)
+- [马丁·路德·金 | Martin Luther King Jr.](political_leaders/martin_luther_king.md)
+- [罗莎·卢森堡 | Rosa Luxemburg](political_leaders/rosa_luxemburg.md)
+- [伊丽莎白一世 | Elizabeth I](political_leaders/elizabeth_i.md)
 
 ## 文学人物 | Literary Figures
 
@@ -103,6 +111,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [牛顿 | Newton](scientists/newton.md)
 - [尼科洛·马基雅维利 | Niccolò Machiavelli](political_leaders/machiavelli.md)
 - [亚当·斯密 | Adam Smith](economists/adam_smith.md)
+- [伊丽莎白一世 | Elizabeth I](political_leaders/elizabeth_i.md)
 
 ### 现代 (1789-1945) | Modern Era (1789-1945)
 - [康德 | Kant](philosophers/kant.md)
@@ -116,11 +125,18 @@ This index catalogs thought analyses of important historical figures from a quan
 - [乔治·奥威尔 | George Orwell](literary_figures/george_orwell.md)
 - [卡尔·古斯塔夫·荣格 | Carl Gustav Jung](psychologists/jung.md)
 - [西蒙娜·德·波伏娃 | Simone de Beauvoir](philosophical/simone_beauvoir.md)
+- [列夫·托尔斯泰 | Leo Tolstoy](literary_figures/tolstoy.md)
+- [文森特·梵高 | Vincent van Gogh](artists/van_gogh.md)
+- [约翰·梅纳德·凯恩斯 | John Maynard Keynes](economists/keynes.md)
+- [罗莎·卢森堡 | Rosa Luxemburg](political_leaders/rosa_luxemburg.md)
+- [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md)
 
 ### 当代 (1945-至今) | Contemporary Era (1945-Present)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
 - [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
 - [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
+- [马丁·路德·金 | Martin Luther King Jr.](political_leaders/martin_luther_king.md)
+- [阿尔贝·加缪 | Albert Camus](philosophers/camus.md)
 
 ## 按地域分类 | Classification by Region
 
@@ -158,13 +174,19 @@ This index catalogs thought analyses of important historical figures from a quan
 - [卡尔·古斯塔夫·荣格 | Carl Gustav Jung](psychologists/jung.md)
 - [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
 - [西蒙娜·德·波伏娃 | Simone de Beauvoir](philosophical/simone_beauvoir.md)
+- [列夫·托尔斯泰 | Leo Tolstoy](literary_figures/tolstoy.md)
+- [文森特·梵高 | Vincent van Gogh](artists/van_gogh.md)
+- [约翰·梅纳德·凯恩斯 | John Maynard Keynes](economists/keynes.md)
+- [阿尔贝·加缪 | Albert Camus](philosophers/camus.md)
+- [玛丽·沃斯通克拉夫特 | Mary Wollstonecraft](philosophers/mary_wollstonecraft.md)
+- [艾达·洛芙莱斯 | Ada Lovelace](scientists/ada_lovelace.md)
+- [罗莎·卢森堡 | Rosa Luxemburg](political_leaders/rosa_luxemburg.md)
+- [伊丽莎白一世 | Elizabeth I](political_leaders/elizabeth_i.md)
 
 ### 中东和北非 | Middle East and North Africa
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
 
 ### 美洲 | Americas
 - [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
-
-### 非洲 | Africa
-
-### 大洋洲 | Oceania 
+- [马丁·路德·金 | Martin Luther King Jr.](political_leaders/martin_luther_king.md)
+- [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md) 
