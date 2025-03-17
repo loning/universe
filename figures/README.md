@@ -86,6 +86,7 @@ This index catalogs thought analyses of important historical figures from a quan
 ## 宗教人物 | Religious Figures
 
 - [释迦牟尼 | Siddhartha Gautama (Buddha)](religious/buddha.md)
+- [穆罕默德 | Muhammad](religious_leaders/muhammad.md)
 
 ## 政治领袖 | Political Leaders
 
@@ -283,6 +284,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
 - [克利奥帕特拉 | Cleopatra](political_leaders/cleopatra.md)
 - [伊本·西那 | Ibn Sina (Avicenna)](scientists/ibn_sina.md)
+- [穆罕默德 | Muhammad](religious_leaders/muhammad.md)
 
 ### 美洲 | Americas
 - [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
