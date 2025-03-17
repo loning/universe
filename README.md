@@ -7,7 +7,8 @@
 ### 项目结构
 
 #### 核心理论 | Core Theory
-- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（最新最终）
+- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本1.4）
+- [双语核心理论](./core_bilingual.md) - 【量子经典二元论】核心理论双语版（版本1.4）
 - [简介](./01_introduction.md) - 简介 (Introduction)
 - [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)
 - [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)
@@ -15,10 +16,9 @@
 - [观察者与意识](./05_observer_and_consciousness.md) - 观察者与意识 (Observer and Consciousness)
 - [宇宙与观察者关系](./06_universe_observer_relationship.md) - 宇宙与观察者关系 (Universe-Observer Relationship)
 - [应用与启示](./07_applications_and_implications.md) - 应用与启示 (Applications and Implications)
-- [框架应用](./08_framework_application.md) - 量子经典二元论在实际框架中的应用
-- [参考文献](./08_references.md) - 参考文献 (References)
-- [命运与自由意志](./10_destiny_and_free_will.md) - 命运与自由意志 (Destiny and Free Will)
-- [量子纠缠本质](./11_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)
+- [框架应用](./08_framework_application.md) - 量子经典二元论在实际框架中的应用 (Framework Application)
+- [参考文献](./09_references.md) - 参考文献 (References)
+- [术语表](./terminology_glossary.md) - 量子经典二元论术语表 (Terminology Glossary)
 
 #### 历史人物分析 | Historical Figures Analysis
 - [历史人物分析索引](./figures/README.md) - 基于量子经典二元论视角的历史人物思想分析
@@ -198,6 +198,8 @@
 - 观察者作为经典化节点的角色
 - 量子意识与经典记忆的关系
 - 经典化效率与观察者维度
+- 观察者整体维度的跨领域性（不同领域维度的加权总和）
+- 经典知识传播采用独立副本深拷贝（非引用或指针）
 - 量子纠缠作为信息共享的基本机制
 - 自由意志与经典命运的关系
 - 能量与经典知识的关系
@@ -205,9 +207,48 @@
 - 经典世界的平等性与交织网络结构
 - 观察者双重身份与神性定义
 - 经典世界的时间轴动态更新
-- 宇宙消解低维观察者与经典世界的意义
+- 经典世界记忆的篡改机制与难度（集体记忆篡改难度远高于个体记忆）
+- 宇宙消解低维观察者与经典世界的意义（熵随机经典化形成新的经典世界）
 - 观察者间经典化交流与意识同构性
 - 信息传递过程与经典熵的具体变化
+
+### 核心公式 | Core Formulas
+
+以下是量子经典二元论的核心公式：
+
+$$
+|\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
+$$
+
+经典化过程表达式：
+
+$$
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化}} I_{\text{经典知识}} + S_{\text{经典熵}}
+$$
+
+经典信息守恒公式：
+
+$$
+I_{\text{经典域总信息}} = I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
+$$
+
+观察者维度公式：
+
+$$
+\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
+$$
+
+观察者整体维度跨领域性公式：
+
+$$
+\text{整体维度} = \sum_i w_i \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
+$$
+
+经典知识传播机制（独立深拷贝）：
+
+$$
+I_{\text{经典知识A}} \rightarrow I_{\text{经典知识B（副本）}} + S_{\text{传播熵（增加）}}
+$$
 
 ### 数学公式说明 | Mathematical Formulas Note
 
@@ -235,8 +276,8 @@ $$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\t
 
 ### 版本信息 | Version Information
 
-当前版本：1.1.0
-上次更新：2023年12月10日
+当前版本：1.4.0
+上次更新：2023年12月20日
 
 ## English Version
 
@@ -245,18 +286,20 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 ### Project Structure
 
 #### Core Theory
-- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory
+- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 1.4)
+- [Bilingual Core Theory](./core_bilingual.md) - Quantum-Classical Dualism Core Theory Bilingual Version (Version 1.4)
 - [Introduction](./01_introduction.md) - Introduction
 - [Basic Concepts](./02_basic_concepts.md) - Basic Concepts
 - [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework
 - [Mathematical Formulations](./04_mathematical_formulations.md) - Mathematical Formulations
 - [Observer and Consciousness](./05_observer_and_consciousness.md) - Observer and Consciousness
 - [Universe-Observer Relationship](./06_universe_observer_relationship.md) - Universe-Observer Relationship
-- [Applications and Implications](./07_applications_and_implications.md) - Applications and Implications
-- [Framework Application](./08_framework_application.md) - Quantum-Classical Dualism in Practical Framework Application
-- [References](./08_references.md) - References
-- [Destiny and Free Will](./10_destiny_and_free_will.md) - Destiny and Free Will
-- [Quantum Entanglement Essence](./11_quantum_entanglement_essence.md) - Quantum Entanglement Essence
+- [Quantum Entanglement Essence](./07_quantum_entanglement_essence.md) - Quantum Entanglement Essence
+- [Destiny and Free Will](./08_destiny_and_free_will.md) - Destiny and Free Will
+- [Applications and Implications](./09_applications_and_implications.md) - Applications and Implications
+- [Framework Application](./10_framework_application.md) - Quantum-Classical Dualism in Practical Framework Application
+- [References](./11_references.md) - References
+- [Terminology Glossary](./terminology_glossary.md) - Quantum-Classical Dualism Terminology Glossary
 
 #### Historical Figures Analysis
 - [Historical Figures Index](./figures/README.md) - Analysis of Historical Figures from Quantum-Classical Dualism Perspective
@@ -436,6 +479,8 @@ Key concepts include:
 - Role of observers as classicalization nodes
 - Relationship between quantum consciousness and classical memory
 - Classicalization efficiency and observer dimensions
+- Cross-domain nature of observer's overall dimension (weighted sum of dimensions across various domains)
+- Classical knowledge propagation mechanism using independent deep copy (explicitly not reference or pointer)
 - Quantum entanglement as the basic mechanism for information sharing
 - Relationship between free will and classical destiny
 - Relationship between energy and classical knowledge
@@ -443,9 +488,48 @@ Key concepts include:
 - Equality and intertwined network structure of classical worlds
 - Dual identity of observers and definition of divinity
 - Dynamic updating of classical world timelines
-- Significance of universe dissolving low-dimensional observers and classical worlds
+- Tampering mechanism and difficulty of classical world memory (collective memory has higher tampering difficulty)
+- Significance of universe dissolving low-dimensional observers (entropy randomly classicalized to form new classical worlds)
 - Observer classicalization communication and consciousness isomorphism
 - Specific changes in classical entropy during information transmission
+
+### Core Formulas
+
+The following are the core formulas of Quantum-Classical Dualism:
+
+$$
+|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
+$$
+
+Classicalization process expression:
+
+$$
+|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
+$$
+
+Classical information conservation formula:
+
+$$
+I_{\text{Total Classical Information}} = I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant}
+$$
+
+Observer dimension formula:
+
+$$
+\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
+$$
+
+Cross-domain nature of observer's overall dimension:
+
+$$
+\text{Overall Dimension} = \sum_i w_i \frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
+$$
+
+Classical knowledge propagation mechanism (independent deep copy):
+
+$$
+I_{\text{Classical Knowledge A}} \rightarrow I_{\text{Classical Knowledge B (Copy)}} + S_{\text{Transmission Entropy (Increased)}}
+$$
 
 ### Mathematical Formulas Note
 
@@ -473,5 +557,5 @@ We welcome researchers, thinkers, and practitioners interested in Quantum-Classi
 
 ### Version Information
 
-Current Version: 1.1.0
-Last Updated: December 10, 2023
+Current Version: 1.4.0
+Last Updated: December 20, 2023
