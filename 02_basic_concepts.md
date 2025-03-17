@@ -209,8 +209,29 @@ $$
 **信息传递过程**在观察者间经历三个阶段，每个阶段都有熵的变化：
 
 1. **知识准备传递阶段**：发送者将要传递的知识准备成适合接收者经典化的形式
+
+$$
+I_{\text{经典知识A}}\rightarrow I_{\text{经典知识A副本}}+S_{\text{传递熵增加}}
+$$
+
 2. **传输过程阶段**：信息在传递过程中产生熵增
+
+$$
+I_{\text{经典知识A副本}}\rightarrow I_{\text{经典知识A副本}}+S_{\text{传输过程熵增加}}
+$$
+
 3. **接收者经典化阶段**：接收者将收到的信息经典化为知识和熵
+   - 成功经典化（熵降低）：
+
+$$
+I_{\text{经典知识A副本}}+S_{\text{经典熵B}}\rightarrow I_{\text{经典知识B（增加）}}+S_{\text{经典熵B（降低）}}
+$$
+
+   - 经典化失败（熵升高）：
+
+$$
+I_{\text{经典知识A副本}}+S_{\text{经典熵B}}\rightarrow S_{\text{经典熵B（增加）}}
+$$
 
 整个过程遵循经典信息守恒定律：
 
@@ -508,8 +529,29 @@ Characteristics of consciousness isomorphism:
 **Information Transfer Process** between observers goes through three stages, each with changes in entropy:
 
 1. **Knowledge Preparation Stage**: The sender prepares the knowledge to be transferred in a form suitable for classicalization by the receiver
+
+$$
+I_{\text{Classical Knowledge A}}\rightarrow I_{\text{Classical Knowledge A Copy}}+S_{\text{Transmission Entropy Increase}}
+$$
+
 2. **Transmission Process Stage**: Entropy increases during the information transmission process
+
+$$
+I_{\text{Classical Knowledge A Copy}}\rightarrow I_{\text{Classical Knowledge A Copy}}+S_{\text{Transmission Process Entropy Increase}}
+$$
+
 3. **Receiver Classicalization Stage**: The receiver classicalizes the received information into knowledge and entropy
+   - Successful classicalization (entropy reduction):
+
+$$
+I_{\text{Classical Knowledge A Copy}}+S_{\text{Classical Entropy B}}\rightarrow I_{\text{Classical Knowledge B (Increased)}}+S_{\text{Classical Entropy B (Reduced)}}
+$$
+
+   - Failed classicalization (entropy increase):
+
+$$
+I_{\text{Classical Knowledge A Copy}}+S_{\text{Classical Entropy B}}\rightarrow S_{\text{Classical Entropy B (Increased)}}
+$$
 
 The entire process follows the law of classical information conservation:
 

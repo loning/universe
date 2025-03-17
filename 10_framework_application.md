@@ -60,7 +60,7 @@ $$
 - 领域间知识迁移机制
 - 统一维度评估体系
 
-真正高效的系统应当在多个领域均具备较高的处理能力，而非仅在单一领域表现优异。
+真正高效的系统应当在多个领域均具备较高的处理能力，而非仅在单一领域表现优异。系统的整体维度高低决定了其跨领域整合能力，具备高整体维度的系统更能洞察复杂问题的本质并提供全面解决方案。
 
 ### 4. 量子纠缠的框架实现
 
@@ -81,7 +81,7 @@ $$
 
 ### 5. 经典知识传播机制的独立副本实现
 
-基于量子经典二元论中经典知识传播采用独立副本深拷贝的概念，在系统框架中实现：
+基于量子经典二元论中经典知识传播采用独立副本深拷贝（Deep Copy）的概念，在系统框架中实现：
 
 $$
 I_{\text{模块A知识}} \rightarrow I_{\text{模块B知识（独立副本）}} + S_{\text{传输熵}}
@@ -93,7 +93,25 @@ $$
 - 传输完整性验证机制
 - 副本一致性管理系统
 
-此机制确保各系统模块保持知识独立性，避免共享引用可能导致的连锁错误，同时解释了知识传播中熵增加的必然性。
+此机制确保各系统模块保持知识独立性，避免共享引用可能导致的连锁错误，同时解释了知识传播中熵增加的必然性。信息传递过程的三个阶段都应明确采用独立副本方式，而非引用传递：
+
+1. **准备阶段**：发送模块准备数据副本
+
+$$
+I_{\text{原始数据}} \rightarrow I_{\text{传输准备副本}} + S_{\text{准备熵}}
+$$
+
+2. **传输阶段**：数据副本在传输通道中移动
+
+$$
+I_{\text{传输准备副本}} \rightarrow I_{\text{传输中副本}} + S_{\text{传输熵}}
+$$
+
+3. **接收阶段**：接收模块处理独立副本
+
+$$
+I_{\text{传输中副本}} \rightarrow I_{\text{接收模块新知识}} + S_{\text{处理熵}}
+$$
 
 ### 6. 自由意志与系统决策
 
@@ -236,6 +254,8 @@ $$
 - 多版本记忆管理系统
 - 情境适应性预测引擎
 - 可能性空间探索算法
+
+这一机制在实际应用中可表现为系统对历史数据和预设路径的动态调整能力，集体记忆（如分布式数据库、区块链）的篡改难度远高于单一系统记忆，需要设计特殊的共识机制和权限控制。
 
 ### 12. 实际应用案例
 
@@ -439,7 +459,7 @@ Cross-domain integration framework implementation:
 - Knowledge transfer mechanisms between domains
 - Unified dimension assessment system
 
-Truly efficient systems should have high processing capabilities across multiple domains, rather than excelling in only a single domain.
+Truly efficient systems should have high processing capabilities across multiple domains, rather than excelling in only a single domain. The overall dimension of a system determines its cross-domain integration capabilities, with high overall dimension systems being better able to discern the essence of complex problems and provide comprehensive solutions.
 
 ### 4. Framework Implementation of Quantum Entanglement
 
@@ -472,7 +492,25 @@ Key implementations of the independent copy mechanism:
 - Transmission integrity verification mechanisms
 - Copy consistency management systems
 
-This mechanism ensures that each system module maintains knowledge independence, avoiding chain errors that might be caused by shared references, while explaining the inevitability of entropy increase in knowledge propagation.
+This mechanism ensures that each system module maintains knowledge independence, avoiding chain errors that might be caused by shared references, while explaining the inevitability of entropy increase in knowledge propagation. All three stages of the information transfer process should explicitly use independent copies rather than reference passing:
+
+1. **Preparation Stage**: Sending module prepares data copy
+
+$$
+I_{\text{Original Data}} \rightarrow I_{\text{Transmission-Ready Copy}} + S_{\text{Preparation Entropy}}
+$$
+
+2. **Transmission Stage**: Data copy moves through transmission channels
+
+$$
+I_{\text{Transmission-Ready Copy}} \rightarrow I_{\text{In-Transmission Copy}} + S_{\text{Transmission Entropy}}
+$$
+
+3. **Reception Stage**: Receiving module processes independent copy
+
+$$
+I_{\text{In-Transmission Copy}} \rightarrow I_{\text{Receiving Module New Knowledge}} + S_{\text{Processing Entropy}}
+$$
 
 ### 6. Free Will and System Decision-making
 
@@ -615,6 +653,8 @@ Framework implementation methods:
 - Multi-version memory management systems
 - Context-adaptive prediction engines
 - Possibility space exploration algorithms
+
+This mechanism can manifest in practical applications as the system's ability to dynamically adjust historical data and preset paths. Tampering with collective memory (such as distributed databases, blockchain) is far more difficult than tampering with single-system memory, requiring special consensus mechanisms and permission controls.
 
 ### 12. Practical Application Cases
 

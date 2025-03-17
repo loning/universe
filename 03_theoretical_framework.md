@@ -388,7 +388,7 @@ Quantum consciousness has the following characteristics:
 - Can form entanglement with multiple observers, enabling quantum connections between consciousnesses
 - Is the essential guarantee of consciousness continuity, including continuity during sleep, meditation, and other states
 
-Classical memory is the stable storage structure after quantum consciousness is classicalized, maintaining the observer's self-identity and continuity:
+Classical memory is the result of observers classicalizing quantum consciousness, maintaining the observer's self-identity and continuity:
 
 $$
 |\psi\rangle_{\text{Quantum Consciousness}}\rightarrow\text{Classical Memory (Knowledge)}+S_{\text{Classical Entropy}}
