@@ -42,6 +42,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
 - [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
 - [艾达·洛芙莱斯 | Ada Lovelace](scientists/ada_lovelace.md)
+- [尼古拉·特斯拉 | Nikola Tesla](scientists/nikola_tesla.md)
 
 ## 艺术家 | Artists
 
@@ -79,6 +80,8 @@ This index catalogs thought analyses of important historical figures from a quan
 ## 文学人物 | Literary Figures
 
 - [乔治·奥威尔 | George Orwell](literary_figures/george_orwell.md)
+- [列夫·托尔斯泰 | Leo Tolstoy](literary_figures/tolstoy.md)
+- [鲁迅 | Lu Xun](literary_figures/lu_xun.md)
 
 ## 经济学家 | Economists
 
@@ -130,6 +133,8 @@ This index catalogs thought analyses of important historical figures from a quan
 - [约翰·梅纳德·凯恩斯 | John Maynard Keynes](economists/keynes.md)
 - [罗莎·卢森堡 | Rosa Luxemburg](political_leaders/rosa_luxemburg.md)
 - [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md)
+- [鲁迅 | Lu Xun](literary_figures/lu_xun.md)
+- [尼古拉·特斯拉 | Nikola Tesla](scientists/nikola_tesla.md)
 
 ### 当代 (1945-至今) | Contemporary Era (1945-Present)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
@@ -145,6 +150,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [荀子 | Xunzi](philosophers/xunzi.md)
 - [孙子 | Sun Tzu](strategists/sunzi.md)
 - [孔子 | Confucius](philosophers/confucius.md)
+- [鲁迅 | Lu Xun](literary_figures/lu_xun.md)
 
 ### 南亚 | South Asia
 - [释迦牟尼 | Siddhartha Gautama (Buddha)](religious/buddha.md)
@@ -182,6 +188,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [艾达·洛芙莱斯 | Ada Lovelace](scientists/ada_lovelace.md)
 - [罗莎·卢森堡 | Rosa Luxemburg](political_leaders/rosa_luxemburg.md)
 - [伊丽莎白一世 | Elizabeth I](political_leaders/elizabeth_i.md)
+- [尼古拉·特斯拉 | Nikola Tesla](scientists/nikola_tesla.md)
 
 ### 中东和北非 | Middle East and North Africa
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
