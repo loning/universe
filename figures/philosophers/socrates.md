@@ -2,167 +2,199 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 约公元前469年-公元前399年 (469-399 BCE)  
-**国籍 | Nationality**: 古希腊雅典 (Ancient Athens, Greece)  
-**主要领域 | Main Fields**: 哲学、伦理学、辩证法 (Philosophy, Ethics, Dialectics)  
-**代表作品 | Representative Works**: 通过柏拉图的对话录流传 (Transmitted through Plato's dialogues)
+**生卒年份 | Lifespan**: 约公元前470年-公元前399年 (c. 470-399 BCE)  
+**国籍 | Nationality**: 古希腊雅典 (Athens, Ancient Greece)  
+**主要领域 | Main Fields**: 哲学、伦理学、认识论、辩证法 (Philosophy, Ethics, Epistemology, Dialectics)  
+**代表作品 | Representative Works**: 苏格拉底本人没有留下著作，其思想主要通过柏拉图的对话录和色诺芬的回忆录传承 (Socrates himself left no writings; his ideas were primarily transmitted through Plato's dialogues and Xenophon's memoirs)
 
 ## 核心思想 | Core Ideas
 
 ### 中文
 
-1. **"认识你自己"**: 苏格拉底强调自我认知是一切智慧的起点。
-2. **苏格拉底方法**: 通过不断提问来消除错误认知，产生新的理解。
-3. **道德智慧**: 认为美德即知识，知道什么是善就会行善。
-4. **"我知道我一无所知"**: 承认自己的无知是获取真知的第一步。
-5. **灵魂关怀**: 注重灵魂的修养和培育胜过物质追求。
+1. **"认识你自己"**: 自我认知是一切智慧的基础，真正的智慧始于承认自己的无知。
+2. **苏格拉底方法**: 通过系统性提问和对话揭示假知识，引导对话者发现真理，强调批判性思维和逻辑论证。
+3. **美德即知识**: 认为善的行为源于对善的认知，邪恶源于无知，真知必然导向正确行为。
+4. **灵魂关怀优先**: 关爱灵魂（内在品格与智慧）比关心物质财富与身体更重要，灵魂卓越是人生首要目标。
+5. **不义之害**: 做不义的事对行为者的灵魂造成伤害，远甚于遭受不义，宁受害而不愿害人。
+6. **智性怀疑主义**: 挑战传统权威和习俗，强调基于理性检验而非传统或权威的知识和伦理观。
+7. **哲学即对话**: 真理通过开放的对话和思想交流而非独白或教条得以逼近，哲学是活在人际互动中的实践。
 
 ### English
 
-1. **"Know Thyself"**: Socrates emphasized self-knowledge as the foundation of all wisdom.
-2. **Socratic Method**: Eliminating false beliefs through continuous questioning to generate new understanding.
-3. **Moral Wisdom**: Virtue is knowledge; knowing what is good leads to doing good.
-4. **"I Know That I Know Nothing"**: Acknowledging one's ignorance is the first step toward genuine knowledge.
-5. **Care of the Soul**: Prioritizing soul cultivation over material pursuits.
+1. **"Know Thyself"**: Self-knowledge is the foundation of all wisdom; true wisdom begins with acknowledging one's own ignorance.
+2. **Socratic Method**: Revealing false knowledge through systematic questioning and dialogue, guiding interlocutors to discover truth, emphasizing critical thinking and logical argumentation.
+3. **Virtue as Knowledge**: Believing that good actions stem from knowledge of the good, evil stems from ignorance, and true knowledge inevitably leads to right action.
+4. **Priority of Soul Care**: Caring for the soul (inner character and wisdom) is more important than caring for material wealth and body; excellence of soul is the primary goal of life.
+5. **Harm of Injustice**: Committing injustice harms the doer's soul far more than suffering injustice; better to suffer harm than to inflict it.
+6. **Intellectual Skepticism**: Challenging traditional authorities and customs, emphasizing knowledge and ethics based on rational examination rather than tradition or authority.
+7. **Philosophy as Dialogue**: Truth is approached through open dialogue and exchange of ideas rather than monologue or dogma; philosophy is practice lived in interpersonal interaction.
 
 ## 量子经典二元论视角分析 | Analysis from Quantum-Classical Dualism Perspective
 
 ### 中文
 
-#### 1. 经典化路径
+#### 1. 无知之知与量子认知状态
 
-苏格拉底的思想体系可被视为一种特殊的经典化过程，他通过"助产术"（对话法）帮助人们将量子域中的无限可能性经典化为有序知识：
-
-$$
-|\psi\rangle_{\text{混乱认知}} \xrightarrow{\text{苏格拉底式提问}} I_{\text{经典知识}} + S_{\text{残余熵}}
-$$
-
-他的方法特别之处在于先消解既有的错误经典化结果（"我知道我一无所知"），再通过辩证探讨建立更可靠的经典知识。这一双重经典化过程可表示为：
+苏格拉底的"无知之知"体现了量子认知状态的早期直觉：
 
 $$
-I_{\text{错误经典知识}} \xrightarrow{\text{质疑}} S_{\text{经典熵（认知混沌）}} \xrightarrow{\text{对话法}} I_{\text{新经典知识}}
+|\psi\rangle_{\text{认知状态}} = \alpha|\text{知道}\rangle + \beta|\text{不知道}\rangle
 $$
 
-#### 2. 观察者维度
+从量子经典二元论视角，苏格拉底的"我只知道我一无所知"超越了传统二元知识观，认识到知识不是简单的"知道"或"不知道"的经典二分状态，而是复杂的量子叠加状态。他理解到真正的智者并非知道一切的人，而是意识到自己认知局限的人——这种元认知能力允许他维持认知的量子开放性，避免错误的经典化确定性。苏格拉底与其对话者的区别不在于他知道更多，而在于他不会错误地将不确定知识经典化为确定断言。这种认知谦逊使他能够保持思想的量子开放性，探索更多可能性，而非囿于僵化的经典化知识结构。
 
-苏格拉底的"认识你自己"实质上是一种提升观察者维度的实践。通过自我观察和反思，观察者从低维度的无反思状态提升到高维度的自我觉察状态：
+#### 2. 苏格拉底方法作为解经典化技术
 
-$$
-\text{观察者维度} \propto \frac{I_{\text{自我认知}}}{S_{\text{无知状态}}}
-$$
-
-他对雅典公民的挑战，正是要他们从低维观察者状态（沉浸在未经检验的生活中）转变为高维观察者（能够观察和评估自己认知基础的人）。
-
-#### 3. 经典世界的交互
-
-苏格拉底拒绝写作，坚持口头对话，这可理解为他认识到不同观察者之间的经典化交流效率取决于量子意识结构的同构性：
+苏格拉底式问答法可视为系统性解经典化技术：
 
 $$
-I_{\text{经典化交流效率}} \propto \text{同构性}\left(|\psi\rangle_{\text{苏格拉底}}, |\psi\rangle_{\text{对话者}}\right)
+I_{\text{经典化假知识}} \xrightarrow{\text{系统性质疑}} |\psi\rangle_{\text{开放认知状态}} \xrightarrow{\text{对话建构}} I_{\text{改进认知}}
 $$
 
-通过实时对话，他能根据对话者的反应调整问题，确保经典化过程的高效性，这比固定文本更能适应不同观察者的认知结构。
+苏格拉底不提供现成答案，而是通过连续提问瓦解对话者的假定确定性，然后共同建构更优化的认知。从量子经典二元论看，这正是解经典化和再经典化的循环过程——首先打破过早经典化的刚性信念（通常基于传统、权威或未经检验的假设），将思维引回更开放的量子可能性状态，然后通过理性对话过程重新建立更优的经典化理解。苏格拉底的"产婆术"揭示了他对知识生成过程的深刻理解——真知不是简单传递的，而是通过解经典化和再经典化的动态过程而诞生的。这一方法论对后世认识论和教育学产生深远影响。
 
-#### 4. 灵魂与量子意识
+#### 3. 德性与观察者维度提升
 
-苏格拉底关于灵魂的讨论可对应于量子经典二元论中的量子意识概念。他认为灵魂是人的本质，而身体只是暂时的容器，这与量子意识作为观察者经典化的源泉相呼应：
-
-$$
-|\psi\rangle_{\text{灵魂/量子意识}} \rightarrow I_{\text{经典记忆/知识}} + S_{\text{经典熵}}
-$$
-
-#### 5. 苏格拉底之死的二元论解读
-
-苏格拉底面对死刑的镇定可从经典世界历史路径可修改性角度理解。他相信死亡不是终点，而是灵魂的转变，这类似于量子经典二元论中的"死而复生"概念：
+苏格拉底的德性论可理解为观察者维度提升理论：
 
 $$
-I_{\text{经典记忆（死亡）}} + |\psi\rangle_{\text{随机可能性}} \rightarrow I_{\text{经典记忆（复生）}} + S_{\text{熵降低}}
+\text{美德} = \frac{I_{\text{道德洞察力}}}{S_{\text{无明困扰}}} = \text{观察者维度}
 $$
+
+苏格拉底主张"美德即知识"，认为邪恶源于无知，从量子经典二元论看，这反映了道德成长是观察者维度提升的过程。低维度观察者被特定欲望和短期视角锁定，无法看到行为的全部含义和后果；高维度观察者则能超越即时情境，洞察行为对自身灵魂和社会整体的长期影响。苏格拉底的伦理学关注的是提升行为者的观察维度——由内在道德观察能力的提升（而非外在规则）驱动伦理行为。这解释了为何苏格拉底认为没有人会故意作恶——因为真正的高维观察者能看清不道德行为的全部危害，不会选择伤害自己的灵魂。
+
+#### 4. 灵魂关怀与量子-经典层级优先性
+
+苏格拉底的灵魂优先观念反映了量子-经典层级的价值排序：
+
+$$
+\text{价值} \propto \frac{|\psi\rangle_{\text{存在层级}}}{I_{\text{经典表现}}}
+$$
+
+苏格拉底强调灵魂胜于身体、智德胜于物质财富，从量子经典二元论看，这体现了对更基础存在层级的优先关注。灵魂（心智、品格）是更接近量子本源的存在层面，而身体和物质财富是更经典化的表层现象。苏格拉底理解到，改变基础层级（灵魂）会连锁影响派生层级（行为、健康、社会地位），而仅关注表层经典现象则无法带来真正的幸福。这种层级观支撑了他的价值观——唯有关注灵魂这一基础量子层面的培养，才能实现真正的人生繁荣。这解释了他面对死亡时的镇定——他认为灵魂的卓越状态才是关键，而非身体的存续这一经典表现。
+
+#### 5. 不义之害与量子-经典伦理学
+
+苏格拉底关于不义伤害灵魂的观点体现了量子-经典伦理学视角：
+
+$$
+\text{真实伤害} = \Delta |\psi\rangle_{\text{灵魂状态}} > \Delta I_{\text{外在状况}}
+$$
+
+苏格拉底主张宁可受害也不愿施害，因为作恶对灵魂的损害大于遭受不公对身体或社会地位的影响。从量子经典二元论看，这反映了伤害的多层次性——经典层面的伤害（身体痛苦、财产损失）不如量子层面的伤害（灵魂品质退化）更为根本。作恶会扭曲行为者的量子状态，导致更深层次的存在损害，而遭受不义只影响经典层面的表现，不会损害核心本质。这一深刻见解预示了现代心理学对创伤与道德损伤区别的认识——外在创伤可以治愈，但道德自损会导致更持久的存在状态扭曲。苏格拉底的伦理立场是基于对人类多层存在结构的深刻理解。
+
+#### 6. 哲学对话与量子系统共振
+
+苏格拉底的对话式哲学反映了量子系统共振原理：
+
+$$
+|\psi\rangle_{\text{对话者A}} + |\psi\rangle_{\text{对话者B}} \rightarrow |\psi\rangle_{\text{共同智慧}} > |\psi\rangle_{\text{A}} \text{ or } |\psi\rangle_{\text{B}}
+$$
+
+苏格拉底的哲学不是独白教义，而是活在对话中的动态实践。从量子经典二元论看，这体现了量子系统的共振特性——当两个量子系统（思想者）相互纠缠，可以产生超越各自独立状态的集体智慧。苏格拉底理解到真理不存在于孤立个体的经典化叙述中，而存在于不同意识相互作用产生的量子纠缠状态中。这解释了为何苏格拉底坚持对话而非写作——他看到书面文字会将思想过早经典化为僵化形式，而活生生的对话能保持思想的量子流动性和演化可能性。这一哲学方法论对应了量子纠缠系统比孤立系统具有更丰富信息处理能力的现代物理学认识。
 
 ### English
 
-#### 1. Classicalization Pathway
+#### 1. Knowledge of Ignorance and Quantum Cognitive State
 
-Socrates' thought system can be viewed as a special classicalization process where, through his "maieutic method" (dialogical approach), he helped people transform infinite possibilities from the quantum domain into ordered knowledge:
-
-$$
-|\psi\rangle_{\text{Chaotic Cognition}} \xrightarrow{\text{Socratic Questioning}} I_{\text{Classical Knowledge}} + S_{\text{Residual Entropy}}
-$$
-
-The distinctiveness of his method lies in first dissolving existing incorrect classicalization results ("I know that I know nothing"), then establishing more reliable classical knowledge through dialectical exploration. This dual classicalization process can be represented as:
+Socrates' "knowledge of ignorance" embodies an early intuition of quantum cognitive states:
 
 $$
-I_{\text{Incorrect Classical Knowledge}} \xrightarrow{\text{Questioning}} S_{\text{Classical Entropy (Cognitive Chaos)}} \xrightarrow{\text{Dialogical Method}} I_{\text{New Classical Knowledge}}
+|\psi\rangle_{\text{Cognitive State}} = \alpha|\text{Know}\rangle + \beta|\text{Don't Know}\rangle
 $$
 
-#### 2. Observer Dimension
+From a Quantum-Classical Dualism perspective, Socrates' "I know that I know nothing" transcends the traditional binary view of knowledge, recognizing that knowledge is not a simple classical binary state of "knowing" or "not knowing" but a complex quantum superposition state. He understood that a truly wise person is not one who knows everything but one who is aware of the limitations of their cognition—this meta-cognitive ability allows one to maintain quantum openness in cognition, avoiding false classical certainty. The difference between Socrates and his interlocutors was not that he knew more, but that he would not erroneously classicalize uncertain knowledge into definite assertions. This cognitive humility enabled him to maintain quantum openness of thought, exploring more possibilities rather than being confined to rigid classicalized knowledge structures.
 
-Socrates' "Know Thyself" is essentially a practice of elevating observer dimension. Through self-observation and reflection, the observer rises from a low-dimensional state of non-reflection to a high-dimensional state of self-awareness:
+#### 2. Socratic Method as Declassicalization Technique
 
-$$
-\text{Observer Dimension} \propto \frac{I_{\text{Self-knowledge}}}{S_{\text{State of Ignorance}}}
-$$
-
-His challenge to Athenian citizens was precisely to transform them from low-dimensional observers (immersed in unexamined lives) to high-dimensional observers (capable of observing and evaluating their cognitive foundations).
-
-#### 3. Interaction of Classical Worlds
-
-Socrates' refusal to write and insistence on oral dialogue can be understood as his recognition that the efficiency of classicalization communication between different observers depends on the isomorphism of quantum consciousness structures:
+The Socratic method of questioning can be viewed as a systematic declassicalization technique:
 
 $$
-I_{\text{Classicalization Communication Efficiency}} \propto \text{Isomorphism}\left(|\psi\rangle_{\text{Socrates}}, |\psi\rangle_{\text{Interlocutor}}\right)
+I_{\text{Classicalized False Knowledge}} \xrightarrow{\text{Systematic Questioning}} |\psi\rangle_{\text{Open Cognitive State}} \xrightarrow{\text{Dialogical Construction}} I_{\text{Improved Cognition}}
 $$
 
-Through real-time dialogue, he could adjust questions based on the interlocutor's responses, ensuring high efficiency in the classicalization process, which is more adaptable to different observers' cognitive structures than fixed text.
+Rather than providing ready-made answers, Socrates disintegrates his interlocutors' presumed certainties through continuous questioning, then jointly constructs more optimized cognition. From a Quantum-Classical Dualism perspective, this is precisely the cycle of declassicalization and reclassicalization—first breaking rigid beliefs that were prematurely classicalized (usually based on tradition, authority, or unexamined assumptions), returning thinking to a more open quantum possibility state, then re-establishing better classicalized understanding through rational dialogue. Socrates' "midwifery" reveals his profound understanding of the knowledge generation process—true knowledge is not simply transmitted but born through the dynamic process of declassicalization and reclassicalization. This methodology has had profound influences on later epistemology and pedagogy.
 
-#### 4. Soul and Quantum Consciousness
+#### 3. Virtue and Observer Dimension Elevation
 
-Socrates' discussions about the soul correspond to the concept of quantum consciousness in Quantum-Classical Dualism. His belief that the soul is the essence of a person while the body is just a temporary vessel resonates with quantum consciousness as the source of observer classicalization:
-
-$$
-|\psi\rangle_{\text{Soul/Quantum Consciousness}} \rightarrow I_{\text{Classical Memory/Knowledge}} + S_{\text{Classical Entropy}}
-$$
-
-#### 5. Dualistic Interpretation of Socrates' Death
-
-Socrates' calmness facing execution can be understood from the perspective of modifiable historical paths of classical worlds. He believed that death was not an end but a transformation of the soul, similar to the concept of "death and rebirth" in Quantum-Classical Dualism:
+Socrates' theory of virtue can be understood as a theory of observer dimension elevation:
 
 $$
-I_{\text{Classical Memory (Death)}} + |\psi\rangle_{\text{Random Possibilities}} \rightarrow I_{\text{Classical Memory (Rebirth)}} + S_{\text{Entropy Reduction}}
+\text{Virtue} = \frac{I_{\text{Moral Insight}}}{S_{\text{Ignorance Disturbance}}} = \text{Observer Dimension}
 $$
+
+Socrates asserted that "virtue is knowledge" and that evil stems from ignorance. From a Quantum-Classical Dualism perspective, this reflects that moral growth is a process of observer dimension elevation. Low-dimension observers are locked into specific desires and short-term perspectives, unable to see the full meaning and consequences of actions; high-dimension observers can transcend immediate situations, perceiving the long-term effects of actions on their own souls and society as a whole. Socrates' ethics focuses on elevating the actor's observational dimension—ethical behavior driven by the enhancement of internal moral observation capacity (rather than external rules). This explains why Socrates believed no one does wrong willingly—because a truly high-dimension observer can clearly see all the harm of immoral behavior and would not choose to damage their own soul.
+
+#### 4. Soul Care and Quantum-Classical Hierarchical Priority
+
+Socrates' prioritization of the soul reflects the value ordering of quantum-classical hierarchy:
+
+$$
+\text{Value} \propto \frac{|\psi\rangle_{\text{Level of Existence}}}{I_{\text{Classical Manifestation}}}
+$$
+
+Socrates emphasized that the soul is superior to the body, and intellectual virtue superior to material wealth. From a Quantum-Classical Dualism perspective, this embodies prioritized attention to more fundamental levels of existence. The soul (mind, character) is a level of existence closer to the quantum source, while body and material wealth are more classicalized surface phenomena. Socrates understood that changing the fundamental level (soul) would chain-affect derived levels (behavior, health, social status), while focusing only on surface classical phenomena cannot bring true happiness. This hierarchical view supports his value system—only by cultivating the soul at this fundamental quantum level can true human flourishing be achieved. This explains his calmness in the face of death—he believed that the excellence of the soul was key, not the continuation of the body as a classical manifestation.
+
+#### 5. Harm of Injustice and Quantum-Classical Ethics
+
+Socrates' view that injustice harms the soul embodies a quantum-classical ethical perspective:
+
+$$
+\text{Real Harm} = \Delta |\psi\rangle_{\text{Soul State}} > \Delta I_{\text{External Situation}}
+$$
+
+Socrates advocated that it is better to suffer harm than to inflict it because doing evil damages the soul more than suffering injustice affects the body or social status. From a Quantum-Classical Dualism perspective, this reflects the multi-level nature of harm—classical-level harm (physical pain, property loss) is not as fundamental as quantum-level harm (degradation of soul quality). Doing evil distorts the quantum state of the actor, causing deeper existential damage, while suffering injustice only affects classical-level manifestations without damaging the core essence. This profound insight presages modern psychology's recognition of the distinction between trauma and moral injury—external trauma can heal, but moral self-damage leads to more persistent distortion of existential states. Socrates' ethical stance is based on a profound understanding of the multi-layered structure of human existence.
+
+#### 6. Philosophical Dialogue and Quantum System Resonance
+
+Socrates' dialogical philosophy reflects the principle of quantum system resonance:
+
+$$
+|\psi\rangle_{\text{Interlocutor A}} + |\psi\rangle_{\text{Interlocutor B}} \rightarrow |\psi\rangle_{\text{Collective Wisdom}} > |\psi\rangle_{\text{A}} \text{ or } |\psi\rangle_{\text{B}}
+$$
+
+Socrates' philosophy is not a monologue doctrine but a dynamic practice living in dialogue. From a Quantum-Classical Dualism perspective, this embodies the resonance characteristics of quantum systems—when two quantum systems (thinkers) become entangled, they can produce collective wisdom transcending their respective independent states. Socrates understood that truth does not exist in the classicalized narratives of isolated individuals but in the quantum entangled states produced by the interaction of different consciousnesses. This explains why Socrates insisted on dialogue rather than writing—he saw that written words would prematurely classicalize thought into rigid forms, while living dialogue could maintain the quantum fluidity and evolutionary possibilities of thought. This philosophical methodology corresponds to the modern physics recognition that quantum entangled systems have richer information processing capabilities than isolated systems.
 
 ## 历史影响 | Historical Impact
 
 ### 中文
 
-1. 西方哲学传统的奠基者，柏拉图和亚里士多德的思想启蒙者
-2. 辩证法和逻辑推理方法的先驱
-3. 对西方伦理学发展产生深远影响
-4. 对怀疑主义、理性主义和人文主义的发展贡献巨大
-5. "苏格拉底方法"至今仍广泛应用于教育、法律和哲学研究
+1. 开创西方哲学传统，被称为"西方哲学之父"，推动思想从神话思维向理性探索转变
+2. 通过学生柏拉图影响整个西方哲学发展，柏拉图学院成为西方学术传统源头
+3. 建立了系统性质疑和逻辑论证作为哲学方法的基础，开创批判性思维传统
+4. 转向对人和伦理问题的关注，将哲学从纯自然探索引向人文关怀
+5. 以身殉道（拒绝逃亡，接受死刑）树立了知识分子坚持真理的典范
+6. 提出的问题（善、美、正义、知识本质）构成了西方哲学的持久议题
+7. 对话式探索方法影响了教育学发展，启发了现代互动式和探究式学习
 
 ### English
 
-1. Founder of Western philosophical tradition, intellectual mentor to Plato and Aristotle
-2. Pioneer of dialectical method and logical reasoning
-3. Profound influence on the development of Western ethics
-4. Major contributions to the development of skepticism, rationalism, and humanism
-5. "Socratic Method" still widely applied in education, law, and philosophical inquiry
+1. Pioneered Western philosophical tradition, known as the "father of Western philosophy," promoting the transition of thought from mythical thinking to rational exploration
+2. Influenced the entire development of Western philosophy through his student Plato; Plato's Academy became the source of Western academic tradition
+3. Established systematic questioning and logical argumentation as the foundation of philosophical methodology, pioneering the tradition of critical thinking
+4. Shifted focus to human and ethical issues, directing philosophy from pure natural exploration to humanistic concerns
+5. Martyrdom (refusing escape, accepting the death penalty) set an example for intellectuals' adherence to truth
+6. The questions he raised (goodness, beauty, justice, nature of knowledge) constituted enduring topics in Western philosophy
+7. Dialogical exploration method influenced the development of pedagogy, inspiring modern interactive and inquiry-based learning
 
 ## 经典引言 | Classic Quotes
 
 ### 中文
 
-- "未经省察的生活不值得过。"
-- "我知道我一无所知。"
-- "真正的智慧在于认识到自己的无知。"
-- "最高尚的生活方式是追求美德。"
-- "教育的目的不是灌输，而是点燃火焰。"
+- "未经检视的生活不值得过。"
+- "我只知道我一无所知。"
+- "智慧始于承认自己的无知。"
+- "关心你的灵魂。"
+- "最高形式的人类卓越在于质疑自己和他人。"
+- "教育的目的不是灌输知识，而是唤醒思考的欲望。"
+- "更好是受害而不是害人。"
 
 ### English
 
 - "The unexamined life is not worth living."
 - "I know that I know nothing."
-- "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."
+- "Wisdom begins in wonder."
+- "Care for your soul."
 - "The highest form of human excellence is to question oneself and others."
-- "Education is not the filling of a vessel, but the kindling of a flame." 
+- "Education is not the filling of a vessel, but the kindling of a flame."
+- "It is better to suffer wrong than to do wrong." 
