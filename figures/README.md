@@ -87,6 +87,16 @@ This index catalogs thought analyses of important historical figures from a quan
 
 - [释迦牟尼 | Siddhartha Gautama (Buddha)](religious/buddha.md)
 - [穆罕默德 | Muhammad](religious_leaders/muhammad.md)
+- [耶稣基督 | Jesus Christ](religious_leaders/jesus_christ.md)
+- [摩西 | Moses](religious_leaders/moses.md)
+- [圣保罗 | Saint Paul](religious_leaders/saint_paul.md)
+- [圣奥古斯丁 | Saint Augustine](religious_leaders/saint_augustine.md)
+- [圣托马斯·阿奎那 | Thomas Aquinas](religious_leaders/thomas_aquinas.md)
+- [马丁·路德 | Martin Luther](religious_leaders/martin_luther.md)
+- [教皇约翰·保罗二世 | Pope John Paul II](religious_leaders/pope_john_paul_ii.md)
+- [达赖喇嘛 | Dalai Lama](religious_leaders/dalai_lama.md)
+- [斯瓦米·维韦卡南达 | Swami Vivekananda](religious_leaders/swami_vivekananda.md)
+- [圣特蕾莎 | Mother Teresa](religious_leaders/mother_teresa.md)
 
 ## 政治领袖 | Political Leaders
 
@@ -139,9 +149,14 @@ This index catalogs thought analyses of important historical figures from a quan
 - [释迦牟尼 | Siddhartha Gautama (Buddha)](religious/buddha.md)
 - [孔子 | Confucius](philosophers/confucius.md)
 - [克利奥帕特拉 | Cleopatra](political_leaders/cleopatra.md)
+- [耶稣基督 | Jesus Christ](religious_leaders/jesus_christ.md)
+- [摩西 | Moses](religious_leaders/moses.md)
+- [圣保罗 | Saint Paul](religious_leaders/saint_paul.md)
 
 ### 中世纪 (476-1453) | Middle Ages (476-1453)
 - [伊本·西那 | Ibn Sina (Avicenna)](scientists/ibn_sina.md)
+- [圣奥古斯丁 | Saint Augustine](religious_leaders/saint_augustine.md)
+- [圣托马斯·阿奎那 | Thomas Aquinas](religious_leaders/thomas_aquinas.md)
 
 ### 文艺复兴与早期现代 (1453-1789) | Renaissance and Early Modern (1453-1789)
 - [威廉·莎士比亚 | William Shakespeare](artists/shakespeare.md)
@@ -159,6 +174,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [让-雅克·卢梭 | Jean-Jacques Rousseau](philosophers/rousseau.md)
 - [米开朗基罗 | Michelangelo](artists/michelangelo.md)
 - [玛丽·安托瓦内特 | Marie Antoinette](political_leaders/marie_antoinette.md)
+- [马丁·路德 | Martin Luther](religious_leaders/martin_luther.md)
 
 ### 现代 (1789-1945) | Modern Era (1789-1945)
 - [康德 | Kant](philosophers/kant.md)
@@ -192,6 +208,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [巴勃罗·毕加索 | Pablo Picasso](artists/picasso.md)
 - [阿尔弗雷德·诺贝尔 | Alfred Nobel](scientists/nobel.md)
 - [维特根斯坦 | Ludwig Wittgenstein](philosophers/wittgenstein.md)
+- [斯瓦米·维韦卡南达 | Swami Vivekananda](religious_leaders/swami_vivekananda.md)
 
 ### 当代 (1945-至今) | Contemporary Era (1945-Present)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
@@ -208,6 +225,9 @@ This index catalogs thought analyses of important historical figures from a quan
 - [汉娜·阿伦特 | Hannah Arendt](philosophers/hannah_arendt.md)
 - [玛丽亚·蒙台梭利 | Maria Montessori](psychologists/montessori.md)
 - [阿玛蒂亚·森 | Amartya Sen](economists/amartya_sen.md)
+- [教皇约翰·保罗二世 | Pope John Paul II](religious_leaders/pope_john_paul_ii.md)
+- [达赖喇嘛 | Dalai Lama](religious_leaders/dalai_lama.md)
+- [圣特蕾莎 | Mother Teresa](religious_leaders/mother_teresa.md)
 
 ## 按地域分类 | Classification by Region
 
@@ -217,12 +237,15 @@ This index catalogs thought analyses of important historical figures from a quan
 - [孙子 | Sun Tzu](strategists/sunzi.md)
 - [孔子 | Confucius](philosophers/confucius.md)
 - [鲁迅 | Lu Xun](literary_figures/lu_xun.md)
+- [达赖喇嘛 | Dalai Lama](religious_leaders/dalai_lama.md)
 
 ### 南亚 | South Asia
 - [释迦牟尼 | Siddhartha Gautama (Buddha)](religious/buddha.md)
 - [圣雄甘地 | Mahatma Gandhi](political_leaders/gandhi.md)
 - [拉宾德拉纳特·泰戈尔 | Rabindranath Tagore](literary_figures/tagore.md)
 - [阿玛蒂亚·森 | Amartya Sen](economists/amartya_sen.md)
+- [斯瓦米·维韦卡南达 | Swami Vivekananda](religious_leaders/swami_vivekananda.md)
+- [圣特蕾莎 | Mother Teresa](religious_leaders/mother_teresa.md)
 
 ### 欧洲 | Europe
 - [柏拉图 | Plato](philosophers/plato.md)
@@ -279,12 +302,19 @@ This index catalogs thought analyses of important historical figures from a quan
 - [汉娜·阿伦特 | Hannah Arendt](philosophers/hannah_arendt.md)
 - [玛丽亚·蒙台梭利 | Maria Montessori](psychologists/montessori.md)
 - [维特根斯坦 | Ludwig Wittgenstein](philosophers/wittgenstein.md)
+- [圣奥古斯丁 | Saint Augustine](religious_leaders/saint_augustine.md)
+- [圣托马斯·阿奎那 | Thomas Aquinas](religious_leaders/thomas_aquinas.md)
+- [马丁·路德 | Martin Luther](religious_leaders/martin_luther.md)
+- [教皇约翰·保罗二世 | Pope John Paul II](religious_leaders/pope_john_paul_ii.md)
 
 ### 中东和北非 | Middle East and North Africa
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
 - [克利奥帕特拉 | Cleopatra](political_leaders/cleopatra.md)
 - [伊本·西那 | Ibn Sina (Avicenna)](scientists/ibn_sina.md)
 - [穆罕默德 | Muhammad](religious_leaders/muhammad.md)
+- [耶稣基督 | Jesus Christ](religious_leaders/jesus_christ.md)
+- [摩西 | Moses](religious_leaders/moses.md)
+- [圣保罗 | Saint Paul](religious_leaders/saint_paul.md)
 
 ### 美洲 | Americas
 - [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
