@@ -26,6 +26,8 @@ This index catalogs thought analyses of important historical figures from a quan
 - [苏格拉底 | Socrates](philosophers/socrates.md)
 - [笛卡尔 | Descartes](philosophers/descartes.md)
 - [亚里士多德 | Aristotle](philosophers/aristotle.md)
+- [孔子 | Confucius](philosophers/confucius.md)
+- [西蒙娜·德·波伏娃 | Simone de Beauvoir](philosophical/simone_beauvoir.md)
 
 ## 科学家 | Scientists
 
@@ -36,6 +38,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [尼尔斯·玻尔 | Niels Bohr](scientists/bohr.md)
 - [卡尔·弗里德里希·高斯 | Carl Friedrich Gauss](scientists/gauss.md)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
+- [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
 
 ## 艺术家 | Artists
 
@@ -54,6 +57,7 @@ This index catalogs thought analyses of important historical figures from a quan
 ## 心理学家 | Psychologists
 
 - [西格蒙德·弗洛伊德 | Sigmund Freud](psychologists/freud.md)
+- [卡尔·古斯塔夫·荣格 | Carl Gustav Jung](psychologists/jung.md)
 
 ## 宗教人物 | Religious Figures
 
@@ -61,11 +65,20 @@ This index catalogs thought analyses of important historical figures from a quan
 
 ## 政治领袖 | Political Leaders
 
+- [尼科洛·马基雅维利 | Niccolò Machiavelli](political_leaders/machiavelli.md)
+- [圣雄甘地 | Mahatma Gandhi](political_leaders/gandhi.md)
+
 ## 文学人物 | Literary Figures
+
+- [乔治·奥威尔 | George Orwell](literary_figures/george_orwell.md)
 
 ## 经济学家 | Economists
 
+- [亚当·斯密 | Adam Smith](economists/adam_smith.md)
+
 ## 企业家 | Entrepreneurs
+
+- [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
 
 ## 按时代分类 | Classification by Era
 
@@ -78,6 +91,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [孙子 | Sun Tzu](strategists/sunzi.md)
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
 - [释迦牟尼 | Siddhartha Gautama (Buddha)](religious/buddha.md)
+- [孔子 | Confucius](philosophers/confucius.md)
 
 ### 中世纪 (476-1453) | Middle Ages (476-1453)
 
@@ -87,6 +101,8 @@ This index catalogs thought analyses of important historical figures from a quan
 - [列奥纳多·达芬奇 | Leonardo da Vinci](artists/davinci.md)
 - [笛卡尔 | Descartes](philosophers/descartes.md)
 - [牛顿 | Newton](scientists/newton.md)
+- [尼科洛·马基雅维利 | Niccolò Machiavelli](political_leaders/machiavelli.md)
+- [亚当·斯密 | Adam Smith](economists/adam_smith.md)
 
 ### 现代 (1789-1945) | Modern Era (1789-1945)
 - [康德 | Kant](philosophers/kant.md)
@@ -97,9 +113,14 @@ This index catalogs thought analyses of important historical figures from a quan
 - [爱因斯坦 | Einstein](scientists/einstein.md)
 - [玛丽·居里 | Marie Curie](scientists/marie_curie.md)
 - [尼尔斯·玻尔 | Niels Bohr](scientists/bohr.md)
+- [乔治·奥威尔 | George Orwell](literary_figures/george_orwell.md)
+- [卡尔·古斯塔夫·荣格 | Carl Gustav Jung](psychologists/jung.md)
+- [西蒙娜·德·波伏娃 | Simone de Beauvoir](philosophical/simone_beauvoir.md)
 
 ### 当代 (1945-至今) | Contemporary Era (1945-Present)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
+- [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
+- [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
 
 ## 按地域分类 | Classification by Region
 
@@ -107,9 +128,11 @@ This index catalogs thought analyses of important historical figures from a quan
 - [老子 | Laozi](philosophers/laozi.md)
 - [荀子 | Xunzi](philosophers/xunzi.md)
 - [孙子 | Sun Tzu](strategists/sunzi.md)
+- [孔子 | Confucius](philosophers/confucius.md)
 
 ### 南亚 | South Asia
 - [释迦牟尼 | Siddhartha Gautama (Buddha)](religious/buddha.md)
+- [圣雄甘地 | Mahatma Gandhi](political_leaders/gandhi.md)
 
 ### 欧洲 | Europe
 - [柏拉图 | Plato](philosophers/plato.md)
@@ -129,11 +152,18 @@ This index catalogs thought analyses of important historical figures from a quan
 - [玛丽·居里 | Marie Curie](scientists/marie_curie.md)
 - [尼尔斯·玻尔 | Niels Bohr](scientists/bohr.md)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
+- [尼科洛·马基雅维利 | Niccolò Machiavelli](political_leaders/machiavelli.md)
+- [亚当·斯密 | Adam Smith](economists/adam_smith.md)
+- [乔治·奥威尔 | George Orwell](literary_figures/george_orwell.md)
+- [卡尔·古斯塔夫·荣格 | Carl Gustav Jung](psychologists/jung.md)
+- [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
+- [西蒙娜·德·波伏娃 | Simone de Beauvoir](philosophical/simone_beauvoir.md)
 
 ### 中东和北非 | Middle East and North Africa
 - [亚历山大大帝 | Alexander the Great](leaders/alexander.md)
 
 ### 美洲 | Americas
+- [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
 
 ### 非洲 | Africa
 
