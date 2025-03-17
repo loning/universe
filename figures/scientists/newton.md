@@ -2,199 +2,127 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1643年-1727年 (1643-1727)  
-**国籍 | Nationality**: 英国 (England, United Kingdom)  
-**主要领域 | Main Fields**: 物理学、数学、天文学、自然哲学、炼金术、神学 (Physics, Mathematics, Astronomy, Natural Philosophy, Alchemy, Theology)  
-**代表作品 | Representative Works**: 《自然哲学的数学原理》（《原理》）、《光学》、《流数法》（微积分）、《宇宙体系》 (Philosophiæ Naturalis Principia Mathematica, Opticks, Method of Fluxions, The System of the World)
+**生平 (Life Span)**: 1643年1月4日 - 1727年3月31日  
+**国籍 (Nationality)**: 英国 (British)  
+**领域 (Fields)**: 物理学、数学、天文学、自然哲学、炼金术、神学  
+**代表作品 (Representative Works)**: 《自然哲学的数学原理》（《principia》）、《光学》、微积分学的发展、反射望远镜
 
-## 核心思想 | Core Ideas
+## 核心思想 (Core Ideas)
 
 ### 中文
-
-1. **万有引力定律**: 任何两个物体间存在相互吸引的力，其大小与质量乘积成正比，与距离平方成反比。
-2. **运动三定律**: 惯性定律、加速度定律和作用力与反作用力定律，奠定了经典力学基础。
-3. **微积分学**: 创立了微分和积分计算方法，为描述连续变化的物理现象提供了数学工具。
-4. **光学理论**: 发现白光由不同颜色光谱组成，提出光的微粒说，为光学研究奠定基础。
-5. **机械决定论宇宙观**: 宇宙如同精密时钟，遵循严格的数学规律运行，可以精确预测。
-6. **绝对时空观**: 认为时间和空间是绝对的、独立存在的实体，不受物质和运动影响。
-7. **实验与数学统一**: 强调实验观察与数学推理相结合的科学方法，"假设不是我所虚构的"。
+1. **普适自然法则**：宇宙受普遍适用的数学规律支配，通过理性和精确观测可以揭示和理解这些客观法则，实现对自然的精确描述和预测。
+2. **数学实证方法**：科学研究应基于精确观察和数学推理，建立可量化的理论假设并通过实验验证，避免无根据猜测，强调"我不做假设"的实证态度。
+3. **统一力学框架**：地面物体运动与天体运动遵循相同的力学法则，万有引力以及三大运动定律建立了统一的力学体系，实现了天上与地下现象的统一解释。
+4. **力与空间-时间结构**：绝对时间和绝对空间作为独立存在的实体框架，构成运动和力的参考系统，物体在这一系统中遵循严格的因果关系和确定性变化。
+5. **机械宇宙观**：宇宙如同巨大精密钟表机器运行，一旦初始条件确定，其后发展完全由严格的物理规律决定，体现了决定论的世界观。
 
 ### English
-
-1. **Law of Universal Gravitation**: Every particle attracts every other particle with a force directly proportional to the product of their masses and inversely proportional to the square of the distance between them.
-2. **Three Laws of Motion**: The law of inertia, the law of acceleration, and the law of action and reaction, establishing the foundation of classical mechanics.
-3. **Calculus**: Developed methods of differential and integral calculus, providing mathematical tools for describing continuous physical changes.
-4. **Optical Theory**: Discovered that white light consists of a spectrum of different colors and proposed the corpuscular theory of light, laying the foundation for optical research.
-5. **Mechanistic Determinism**: Viewed the universe as a precise clock operating according to strict mathematical laws, allowing for exact predictions.
-6. **Absolute Space and Time**: Believed that time and space are absolute, independently existing entities, unaffected by matter and motion.
-7. **Unity of Experiment and Mathematics**: Emphasized the scientific method combining experimental observation with mathematical reasoning, "hypotheses non fingo" (I frame no hypotheses).
+1. **Universal Natural Laws**: The universe is governed by universally applicable mathematical laws that can be revealed and understood through reason and precise observation, enabling accurate description and prediction of nature.
+2. **Mathematical Empirical Method**: Scientific research should be based on precise observations and mathematical reasoning, establishing quantifiable theoretical hypotheses verified through experiments, avoiding unsubstantiated speculation, emphasizing an empirical attitude of "I do not feign hypotheses."
+3. **Unified Mechanical Framework**: Terrestrial object motion and celestial body motion follow identical mechanical laws; universal gravitation and three laws of motion established a unified mechanical system, achieving a unified explanation of celestial and terrestrial phenomena.
+4. **Force and Space-Time Structure**: Absolute time and absolute space as independently existing entity frameworks constitute reference systems for motion and force; objects within this system follow strict causal relationships and deterministic changes.
+5. **Mechanical Universe View**: The universe functions like a giant precision clockwork machine; once initial conditions are determined, its subsequent development is entirely governed by strict physical laws, embodying a deterministic worldview.
 
 ## 量子经典二元论视角分析 | Analysis from Quantum-Classical Dualism Perspective
 
-### 中文
+### 牛顿的量子-经典二元性 | Newton's Quantum-Classical Duality
 
-#### 1. 万有引力定律与经典作用力的完备描述
-
-牛顿的万有引力定律代表了经典作用力的完备数学描述：
+艾萨克·牛顿建立的科学体系成为后世所定义的"经典物理学"典范，同时也为量子物理的突破性发展奠定了基础。他的思想虽然强调确定性和连续性，但其中也包含了对复杂性和不可见力量的深入思考，体现了量子-经典二元思维的早期萌芽。
 
 $$
-F = G\frac{m_1m_2}{r^2}
+|\psi\rangle_{\text{牛顿科学}} = \alpha|\psi\rangle_{\text{经典定律（显性）}} + \beta|\psi\rangle_{\text{非经典探索（隐性）}}
 $$
 
-从量子经典二元论视角，这一定律精确捕捉了宏观物体经典相互作用的本质。引力作为最基本的四种力之一，在经典域中表现为连续、可预测的作用力，遵循严格的数学规律。牛顿无法解释引力的作用机制（"我不虚构假设"），这实际反映了经典描述的局限——仅能描述作用结果而非量子级作用机制。万有引力定律是经典预测力学的巅峰成就，在经典近似下完美描述了从苹果落地到行星运动的现象。
+### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
-#### 2. 运动三定律与经典域的因果确定性
+1. **普适自然法则的二元结构化**
 
-牛顿运动三定律确立了经典域的因果确定性框架：
+   牛顿普适法则理念体现了量子-经典互补性的早期直觉：
 
-$$
-\sum \vec{F} = m\vec{a}
-$$
+   $$
+   I_{\text{可见现象（经典）}} \Rightarrow |\psi\rangle_{\text{不可见规律（量子）}} \Rightarrow I_{\text{数学表达（经典）}}
+   $$
 
-从量子经典二元论看，这些定律定义了经典域中状态演化的基本规则。给定初始条件，系统的未来演化完全可确定，熵增极小。这种确定性是经典域的标志特征，与量子域的概率性形成鲜明对比。牛顿力学建立了经典力学的因果链模型，使物理世界似乎成为完全可预测的机械系统。这一框架直到量子力学出现才被挑战，但在经典尺度上仍然保持高度准确性，证明它是量子现象经典化的卓越近似。
+   牛顿的思想革命在于他理解到，可见的经典现象背后存在不可见的基本规律，这些规律本身具有抽象的、非直观的特性（类似量子层面），但可以通过数学再次经典化为精确表达。以万有引力为例，牛顿超越了亚里士多德的"物体自然倾向"的直观解释，提出两物体之间存在一种不可见的吸引力，通过逆平方定律精确描述这种力。这种思维模式——从经典可见现象，推导抽象不可见原理，再经数学经典化为精确表达——预示了后世科学思维从经典到量子、再到新经典模型的转化模式。值得注意的是，牛顿本人对引力的"超距作用"本质感到不安，他承认无法解释引力的传递机制，这种对不可见力量本质的困惑已含量子思维的萌芽。
 
-#### 3. 微积分学与连续经典化的数学框架
+2. **数学实证方法的双重性质**
 
-牛顿创立的微积分学提供了连续经典化过程的数学框架：
+   牛顿的科学方法体现了量子-经典认知循环：
 
-$$
-\frac{df(t)}{dt} = \lim_{\Delta t \to 0}\frac{f(t+\Delta t)-f(t)}{\Delta t}
-$$
+   $$
+   I_{\text{现象观察（经典）}} \rightarrow |\psi\rangle_{\text{假设形成（量子）}} \rightarrow I_{\text{数学推导（经典）}} \rightarrow |\psi\rangle_{\text{实验验证（量子-经典交互）}}
+   $$
 
-微积分处理的是连续变化，而连续性恰是经典域的核心特征之一。从量子经典二元论视角，微分方程能够精确描述经典化实体的演化轨迹，将离散量子跃迁近似为连续过程。牛顿的"流数法"概念尤其体现了这一点——将变量视为连续"流动"，而非离散跳跃。微积分成为了描述经典物理学的理想数学语言，因为它完美匹配了经典域的连续性特征，为经典化现象提供了精确的形式化描述。
+   牛顿的"我不做假设"(Hypotheses non fingo)看似是对纯经典实证主义的坚持，但他的实际科学实践展现了更复杂的认知模式。当他面对色散现象时，先进行系统观察（经典），然后大胆猜测白光由不同颜色组成（量子化思维跃迁），再通过精确实验设计（经典推导）验证这一假设。这一过程体现了科学认知的量子-经典循环：在经典观察与量子假设之间往复，不断提纯认知。牛顿反对的实际上是无法经验证的纯粹猜测，而非创造性假设本身。从量子经典二元论视角，牛顿的方法论实质是一种受控的认知量子化（创造性假设）与经典化（严格验证）的平衡艺术，这一平衡成为现代科学方法的基础模式。
 
-#### 4. 绝对时空观与经典观察者框架
+3. **统一力学框架的量子突破性**
 
-牛顿的绝对时空观定义了经典观察者的标准框架：
+   牛顿的统一力学代表了认知的量子跃迁和新经典建立：
 
-$$
-\text{观察者坐标系} \subset \text{绝对时空参考系}
-$$
+   $$
+   [|\psi\rangle_{\text{地面力学}} + |\psi\rangle_{\text{天体力学}}] \xrightarrow{\text{牛顿统一}} I_{\text{普适力学框架}}
+   $$
 
-牛顿认为时空是绝对的、独立存在的背景，所有观察者最终都可以参照这一绝对框架。从量子经典二元论看，这对应于经典观察者的典型视角——认为存在一个客观实在的物理世界，独立于观察者存在。这种观点与爱因斯坦的相对论和量子力学的观察者依赖性形成对比，但在经典近似下，牛顿的绝对时空观提供了极为有效的工作模型。它建立了一个统一的经典参考框架，将不同观察者的经典化结果有效地关联起来。
+   牛顿统一地面和天体运动的成就，从量子经典二元论视角看是一次认知的量子跃迁。在他之前，人们认为天上和地上遵循不同定律（亚里士多德的二元宇宙观），这种分离代表了认知的"叠加态"——两种看似独立的解释并存。牛顿打破这种分离状态，创建单一的、统一的力学框架，这一过程类似于量子叠加态坍缩为一个新的经典解释。这次认知坍缩极大地减少了宇宙模型的熵（复杂度），简化了人类对自然的理解。然而，所有的统一理论都有其适用边界，牛顿力学在高速和微观层面的失效，预示了未来需要新的量子跃迁——这最终导致了相对论和量子力学的出现，构成了科学认知演化中的量子-经典循环。
 
-#### 5. 机械决定论与经典层级的信息闭合性
+4. **力与空间-时间结构的潜在张力**
 
-牛顿的机械决定论体现了经典层级的信息闭合性：
+   牛顿的时空观包含了经典确定性与量子可能性的潜在张力：
 
-$$
-\text{系统状态}_{t_1} \xrightarrow{\text{决定性规律}} \text{系统状态}_{t_2} \text{ with } S_{\text{不确定性}} \approx 0
-$$
+   $$
+   I_{\text{绝对时空（容器）}} × |\psi\rangle_{\text{力的作用（内容）}} = |\psi\rangle_{\text{牛顿宇宙模型}}
+   $$
 
-牛顿式宇宙观将世界比作精密时钟，一旦启动，其运行完全由机械规律决定。从量子经典二元论视角，这反映了经典域的特征——经典系统表现为信息闭合系统，不需要引入量子层级的信息即可完整描述其演化。这种闭合性使经典力学在其适用范围内运行良好，创造了物理世界可理解和可预测的表象。牛顿的"上帝视角"——假想一个全知观察者可以精确知道宇宙所有粒子的位置和动量，从而预测未来——正是经典层级信息闭合性的终极表达。
+   牛顿建立了绝对时间和绝对空间的概念，作为万物运动的固定背景框架。这一框架具有完美的经典性质——确定、连续、独立存在。然而，他同时引入了力的概念，特别是超距作用的引力，这种不可见力量的本质引入了潜在的非局域性问题。从量子经典二元论视角，牛顿物理学存在着经典容器（绝对时空）与潜在量子内容（力的本质）之间的张力。这种张力在牛顿时代未被完全认识，但构成了后世科学革命的重要动力。麦克斯韦、爱因斯坦和量子力学创始人们正是通过解决这一潜在张力，才发展出场论、相对论和量子理论。牛顿时空观的经典性与力概念的潜在量子性之间的不协调，是推动物理学从纯经典向量子-经典综合发展的关键因素之一。
 
-#### 6. 实验-数学统一与经典知识的稳定性
+5. **机械宇宙观与复杂性**
 
-牛顿的"实验与数学统一"方法保证了经典知识的高稳定性：
+   牛顿的机械宇宙观体现了经典确定性与量子复杂性的对立统一：
 
-$$
-I_{\text{经典知识稳定性}} \propto \frac{I_{\text{数学精确性}}}{S_{\text{实验误差}}}
-$$
+   $$
+   I_{\text{决定论框架}} - S_{\text{三体问题复杂性}} = |\psi\rangle_{\text{牛顿宇宙}}
+   $$
 
-牛顿强调实验验证与数学推导的结合，拒绝纯粹猜测，体现了经典科学方法的精髓。从量子经典二元论看，这一方法极大提高了经典化知识的稳定性——数学提供了低熵的精确描述，实验则确保了与物理现实的锚定。牛顿的"我不虚构假设"信条确保物理学建立在经典化可观测量的稳固基础上，而非投机。这一方法论导致了经典科学知识的高度累积性和稳定性，与量子物理学中理论解释的多样性和不确定性形成对比。
+   牛顿创造的机械宇宙模型强调确定性和可预测性，宇宙如同精密钟表般运行，理论上具有完美的经典确定性。然而，牛顿本人也发现了这一模型的内在限制——著名的三体问题无法获得简单封闭解。从量子经典二元论视角，三体问题代表了经典系统中出现的内生复杂性，这种复杂性指向了确定性系统中的混沌和不可预测性。牛顿虽从未明确发展出混沌理论，但他的工作实际埋下了决定论与不可预测性共存的思想种子。这一点在他晚年引入神的干预来维持太阳系稳定时可见一斑——这表明他意识到纯经典机械系统的局限性。牛顿宇宙观的这种内在张力，预示了后世科学对复杂系统、混沌和量子不确定性的探索方向。
 
-### English
+6. **牛顿的二元性格与思想**
 
-#### 1. Law of Universal Gravitation and Complete Description of Classical Forces
+   牛顿个人思想展现了严格经典与深度量子的双重性：
 
-Newton's law of universal gravitation represents a complete mathematical description of classical forces:
+   $$
+   |\psi\rangle_{\text{牛顿思想}} = |\psi\rangle_{\text{理性科学（公开）}} \otimes |\psi\rangle_{\text{神秘探索（私密）}}
+   $$
 
-$$
-F = G\frac{m_1m_2}{r^2}
-$$
-
-From a Quantum-Classical Dualism perspective, this law precisely captures the essence of classical interactions between macroscopic objects. Gravity, as one of the four fundamental forces, manifests in the classical domain as a continuous, predictable force following strict mathematical laws. Newton could not explain the mechanism of gravity ("I frame no hypotheses"), which actually reflects the limitations of classical description—it can only describe the effects of action rather than the quantum-level mechanisms. The law of universal gravitation is the pinnacle achievement of classical predictive mechanics, perfectly describing phenomena from falling apples to planetary motion under classical approximation.
-
-#### 2. Three Laws of Motion and Causal Determinism in the Classical Domain
-
-Newton's three laws of motion established the framework of causal determinism in the classical domain:
-
-$$
-\sum \vec{F} = m\vec{a}
-$$
-
-From a Quantum-Classical Dualism perspective, these laws define the basic rules for state evolution in the classical domain. Given initial conditions, the future evolution of a system is completely determinable, with minimal entropy increase. This determinism is a signature characteristic of the classical domain, forming a stark contrast with the probabilistic nature of the quantum domain. Newtonian mechanics established a causal chain model for classical mechanics, making the physical world appear to be a completely predictable mechanical system. This framework was not challenged until the emergence of quantum mechanics but still maintains a high degree of accuracy at classical scales, proving it to be an excellent approximation of classicalized quantum phenomena.
-
-#### 3. Calculus and Mathematical Framework for Continuous Classicalization
-
-The calculus developed by Newton provides a mathematical framework for continuous classicalization processes:
-
-$$
-\frac{df(t)}{dt} = \lim_{\Delta t \to 0}\frac{f(t+\Delta t)-f(t)}{\Delta t}
-$$
-
-Calculus deals with continuous change, and continuity is precisely one of the core characteristics of the classical domain. From a Quantum-Classical Dualism perspective, differential equations can precisely describe the evolutionary trajectories of classicalized entities, approximating discrete quantum jumps as continuous processes. Newton's concept of "fluxions" especially embodies this point—viewing variables as continuously "flowing" rather than discretely jumping. Calculus became the ideal mathematical language for describing classical physics because it perfectly matches the continuity characteristics of the classical domain, providing precise formalized descriptions for classicalized phenomena.
-
-#### 4. Absolute Space and Time and the Classical Observer Framework
-
-Newton's view of absolute space and time defined the standard framework for classical observers:
-
-$$
-\text{Observer Coordinate System} \subset \text{Absolute Space-Time Reference Frame}
-$$
-
-Newton believed that space and time are absolute, independently existing backgrounds to which all observers can ultimately refer. From a Quantum-Classical Dualism perspective, this corresponds to the typical viewpoint of classical observers—believing in an objective physical world existing independently of observers. This view contrasts with Einstein's relativity and the observer-dependency of quantum mechanics, but under classical approximation, Newton's absolute space-time view provides an extremely effective working model. It establishes a unified classical reference framework, effectively correlating the classicalization results of different observers.
-
-#### 5. Mechanical Determinism and Information Closure of the Classical Level
-
-Newton's mechanical determinism embodies the information closure of the classical level:
-
-$$
-\text{System State}_{t_1} \xrightarrow{\text{Deterministic Laws}} \text{System State}_{t_2} \text{ with } S_{\text{Uncertainty}} \approx 0
-$$
-
-The Newtonian worldview compares the universe to a precise clock which, once started, runs entirely according to mechanical laws. From a Quantum-Classical Dualism perspective, this reflects the characteristics of the classical domain—classical systems appear as informationally closed systems, not requiring the introduction of quantum-level information to completely describe their evolution. This closure allows classical mechanics to function well within its applicable range, creating the appearance of a comprehensible and predictable physical world. Newton's "God's eye view"—imagining an omniscient observer who can precisely know the position and momentum of all particles in the universe and thereby predict the future—is the ultimate expression of the informational closure of the classical level.
-
-#### 6. Unification of Experiment and Mathematics and the Stability of Classical Knowledge
-
-Newton's method of "unifying experiment and mathematics" ensures the high stability of classical knowledge:
-
-$$
-I_{\text{Classical Knowledge Stability}} \propto \frac{I_{\text{Mathematical Precision}}}{S_{\text{Experimental Error}}}
-$$
-
-Newton emphasized the combination of experimental verification and mathematical derivation, rejecting pure speculation, embodying the essence of the classical scientific method. From a Quantum-Classical Dualism perspective, this method greatly enhances the stability of classicalized knowledge—mathematics provides low-entropy precise descriptions, while experiments ensure anchoring to physical reality. Newton's "hypotheses non fingo" (I frame no hypotheses) maxim ensures that physics is established on the solid foundation of classicalized observables rather than speculation. This methodology leads to the high cumulativity and stability of classical scientific knowledge, contrasting with the diversity and uncertainty of theoretical explanations in quantum physics.
+   在历史上鲜为人知的事实是，牛顿除了开创性的科学工作外，还投入大量精力研究炼金术和《圣经》预言。从量子经典二元论视角，这展现了牛顿思想的二元性——他公开的科学著作强调经典理性、确定性和机械因果，而他的私人笔记却包含对变化、转化和神秘力量的量子式探索。这种看似矛盾的二元性可能正是他突破性思想的源泉——他能在严格经典的框架下，保持对不可见本质的量子式开放性。牛顿对光的研究正体现了这种二元性，他既建立了光学的经典定律，又对光的粒子本质提出了当时看来神秘的假设，这一假设在两个世纪后量子革命中得到了新的理解。牛顿个人思想中经典与量子元素的共存，使他成为科学史上独特的过渡性人物，连接了古代神秘传统与现代科学方法。
 
 ## 历史影响 | Historical Impact
 
-### 中文
+牛顿的工作奠定了经典物理学的基础，他的三大运动定律和万有引力定律统治了物理学300多年。《自然哲学的数学原理》被认为是科学史上最具影响力的著作之一，确立了用数学描述自然的范式。他的力学体系使人类能够精确预测天体运动、设计机械和工程结构，推动了工业革命的发展。
 
-1. 创立经典力学体系，成为近代物理学的奠基人，影响持续三百多年
-2. 与莱布尼茨并列为微积分学的创始人，为现代数学发展提供了基础工具
-3. 确立了科学研究的范式，将实验观察、数学模型和理论预测结合起来
-4. 为启蒙运动提供了科学基础，推动了理性主义世界观的形成
-5. 万有引力理论统一了天体和地面物理学，结束了亚里士多德的二元物理学
-6. 光学研究开创了现代光学，推动了光谱学和光学仪器的发展
-7. 机械决定论世界观深刻影响了后世科学哲学和宗教思想的发展
+牛顿与莱布尼茨独立发展的微积分学彻底改变了数学和科学的面貌，为物理学的数学化提供了关键工具。他在光学领域的实验奠定了现代光学基础，他发明的反射望远镜成为现代天文望远镜的原型。
 
-### English
+牛顿的科学方法——结合数学推理、理论模型和实验验证——确立了现代科学的方法论基础。他的机械宇宙观塑造了启蒙时代的世界观，影响了哲学、宗教和社会思想的发展方向。拉普拉斯的"世界机器"思想和决定论哲学直接源于牛顿物理学的启示。
 
-1. Established the system of classical mechanics, becoming the founder of modern physics with an influence lasting over three centuries
-2. Co-founded calculus with Leibniz, providing foundational tools for the development of modern mathematics
-3. Established the paradigm of scientific research, combining experimental observation, mathematical modeling, and theoretical prediction
-4. Provided the scientific foundation for the Enlightenment, promoting the formation of a rationalist worldview
-5. Unified celestial and terrestrial physics through the theory of universal gravitation, ending Aristotle's dualistic physics
-6. Pioneered modern optics through optical research, promoting the development of spectroscopy and optical instruments
-7. Profoundly influenced the development of scientific philosophy and religious thought through his mechanistic deterministic worldview
+从量子经典二元论视角，牛顿最深远的贡献在于他建立了第一个真正完整的"经典化"世界模型——将复杂的自然现象简化为数学定律，创造了理想的确定性解释框架。然而，这一经典框架自身包含的难题和悖论（如超距作用、三体问题）最终催生了新的科学革命，导致了相对论和量子理论的产生。牛顿的工作既是经典科学的顶峰，又为科学进入量子-经典综合阶段埋下了伏笔，体现了科学认知螺旋式上升的辩证发展过程。爱因斯坦曾言："如果说我看得远，那是因为我站在巨人的肩膀上"，这不仅是对牛顿卓越贡献的致敬，也反映了科学认知中经典基础对量子突破的滋养作用。
 
 ## 经典引言 | Classic Quotes
 
-### 中文
+> "如果说我看得更远，那是因为我站在巨人的肩膀上。"
+> 
+> "If I have seen further, it is by standing on the shoulders of giants."
 
-- "如果说我看得比别人更远，那是因为我站在巨人的肩上。"
-- "我不虚构假设。"
-- "真理常存在于简单性中，而非纷繁复杂之中。"
-- "我似乎只是一个在海边玩耍的男孩，不时为发现一块比通常更光滑的卵石或一个比平常更漂亮的贝壳而欣喜，而真理的大海就在我面前尚未被发现。"
-- "数学是哲学的工具，而哲学是自然的钥匙。"
-- "每一个作用力都有一个大小相等、方向相反的反作用力。"
-- "上帝创造了无限空间作为他的感知所在，使他能够直接感知万物。"
+> "我不做假设。"
+> 
+> "Hypotheses non fingo. (I frame no hypotheses.)"
 
-### English
+> "真理常被埋藏在深井中。"
+> 
+> "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
 
-- "If I have seen further it is by standing on the shoulders of Giants."
-- "I frame no hypotheses."
-- "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
-- "I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."
-- "Mathematics is the tool of philosophy, and philosophy is the key to nature."
-- "To every action there is always opposed an equal reaction."
-- "God created infinite space as the venue of his perception so that he could perceive things directly." 
+> "自然永远简单，与自身和谐一致。"
+> 
+> "Nature is pleased with simplicity. And nature is no dummy."
+
+> "我不知道世人如何看我，但我自己感觉只像是一个在海边玩耍的孩子，不时为发现一块更光滑的石子或一片更美丽的贝壳而欢喜，而真理的大海还横陈在我面前，等待发现。"
+> 
+> "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me." 
