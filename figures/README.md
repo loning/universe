@@ -53,6 +53,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [卡尔·萨根 | Carl Sagan](scientists/carl_sagan.md)
 - [路易·巴斯德 | Louis Pasteur](scientists/pasteur.md)
 - [阿尔弗雷德·诺贝尔 | Alfred Nobel](scientists/nobel.md)
+- [伊本·西那 | Ibn Sina (Avicenna)](scientists/ibn_sina.md)
 
 ## 艺术家 | Artists
 
@@ -66,6 +67,8 @@ This index catalogs thought analyses of important historical figures from a quan
 - [约翰·塞巴斯蒂安·巴赫 | Johann Sebastian Bach](artists/bach.md)
 - [米开朗基罗 | Michelangelo](artists/michelangelo.md)
 - [艾米莉·狄金森 | Emily Dickinson](artists/dickinson.md)
+- [安迪·沃霍尔 | Andy Warhol](artists/andy_warhol.md)
+- [玛利亚·卡拉斯 | Maria Callas](artists/maria_callas.md)
 
 ## 领导者 | Leaders
 
@@ -110,6 +113,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [埃莉诺·罗斯福 | Eleanor Roosevelt](political_leaders/eleanor_roosevelt.md)
 - [切·格瓦拉 | Che Guevara](political_leaders/che_guevara.md)
 - [玛丽·安托瓦内特 | Marie Antoinette](political_leaders/marie_antoinette.md)
+- [昂山素季 | Aung San Suu Kyi](political_leaders/aung_san_suu_kyi.md)
 
 ## 文学人物 | Literary Figures
 
@@ -121,6 +125,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [弗吉尼亚·伍尔夫 | Virginia Woolf](literary_figures/virginia_woolf.md)
 - [拉宾德拉纳特·泰戈尔 | Rabindranath Tagore](literary_figures/tagore.md)
 - [查尔斯·狄更斯 | Charles Dickens](literary_figures/dickens.md)
+- [赫尔曼·黑塞 | Hermann Hesse](literary_figures/hermann_hesse.md)
 
 ## 经济学家 | Economists
 
@@ -131,6 +136,27 @@ This index catalogs thought analyses of important historical figures from a quan
 ## 企业家 | Entrepreneurs
 
 - [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
+
+## 创新者 | Innovators
+
+- [比尔·盖茨 | Bill Gates](innovators/bill_gates.md)
+
+## 数学家 | Mathematicians
+
+- [约翰·冯·诺依曼 | John von Neumann](mathematicians/von_neumann.md)
+- [约翰·纳什 | John Nash](mathematicians/john_nash.md)
+
+## 环保主义者 | Environmentalists
+
+- [瑞秋·卡森 | Rachel Carson](environmentalists/rachel_carson.md)
+
+## 电影人 | Filmmakers
+
+- [斯坦利·库布里克 | Stanley Kubrick](filmmakers/stanley_kubrick.md)
+
+## 人道主义者 | Humanitarians
+
+- [阿尔伯特·施韦泽 | Albert Schweitzer](humanitarians/albert_schweitzer.md)
 
 ## 医学先驱 | Medical Pioneers
 
@@ -209,6 +235,7 @@ This index catalogs thought analyses of important historical figures from a quan
 - [阿尔弗雷德·诺贝尔 | Alfred Nobel](scientists/nobel.md)
 - [维特根斯坦 | Ludwig Wittgenstein](philosophers/wittgenstein.md)
 - [斯瓦米·维韦卡南达 | Swami Vivekananda](religious_leaders/swami_vivekananda.md)
+- [赫尔曼·黑塞 | Hermann Hesse](literary_figures/hermann_hesse.md)
 
 ### 当代 (1945-至今) | Contemporary Era (1945-Present)
 - [阿兰·图灵 | Alan Turing](scientists/turing.md)
@@ -228,6 +255,15 @@ This index catalogs thought analyses of important historical figures from a quan
 - [教皇约翰·保罗二世 | Pope John Paul II](religious_leaders/pope_john_paul_ii.md)
 - [达赖喇嘛 | Dalai Lama](religious_leaders/dalai_lama.md)
 - [圣特蕾莎 | Mother Teresa](religious_leaders/mother_teresa.md)
+- [比尔·盖茨 | Bill Gates](innovators/bill_gates.md)
+- [约翰·冯·诺依曼 | John von Neumann](mathematicians/von_neumann.md)
+- [约翰·纳什 | John Nash](mathematicians/john_nash.md)
+- [瑞秋·卡森 | Rachel Carson](environmentalists/rachel_carson.md)
+- [斯坦利·库布里克 | Stanley Kubrick](filmmakers/stanley_kubrick.md)
+- [安迪·沃霍尔 | Andy Warhol](artists/andy_warhol.md)
+- [玛利亚·卡拉斯 | Maria Callas](artists/maria_callas.md)
+- [昂山素季 | Aung San Suu Kyi](political_leaders/aung_san_suu_kyi.md)
+- [阿尔伯特·施韦泽 | Albert Schweitzer](humanitarians/albert_schweitzer.md)
 
 ## 按地域分类 | Classification by Region
 
@@ -251,57 +287,60 @@ This index catalogs thought analyses of important historical figures from a quan
 - [柏拉图 | Plato](philosophers/plato.md)
 - [苏格拉底 | Socrates](philosophers/socrates.md)
 - [亚里士多德 | Aristotle](philosophers/aristotle.md)
-- [康德 | Kant](philosophers/kant.md)
-- [尼采 | Nietzsche](philosophers/nietzsche.md)
-- [笛卡尔 | Descartes](philosophers/descartes.md)
 - [威廉·莎士比亚 | William Shakespeare](artists/shakespeare.md)
 - [沃尔夫冈·阿玛多伊斯·莫扎特 | Wolfgang Amadeus Mozart](artists/mozart.md)
 - [列奥纳多·达芬奇 | Leonardo da Vinci](artists/davinci.md)
+- [尼科洛·马基雅维利 | Niccolò Machiavelli](political_leaders/machiavelli.md)
+- [笛卡尔 | Descartes](philosophers/descartes.md)
+- [康德 | Kant](philosophers/kant.md)
+- [尼采 | Nietzsche](philosophers/nietzsche.md)
 - [牛顿 | Newton](scientists/newton.md)
+- [伽利略·伽利雷 | Galileo Galilei](scientists/galileo.md)
 - [达尔文 | Darwin](scientists/darwin.md)
 - [卡尔·弗里德里希·高斯 | Carl Friedrich Gauss](scientists/gauss.md)
 - [西格蒙德·弗洛伊德 | Sigmund Freud](psychologists/freud.md)
 - [爱因斯坦 | Einstein](scientists/einstein.md)
 - [玛丽·居里 | Marie Curie](scientists/marie_curie.md)
 - [尼尔斯·玻尔 | Niels Bohr](scientists/bohr.md)
-- [阿兰·图灵 | Alan Turing](scientists/turing.md)
-- [尼科洛·马基雅维利 | Niccolò Machiavelli](political_leaders/machiavelli.md)
-- [亚当·斯密 | Adam Smith](economists/adam_smith.md)
 - [乔治·奥威尔 | George Orwell](literary_figures/george_orwell.md)
 - [卡尔·古斯塔夫·荣格 | Carl Gustav Jung](psychologists/jung.md)
-- [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
 - [西蒙娜·德·波伏娃 | Simone de Beauvoir](philosophical/simone_beauvoir.md)
 - [列夫·托尔斯泰 | Leo Tolstoy](literary_figures/tolstoy.md)
 - [文森特·梵高 | Vincent van Gogh](artists/van_gogh.md)
 - [约翰·梅纳德·凯恩斯 | John Maynard Keynes](economists/keynes.md)
-- [阿尔贝·加缪 | Albert Camus](philosophers/camus.md)
-- [玛丽·沃斯通克拉夫特 | Mary Wollstonecraft](philosophers/mary_wollstonecraft.md)
-- [艾达·洛芙莱斯 | Ada Lovelace](scientists/ada_lovelace.md)
 - [罗莎·卢森堡 | Rosa Luxemburg](political_leaders/rosa_luxemburg.md)
-- [伊丽莎白一世 | Elizabeth I](political_leaders/elizabeth_i.md)
+- [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md)
 - [尼古拉·特斯拉 | Nikola Tesla](scientists/nikola_tesla.md)
 - [简·奥斯汀 | Jane Austen](literary_figures/jane_austen.md)
-- [伽利略·伽利雷 | Galileo Galilei](scientists/galileo.md)
 - [路德维希·范·贝多芬 | Ludwig van Beethoven](artists/beethoven.md)
-- [约翰·塞巴斯蒂安·巴赫 | Johann Sebastian Bach](artists/bach.md)
-- [伏尔泰 | Voltaire](philosophers/voltaire.md)
 - [弗吉尼亚·伍尔夫 | Virginia Woolf](literary_figures/virginia_woolf.md)
-- [约翰·洛克 | John Locke](philosophers/john_locke.md)
-- [托马斯·爱迪生 | Thomas Edison](scientists/edison.md)
-- [玛格丽特·撒切尔 | Margaret Thatcher](political_leaders/thatcher.md)
-- [埃莉诺·罗斯福 | Eleanor Roosevelt](political_leaders/eleanor_roosevelt.md)
-- [巴勃罗·毕加索 | Pablo Picasso](artists/picasso.md)
-- [艾米莉·狄金森 | Emily Dickinson](artists/dickinson.md)
 - [查尔斯·狄更斯 | Charles Dickens](literary_figures/dickens.md)
 - [路易·巴斯德 | Louis Pasteur](scientists/pasteur.md)
 - [佛罗伦萨·南丁格尔 | Florence Nightingale](medical/nightingale.md)
-- [玛丽·安托瓦内特 | Marie Antoinette](political_leaders/marie_antoinette.md)
-- [米开朗基罗 | Michelangelo](artists/michelangelo.md)
+- [托马斯·爱迪生 | Thomas Edison](scientists/edison.md)
+- [伊丽莎白一世 | Elizabeth I](political_leaders/elizabeth_i.md)
+- [亚当·斯密 | Adam Smith](economists/adam_smith.md)
+- [约翰·洛克 | John Locke](philosophers/john_locke.md)
+- [伏尔泰 | Voltaire](philosophers/voltaire.md)
+- [约翰·塞巴斯蒂安·巴赫 | Johann Sebastian Bach](artists/bach.md)
 - [让-雅克·卢梭 | Jean-Jacques Rousseau](philosophers/rousseau.md)
+- [米开朗基罗 | Michelangelo](artists/michelangelo.md)
+- [玛丽·安托瓦内特 | Marie Antoinette](political_leaders/marie_antoinette.md)
+- [巴勃罗·毕加索 | Pablo Picasso](artists/picasso.md)
 - [阿尔弗雷德·诺贝尔 | Alfred Nobel](scientists/nobel.md)
-- [汉娜·阿伦特 | Hannah Arendt](philosophers/hannah_arendt.md)
-- [玛丽亚·蒙台梭利 | Maria Montessori](psychologists/montessori.md)
 - [维特根斯坦 | Ludwig Wittgenstein](philosophers/wittgenstein.md)
+- [阿兰·图灵 | Alan Turing](scientists/turing.md)
+- [史蒂芬·霍金 | Stephen Hawking](scientists/hawking.md)
+- [汉娜·阿伦特 | Hannah Arendt](philosophers/hannah_arendt.md)
+- [玛格丽特·撒切尔 | Margaret Thatcher](political_leaders/thatcher.md)
+- [玛丽亚·蒙台梭利 | Maria Montessori](psychologists/montessori.md)
+- [艾米莉·狄金森 | Emily Dickinson](artists/dickinson.md)
+- [玛丽·沃斯通克拉夫特 | Mary Wollstonecraft](philosophers/mary_wollstonecraft.md)
+- [赫尔曼·黑塞 | Hermann Hesse](literary_figures/hermann_hesse.md)
+- [约翰·冯·诺依曼 | John von Neumann](mathematicians/von_neumann.md)
+- [约翰·纳什 | John Nash](mathematicians/john_nash.md)
+- [玛利亚·卡拉斯 | Maria Callas](artists/maria_callas.md)
+- [阿尔伯特·施韦泽 | Albert Schweitzer](humanitarians/albert_schweitzer.md)
 - [圣奥古斯丁 | Saint Augustine](religious_leaders/saint_augustine.md)
 - [圣托马斯·阿奎那 | Thomas Aquinas](religious_leaders/thomas_aquinas.md)
 - [马丁·路德 | Martin Luther](religious_leaders/martin_luther.md)
@@ -317,15 +356,21 @@ This index catalogs thought analyses of important historical figures from a quan
 - [圣保罗 | Saint Paul](religious_leaders/saint_paul.md)
 
 ### 美洲 | Americas
-- [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
 - [马丁·路德·金 | Martin Luther King Jr.](political_leaders/martin_luther_king.md)
-- [弗里达·卡罗 | Frida Kahlo](artists/frida_kahlo.md)
-- [马克·吐温 | Mark Twain](literary_figures/mark_twain.md)
 - [马尔科姆·X | Malcolm X](political_leaders/malcolm_x.md)
+- [埃莉诺·罗斯福 | Eleanor Roosevelt](political_leaders/eleanor_roosevelt.md)
+- [托马斯·爱迪生 | Thomas Edison](scientists/edison.md)
+- [马克·吐温 | Mark Twain](literary_figures/mark_twain.md)
 - [卡尔·萨根 | Carl Sagan](scientists/carl_sagan.md)
+- [切·格瓦拉 | Che Guevara](political_leaders/che_guevara.md)
+- [史蒂夫·乔布斯 | Steve Jobs](entrepreneurs/steve_jobs.md)
+- [比尔·盖茨 | Bill Gates](innovators/bill_gates.md)
+- [瑞秋·卡森 | Rachel Carson](environmentalists/rachel_carson.md)
+- [斯坦利·库布里克 | Stanley Kubrick](filmmakers/stanley_kubrick.md)
+- [安迪·沃霍尔 | Andy Warhol](artists/andy_warhol.md)
 
 ### 非洲 | Africa
 - [纳尔逊·曼德拉 | Nelson Mandela](leaders/mandela.md)
 
-### 加勒比和拉丁美洲 | Caribbean and Latin America
-- [切·格瓦拉 | Che Guevara](political_leaders/che_guevara.md) 
+### 东南亚 | Southeast Asia
+- [昂山素季 | Aung San Suu Kyi](political_leaders/aung_san_suu_kyi.md) 
