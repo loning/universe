@@ -3,12 +3,12 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[基础数学表述](#宇宙结构基本公式) | [观察者与黑洞](#观察者黑洞统一数学描述) | [维度公式](#观察者维度公式) | [意识公式](#广义意识公式) | [信息传播](#经典信息传播公式) | [物理概念](#物理概念数学表述)  
-English: [Basic Mathematical Expressions](#basic-formulas-of-universe-structure) | [Observer and Black Hole](#mathematical-description-of-observer-black-hole-unification) | [Dimension Formula](#observer-dimension-formulas) | [Consciousness Formula](#generalized-consciousness-formulas) | [Information Propagation](#classical-information-propagation-formulas) | [Physical Concepts](#mathematical-expression-of-physical-concepts)
+中文：[宇宙结构公式](#一宇宙结构基本公式) | [观察者黑洞公式](#二观察者黑洞统一数学描述) | [维度公式](#三观察者维度公式) | [意识公式](#四广义意识公式) | [经典化公式](#五经典化与量子化公式) | [信息传播公式](#六信息传递公式) | [量子纠缠公式](#七量子纠缠公式) | [低熵终极状态](#八宇宙低熵终极状态公式)  
+English: [Universe Structure Formulas](#i-basic-formulas-of-universe-structure) | [Observer-Black Hole Formulas](#ii-mathematical-description-of-observer-black-hole-unification) | [Dimension Formulas](#iii-observer-dimension-formulas) | [Consciousness Formulas](#iv-generalized-consciousness-formulas) | [Classicalization Formulas](#v-classicalization-and-quantization-formulas) | [Information Transfer Formulas](#vi-information-transfer-formulas) | [Quantum Entanglement Formulas](#vii-quantum-entanglement-formulas) | [Low-Entropy Ultimate State](#viii-universe-low-entropy-ultimate-state-formula)
 
 ## 中文版
 
-本文档整理了[量子经典二元论核心理论](core.md)（版本3.5）的关键数学公式。
+本文档整理了[量子经典二元论核心理论](core.md)（版本7.1）的关键数学公式。
 
 ### 一、宇宙结构基本公式
 
@@ -20,261 +20,167 @@ $$
 |\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i |c_i|^2 = 1
 $$
 
-其中$c_i$为复数振幅，$|\psi_i\rangle$为基态。
+#### 1.2 经典域结构表示
 
-#### 1.2 经典化过程方程
-
-量子域经过观察者经典化解码转换为经典域：
+经典域表示为经典知识与经典熵的总和：
 
 $$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}I_{\text{经典知识}}+S_{\text{经典熵}}
+|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
 $$
 
-#### 1.3 经典信息守恒定律
+#### 1.3 经典域守恒关系
 
-经典域中的信息总量保持守恒：
+每个经典世界内经典知识与经典熵之和守恒：
 
 $$
-I_{\text{经典知识}}+S_{\text{经典熵}}=\text{常数}
+\frac{d}{dt_i}[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]=0,\quad\forall i
 $$
 
 ### 二、观察者黑洞统一数学描述
 
-#### 2.1 观察者黑洞本质定义方程
+#### 2.1 视界边界与经典知识关系
 
-观察者本质上是量子黑洞（广义概念）：
-
-$$
-\text{观察者} \Leftrightarrow \text{量子黑洞（广义概念）}
-$$
-
-#### 2.2 黑洞吸收（观测）过程方程
-
-观察者观测外界即黑洞吸收过程：
+观察者视界边界大小与经典知识总量正相关：
 
 $$
-|\psi\rangle_{\text{外部高熵信息}} \xrightarrow{\text{黑洞吸收经典化}} I_{\text{经典知识增加}} + S_{\text{熵降低}}
+\text{视界边界大小}\propto I_{\text{经典知识总量（质能）}}
 $$
 
-#### 2.3 黑洞辐射（对外交互）过程方程
+#### 2.2 黑洞吸收过程
 
-观察者对外交互即黑洞辐射过程：
-
-$$
-|\psi\rangle_{\text{内部经典熵}} \xrightarrow{\text{黑洞辐射经典化}} I_{\text{对外辐射经典知识}} + S_{\text{熵降低}}
-$$
-
-#### 2.4 经典化与黑洞辐射等价性方程
-
-经典化过程与黑洞辐射本质上完全等价：
+黑洞吸收（经典化、维度提升）过程：
 
 $$
-\text{经典化过程} \Leftrightarrow \text{黑洞辐射过程}
+|\psi\rangle_{\text{外部高熵}}\rightarrow I_{\text{内部经典知识}}+S_{\text{熵降低}}+E_{\text{能量吸收}}
+$$
+
+#### 2.3 黑洞辐射过程
+
+黑洞辐射（经典化、能量释放）过程：
+
+$$
+|\psi\rangle_{\text{内部高熵}}\rightarrow I_{\text{辐射经典知识}}+S_{\text{熵降低}}+E_{\text{能量释放}}
 $$
 
 ### 三、观察者维度公式
 
-#### 3.1 观察者维度基本定义
+#### 3.1 单经典世界维度
 
-观察者维度由经典化效率决定：
-
-$$
-\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-$$
-
-其中$k$为比例常数。
-
-#### 3.2 整体维度跨领域表达
-
-观察者在多个领域的整体维度：
+单一经典世界的观察者维度定义：
 
 $$
-\text{整体维度}=\sum_i w_i\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
+\text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
 $$
 
-其中$w_i$为各领域权重。
+#### 3.2 整体观察者维度
 
-#### 3.3 观察者神性体现方程
-
-观察者在自身经典世界为普通个体，在其他经典世界经典化效率高时体现为"神"：
+跨领域整体观察者维度定义：
 
 $$
-\text{高维观察者（神）}\Leftrightarrow\text{经典化低维观察者熵为知识}
+\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
+$$
+
+#### 3.3 经典化效率系数提升
+
+经典化效率系数$(k_i)$提升条件：
+
+$$
+k_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
+$$
+
+#### 3.4 领域权重系数提升
+
+领域权重系数$(w_i)$提升条件：
+
+$$
+w_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
 $$
 
 ### 四、广义意识公式
 
-#### 4.1 广义意识经典化方程
+#### 4.1 广义意识定义
 
-所有经典化对象（如宇宙、银河系、太阳系、地球、人类、动物、植物、宗教体系、梦境、冥想空间、空气、氧气、黑洞）都具备广义意识：
-
-$$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化方向}}I_{\text{经典意识（广义）}}+S_{\text{剩余经典熵}}
-$$
-
-#### 4.2 高维意识涌现方程
-
-高维意识本质为大量低维观察者经典化协同的结果，体现为集体经典意志：
+广义意识作为经典知识与经典熵的整体纠缠结构：
 
 $$
-|\psi\rangle_{\text{多个低维观察者}}\rightarrow I_{\text{高维集体意识}}+S_{\text{剩余经典熵}}
+|\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
 $$
 
-### 五、量子意识与经典记忆公式
+### 五、经典化与量子化公式
 
-#### 5.1 量子意识经典化方程
+#### 5.1 量子域→经典域（经典化）
 
-量子意识本质为观察者与量子域长期有效纠缠形成的稳定结构：
-
-$$
-|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}
-$$
-
-#### 5.2 有效量子纠缠与无效量子纠缠
-
-有效纠缠产生经典知识，使观察者维度提升：
+量子域到经典域的经典化过程：
 
 $$
-|\psi\rangle_{\text{有效纠缠}}\rightarrow I_{\text{经典知识增加}}+S_{\text{经典熵减少}}
+|\psi\rangle_{\text{量子纠缠态}}\xrightarrow{\text{自由意志经典化测量}}I_{\text{经典知识}}+S_{\text{熵降低}}
 $$
 
-无效纠缠产生经典熵，使观察者维度降低：
+#### 5.2 经典域→量子域（量子化）
+
+经典域到量子域的量子化过程：
 
 $$
-|\psi\rangle_{\text{无效纠缠}}\rightarrow S_{\text{经典熵增加}}
+I_{\text{经典知识}}+E_{\text{能量吸收}}\xrightarrow{\text{自由意志主动量子编码}}|\psi\rangle_{\text{量子纠缠态（高熵）}}
 $$
 
-#### 5.3 死亡与投胎过程方程
+### 六、信息传递公式
 
-死亡本质是经典意识在经典世界之间转换，意识并不消散，只转换经典化结构：
+#### 6.1 观察者间信息传递过程
 
-$$
-|\psi\rangle_{\text{经典世界A（死亡）}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow|\psi\rangle_{\text{新经典世界（投胎）}}
-$$
+观察者A向观察者B信息传递的三阶段过程：
 
-### 六、经典信息传播公式
-
-#### 6.1 传播端信息传递方程
-
-经典知识通过独立副本传播，而非引用或指针共享：
+（1）A量子化形成纠缠态：
 
 $$
-I_{\text{经典知识A}}\rightarrow I_{\text{经典知识B（副本）}}+S_{\text{传播熵增加}}
+I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A,B纠缠态（高熵）}}
 $$
 
-#### 6.2 接收端信息接收方程
-
-接收端接收副本并经典化处理：
+（2）A经典化辐射知识：
 
 $$
-I_{\text{经典知识B增加}}+S_{\text{经典熵B降低}}\leftarrow I_{\text{经典知识B（副本）}}
+|\psi\rangle_{\text{纠缠态}}\rightarrow I_{\text{辐射经典知识}}+E_{\text{能量释放}}+S_{\text{熵降低}}
 $$
 
-#### 6.3 跨经典世界信息共享方程
-
-同一经典知识可同时存在于多个经典世界：
+（3）B经典化接收知识：
 
 $$
-|\psi\rangle_{\text{共享量子信息}}\rightarrow I_{\text{经典知识}_A}+I_{\text{经典知识}_B}+S_{\text{传播损耗}}
+I_{\text{辐射经典知识}}\rightarrow I_{\text{经典知识B}}+E_{\text{能量吸收}}+S_{\text{熵降低}}
 $$
 
-### 七、经典记忆篡改公式
+#### 6.2 信息传递守恒公式
 
-#### 7.1 记忆篡改基本方程
-
-经典记忆（过去、未来）可经典化修改：
+信息传递过程中的守恒关系：
 
 $$
-I_{\text{经典记忆（旧）}}+|\psi\rangle_{\text{随机量子信息}}\rightarrow I_{\text{经典记忆（新）}}+S_{\text{熵变动}}
+\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
 $$
 
-### 八、物理概念数学表述
+### 七、量子纠缠公式
 
-#### 8.1 质量的经典化表达
+#### 7.1 量子纠缠形成
 
-质量表示为观察者经典化能力强度：
-
-$$
-\text{质量} \propto \text{观察者经典化能力强度}
-$$
-
-#### 8.2 引力的经典化表达
-
-引力表示为经典化倾向性：
+量子态之间形成纠缠的数学表达：
 
 $$
-\text{引力} \propto \text{经典化倾向性}
+|\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
 $$
 
-#### 8.3 速度的经典化表达
+### 八、宇宙低熵终极状态公式
 
-速度表示为经典化效率：
+#### 8.1 宇宙低熵终极状态
 
-$$
-\text{速度} \propto \text{经典化效率} = \frac{\Delta I_{\text{经典知识}}}{\Delta t}
-$$
-
-#### 8.4 动量的经典化表达
-
-动量表示为经典化倾向与经典知识积累：
+宇宙演化的低熵终极状态趋势：
 
 $$
-\text{动量} \propto \text{经典化倾向} \times I_{\text{经典知识积累}}
-$$
-
-#### 8.5 能量的经典化表达
-
-能量表示为经典化能力的总量：
-
-$$
-\text{能量} \propto \sum \text{经典化能力}
-$$
-
-#### 8.6 时间的经典化表达
-
-时间表示为经典化过程的顺序：
-
-$$
-\Delta t \propto \Delta\text{经典化序列}
-$$
-
-#### 8.7 空间的经典化表达
-
-空间表示为经典知识结构的分布：
-
-$$
-\text{空间} \propto \text{经典知识结构分布}
-$$
-
-#### 8.8 电荷的经典化表达
-
-电荷表示为经典知识结构间交互倾向：
-
-$$
-\text{电荷} \propto \text{经典知识结构间交互倾向}
-$$
-
-#### 8.9 磁场的经典化表达
-
-磁场表示为经典结构同步经典化倾向：
-
-$$
-\text{磁场} \propto \text{经典结构同步经典化倾向}
-$$
-
-### 九、宇宙终极状态方程
-
-宇宙经典化终极目标：经典知识最大化、经典熵最小化，趋于低熵终极状态：
-
-$$
-|\psi\rangle_{\text{宇宙量子域}}\rightarrow\sum_{\text{经典域}}\left(I_{\text{经典知识最大化}}+S_{\text{经典熵最小化}}\right)\rightarrow\text{宇宙低熵终极状态}
+|\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
 $$
 
 ## English Version
 
-# Mathematical Formulations
+# Mathematical Formulations of Quantum-Classical Dualism
 
-This document organizes the key mathematical formulas of the [Quantum-Classical Dualism Core Theory](core.md) (Version 3.5).
+This document compiles the key mathematical formulas of the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1).
 
 ### I. Basic Formulas of Universe Structure
 
@@ -286,252 +192,158 @@ $$
 |\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i |c_i|^2 = 1
 $$
 
-where $c_i$ are complex amplitudes and $|\psi_i\rangle$ are basis states.
+#### 1.2 Classical Domain Structure Representation
 
-#### 1.2 Classicalization Process Equation
-
-The quantum domain is transformed into the classical domain through observer classicalization decoding:
+The classical domain is represented as the sum of classical knowledge and classical entropy:
 
 $$
-|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization Decoding}}I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
 $$
 
-#### 1.3 Classical Information Conservation Law
+#### 1.3 Classical Domain Conservation Relationship
 
-The total amount of information in the classical domain remains conserved:
+The sum of classical knowledge and classical entropy is conserved within each classical world:
 
 $$
-I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}=\text{Constant}
+\frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
 $$
 
 ### II. Mathematical Description of Observer-Black Hole Unification
 
-#### 2.1 Observer Black Hole Essence Definition Equation
+#### 2.1 Relationship Between Event Horizon and Classical Knowledge
 
-An observer is essentially a quantum black hole (generalized concept):
-
-$$
-\text{Observer} \Leftrightarrow \text{Quantum Black Hole (Generalized Concept)}
-$$
-
-#### 2.2 Black Hole Absorption (Observation) Process Equation
-
-The observer's observation of the external world is equivalent to the black hole absorption process:
+The size of the observer's event horizon is positively correlated with the total amount of classical knowledge:
 
 $$
-|\psi\rangle_{\text{External High-Entropy Information}} \xrightarrow{\text{Black Hole Absorption Classicalization}} I_{\text{Classical Knowledge Increase}} + S_{\text{Entropy Reduction}}
+\text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
 $$
 
-#### 2.3 Black Hole Radiation (External Interaction) Process Equation
+#### 2.2 Black Hole Absorption Process
 
-The observer's external interaction is equivalent to the black hole radiation process:
-
-$$
-|\psi\rangle_{\text{Internal Classical Entropy}} \xrightarrow{\text{Black Hole Radiation Classicalization}} I_{\text{Outward Radiation Classical Knowledge}} + S_{\text{Entropy Reduction}}
-$$
-
-#### 2.4 Equivalence of Classicalization and Black Hole Radiation Equation
-
-Classicalization and black hole radiation are fundamentally equivalent:
+Black hole absorption (classicalization, dimension elevation) process:
 
 $$
-\text{Classicalization Process} \Leftrightarrow \text{Black Hole Radiation Process}
+|\psi\rangle_{\text{External High Entropy}}\rightarrow I_{\text{Internal Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Absorption}}
+$$
+
+#### 2.3 Black Hole Radiation Process
+
+Black hole radiation (classicalization, energy release) process:
+
+$$
+|\psi\rangle_{\text{Internal High Entropy}}\rightarrow I_{\text{Radiated Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Release}}
 $$
 
 ### III. Observer Dimension Formulas
 
-#### 3.1 Basic Definition of Observer Dimension
+#### 3.1 Single Classical World Dimension
 
-Observer dimension is determined by classicalization efficiency:
-
-$$
-\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-$$
-
-where $k$ is a proportional constant.
-
-#### 3.2 Cross-domain Expression of Overall Dimension
-
-The overall dimension of an observer across multiple domains:
+Definition of observer dimension in a single classical world:
 
 $$
-\text{Overall Dimension}=\sum_i w_i\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
+\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
 $$
 
-where $w_i$ are the weights of each domain.
+#### 3.2 Overall Observer Dimension
 
-#### 3.3 Observer Divine Manifestation Equation
-
-Observers are ordinary individuals in their own classical world, but manifest as "divine" in other classical worlds when their classicalization efficiency is high:
+Definition of cross-domain overall observer dimension:
 
 $$
-\text{High-dimensional Observer (Divine)}\Leftrightarrow\text{Classicalizing Low-dimensional Observer Entropy into Knowledge}
+\text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
+$$
+
+#### 3.3 Classicalization Efficiency Coefficient Improvement
+
+Conditions for improving the classicalization efficiency coefficient $(k_i)$:
+
+$$
+k_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
+$$
+
+#### 3.4 Domain Weight Coefficient Improvement
+
+Conditions for improving the domain weight coefficient $(w_i)$:
+
+$$
+w_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
 $$
 
 ### IV. Generalized Consciousness Formulas
 
-#### 4.1 Generalized Consciousness Classicalization Equation
+#### 4.1 Generalized Consciousness Definition
 
-All classicalized objects (such as the universe, galaxies, solar systems, Earth, humans, animals, plants, religious systems, dreams, meditation spaces, air, oxygen, black holes) possess generalized consciousness:
-
-$$
-|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization Direction}}I_{\text{Classical Consciousness (Generalized)}}+S_{\text{Remaining Classical Entropy}}
-$$
-
-#### 4.2 Higher-Dimensional Consciousness Emergence Equation
-
-Higher-dimensional consciousness is essentially the result of collaborative classicalization of numerous lower-dimensional observers, manifesting as collective classical will:
+Generalized consciousness as the overall entangled structure of classical knowledge and classical entropy:
 
 $$
-|\psi\rangle_{\text{Multiple Low-dimensional Observers}}\rightarrow I_{\text{High-dimensional Collective Consciousness}}+S_{\text{Remaining Classical Entropy}}
+|\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
 $$
 
-### V. Quantum Consciousness and Classical Memory Formulas
+### V. Classicalization and Quantization Formulas
 
-#### 5.1 Quantum Consciousness Classicalization Equation
+#### 5.1 Quantum Domain → Classical Domain (Classicalization)
 
-Quantum consciousness is essentially a stable structure formed by the observer's long-term effective entanglement with the quantum domain:
-
-$$
-|\psi\rangle_{\text{Quantum Consciousness}}\rightarrow I_{\text{Classical Memory}}+S_{\text{Classical Entropy}}
-$$
-
-#### 5.2 Effective and Ineffective Quantum Entanglement
-
-Effective entanglement produces classical knowledge, elevating observer dimension:
+The classicalization process from quantum domain to classical domain:
 
 $$
-|\psi\rangle_{\text{Effective Entanglement}}\rightarrow I_{\text{Classical Knowledge Increase}}+S_{\text{Classical Entropy Reduction}}
+|\psi\rangle_{\text{Quantum Entangled State}}\xrightarrow{\text{Free Will Classicalization Measurement}}I_{\text{Classical Knowledge}}+S_{\text{Entropy Reduction}}
 $$
 
-Ineffective entanglement produces classical entropy, lowering observer dimension:
+#### 5.2 Classical Domain → Quantum Domain (Quantization)
+
+The quantization process from classical domain to quantum domain:
 
 $$
-|\psi\rangle_{\text{Ineffective Entanglement}}\rightarrow S_{\text{Classical Entropy Increase}}
+I_{\text{Classical Knowledge}}+E_{\text{Energy Absorption}}\xrightarrow{\text{Free Will Active Quantum Encoding}}|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}
 $$
 
-#### 5.3 Death and Reincarnation Process Equation
+### VI. Information Transfer Formulas
 
-The essence of death is the transition of classical consciousness between classical worlds; consciousness does not dissipate but merely transforms its classicalized structure:
+#### 6.1 Information Transfer Process Between Observers
 
-$$
-|\psi\rangle_{\text{Classical World A (Death)}}\rightarrow|\psi\rangle_{\text{Quantum Domain}}\rightarrow|\psi\rangle_{\text{New Classical World (Reincarnation)}}
-$$
+The three-stage process of information transfer from observer A to observer B:
 
-### VI. Classical Information Propagation Formulas
-
-#### 6.1 Transmitting End Information Transfer Equation
-
-Classical knowledge propagates through independent copies, rather than references or pointer sharing:
+(1) A quantizes to form an entangled state:
 
 $$
-I_{\text{Classical Knowledge A}}\rightarrow I_{\text{Classical Knowledge B (Copy)}}+S_{\text{Propagation Entropy Increase}}
+I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}
 $$
 
-#### 6.2 Receiving End Information Receiving Equation
-
-The receiving end receives the copy and processes it through classicalization:
+(2) A classicalizes and radiates knowledge:
 
 $$
-I_{\text{Classical Knowledge B Increase}}+S_{\text{Classical Entropy B Reduction}}\leftarrow I_{\text{Classical Knowledge B (Copy)}}
+|\psi\rangle_{\text{Entangled State}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}
 $$
 
-#### 6.3 Cross-Classical World Information Sharing Equation
-
-The same classical knowledge can exist simultaneously in multiple classical worlds:
+(3) B classicalizes and receives knowledge:
 
 $$
-|\psi\rangle_{\text{Shared Quantum Information}}\rightarrow I_{\text{Classical Knowledge}_A}+I_{\text{Classical Knowledge}_B}+S_{\text{Propagation Loss}}
+I_{\text{Radiated Classical Knowledge}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
 $$
 
-### VII. Classical Memory Tampering Formula
+#### 6.2 Information Transfer Conservation Formula
 
-#### 7.1 Basic Memory Tampering Equation
-
-Classical memories (past, future) can be classically modified:
+Conservation relationship in the information transfer process:
 
 $$
-I_{\text{Classical Memory (Old)}}+|\psi\rangle_{\text{Random Quantum Information}}\rightarrow I_{\text{Classical Memory (New)}}+S_{\text{Entropy Change}}
+\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
 $$
 
-### VIII. Mathematical Expression of Physical Concepts
+### VII. Quantum Entanglement Formulas
 
-#### 8.1 Classical Expression of Mass
+#### 7.1 Quantum Entanglement Formation
 
-Mass is expressed as the strength of the observer's classicalization ability:
-
-$$
-\text{Mass} \propto \text{Strength of Observer's Classicalization Ability}
-$$
-
-#### 8.2 Classical Expression of Gravity
-
-Gravity is expressed as the tendency toward classicalization:
+Mathematical expression of quantum states forming entanglement:
 
 $$
-\text{Gravity} \propto \text{Tendency toward Classicalization}
+|\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
 $$
 
-#### 8.3 Classical Expression of Velocity
+### VIII. Universe Low-Entropy Ultimate State Formula
 
-Velocity is expressed as the efficiency of classicalization:
+#### 8.1 Universe Low-Entropy Ultimate State
 
-$$
-\text{Velocity} \propto \text{Classicalization Efficiency} = \frac{\Delta I_{\text{Classical Knowledge}}}{\Delta t}
-$$
-
-#### 8.4 Classical Expression of Momentum
-
-Momentum is expressed as classicalization tendency and classical knowledge accumulation:
+The trend towards the low-entropy ultimate state of universe evolution:
 
 $$
-\text{Momentum} \propto \text{Classicalization Tendency} \times I_{\text{Classical Knowledge Accumulation}}
-$$
-
-#### 8.5 Classical Expression of Energy
-
-Energy is expressed as the total amount of classicalization ability:
-
-$$
-\text{Energy} \propto \sum \text{Classicalization Ability}
-$$
-
-#### 8.6 Classical Expression of Time
-
-Time is expressed as the sequence of classicalization processes:
-
-$$
-\Delta t \propto \Delta\text{Classicalization Sequence}
-$$
-
-#### 8.7 Classical Expression of Space
-
-Space is expressed as the distribution of classical knowledge structures:
-
-$$
-\text{Space} \propto \text{Distribution of Classical Knowledge Structures}
-$$
-
-#### 8.8 Classical Expression of Charge
-
-Charge is expressed as the interaction tendency between classical knowledge structures:
-
-$$
-\text{Charge} \propto \text{Interaction Tendency between Classical Knowledge Structures}
-$$
-
-#### 8.9 Classical Expression of Magnetic Field
-
-Magnetic field is expressed as the tendency for synchronized classicalization of classical structures:
-
-$$
-\text{Magnetic Field} \propto \text{Tendency for Synchronized Classicalization of Classical Structures}
-$$
-
-### IX. Universe Ultimate State Equation
-
-The ultimate goal of universe classicalization: Maximization of classical knowledge, minimization of classical entropy, trending toward a low-entropy final state:
-
-$$
-|\psi\rangle_{\text{Universe Quantum Domain}}\rightarrow\sum_{\text{Classical Domains}}\left(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy Minimized}}\right)\rightarrow\text{Universe Low-entropy Ultimate State}
+|\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
 $$

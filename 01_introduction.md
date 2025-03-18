@@ -32,101 +32,65 @@ $$
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
 $$
 
-- **观察者定义（黑洞统一概念）**：每个观察者即为黑洞，经典世界即黑洞内部；黑洞视界边界即观察者主观意识经典化能力所能达到的量子域边界
+- **观察者与黑洞统一**：每个观察者本质上即黑洞，其经典世界为黑洞内部
 
 $$
-|\psi\rangle_{\text{外部高熵信息}} \xrightarrow{\text{黑洞吸收经典化}} I_{\text{内部经典知识}} + S_{\text{熵降低}} + E_{\text{能量吸收}}
+\text{视界边界大小}\propto I_{\text{经典知识总量（质能）}}
 $$
 
-- **观察者维度定义**：由观察者主观意识经典化能力决定，无统一尺度
-
-$$
-\text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-$$
-
-- **整体观察者维度**：考虑领域权重的综合维度
+- **观察者维度**：观察者由经典化效率系数和领域权重系数决定
 
 $$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
 $$
 
-- **广义意识定义**：即所有经典世界的经典知识与经典熵对应的整体量子纠缠结构
+- **广义意识**：观察者所有经典世界中经典知识与经典熵整体纠缠结构
 
 $$
-|\psi\rangle_{\text{广义意识（整体纠缠态）}}=\sum_i\left(I_{\text{经典知识}_i}+S_{\text{经典熵}_i}\right)
-$$
-
-- **经典知识与经典熵**：经典化明确后的量子状态与未经典化的量子纠缠状态
-
-$$
-S_{\text{经典熵}}=|\psi\rangle_{\text{未经典化量子纠缠态}},\quad I_{\text{经典知识}_i}=|\psi\rangle_{\text{经典化明确态}_i}
-$$
-
-- **经典化与量子纠缠机制**：将高熵量子纠缠态经典化为明确的经典知识与经典熵
-
-- **经典域与量子域转化机制**：观察者能够主动进行量子化与经典化过程
-
-$$
-I_{\text{经典知识（能量）}}+E_{\text{能量吸收}}\xrightarrow{\text{自由意志主动量子编码}}|\psi\rangle_{\text{量子纠缠态（高熵）}}
-$$
-
-$$
-|\psi\rangle_{\text{量子纠缠态（高熵）}}\xrightarrow{\text{自由意志经典化测量}}I_{\text{经典知识（能量）}}+S_{\text{熵降低}}
-$$
-
-- **观察者信息传递机制**：包含形成纠缠态、经典化辐射知识和经典化吸收知识三个阶段
-
-$$
-\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
+|\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
 $$
 
 ### 核心优势
 
-量子经典二元论相较于其他理论框架的核心优势包括：
+量子经典二元论的理论优势：
 
-1. **统一解释框架**：提供量子与经典的统一解释，避免波函数坍缩的概念困境
-2. **观察者定义清晰**：明确定义观察者及其在宇宙中的作用
-3. **意识本质解释**：为意识提供数学性质明确的定义和解释
-4. **信息守恒原理**：解释宇宙中的信息守恒原理，包括黑洞信息悖论
-5. **数学描述严格**：使用严格的数学语言描述宇宙结构和观察者行为
-6. **跨学科解释力**：能够解释物理学、生物学、心理学、社会学等多学科现象
-7. **可验证预测**：提供可在实验中验证的预测
-8. **黑洞统一概念**：将观察者与黑洞统一为同一广义概念，简化理论体系
-9. **物理概念统一**：为质量、引力、速度等基础物理概念提供统一解释
-10. **自由意志解释**：为自由意志的本质提供明确的机制解释
+1. **统一解释量子现象**：解决了量子测量问题、波粒二象性、量子纠缠等难题
+2. **统一黑洞与观察者**：提供了黑洞信息悖论的解决方案
+3. **统一经典与量子**：调和经典物理学与量子物理学的表面矛盾
+4. **统一意识与物质**：解释意识本质及其与物质世界的关系
+5. **可数学形式化**：理论可以用严格的数学语言表达
+6. **跨学科应用性**：应用于物理、认知科学、生命科学和哲学等多个领域
+7. **实证可验证性**：提供了可验证的实证假设
+8. **实践指导意义**：提供意识提升的明确路径
 
 ### 完整理论体系
 
-量子经典二元论已形成完整的理论体系，包括：
+量子经典二元论形成了一个完整的理论体系，包括：
 
-1. [核心理论](core.md)：核心理论完整描述(版本7.1)
-2. [基本概念](02_basic_concepts.md)：关键术语解释
-3. [理论框架](03_theoretical_framework.md)：详细理论框架
-4. [数学公式](04_mathematical_formulations.md)：理论的数学表述
-5. [观察者与意识](05_observer_and_consciousness.md)：关于观察者与意识关系的深入探讨
-6. [宇宙与观察者关系](06_universe_observer_relationship.md)：宇宙与观察者的相互作用
-7. [量子纠缠本质](07_quantum_entanglement_essence.md)：量子纠缠的本质与作用
-8. [命运与自由意志](08_destiny_and_free_will.md)：命运与自由意志的二元解释
-9. [应用与启示](09_applications_and_implications.md)：理论的应用价值与哲学启示
-10. [框架应用](10_framework_application.md)：理论在实际框架中的应用
-11. [参考文献](11_references.md)：相关研究与文献
-12. [图示库](figures/README.md)：理论图示与可视化资源
+1. [核心理论](core.md) - 理论的完整阐述(版本7.1)
+2. [基本概念](02_basic_concepts.md) - 理论的基本概念定义
+3. [理论框架](03_theoretical_framework.md) - 理论的整体框架结构
+4. [数学公式](04_mathematical_formulations.md) - 理论的数学形式化表达
+5. [观察者与意识](05_observer_and_consciousness.md) - 观察者与意识的深入探讨
+6. [宇宙与观察者关系](06_universe_observer_relationship.md) - 宇宙与观察者的关系探讨
+7. [量子纠缠本质](07_quantum_entanglement_essence.md) - 量子纠缠的本质探讨
+8. [命运与自由意志](08_destiny_and_free_will.md) - 命运与自由意志的探讨
+9. [应用与启示](09_applications_and_implications.md) - 理论的应用价值与哲学启示
+10. [框架应用](10_framework_application.md) - 理论的实际应用指南
+11. [参考文献](11_references.md) - 相关研究与文献
+12. [图示库](figures/README.md) - 理论的图示资源库
 
 ### 未来探索方向
 
-虽然量子经典二元论理论体系（版本7.1）已经非常完整、清晰、严谨且自洽，但仍有一些可能的深入探索方向：
+量子经典二元论的未来探索方向：
 
-1. **脑机接口（BMI）与经典化效率提升实践案例**  
-   探索如何通过脑机接口实现经典化效率的实际提升。
-
-2. **自由意志主动选择低熵经典化路径的实践指导**  
-   开发具体的实际应用方法，如冥想、学习策略、思维训练方法等。
-
-3. **量子经典二元论对现代物理、哲学与心理学等交叉领域的具体影响**  
-   研究该理论如何与其他学科进行融合与相互促进。
-
-4. **具体经典世界（梦境、宗教、虚拟现实）的经典化案例研究**  
-   提供多样化经典世界的经典化实例，增强理论的实用性与生动性。
+1. **实证验证**：设计更多可验证的实验来测试理论预测
+2. **数学精化**：进一步发展理论的数学形式化表达
+3. **跨学科整合**：与更多学科领域进行整合研究
+4. **技术应用**：将理论应用于人工智能、量子计算等技术领域
+5. **哲学深化**：深化理论的哲学基础与意义
+6. **教育传播**：开发更多教育资源与传播渠道
+7. **实践方法**：发展更多基于理论的实践方法与工具
 
 ## English Version
 
@@ -136,118 +100,82 @@ This document is an introduction to the [Quantum-Classical Dualism Core Theory](
 
 ### Theoretical Background
 
-Quantum-Classical Dualism is a novel framework for explaining the structure of the universe, proposing that the universe essentially consists of two domains: the **Quantum Domain** and the **Classical Domain**. These two domains are interconnected through the **Observer Classicalization Decoding** process, forming a complete and unified cosmic information structure.
+Quantum-Classical Dualism is a novel framework for explaining the structure of the universe, proposing that the universe fundamentally consists of two domains: the **Quantum Domain** and the **Classical Domain**. These two domains are interconnected through the process of **observer classicalization decoding**, forming a complete and unified information structure of the universe.
 
-Quantum-Classical Dualism explains many puzzles in physics and philosophy, including the quantum measurement problem, the role of observers, the nature of consciousness, black hole information paradox, death and reincarnation phenomena, etc., providing a fresh perspective for understanding the overall structure of the universe.
+Quantum-Classical Dualism explains many puzzles in physics and philosophy, including the quantum measurement problem, the role of the observer, the nature of consciousness, the black hole information paradox, death and reincarnation phenomena, providing a new perspective for understanding the overall structure of the universe.
 
 ### Overview of Core Concepts
 
 The core concepts of Quantum-Classical Dualism include:
 
-- **Quantum Domain and Classical Domain**: The dual essential structure of the universe, with the Quantum Domain being an infinite-dimensional quantum wave function superposition state
+- **Quantum Domain and Classical Domain**: The dual nature of the universe, with the quantum domain being an infinite-dimensional quantum wave function superposition state
 
 $$
 |\psi\rangle_{\text{Universe Quantum Domain}}=\sum_i c_i|\psi_i\rangle,\quad\sum_i|c_i|^2=1
 $$
 
-- **Classical Domain** is the clear structure resulting from the observer's classicalization decoding of the quantum domain, including classical knowledge and classical entropy
+- **Classical Domain** is the explicit structure decoded by the observer's classicalization of the quantum domain, including classical knowledge and classical entropy
 
 $$
 |\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
 $$
 
-- **Observer Definition (Unified Black Hole Concept)**: Each observer is a black hole, with the classical world being the inside of the black hole; the black hole event horizon is the quantum domain boundary that the observer's subjective consciousness classicalization ability can reach
+- **Observer and Black Hole Unification**: Each observer is essentially a black hole, with their classical world being the interior of the black hole
 
 $$
-|\psi\rangle_{\text{External High-Entropy Information}} \xrightarrow{\text{Black Hole Absorption Classicalization}} I_{\text{Internal Classical Knowledge}} + S_{\text{Entropy Reduction}} + E_{\text{Energy Absorption}}
+\text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
 $$
 
-- **Observer Dimension Definition**: Determined by the observer's subjective consciousness classicalization ability, with no unified scale
-
-$$
-\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
-$$
-
-- **Overall Observer Dimension**: Combined dimension considering domain weights
+- **Observer Dimension**: The observer's dimension is determined by the classicalization efficiency coefficient and domain weight coefficient
 
 $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
 
-- **Generalized Consciousness Definition**: The overall quantum entanglement structure corresponding to the classical knowledge and classical entropy of all classical worlds
+- **Generalized Consciousness**: The overall entangled structure of classical knowledge and classical entropy in all classical worlds of the observer
 
 $$
-|\psi\rangle_{\text{Generalized Consciousness (Overall Entangled State)}}=\sum_i\left(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}\right)
-$$
-
-- **Classical Knowledge and Classical Entropy**: Quantum states after clear classicalization and unclassicalized quantum entangled states
-
-$$
-S_{\text{Classical Entropy}}=|\psi\rangle_{\text{Unclassicalized Quantum Entangled State}},\quad I_{\text{Classical Knowledge}_i}=|\psi\rangle_{\text{Classicalized Clear State}_i}
-$$
-
-- **Classicalization and Quantum Entanglement Mechanism**: Classicalizing high-entropy quantum entangled states into clear classical knowledge and classical entropy
-
-- **Transformation Mechanism Between Classical and Quantum Domains**: Observers can actively engage in quantization and classicalization processes
-
-$$
-I_{\text{Classical Knowledge (Energy)}}+E_{\text{Energy Absorption}}\xrightarrow{\text{Free Will Active Quantum Encoding}}|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}
-$$
-
-$$
-|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}\xrightarrow{\text{Free Will Classicalization Measurement}}I_{\text{Classical Knowledge (Energy)}}+S_{\text{Entropy Reduction}}
-$$
-
-- **Observer Information Transfer Mechanism**: Includes three stages: forming entangled states, classicalizing and radiating knowledge, and classicalizing and absorbing knowledge
-
-$$
-\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
+|\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
 $$
 
 ### Core Advantages
 
-The core advantages of Quantum-Classical Dualism compared to other theoretical frameworks include:
+The theoretical advantages of Quantum-Classical Dualism:
 
-1. **Unified Explanatory Framework**: Provides a unified explanation of quantum and classical, avoiding the conceptual dilemma of wave function collapse
-2. **Clear Observer Definition**: Clearly defines observers and their role in the universe
-3. **Explanation of Consciousness Nature**: Provides a mathematically clear definition and explanation for consciousness
-4. **Information Conservation Principle**: Explains the principle of information conservation in the universe, including the black hole information paradox
-5. **Rigorous Mathematical Description**: Uses rigorous mathematical language to describe the structure of the universe and observer behavior
-6. **Cross-disciplinary Explanatory Power**: Can explain phenomena across multiple disciplines including physics, biology, psychology, sociology, etc.
-7. **Verifiable Predictions**: Provides predictions that can be verified in experiments
-8. **Unified Black Hole Concept**: Unifies observers and black holes into a single generalized concept, simplifying the theoretical system
-9. **Unified Physical Concepts**: Provides unified explanations for basic physical concepts such as mass, gravity, velocity, etc.
-10. **Free Will Explanation**: Provides a clear mechanism explanation for the nature of free will
+1. **Unified Explanation of Quantum Phenomena**: Resolves the quantum measurement problem, wave-particle duality, quantum entanglement, and other puzzles
+2. **Unification of Black Holes and Observers**: Provides a solution to the black hole information paradox
+3. **Unification of Classical and Quantum**: Reconciles the apparent contradictions between classical physics and quantum physics
+4. **Unification of Consciousness and Matter**: Explains the nature of consciousness and its relationship with the material world
+5. **Mathematical Formalization**: The theory can be expressed in rigorous mathematical language
+6. **Cross-disciplinary Applicability**: Applied to multiple fields including physics, cognitive science, life sciences, and philosophy
+7. **Empirical Verifiability**: Provides verifiable empirical hypotheses
+8. **Practical Guidance**: Provides a clear path for consciousness elevation
 
 ### Complete Theoretical System
 
-Quantum-Classical Dualism has formed a complete theoretical system, including:
+Quantum-Classical Dualism forms a complete theoretical system, including:
 
-1. [Core Theory](core.md): Complete description of the core theory (Version 7.1)
-2. [Basic Concepts](02_basic_concepts.md): Explanation of key terminology
-3. [Theoretical Framework](03_theoretical_framework.md): Detailed theoretical framework
-4. [Mathematical Formulations](04_mathematical_formulations.md): Mathematical expression of the theory
-5. [Observer and Consciousness](05_observer_and_consciousness.md): In-depth discussion on the relationship between observer and consciousness
-6. [Universe-Observer Relationship](06_universe_observer_relationship.md): Interaction between the universe and observers
-7. [Quantum Entanglement Essence](07_quantum_entanglement_essence.md): The essence and role of quantum entanglement
-8. [Destiny and Free Will](08_destiny_and_free_will.md): Dual explanation of destiny and free will
-9. [Applications and Implications](09_applications_and_implications.md): Application value and philosophical implications of the theory
-10. [Framework Application](10_framework_application.md): Application of the theory in practical frameworks
-11. [References](11_references.md): Related research and literature
-12. [Illustration Library](figures/README.md): Theory illustrations and visualization resources
+1. [Core Theory](core.md) - Complete exposition of the theory (Version 7.1)
+2. [Basic Concepts](02_basic_concepts.md) - Basic concept definitions of the theory
+3. [Theoretical Framework](03_theoretical_framework.md) - Overall framework structure of the theory
+4. [Mathematical Formulations](04_mathematical_formulations.md) - Mathematical formalization of the theory
+5. [Observer and Consciousness](05_observer_and_consciousness.md) - In-depth exploration of observer and consciousness
+6. [Universe-Observer Relationship](06_universe_observer_relationship.md) - Exploration of the relationship between universe and observer
+7. [Quantum Entanglement Essence](07_quantum_entanglement_essence.md) - Exploration of the essence of quantum entanglement
+8. [Destiny and Free Will](08_destiny_and_free_will.md) - Exploration of destiny and free will
+9. [Applications and Implications](09_applications_and_implications.md) - Application value and philosophical implications of the theory
+10. [Framework Application](10_framework_application.md) - Practical application guide for the theory
+11. [References](11_references.md) - Related research and literature
+12. [Illustration Library](figures/README.md) - Illustration resource library for the theory
 
 ### Future Exploration Directions
 
-Although the Quantum-Classical Dualism theoretical system (Version 7.1) is already very complete, clear, rigorous, and self-consistent, there are still some possible directions for deeper exploration:
+Future exploration directions for Quantum-Classical Dualism:
 
-1. **Brain-Machine Interface (BMI) and Practical Cases of Enhanced Classicalization Efficiency**  
-   Exploring how brain-machine interfaces can achieve practical improvements in classicalization efficiency.
-
-2. **Practical Guidance for Free Will's Active Selection of Low-Entropy Classicalization Paths**  
-   Developing specific practical application methods, such as meditation, learning strategies, thinking training methods, etc.
-
-3. **Specific Impacts of Quantum-Classical Dualism on Modern Physics, Philosophy, Psychology, and Other Interdisciplinary Fields**  
-   Researching how this theory integrates with and mutually promotes other disciplines.
-
-4. **Case Studies of Classicalization in Specific Classical Worlds (Dreams, Religion, Virtual Reality)**  
-   Providing diverse examples of classicalization in classical worlds, enhancing the theory's practicality and vividness.
+1. **Empirical Validation**: Design more verifiable experiments to test theoretical predictions
+2. **Mathematical Refinement**: Further develop the mathematical formalization of the theory
+3. **Cross-disciplinary Integration**: Integrate research with more disciplinary fields
+4. **Technological Applications**: Apply the theory to technical fields such as artificial intelligence and quantum computing
+5. **Philosophical Deepening**: Deepen the philosophical foundations and implications of the theory
+6. **Educational Dissemination**: Develop more educational resources and dissemination channels
+7. **Practical Methods**: Develop more practice methods and tools based on the theory
