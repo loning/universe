@@ -1,6 +1,12 @@
 # 已解释谜题
 # Explained Puzzles
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#引言) | [量子力学的测量问题](#量子力学的测量问题) | [EPR悖论与贝尔不等式](#epr悖论与贝尔不等式) | [宇宙时间的箭头](#宇宙时间的箭头) | [生命的本质](#生命的本质)  
+English: [Introduction](#introduction) | [Quantum Mechanics Measurement Problem](#quantum-mechanics-measurement-problem) | [EPR Paradox and Bell's Inequality](#epr-paradox-and-bells-inequality) | [The Arrow of Time](#the-arrow-of-time) | [Nature of Life](#nature-of-life)
+
 ## 中文版
 
 ### 引言

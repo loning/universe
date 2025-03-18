@@ -1,5 +1,11 @@
 # 量子经典二元论术语表 (Quantum-Classical Dualism Terminology)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[基础概念](#基础概念) | [观察者相关术语](#观察者相关术语) | [经典化过程术语](#经典化过程术语) | [实体与关系术语](#实体与关系术语) | [理论与实践术语](#理论与实践术语)  
+English: [Basic Concepts](#basic-concepts) | [Observer-related Terms](#observer-related-terms) | [Classicalization Process Terms](#classicalization-process-terms) | [Entity and Relationship Terms](#entity-and-relationship-terms) | [Theory and Practice Terms](#theory-and-practice-terms)
+
 ## 中文版
 
 本术语表基于[量子经典二元论核心理论](../core.md)，提供了理论中使用的关键术语的定义和解释。

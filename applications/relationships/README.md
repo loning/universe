@@ -1,5 +1,9 @@
 # 关系应用 | Relationship Applications
 
+**导航 | Navigation**  
+**章节链接 | Section Links**  
+[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论人际关系应用](#量子经典二元论人际关系应用-quantum-classical-dualism-relationship-applications) | [返回](#返回--return)
+
 ## 简介 | Introduction
 
 本目录探讨宇宙观察者理论在人际关系和社会互动中的应用。

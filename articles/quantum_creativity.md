@@ -1,4 +1,11 @@
 # 【突破性发现】创造力的量子秘密：为什么灵感总是在最意想不到的时刻出现？
+# [Breakthrough Discovery] The Quantum Secret of Creativity: Why Does Inspiration Always Strike at the Most Unexpected Moments?
+
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#引言创造力的神秘本质) | [创造力作为量子信息经典化](#创造力作为量子信息经典化为什么原创想法是量子可能性的经典化) | [灵感突发的量子解释](#灵感突发的量子解释为什么放松时大脑更有创造力) | [提升创造力的量子方法](#提升创造力的量子方法如何应用量子原理激发创造力) | [量子创造力的科学案例](#量子创造力的科学案例历史上的创造性突破如何印证量子理论)  
+English: [Introduction](#introduction-the-mysterious-nature-of-creativity) | [Creativity as Quantum Information Classicalization](#creativity-as-quantum-information-classicalization-why-original-ideas-are-classicalizations-of-quantum-possibilities) | [Quantum Explanation of Sudden Inspiration](#quantum-explanation-of-sudden-inspiration-why-the-brain-is-more-creative-when-relaxed) | [Quantum Methods for Enhancing Creativity](#quantum-methods-for-enhancing-creativity-how-to-apply-quantum-principles-to-spark-creativity) | [Scientific Cases of Quantum Creativity](#scientific-cases-of-quantum-creativity-how-historical-creative-breakthroughs-confirm-quantum-theory)
 
 *量子经典二元论框架下的创造力与灵感解析*
 

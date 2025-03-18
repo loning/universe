@@ -1,5 +1,11 @@
 # 自由意志与量子纠缠 (Free Will and Quantum Entanglement)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[自由意志的量子本质](#1-自由意志的量子本质) | [量子纠缠的信息共享本质](#2-量子纠缠的信息共享本质) | [自由意志与量子纠缠的关系](#3-自由意志与量子纠缠的关系) | [命运与自由意志的统一视角](#4-命运与自由意志的统一视角) | [实践应用](#5-实践应用)  
+English: [Quantum Nature of Free Will](#1-quantum-nature-of-free-will) | [Information Sharing Nature of Quantum Entanglement](#2-information-sharing-nature-of-quantum-entanglement) | [Relationship Between Free Will and Quantum Entanglement](#3-relationship-between-free-will-and-quantum-entanglement) | [Unified Perspective of Destiny and Free Will](#4-unified-perspective-of-destiny-and-free-will) | [Practical Applications](#5-practical-applications)
+
 ## 中文版
 
 本文探讨量子经典二元论框架下自由意志与量子纠缠的本质及其关系。通过理解自由意志的量子本质和量子纠缠作为信息共享通道的特性，我们可以揭示命运与自由意志的统一视角。

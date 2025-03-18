@@ -1,5 +1,11 @@
 # 爱情与吸引力的量子经典解释 (Quantum-Classical Explanation of Love and Attraction)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[爱情的量子经典本质](#爱情的量子经典本质) | [莫名其妙喜欢一个人](#莫名其妙喜欢一个人的量子解释) | [吸引力的熵减机制](#吸引力的熵减机制) | [性与爱的量子区别](#性与爱的量子经典区别) | [实践应用](#实践应用与建议)  
+English: [Quantum-Classical Nature of Love](#quantum-classical-nature-of-love) | [Inexplicable Attraction](#quantum-explanation-of-inexplicable-attraction) | [Entropy Reduction Mechanism](#entropy-reduction-mechanism-of-attraction) | [Quantum Distinction Between Sex and Love](#quantum-classical-distinction-between-sex-and-love) | [Practical Applications](#practical-applications-and-suggestions)
+
 ## 中文版
 
 ### 爱情的量子经典本质
