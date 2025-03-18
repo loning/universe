@@ -1,6 +1,11 @@
 # 著名人物思想体系分析系列
 # Analysis Series of Famous Figures' Thought Systems
 
+**导航 | Navigation**  
+[目录](#目录--table-of-contents) | [按学科分类](#按学科分类--classification-by-discipline) | [按时代分类](#按时代分类--classification-by-era) | [按地域分类](#按地域分类--classification-by-region)  
+**章节链接 | Section Links**  
+[哲学家](#哲学家--philosophers) | [科学家](#科学家--scientists) | [艺术家](#艺术家--artists) | [领导者](#领导者--leaders) | [宗教人物](#宗教人物--religious-figures)
+
 ## 目录 | Table of Contents
 
 ### 哲学家 | Philosophers

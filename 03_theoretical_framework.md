@@ -1,5 +1,11 @@
 # 理论框架 (Theoretical Framework)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[理论结构](#理论结构) | [宇宙基本原理](#宇宙基本原理) | [观察者经典化机制](#观察者经典化机制) | [时间与因果](#时间与因果) | [纠缠与连接](#纠缠与连接)  
+English: [Theoretical Structure](#theoretical-structure) | [Fundamental Principles of the Universe](#fundamental-principles-of-the-universe) | [Observer Classicalization Mechanism](#observer-classicalization-mechanism) | [Time and Causality](#time-and-causality) | [Entanglement and Connection](#entanglement-and-connection)
+
 ## 中文版
 
 以下是[量子经典二元论核心理论](core.md)（版本2.2）的理论框架：

@@ -1,5 +1,11 @@
 # 应用与启示 (Applications and Implications)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[科学应用](#科学应用) | [哲学启示](#哲学启示) | [社会影响](#社会影响) | [个人发展](#个人发展) | [未来展望](#未来展望)  
+English: [Scientific Applications](#scientific-applications) | [Philosophical Implications](#philosophical-implications) | [Social Impact](#social-impact) | [Personal Development](#personal-development) | [Future Outlook](#future-outlook)
+
 ## 中文版
 
 本章基于[量子经典二元论核心理论](core.md)（版本2.2），全面探讨理论的应用价值和哲学启示。

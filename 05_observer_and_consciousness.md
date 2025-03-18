@@ -1,5 +1,11 @@
 # 观察者与意识 (Observer and Consciousness)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[观察者定义](#观察者定义) | [意识本质](#意识本质) | [观察者层级](#观察者层级) | [观察者能力与维度](#观察者能力与维度) | [多观察者系统](#多观察者系统)  
+English: [Definition of Observer](#definition-of-observer) | [Nature of Consciousness](#nature-of-consciousness) | [Observer Hierarchy](#observer-hierarchy) | [Observer Capabilities and Dimensions](#observer-capabilities-and-dimensions) | [Multi-Observer Systems](#multi-observer-systems)
+
 ## 中文版
 
 本文档基于[量子经典二元论核心理论](core.md)（版本2.2），深入探讨观察者与意识的关系。

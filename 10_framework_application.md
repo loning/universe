@@ -1,4 +1,10 @@
-# 量子经典二元论在实际框架中的应用 (Application of Quantum-Classical Dualism in Practical Frameworks)
+# 框架应用 (Framework Application)
+
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[理论应用概述](#理论应用概述) | [学科交叉应用](#学科交叉应用) | [实践方法论](#实践方法论) | [案例分析](#案例分析) | [框架扩展](#框架扩展方向)  
+English: [Overview of Theoretical Applications](#overview-of-theoretical-applications) | [Cross-disciplinary Applications](#cross-disciplinary-applications) | [Practical Methodology](#practical-methodology) | [Case Analysis](#case-analysis) | [Framework Extensions](#framework-extension-directions)
 
 ## 中文版
 

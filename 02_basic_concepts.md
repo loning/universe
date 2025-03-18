@@ -1,5 +1,11 @@
 # 基本概念 (Basic Concepts)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[量子域](#量子域) | [经典域](#经典域) | [观察者](#观察者) | [经典化过程](#经典化过程) | [意识定义](#意识定义) | [维度与复杂性](#维度与复杂性)  
+English: [Quantum Domain](#quantum-domain) | [Classical Domain](#classical-domain) | [Observer](#observer) | [Classicalization Process](#classicalization-process) | [Definition of Consciousness](#definition-of-consciousness) | [Dimension and Complexity](#dimension-and-complexity)
+
 ## 中文版
 
 本文档阐述了[量子经典二元论核心理论](core.md)（版本2.2）的基本概念。

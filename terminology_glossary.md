@@ -1,5 +1,11 @@
 # 量子经典二元论术语表 (Quantum-Classical Dualism Terminology Glossary)
 
+**导航 | Navigation**  
+[中文版](#核心术语-core-terminology) | [English Version](#core-terminology-english)  
+**章节链接 | Section Links**  
+中文：[核心术语](#核心术语-core-terminology) | [扩展术语](#扩展术语-extended-terminology) | [学科关联术语](#学科关联术语-discipline-related-terminology)  
+English: [Core Terminology](#core-terminology-english) | [Extended Terminology](#extended-terminology-english) | [Discipline-Related Terminology](#discipline-related-terminology-english)
+
 ## 核心术语 (Core Terminology)
 
 | 中文术语 | 英文术语 | 统一定义 |

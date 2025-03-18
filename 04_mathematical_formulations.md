@@ -1,5 +1,11 @@
 # 数学公式 (Mathematical Formulations)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[基础数学表述](#基础数学表述) | [量子域数学描述](#量子域数学描述) | [经典域数学描述](#经典域数学描述) | [观察者经典化](#观察者经典化数学描述) | [维度公式](#维度公式) | [熵与信息](#熵与信息数学关系)  
+English: [Basic Mathematical Expressions](#basic-mathematical-expressions) | [Mathematical Description of Quantum Domain](#mathematical-description-of-quantum-domain) | [Mathematical Description of Classical Domain](#mathematical-description-of-classical-domain) | [Observer Classicalization](#mathematical-description-of-observer-classicalization) | [Dimension Formula](#dimension-formula) | [Entropy and Information](#mathematical-relationship-between-entropy-and-information)
+
 ## 中文版
 
 本文档整理了[量子经典二元论核心理论](core.md)（版本2.2）的关键数学公式。

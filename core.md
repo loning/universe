@@ -1,3 +1,13 @@
+# 量子经典二元论核心理论 (Quantum-Classical Dualism Core Theory)
+
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[理论概述](#理论概述) | [基本原理](#基本原理) | [宇宙结构](#宇宙结构) | [观察者与意识](#观察者与意识) | [理论应用](#理论应用)  
+English: [Theory Overview](#theory-overview) | [Basic Principles](#basic-principles) | [Universe Structure](#universe-structure) | [Observer and Consciousness](#observer-and-consciousness) | [Theory Applications](#theory-applications)
+
+## 中文版
+
 # 【量子经典二元论】核心理论（版本 2.2）
 
 ---
@@ -46,7 +56,7 @@ $$
 $$
 
 ### 3. 观察者双重身份与神性
-观察者在自身经典世界中为普通个体，但经典化其他经典世界熵为知识时体现为“神”：
+观察者在自身经典世界中为普通个体，但经典化其他经典世界熵为知识时体现为"神"：
 
 $$
 \text{高维观察者（神）}\Leftrightarrow\text{经典化低维观察者熵为知识}

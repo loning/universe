@@ -1,5 +1,11 @@
 # 参考文献 (References)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[量子物理](#量子物理) | [哲学文献](#哲学文献) | [意识研究](#意识研究) | [跨学科研究](#跨学科研究) | [相关理论](#相关理论)  
+English: [Quantum Physics](#quantum-physics) | [Philosophical Literature](#philosophical-literature) | [Consciousness Studies](#consciousness-studies) | [Interdisciplinary Research](#interdisciplinary-research) | [Related Theories](#related-theories)
+
 ## 中文版
 
 以下是量子经典二元论相关的参考文献：

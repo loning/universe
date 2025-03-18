@@ -1,4 +1,10 @@
-# 量子纠缠的本质 (Essence of Quantum Entanglement)
+# 量子纠缠本质 (Quantum Entanglement Essence)
+
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[纠缠本质](#纠缠本质) | [纠缠类型](#纠缠类型) | [高维纠缠](#高维纠缠) | [纠缠与信息](#纠缠与信息转换) | [纠缠与经典化](#纠缠与经典化过程)  
+English: [Essence of Entanglement](#essence-of-entanglement) | [Types of Entanglement](#types-of-entanglement) | [Higher-Dimensional Entanglement](#higher-dimensional-entanglement) | [Entanglement and Information](#entanglement-and-information-conversion) | [Entanglement and Classicalization](#entanglement-and-classicalization-process)
 
 ## 中文版
 

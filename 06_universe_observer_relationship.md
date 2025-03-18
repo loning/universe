@@ -1,5 +1,11 @@
 # 宇宙与观察者关系 (Universe-Observer Relationship)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[宇宙观察者互动](#宇宙观察者互动) | [信息流动结构](#信息流动结构) | [现实构建机制](#现实构建机制) | [跨域交互](#跨域交互现象) | [整体宇宙观](#整体宇宙观)  
+English: [Universe-Observer Interaction](#universe-observer-interaction) | [Information Flow Structure](#information-flow-structure) | [Reality Construction Mechanism](#reality-construction-mechanism) | [Cross-Domain Interaction](#cross-domain-interaction-phenomena) | [Holistic Universe View](#holistic-universe-view)
+
 ## 中文版
 
 本章基于[量子经典二元论核心理论](core.md)（版本2.2），深入探讨宇宙与观察者的关系。

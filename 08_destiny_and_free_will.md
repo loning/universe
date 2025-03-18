@@ -1,5 +1,11 @@
 # 命运与自由意志 (Destiny and Free Will)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[命运本质](#命运本质) | [自由意志](#自由意志本质) | [二元统一框架](#二元统一框架) | [影响因素](#影响因素分析) | [实际应用](#实际应用与指导)  
+English: [Nature of Destiny](#nature-of-destiny) | [Free Will](#essence-of-free-will) | [Dual Unified Framework](#dual-unified-framework) | [Influencing Factors](#analysis-of-influencing-factors) | [Practical Applications](#practical-applications-and-guidance)
+
 ## 中文版
 
 本章基于[量子经典二元论核心理论](core.md)（版本1.8），深入探讨命运与自由意志的本质及其辩证关系。

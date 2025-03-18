@@ -1,5 +1,11 @@
 # 量子经典二元论简介 (Introduction to Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[理论背景](#理论背景) | [核心概念概览](#核心概念概览) | [核心优势](#核心优势) | [完整理论体系](#完整理论体系)  
+English: [Theoretical Background](#theoretical-background) | [Overview of Core Concepts](#overview-of-core-concepts) | [Core Advantages](#core-advantages) | [Complete Theoretical System](#complete-theoretical-system)
+
 ## 中文版
 
 本文是[量子经典二元论核心理论](core.md)（版本2.2）的简介。
