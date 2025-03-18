@@ -1,5 +1,11 @@
 # 主流科学视角下的量子经典二元论 (Quantum-Classical Dualism from Mainstream Scientific Perspectives)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[物理学视角](#1-物理学视角) | [信息科学视角](#2-信息科学视角) | [生物学视角](#3-生物学视角) | [脑科学视角](#4-脑科学视角) | [心理学视角](#5-心理学视角)  
+English: [Physics Perspective](#1-physics-perspective) | [Information Science](#2-information-science-perspective) | [Biology Perspective](#3-biology-perspective) | [Brain Science](#4-brain-science-perspective) | [Psychology Perspective](#5-psychology-perspective)
+
 ## 中文版
 
 本文从主流科学领域的视角解释量子经典二元论核心理论，建立理论与现代科学之间的概念桥梁。

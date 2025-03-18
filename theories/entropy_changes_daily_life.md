@@ -1,4 +1,11 @@
 # 感知、梦境与日常生活中的熵变化：量子经典二元论视角
+# Perception, Dreams, and Entropy Changes in Daily Life: A Quantum-Classical Dualism Perspective
+
+**导航 | Navigation**  
+[中文版](#引言) | [English Version](#introduction)  
+**章节链接 | Section Links**  
+中文：[引言](#引言) | [统一经典化世界中的观察者感知差异](#一统一经典化世界中的观察者感知差异) | [梦境状态的熵变化模式](#二梦境状态的熵变化模式) | [日常活动的熵变化规律](#三日常活动的熵变化规律) | [意识状态与熵变化关系](#四意识状态与熵变化关系)  
+English: [Introduction](#introduction) | [Observer Perception Differences](#1-observer-perception-differences-in-unified-classicalized-world) | [Entropy Change Patterns in Dreams](#2-entropy-change-patterns-in-dream-states) | [Entropy Change Laws in Daily Activities](#3-entropy-change-laws-in-daily-activities) | [Consciousness States and Entropy Changes](#4-relationship-between-consciousness-states-and-entropy-changes)
 
 ## 引言
 

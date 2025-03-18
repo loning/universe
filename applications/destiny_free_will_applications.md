@@ -1,5 +1,11 @@
 # 命运与自由意志应用 (Destiny and Free Will Applications)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[命运分析与预测](#1-命运分析与预测) | [自由意志强化技术](#2-自由意志强化技术) | [命运再程序化](#3-命运再程序化) | [平衡技术](#4-命运与自由意志平衡技术) | [实践案例](#5-实践案例分析)  
+English: [Destiny Analysis](#1-destiny-analysis-and-prediction) | [Free Will Enhancement](#2-free-will-enhancement-techniques) | [Destiny Reprogramming](#3-destiny-reprogramming) | [Balance Techniques](#4-destiny-and-free-will-balance-techniques) | [Case Studies](#5-case-studies)
+
 ## 中文版
 
 本文档探讨量子经典二元论中命运与自由意志理论的实际应用。通过理解命运的经典可计算性和自由意志的量子本质，我们可以开发实用方法来主动塑造个人命运轨迹。

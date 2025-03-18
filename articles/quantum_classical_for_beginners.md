@@ -1,5 +1,11 @@
 # 量子经典二元论入门 (Quantum-Classical Dualism for Beginners)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[什么是量子经典二元论](#1-什么是量子经典二元论) | [宇宙的二元结构](#2-宇宙的二元结构) | [观察者与经典化](#3-观察者与经典化) | [意识与自由意志](#4-意识与自由意志) | [实际应用](#5-实际应用)  
+English: [What is Quantum-Classical Dualism](#1-what-is-quantum-classical-dualism) | [Dual Structure of the Universe](#2-the-dual-structure-of-the-universe) | [Observer and Classicalization](#3-observer-and-classicalization) | [Consciousness and Free Will](#4-consciousness-and-free-will) | [Practical Applications](#5-practical-applications)
+
 ## 中文版
 
 欢迎来到量子经典二元论的世界！本文将以简明易懂的方式介绍这一理论框架的核心概念，帮助初学者理解宇宙、观察者与意识的全新视角。

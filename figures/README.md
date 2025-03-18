@@ -1,5 +1,9 @@
 # 量子经典二元论图示库 (Quantum-Classical Dualism Illustration Library)
 
+**导航 | Navigation**  
+**章节链接 | Section Links**  
+[图示分类](#图示分类) | [宇宙结构图](#1-宇宙结构图-universe-structure) | [观察者与维度](#2-观察者与维度-observer-and-dimension) | [经典化过程](#3-经典化过程-classicalization-process) | [信息交流](#4-信息交流-information-exchange) | [量子纠缠](#5-量子纠缠-quantum-entanglement) | [理论综合图](#6-理论综合图-theory-integration)
+
 本目录包含量子经典二元论理论体系的核心图示，用于直观展示理论的关键概念和关系。所有文档中的图示引用应当统一使用此库中的图示。
 
 ## 图示分类
