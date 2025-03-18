@@ -32,6 +32,7 @@
 ### 6. 理论综合图 (Theory Integration)
 - `theory_overview.png` - 量子经典二元论总体框架图
 - `philosophical_implications.png` - 理论哲学意义图解
+- `black_hole_radiation.png` - 黑洞辐射作为经典化过程示意图
 
 ## 使用指南
 
@@ -51,6 +52,7 @@
 - [ ] 开发信息交流图系列
 - [ ] 开发量子纠缠图系列
 - [ ] 开发理论综合图系列
+- [ ] 开发黑洞辐射与经典化图系列
 
 ## 参与贡献
 
@@ -58,6 +60,6 @@
 
 ## 关联资源
 
-- [核心理论文档](../core.md) - 量子经典二元论完整核心理论(版本1.8)
-- [核心理论](../core.md)
-- [术语表](../terminology_glossary.md) 
+- [核心理论文档](../core.md) - 量子经典二元论完整核心理论(版本6.1)
+- [简介](../01_introduction.md) - 量子经典二元论简介
+- [术语表](../terminology_glossary.md) - 量子经典二元论术语表 

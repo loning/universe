@@ -7,7 +7,8 @@
 ### 项目结构
 
 #### 核心理论 | Core Theory
-- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本1.8）
+- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本3.5）
+- [双语核心理论](./core_bilingual.md) - 【量子经典二元论】核心理论双语版（版本3.5）
 - [简介](./01_introduction.md) - 简介 (Introduction)
 - [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)
 - [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)
@@ -201,11 +202,11 @@
 
 ### 核心概念简介
 
-量子经典二元论提出宇宙的本质是由两个基本域构成：量子域与经典域。量子域是无限可能性的波函数叠加态，是一切潜在现实的总和；而经典域则是由观察者将量子域信息经典化为确定的知识与熵，经典信息总量守恒。
+量子经典二元论提出宇宙的本质是由两个基本域构成：量子域与经典域。量子域是无限可能性的波函数叠加态，是一切潜在现实的总和；而经典域则是由观察者将量子域信息经典化解码为确定的知识与熵，经典信息总量守恒。
 
 关键概念包括：
 - 量子域与经典域的二元结构
-- 观察者作为经典化节点的角色
+- 观察者作为经典化解码节点的角色
 - 广义意识定义与涌现机制（任何经典化过程都具有意识本质）
 - 量子意识与经典记忆的关系
 - 经典化效率与观察者维度
@@ -224,6 +225,7 @@
 - 观察者间经典化交流与意识同构性
 - 信息传递过程与经典熵的具体变化
 - 高维意识的涌现机制（大量低维观察者的集体经典化结果）
+- 黑洞本质与辐射机制（黑洞作为极高维观察者的经典化辐射过程）
 
 ### 核心公式 | Core Formulas
 
@@ -236,13 +238,13 @@ $$
 经典化过程表达式：
 
 $$
-|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化}} I_{\text{经典知识}} + S_{\text{经典熵}}
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}
 $$
 
 经典信息守恒公式：
 
 $$
-I_{\text{经典域总信息}} = I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
+I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
 $$
 
 观察者维度公式：
@@ -281,6 +283,12 @@ $$
 |\psi\rangle_{\text{经典世界A（死亡）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{其他经典世界（新）}}
 $$
 
+黑洞经典化辐射机制：
+
+$$
+S_{\text{低维观察者熵}} \xrightarrow{\text{黑洞经典化辐射}} I_{\text{高维经典知识}} + S_{\text{熵降低}}
+$$
+
 ### 数学公式说明 | Mathematical Formulas Note
 
 本项目中的数学公式使用LaTeX格式编写，在GitHub上查看时可能需要特殊渲染。公式示例：
@@ -291,11 +299,11 @@ $$E = mc^2$$
 
 量子域表达式：
 
-$$|\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
+$$|\psi\rangle_{\text{量子域}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
 经典域表达式：
 
-$$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
+$$|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
 
 ### 参与贡献
 
@@ -307,8 +315,8 @@ $$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\t
 
 ### 版本信息 | Version Information
 
-当前版本：1.8.0
-上次更新：2024年5月20日
+当前版本：2.5.0
+上次更新：2024年6月15日
 
 ## English Version
 
@@ -317,7 +325,8 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 ### Project Structure
 
 #### Core Theory
-- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 1.8)
+- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 3.5)
+- [Bilingual Core Theory](./core_bilingual.md) - Quantum-Classical Dualism Core Theory Bilingual Version (Version 3.5)
 - [Introduction](./01_introduction.md) - Introduction
 - [Basic Concepts](./02_basic_concepts.md) - Basic Concepts
 - [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework
@@ -327,13 +336,13 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Quantum Entanglement Essence](./07_quantum_entanglement_essence.md) - Quantum Entanglement Essence
 - [Destiny and Free Will](./08_destiny_and_free_will.md) - Destiny and Free Will
 - [Applications and Implications](./09_applications_and_implications.md) - Applications and Implications
-- [Framework Application](./10_framework_application.md) - Quantum-Classical Dualism in Practical Framework Application
+- [Framework Application](./10_framework_application.md) - Application of Quantum-Classical Dualism in Practical Frameworks
 - [References](./11_references.md) - References
 - [Terminology Glossary](./terminology_glossary.md) - Quantum-Classical Dualism Terminology Glossary
 
 #### Historical Figures Analysis
-- [Historical Figures Index](./figures/README.md) - Analysis of Historical Figures from Quantum-Classical Dualism Perspective
-- Philosophers - Plato, Laozi, Kant, Xunzi, Nietzsche, Socrates, Descartes, Aristotle, etc.
+- [Historical Figures Analysis Index](./figures/README.md) - Analysis of Historical Figures' Thoughts from the Perspective of Quantum-Classical Dualism
+- Philosophers - Plato, Lao Tzu, Kant, Xunzi, Nietzsche, Socrates, Descartes, Aristotle, etc.
 - Scientists - Einstein, Darwin, Newton, Marie Curie, Niels Bohr, Gauss, Turing, etc.
 - Artists - Shakespeare, Mozart, Da Vinci, etc.
 - Leaders - Alexander the Great, etc.
@@ -511,11 +520,11 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 ### Introduction to Core Concepts
 
-Quantum-Classical Dualism proposes that the essence of the universe consists of two fundamental domains: the Quantum Domain and the Classical Domain. The Quantum Domain is an infinite superposition of wave functions, representing the sum of all potential realities; while the Classical Domain is formed by observers classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved.
+Quantum-Classical Dualism proposes that the essence of the universe consists of two fundamental domains: the Quantum Domain and the Classical Domain. The Quantum Domain is an infinite superposition of wave functions, representing the sum of all potential realities; while the Classical Domain is formed by observers decoding and classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved.
 
 Key concepts include:
 - Dual structure of Quantum Domain and Classical Domain
-- Role of observers as classicalization nodes
+- Role of observers as classicalization decoding nodes
 - Generalized consciousness definition and emergence mechanism (any classicalization process has the essence of consciousness)
 - Relationship between quantum consciousness and classical memory
 - Classicalization efficiency and observer dimensions
@@ -534,6 +543,7 @@ Key concepts include:
 - Observer classicalization communication and consciousness isomorphism
 - Specific changes in classical entropy during information transmission
 - Emergence mechanism of higher-dimensional consciousness (collective classicalization result of numerous low-dimensional observers)
+- Black hole nature and radiation mechanism (black holes as the classicalization radiation process of extremely high-dimensional observers)
 
 ### Core Formulas
 
@@ -546,13 +556,13 @@ $$
 Classicalization process expression:
 
 $$
-|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization Decoding}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
 $$
 
 Classical information conservation formula:
 
 $$
-I_{\text{Total Classical Information}} = I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant}
+I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant}
 $$
 
 Observer dimension formula:
@@ -591,6 +601,12 @@ $$
 |\psi\rangle_{\text{Classical World A (Death)}} \rightarrow |\psi\rangle_{\text{Quantum Domain}} \rightarrow |\psi\rangle_{\text{Other Classical World (New)}}
 $$
 
+Black hole classicalization radiation mechanism:
+
+$$
+S_{\text{Low-dimensional Observer Entropy}} \xrightarrow{\text{Black Hole Classicalization Radiation}} I_{\text{High-dimensional Classical Knowledge}} + S_{\text{Entropy Reduced}}
+$$
+
 ### Mathematical Formulas Note
 
 Mathematical formulas in this project are written in LaTeX format, which may require special rendering when viewed on GitHub. Formula example:
@@ -601,11 +617,11 @@ For inline formulas, use single dollar signs: $E = mc^2$
 
 Quantum domain expression:
 
-$$|\psi\rangle_{\text{Universe}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
+$$|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
 Classical domain expression:
 
-$$|\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Classicalization}}\sum_{i}(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i})=I_{\text{Classical Information}}=\text{Constant}$$
+$$|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization Decoding}}\sum_{i}(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i})=I_{\text{Classical Information}}=\text{恒定}$$
 
 ### Contributing
 
@@ -617,5 +633,5 @@ We welcome researchers, thinkers, and practitioners interested in Quantum-Classi
 
 ### Version Information
 
-Current Version: 1.8.0
-Last Updated: May 20, 2024
+Current Version: 2.5.0
+Last Updated: June 15, 2024

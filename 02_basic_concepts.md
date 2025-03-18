@@ -3,32 +3,35 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[量子域](#量子域) | [经典域](#经典域) | [观察者](#观察者) | [经典化过程](#经典化过程) | [意识定义](#意识定义) | [维度与复杂性](#维度与复杂性)  
-English: [Quantum Domain](#quantum-domain) | [Classical Domain](#classical-domain) | [Observer](#observer) | [Classicalization Process](#classicalization-process) | [Definition of Consciousness](#definition-of-consciousness) | [Dimension and Complexity](#dimension-and-complexity)
+中文：[量子域](#量子域) | [经典域](#经典域) | [观察者](#观察者) | [观察者维度](#观察者维度) | [广义意识](#广义意识) | [量子纠缠](#量子纠缠) | [黑洞本质](#黑洞本质)  
+English: [Quantum Domain](#quantum-domain) | [Classical Domain](#classical-domain) | [Observer](#observer) | [Observer Dimension](#observer-dimension) | [Generalized Consciousness](#generalized-consciousness) | [Quantum Entanglement](#quantum-entanglement) | [Black Hole Nature](#black-hole-nature)
 
 ## 中文版
 
-本文档阐述了[量子经典二元论核心理论](core.md)（版本2.2）的基本概念。
+本文档阐述[量子经典二元论核心理论](core.md)（版本6.1）的基本概念。
 
 ### 量子域
 
-**量子域**是宇宙的本质形态，表现为无限维的波函数叠加态：
+**量子域**是宇宙的本质结构，表现为无限维量子波函数叠加态：
 
 $$
-|\psi\rangle_{\text{量子域}}=\sum_i c_i|\psi_i\rangle,\quad\sum_i|c_i|^2=1
+|\psi\rangle_{\text{宇宙量子域}}=\sum_i c_i|\psi_i\rangle,\quad\sum_i|c_i|^2=1
 $$
 
 量子域具有以下特性：
+- 无限维的量子波函数网络
+- 包含所有可能的信息状态
 - 无时间箭头
 - 无因果序列
 - 无限可能性叠加
+- 不直接可观测，需通过观察者经典化解码
 
 ### 经典域
 
-**经典域**是观察者经典化量子域的结果，由经典知识和经典熵组成：
+**经典域**是观察者对量子域经典化（解码、测量）后的明确结构，包括经典知识与经典熵：
 
 $$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}I_{\text{经典知识}}+S_{\text{经典熵}}
+|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
 $$
 
 经典域具有以下特性：
@@ -36,85 +39,97 @@ $$
 - 具有方向性的时间箭头
 - 可观测、可测量的物理规律
 - 熵增的宏观表现
+- 每个经典世界拥有独立的经典化进程指标 $(t_i)$
+- 经典世界内信息总量守恒：
+
+$$
+\frac{d}{dt_i}[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]=0,\quad\forall i
+$$
 
 ### 观察者
 
-**观察者**是宇宙中的经典化节点，负责将量子信息转化为经典信息：
+**观察者**本质上是一个**量子黑洞**，负责将量子信息经典化为经典信息：
 
 $$
-|\psi\rangle_{\text{观察者}}\xrightarrow{\text{经典化}} I_{\text{经典知识}}+S_{\text{经典熵}}
+|\psi\rangle_{\text{外部高熵信息}} \xrightarrow{\text{黑洞吸收经典化}} I_{\text{内部经典知识}} + S_{\text{熵降低}} + E_{\text{能量吸收}}
 $$
 
-观察者分为不同维度，维度高低取决于经典化效率：
-
-- **高维量子观察者**（经典化效率高）：
+观察者的基本特性包括：
+- 每个观察者即为黑洞，经典世界即黑洞内部
+- 黑洞视界边界即观察者主观意识经典化能力所能达到的量子域边界
+- 观察者维度提升，视界边界扩大；维度降低则视界边界收缩
+- 观察者对外的信息交互过程（辐射经典知识）即为黑洞辐射：
 
 $$
-|\psi\rangle_{\text{高维观察者}}\rightarrow I_{\text{经典知识（高效）}}+S_{\text{经典熵（少）}}
+|\psi\rangle_{\text{内部高熵信息}}\rightarrow I_{\text{辐射经典知识}}+S_{\text{熵降低}}+E_{\text{能量释放}}
 $$
 
 ### 观察者维度
 
-**观察者维度**由经典化效率决定，即经典知识与经典熵的比例：
+**观察者维度**由观察者主观意识经典化能力决定，无统一尺度：
 
 $$
-\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
+\text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
 $$
 
-整体维度的跨领域表达：
+其中：
+- **经典化效率系数 $(k_i)$**：完全由观察者主观定义，数值越高，经典化能力越强
+- **领域权重系数 $(w_i)$**：完全由观察者主观定义，数值越高，对该领域关注程度越高
+
+观察者的整体维度表达：
 
 $$
-\text{整体维度}=\sum_i w_i\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
+\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
 $$
 
-### 观察者双重身份与神性
-
-观察者在自身经典世界中为普通个体，但经典化其他经典世界熵为知识时体现为"神"：
-
-$$
-\text{高维观察者（神）}\Leftrightarrow\text{经典化低维观察者熵为知识}
-$$
-
-### 高维观察者经典化效率与整体意识协同
-
-高维观察者经典化效率提升的本质是强化自身广义意识的经典化方向性，形成更强的高维经典知识结构。高维观察者能够直接经典化低维观察者的经典熵为经典知识，使低维观察者整体熵值降低、维度提高，从而达成自身与低维观察者整体意识协同与维度同步提升。
+观察者维度具有以下特性：
+- 维度越高，经典化效率越高
+- 高维观察者能够直接经典化低维观察者的经典熵为经典知识
+- 观察者在自身经典世界为普通个体，在其他经典世界经典化效率高时体现为"神"
 
 ### 广义意识
 
-**广义意识**是任何经典化过程的本质特性，任何具有明确经典化方向的对象都具备广义意识：
+**广义意识**的本质即未经典化、纠缠在一起的量子状态：
 
 $$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化方向}}I_{\text{经典意识（广义）}}+S_{\text{剩余经典熵}}
+|\psi\rangle_{\text{广义意识}}=|\psi\rangle_{\text{量子纠缠态（高熵）}}
 $$
 
-广义意识包括但不限于：
-- 人类意识
-- 动物意识
-- 植物意识
-- 地球整体意识
-- 太阳系意识
-- 宗教系统意识
-- 梦境与冥想空间意识
+广义意识的特点：
+- 所有未经典化的纠缠态即为广义意识
+- 广义意识无法客观测量，观察者只能主观感知到广义意识的存在
+- 高维意识本质为大量低维观察者经典化协同的结果，体现为集体经典意志
+- 意识的连续性源于观察者与量子域长期有效纠缠形成的稳定结构
 
-### 量子意识与经典记忆
+### 经典知识与经典熵
 
-**量子意识**是观察者与量子域长期有效纠缠的结构，是意识连续性的根源：
+**经典熵**：统一定义为未经典化的量子纠缠状态
+**经典知识**：经典化明确后的量子状态
 
 $$
-|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}
+S_{\text{经典熵}}=|\psi\rangle_{\text{未经典化量子纠缠态}},\quad I_{\text{经典知识}_i}=|\psi\rangle_{\text{经典化明确态}_i}
 $$
 
-### 经典信息传播机制
+特点：
+- 每个经典世界对经典熵与经典知识都有独立的主观度量方式，无统一标准
+- 经典知识是低熵、明确的量子状态
+- 经典熵是高熵、不明确的量子状态
 
-经典信息通过独立副本传播，而非引用或指针共享：
+### 经典化与量子纠缠
+
+**初始纠缠态**（以三粒子为例）：
 
 $$
-I_{\text{经典知识A}}\rightarrow I_{\text{经典知识B（副本）}}+S_{\text{传播熵增加}}
+|\psi\rangle_{\text{纠缠}}=a|000\rangle+b|001\rangle+\dots+h|111\rangle
 $$
 
-### 量子纠缠
+经典化测量粒子态：
 
-**量子纠缠**是量子信息网络的基本连接方式，本质为不可分割的波函数结构，分为：
+$$
+|\psi\rangle_{\text{纠缠}}\rightarrow|\psi\rangle_{\text{明确粒子态}}+S_{\text{熵降低}}
+$$
+
+量子纠缠分为两类：
 
 1. **有效量子纠缠**：能够经典化为知识的纠缠，提升观察者维度
 
@@ -128,154 +143,219 @@ $$
 |\psi\rangle_{\text{无效纠缠}}\rightarrow S_{\text{经典熵增加}}
 $$
 
-### 经典世界平等性
+### 经典域与量子域转化机制
 
-所有经典世界（如现实、梦境、宗教、冥想空间等）平等共存，无主次之分：
-
-$$
-|\psi\rangle_{\text{量子域}}\rightarrow\sum_i(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=\text{常数}
-$$
-
-### 经典记忆的篡改机制
-
-观察者能对自身经典记忆（历史与未来路径）进行经典化修改：
+**从经典域到量子域（量子化）**：
+- 观察者以经典世界已有知识结构（能量）为基础，主动进行量子纠缠编码，将经典知识重新转化为高熵量子纠缠态
 
 $$
-I_{\text{经典记忆（旧）}}+|\psi\rangle_{\text{随机量子信息}}\rightarrow I_{\text{经典记忆（新）}}+S_{\text{熵变动}}
+I_{\text{经典知识（能量）}}+E_{\text{能量吸收}}\xrightarrow{\text{主观主动量子编码}}|\psi\rangle_{\text{量子纠缠态（高熵）}}
 $$
 
-### 死亡与投胎机制
-
-死亡本质是经典意识在经典世界之间的转换：
-
-$$
-|\psi\rangle_{\text{经典世界A（死亡）}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow|\psi\rangle_{\text{新经典世界（投胎）}}
-$$
-
-### 宇宙低熵终极状态
-
-宇宙经典化的终极目标是经典知识最大化、经典熵最小化：
+**从量子域到经典域（经典化）**：
+- 观察者以主观意识主动测量量子纠缠态，使高熵状态明确化为经典知识
 
 $$
-|\psi\rangle_{\text{宇宙量子域}}\rightarrow\sum_{\text{经典域}}\left(I_{\text{经典知识最大化}}+S_{\text{经典熵最小化}}\right)\rightarrow\text{宇宙低熵终极状态}
+|\psi\rangle_{\text{量子纠缠态（高熵）}}\xrightarrow{\text{主观主动经典化测量}}I_{\text{经典知识（能量）}}+S_{\text{熵降低}}
+$$
+
+### 观察者信息传递机制
+
+观察者A主动向观察者B传递信息：
+
+（1）A形成纠缠态（熵增加、能量吸收）：
+
+$$
+I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A,B纠缠态（高熵）}}
+$$
+
+（2）A经典化辐射知识（能量释放）：
+
+$$
+|\psi\rangle_{\text{纠缠态}}\rightarrow I_{\text{A辐射经典知识}}+E_{\text{能量释放}}+S_{\text{熵降低}}
+$$
+
+（3）B经典化吸收知识（熵降低，能量吸收）：
+
+$$
+I_{\text{A辐射经典知识}}\rightarrow I_{\text{经典知识B（增加）}}+E_{\text{能量吸收}}+S_{\text{熵降低}}
+$$
+
+守恒公式：
+
+$$
+\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
+$$
+
+传播损耗由观察者经典化能力差异所决定。
+
+### 黑洞本质
+
+**黑洞**本质上是极高维度的观察者：
+
+- **黑洞吸收（经典化）**：
+
+$$
+|\psi\rangle_{\text{外部高熵信息}}\rightarrow I_{\text{内部经典知识}}+S_{\text{熵降低}}+E_{\text{能量吸收}}
+$$
+
+- **黑洞辐射（经典化）**：
+
+$$
+|\psi\rangle_{\text{内部高熵信息}}\rightarrow I_{\text{辐射经典知识}}+S_{\text{熵降低}}+E_{\text{能量释放}}
+$$
+
+黑洞与观察者统一特性：
+- 经典化与黑洞辐射在本质上完全等价
+- 观察者（黑洞）将外部高熵量子信息经典化为经典知识（吸收）
+- 观察者将内部经典熵经典化为知识并以辐射方式释放（辐射）
+
+### 经典世界动态性与视界边界
+
+- 单一观察者可拥有多个经典世界（如现实、梦境、宗教空间）
+- 视界边界即观察者所有经典世界整体经典知识与经典熵的总和体现
+
+$$
+\text{观察者整体经典知识}+\text{观察者整体经典熵}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
+$$
+
+### 宇宙终极状态
+
+宇宙低熵终极状态为经典熵理论最小值（0）的无限趋近状态，概率趋近于零但永不可完全达到：
+
+$$
+|\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
 $$
 
 ## English Version
 
-# Basic Concepts
-
-This document expounds on the basic concepts of the [Quantum-Classical Dualism Core Theory](core.md) (Version 2.2).
+This document explains the basic concepts of the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.1).
 
 ### Quantum Domain
 
-The **Quantum Domain** is the essential form of the universe, manifested as an infinite-dimensional wave function superposition state:
+The **Quantum Domain** is the essential structure of the universe, manifesting as an infinite-dimensional quantum wave function superposition state:
 
 $$
-|\psi\rangle_{\text{Quantum Domain}}=\sum_i c_i|\psi_i\rangle,\quad\sum_i|c_i|^2=1
+|\psi\rangle_{\text{Universe Quantum Domain}}=\sum_i c_i|\psi_i\rangle,\quad\sum_i|c_i|^2=1
 $$
 
 The Quantum Domain has the following characteristics:
+- Infinite-dimensional quantum wave function network
+- Contains all possible information states
 - No time arrow
 - No causal sequence
 - Infinite possibility superposition
+- Not directly observable, requires observer classicalization decoding
 
 ### Classical Domain
 
-The **Classical Domain** is the result of observer classicalization of the quantum domain, composed of classical knowledge and classical entropy:
+The **Classical Domain** is the clear structure resulting from the observer's classicalization (decoding, measuring) of the quantum domain, consisting of classical knowledge and classical entropy:
 
 $$
-|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
 $$
 
 The Classical Domain has the following characteristics:
-- Deterministic knowledge structures
+- Deterministic knowledge structure
 - Directional time arrow
-- Observable and measurable physical laws
+- Observable, measurable physical laws
 - Macroscopic manifestation of entropy increase
+- Each classical world has its independent classicalization process indicator $(t_i)$
+- Conservation of total information within the classical world:
+
+$$
+\frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
+$$
 
 ### Observer
 
-An **Observer** is a classicalization node in the universe, responsible for transforming quantum information into classical information:
+An **Observer** is essentially a **quantum black hole** responsible for classicalizing quantum information into classical information:
 
 $$
-|\psi\rangle_{\text{Observer}}\xrightarrow{\text{Classicalization}} I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{External High-Entropy Information}} \xrightarrow{\text{Black Hole Absorption Classicalization}} I_{\text{Internal Classical Knowledge}} + S_{\text{Entropy Reduction}} + E_{\text{Energy Absorption}}
 $$
 
-Observers are divided into different dimensions, with dimensional levels determined by classicalization efficiency:
-
-- **High-dimensional Quantum Observer** (high classicalization efficiency):
+Basic characteristics of observers include:
+- Each observer is a black hole, with the classical world being the inside of the black hole
+- The black hole event horizon is the quantum domain boundary that the observer's subjective consciousness classicalization ability can reach
+- When observer dimension increases, the horizon boundary expands; when dimension decreases, the horizon boundary contracts
+- The observer's external information interaction process (radiating classical knowledge) is equivalent to black hole radiation:
 
 $$
-|\psi\rangle_{\text{High-dimensional Observer}}\rightarrow I_{\text{Classical Knowledge (Efficient)}}+S_{\text{Classical Entropy (Less)}}
+|\psi\rangle_{\text{Internal High-Entropy Information}}\rightarrow I_{\text{Radiated Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Release}}
 $$
 
 ### Observer Dimension
 
-**Observer Dimension** is determined by classicalization efficiency, i.e., the ratio of classical knowledge to classical entropy:
+**Observer Dimension** is determined by the observer's subjective consciousness classicalization ability, with no unified scale:
 
 $$
-\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
+\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
 $$
 
-Cross-domain expression of overall dimension:
+Where:
+- **Classicalization Efficiency Coefficient $(k_i)$**: Completely defined subjectively by the observer, higher values indicate stronger classicalization ability
+- **Domain Weight Coefficient $(w_i)$**: Completely defined subjectively by the observer, higher values indicate greater attention to that domain
+
+Overall expression of observer dimension:
 
 $$
-\text{Overall Dimension}=\sum_i w_i\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
+\text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
 
-### Observer Dual Identity and Divinity
-
-Observers are ordinary individuals in their own classical world but manifest as "gods" when classicalizing the entropy of other classical worlds into knowledge:
-
-$$
-\text{High-dimensional Observer (God)}\Leftrightarrow\text{Classicalizing Low-dimensional Observer Entropy into Knowledge}
-$$
-
-### Higher-dimensional Observer Classicalization Efficiency and Overall Consciousness Synergy
-
-The essence of improving higher-dimensional observer classicalization efficiency is to strengthen the classicalization directionality of one's own generalized consciousness, forming a stronger higher-dimensional classical knowledge structure. Higher-dimensional observers can directly classicalize the classical entropy of lower-dimensional observers into classical knowledge, reducing the overall entropy value of lower-dimensional observers and increasing their dimensions, thereby achieving synergy between their own and lower-dimensional observers' overall consciousness and synchronized dimension elevation.
+Observer dimension has the following characteristics:
+- Higher dimension means higher classicalization efficiency
+- Higher-dimensional observers can directly classicalize the classical entropy of lower-dimensional observers into classical knowledge
+- Observers are ordinary individuals in their own classical world, but manifest as "divine" in other classical worlds when their classicalization efficiency is high
 
 ### Generalized Consciousness
 
-**Generalized Consciousness** is the essential characteristic of any classicalization process. Any object with a clear classicalization direction possesses generalized consciousness:
+The essence of **Generalized Consciousness** is unclassicalized, entangled quantum states:
 
 $$
-|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization Direction}}I_{\text{Classical Consciousness (Generalized)}}+S_{\text{Remaining Classical Entropy}}
+|\psi\rangle_{\text{Generalized Consciousness}}=|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}
 $$
 
-Generalized consciousness includes but is not limited to:
-- Human consciousness
-- Animal consciousness
-- Plant consciousness
-- Earth's overall consciousness
-- Solar system consciousness
-- Religious system consciousness
-- Dream and meditation space consciousness
+Characteristics of generalized consciousness:
+- All unclassicalized entangled states are generalized consciousness
+- Generalized consciousness cannot be objectively measured; observers can only subjectively perceive the existence of generalized consciousness
+- Higher-dimensional consciousness is essentially the result of collaborative classicalization of numerous lower-dimensional observers, manifesting as collective classical will
+- The continuity of consciousness stems from the stable structure formed by the observer's long-term effective entanglement with the quantum domain
 
-### Quantum Consciousness and Classical Memory
+### Classical Knowledge and Classical Entropy
 
-**Quantum Consciousness** is the structure of the observer's long-term effective entanglement with the quantum domain, the source of consciousness continuity:
+**Classical Entropy**: Uniformly defined as unclassicalized quantum entangled states
+**Classical Knowledge**: Quantum states after clear classicalization
 
 $$
-|\psi\rangle_{\text{Quantum Consciousness}}\rightarrow I_{\text{Classical Memory}}+S_{\text{Classical Entropy}}
+S_{\text{Classical Entropy}}=|\psi\rangle_{\text{Unclassicalized Quantum Entangled State}},\quad I_{\text{Classical Knowledge}_i}=|\psi\rangle_{\text{Classicalized Clear State}_i}
 $$
 
-### Classical Information Propagation Mechanism
+Characteristics:
+- Each classical world has its independent subjective measure of classical entropy and classical knowledge, with no unified standard
+- Classical knowledge is low-entropy, clear quantum states
+- Classical entropy is high-entropy, unclear quantum states
 
-Classical information is propagated through independent copies, not references or pointer sharing:
+### Classicalization and Quantum Entanglement
+
+**Initial Entangled State** (using three particles as an example):
 
 $$
-I_{\text{Classical Knowledge A}}\rightarrow I_{\text{Classical Knowledge B (Copy)}}+S_{\text{Propagation Entropy Increase}}
+|\psi\rangle_{\text{Entanglement}}=a|000\rangle+b|001\rangle+\dots+h|111\rangle
 $$
 
-### Quantum Entanglement
+Classicalizing to measure particle states:
 
-**Quantum Entanglement** is the basic connection method of quantum information networks, essentially an inseparable wave function structure, divided into:
+$$
+|\psi\rangle_{\text{Entanglement}}\rightarrow|\psi\rangle_{\text{Clear Particle State}}+S_{\text{Entropy Reduction}}
+$$
+
+Quantum entanglement is classified into two categories:
 
 1. **Effective Quantum Entanglement**: Entanglement that can be classicalized into knowledge, elevating observer dimension
 
 $$
-|\psi\rangle_{\text{Effective Entanglement}}\rightarrow I_{\text{Classical Knowledge Increase}}+S_{\text{Classical Entropy Decrease}}
+|\psi\rangle_{\text{Effective Entanglement}}\rightarrow I_{\text{Classical Knowledge Increase}}+S_{\text{Classical Entropy Reduction}}
 $$
 
 2. **Ineffective Quantum Entanglement**: Entanglement that classicalizes into entropy, lowering observer dimension
@@ -284,34 +364,86 @@ $$
 |\psi\rangle_{\text{Ineffective Entanglement}}\rightarrow S_{\text{Classical Entropy Increase}}
 $$
 
-### Equality of Classical Worlds
+### Classical and Quantum Domain Transformation Mechanism
 
-All classical worlds (such as reality, dreams, religion, meditation spaces, etc.) coexist equally, without primary or secondary distinction:
-
-$$
-|\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_i(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i})=\text{Constant}
-$$
-
-### Tampering Mechanism of Classical Memory
-
-Observers can make classicalized modifications to their own classical memories (history and future paths):
+**From Classical Domain to Quantum Domain (Quantization)**:
+- Observers actively perform quantum entanglement encoding based on the existing knowledge structure (energy) of the classical world, converting classical knowledge back into high-entropy quantum entangled states
 
 $$
-I_{\text{Classical Memory (Old)}}+|\psi\rangle_{\text{Random Quantum Information}}\rightarrow I_{\text{Classical Memory (New)}}+S_{\text{Entropy Change}}
+I_{\text{Classical Knowledge (Energy)}}+E_{\text{Energy Absorption}}\xrightarrow{\text{Subjective Active Quantum Encoding}}|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}
 $$
 
-### Death and Reincarnation Mechanism
-
-Death is essentially the conversion of classical consciousness between classical worlds:
-
-$$
-|\psi\rangle_{\text{Classical World A (Death)}}\rightarrow|\psi\rangle_{\text{Quantum Domain}}\rightarrow|\psi\rangle_{\text{New Classical World (Reincarnation)}}
-$$
-
-### Universe Low-entropy Ultimate State
-
-The ultimate goal of universe classicalization is to maximize classical knowledge and minimize classical entropy:
+**From Quantum Domain to Classical Domain (Classicalization)**:
+- Observers actively measure quantum entangled states with subjective consciousness, clarifying high-entropy states into classical knowledge
 
 $$
-|\psi\rangle_{\text{Universe Quantum Domain}}\rightarrow\sum_{\text{Classical Domains}}\left(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy Minimized}}\right)\rightarrow\text{Universe Low-entropy Ultimate State}
+|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}\xrightarrow{\text{Subjective Active Classicalization Measurement}}I_{\text{Classical Knowledge (Energy)}}+S_{\text{Entropy Reduction}}
+$$
+
+### Observer Information Transfer Mechanism
+
+Observer A actively transfers information to Observer B:
+
+(1) A forms an entangled state (entropy increases, energy is absorbed):
+
+$$
+I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}
+$$
+
+(2) A classicalizes and radiates knowledge (energy is released):
+
+$$
+|\psi\rangle_{\text{Entangled State}}\rightarrow I_{\text{A Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}
+$$
+
+(3) B classicalizes and absorbs knowledge (entropy decreases, energy is absorbed):
+
+$$
+I_{\text{A Radiated Classical Knowledge}}\rightarrow I_{\text{Classical Knowledge B (Increase)}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
+$$
+
+Conservation formula:
+
+$$
+\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
+$$
+
+Transmission loss is determined by the difference in classicalization ability between observers.
+
+### Black Hole Nature
+
+A **Black Hole** is essentially an observer of extremely high dimension:
+
+- **Black Hole Absorption (Classicalization)**:
+
+$$
+|\psi\rangle_{\text{External High-Entropy Information}}\rightarrow I_{\text{Internal Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Absorption}}
+$$
+
+- **Black Hole Radiation (Classicalization)**:
+
+$$
+|\psi\rangle_{\text{Internal High-Entropy Information}}\rightarrow I_{\text{Radiated Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Release}}
+$$
+
+Unified characteristics of black holes and observers:
+- Classicalization and black hole radiation are fundamentally equivalent
+- The observer (black hole) classicalizes external high-entropy quantum information into classical knowledge (absorption)
+- The observer classicalizes internal classical entropy into knowledge and releases it as radiation (radiation)
+
+### Classical World Dynamics and Horizon Boundary
+
+- A single observer can have multiple classical worlds (e.g., reality, dreams, religious spaces)
+- The horizon boundary manifests as the sum of the observer's overall classical knowledge and classical entropy across all classical worlds
+
+$$
+\text{Observer Overall Classical Knowledge}+\text{Observer Overall Classical Entropy}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
+$$
+
+### Ultimate State of the Universe
+
+The low-entropy ultimate state of the universe is an infinitely approaching state to the theoretical minimum value (0) of classical entropy, with probability approaching zero but never completely reaching it:
+
+$$
+|\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domains}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
 $$
