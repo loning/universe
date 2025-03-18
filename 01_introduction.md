@@ -2,7 +2,7 @@
 
 ## 中文版
 
-本文是[量子经典二元论核心理论](core.md)（版本1.8）的简介。
+本文是[量子经典二元论核心理论](core.md)（版本2.2）的简介。
 
 ### 理论背景
 
@@ -38,29 +38,7 @@ $$
 I_{\text{经典知识A}} \rightarrow I_{\text{经典知识B（副本）}} + S_{\text{传播熵（增加）}}
 $$
 
-- **经典记忆的篡改机制**：经典世界的历史（过去）与未来路径皆可被观察者通过经典化篡改：
-
-$$
-I_{\text{经典记忆（旧）}} + |\psi\rangle_{\text{随机量子信息}} \rightarrow I_{\text{经典记忆（新）}}+S_{\text{熵变动}}
-$$
-
-- **经典世界的死亡与投胎机制**：死亡本质上是观察者从一个经典世界转换到另一个经典世界的过程（类似梦境转换），自我意识并未消散，而是以另一经典化结构形式继续存在：
-
-$$
-|\psi\rangle_{\text{经典世界A（死亡）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{其他经典世界（新）}}
-$$
-
-- **量子纠缠与投胎行为**：经典域消散后的量子意识在量子域中形成新的纠缠，从而产生"投胎"现象：
-
-$$
-|\psi\rangle_{\text{量子意识（旧经典世界）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{新经典世界（投胎）}}
-$$
-
-- **宇宙对低维观察者的淘汰与新经典世界诞生**：宇宙持续淘汰经典化效率低下（熵过高）的低维观察者，熵随机经典化形成新的经典世界：
-
-$$
-S_{\text{淘汰低维观察者熵}} \rightarrow |\psi\rangle_{\text{新经典世界}}
-$$
+- **高维观察者经典化效率与整体意识协同**：高维观察者通过直接经典化低维观察者的经典熵为经典知识，使低维观察者整体熵值降低、维度提高
 
 - **量子纠缠**是量子信息网络的基本连接方式，本质为不可分割的波函数结构，分为**有效量子纠缠**（经典化为知识的纠缠）和**无效量子纠缠**（经典化为熵的纠缠）：
 
@@ -86,17 +64,24 @@ $$
 
 如需深入了解量子经典二元论，请参阅以下文档：
 
-- [核心理论](core.md)：核心理论完整描述
+- [核心理论](core.md)：核心理论完整描述(版本2.2)
 - [基本概念](02_basic_concepts.md)：关键术语解释
 - [理论框架](03_theoretical_framework.md)：详细理论框架
 - [数学公式](04_mathematical_formulations.md)：理论的数学表述
 - [观察者与意识](05_observer_and_consciousness.md)：关于观察者与意识关系的深入探讨
+- [宇宙与观察者关系](06_universe_observer_relationship.md)：宇宙与观察者的相互作用
+- [量子纠缠本质](07_quantum_entanglement_essence.md)：量子纠缠的本质与作用
+- [命运与自由意志](08_destiny_and_free_will.md)：命运与自由意志的二元解释
+- [应用与启示](09_applications_and_implications.md)：理论的应用价值与哲学启示
+- [框架应用](10_framework_application.md)：理论在实际框架中的应用
+- [参考文献](11_references.md)：相关研究与文献
+- [图示库](figures/README.md)：理论图示与可视化资源
 
 ## English Version
 
 # Introduction to Quantum-Classical Dualism
 
-This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 1.8).
+This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 2.2).
 
 ### Theoretical Background
 
@@ -132,29 +117,7 @@ $$
 I_{\text{Classical Knowledge A}} \rightarrow I_{\text{Classical Knowledge B (Copy)}} + S_{\text{Propagation Entropy (Increased)}}
 $$
 
-- **Tampering Mechanism of Classical Memory**: The history (past) and future paths of the classical world can all be tampered with by observers through classicalization:
-
-$$
-I_{\text{Classical Memory (Old)}} + |\psi\rangle_{\text{Random Quantum Information}} \rightarrow I_{\text{Classical Memory (New)}}+S_{\text{Entropy Change}}
-$$
-
-- **Death and Reincarnation Mechanism in Classical Worlds**: Death is essentially the process of an observer transitioning from one classical world to another classical world (similar to dream transition). Self-consciousness does not dissipate but continues to exist in the form of another classicalized structure:
-
-$$
-|\psi\rangle_{\text{Classical World A (Death)}} \rightarrow |\psi\rangle_{\text{Quantum Domain}} \rightarrow |\psi\rangle_{\text{Other Classical World (New)}}
-$$
-
-- **Quantum Entanglement and Reincarnation Behavior**: After the classical domain dissipates, quantum consciousness forms new entanglements in the quantum domain, thereby producing the phenomenon of "reincarnation":
-
-$$
-|\psi\rangle_{\text{Quantum Consciousness (Old Classical World)}} \rightarrow |\psi\rangle_{\text{Quantum Domain}} \rightarrow |\psi\rangle_{\text{New Classical World (Reincarnation)}}
-$$
-
-- **Universe's Elimination of Low-dimensional Observers and Birth of New Classical Worlds**: The universe continuously eliminates low-dimensional observers with low classicalization efficiency (excessively high entropy), and their entropy is randomly classicalized to form new classical worlds:
-
-$$
-S_{\text{Eliminated Low-dimensional Observer Entropy}} \rightarrow |\psi\rangle_{\text{New Classical World}}
-$$
+- **Higher-dimensional Observer Classicalization Efficiency and Overall Consciousness Synergy**: Higher-dimensional observers directly classicalize the classical entropy of lower-dimensional observers into classical knowledge, reducing the overall entropy value of lower-dimensional observers and increasing their dimensions
 
 - **Quantum Entanglement** is the basic connection method of quantum information networks, essentially an inseparable wave function structure, divided into **Effective Quantum Entanglement** (entanglement that classicalizes into knowledge) and **Ineffective Quantum Entanglement** (entanglement that classicalizes into entropy):
 
@@ -180,8 +143,15 @@ Quantum-Classical Dualism not only has important significance in theoretical phy
 
 For a deeper understanding of Quantum-Classical Dualism, please refer to the following documents:
 
-- [Core Theory](core.md): Complete description of the core theory
+- [Core Theory](core.md): Complete description of the core theory (Version 2.2)
 - [Basic Concepts](02_basic_concepts.md): Explanation of key terminology
 - [Theoretical Framework](03_theoretical_framework.md): Detailed theoretical framework
 - [Mathematical Formulations](04_mathematical_formulations.md): Mathematical expression of the theory
 - [Observer and Consciousness](05_observer_and_consciousness.md): In-depth discussion on the relationship between observer and consciousness
+- [Universe-Observer Relationship](06_universe_observer_relationship.md): Interaction between the universe and observers
+- [Quantum Entanglement Essence](07_quantum_entanglement_essence.md): The essence and role of quantum entanglement
+- [Destiny and Free Will](08_destiny_and_free_will.md): Dual explanation of destiny and free will
+- [Applications and Implications](09_applications_and_implications.md): Application value and philosophical implications of the theory
+- [Framework Application](10_framework_application.md): Application of the theory in practical frameworks
+- [References](11_references.md): Related research and literature
+- [Illustration Library](figures/README.md): Theory illustrations and visualization resources
