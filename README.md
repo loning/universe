@@ -49,6 +49,7 @@
 - [维度幸福关系](./applications/observer_theory/dimension_happiness_relationships.md) - 维度、快乐与人际关系的量子经典分析 (Dimensional Analysis of Happiness and Relationships)
 - [熵与知识二元性](./applications/observer_theory/entropy_knowledge_duality.md) - 观察者熵知识对偶性理论 (Observer Entropy-Knowledge Duality Theory)
 - [熵减少与再生](./applications/observer_theory/entropy_reduction_rejuvenation.md) - 熵减与年轻化的量子经典解析
+- [意识理解局限与跨维度治疗](./applications/observer_theory/consciousness_limitations_healing.md) - 意识理解局限与跨维度治疗方法 (Consciousness Understanding Limitations and Cross-dimensional Healing Methods)
 - [信息传输](./applications/observer_theory/information_transmission.md) - 信息传递的量子经典过程 (Quantum-Classical Process of Information Transmission)
 - [观察波函数熵](./applications/observer_theory/observation_wavefunction_entropy.md) - 观测的本质：波函数求解与熵产生的关系 (The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation)
 - [观察者自我理解](./applications/observer_theory/observer_self_understanding.md) - 观察者自我理解的局限性理论 (Theory of Observer Self-Understanding Limitations)
@@ -361,6 +362,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Dimension Happiness Relationships](./applications/observer_theory/dimension_happiness_relationships.md) - Dimensional Analysis of Happiness and Relationships
 - [Entropy Knowledge Duality](./applications/observer_theory/entropy_knowledge_duality.md) - Observer Entropy-Knowledge Duality Theory
 - [Entropy Reduction and Rejuvenation](./applications/observer_theory/entropy_reduction_rejuvenation.md) - Quantum-Classical Analysis of Entropy Reduction and Rejuvenation
+- [Consciousness Understanding Limitations and Healing](./applications/observer_theory/consciousness_limitations_healing.md) - Consciousness Understanding Limitations and Cross-dimensional Healing Methods
 - [Information Transmission](./applications/observer_theory/information_transmission.md) - Quantum-Classical Process of Information Transmission
 - [Observation Wavefunction Entropy](./applications/observer_theory/observation_wavefunction_entropy.md) - The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation
 - [Observer Self-Understanding](./applications/observer_theory/observer_self_understanding.md) - Theory of Observer Self-Understanding Limitations
