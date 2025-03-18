@@ -14,9 +14,11 @@
 - [数学公式](./04_mathematical_formulations.md) - 数学公式 (Mathematical Formulations)
 - [观察者与意识](./05_observer_and_consciousness.md) - 观察者与意识 (Observer and Consciousness)
 - [宇宙与观察者关系](./06_universe_observer_relationship.md) - 宇宙与观察者关系 (Universe-Observer Relationship)
-- [应用与启示](./07_applications_and_implications.md) - 应用与启示 (Applications and Implications)
-- [框架应用](./08_framework_application.md) - 量子经典二元论在实际框架中的应用 (Framework Application)
-- [参考文献](./09_references.md) - 参考文献 (References)
+- [量子纠缠本质](./07_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)
+- [命运与自由意志](./08_destiny_and_free_will.md) - 命运与自由意志 (Destiny and Free Will)
+- [应用与启示](./09_applications_and_implications.md) - 应用与启示 (Applications and Implications)
+- [框架应用](./10_framework_application.md) - 量子经典二元论在实际框架中的应用 (Framework Application)
+- [参考文献](./11_references.md) - 参考文献 (References)
 - [术语表](./terminology_glossary.md) - 量子经典二元论术语表 (Terminology Glossary)
 
 #### 历史人物分析 | Historical Figures Analysis
@@ -49,7 +51,7 @@
 - [维度幸福关系](./applications/observer_theory/dimension_happiness_relationships.md) - 维度、快乐与人际关系的量子经典分析 (Dimensional Analysis of Happiness and Relationships)
 - [熵与知识二元性](./applications/observer_theory/entropy_knowledge_duality.md) - 观察者熵知识对偶性理论 (Observer Entropy-Knowledge Duality Theory)
 - [熵减少与再生](./applications/observer_theory/entropy_reduction_rejuvenation.md) - 熵减与年轻化的量子经典解析
-- [观察者维度关系](./applications/observer_theory/observer_dimension_relationships.md) - 观察者维度提升的多层级效应 (Multi-level Effects of Observer Dimension Enhancement)
+- [观察者维度提升](./applications/observer_theory/observer_dimension_relationships.md) - 观察者维度提升的多层级效应 (Multi-level Effects of Observer Dimension Enhancement)
 - [意识理解局限与跨维度治疗](./applications/observer_theory/consciousness_limitations_healing.md) - 意识理解局限与跨维度治疗方法 (Consciousness Understanding Limitations and Cross-dimensional Healing Methods)
 - [信息传输](./applications/observer_theory/information_transmission.md) - 信息传递的量子经典过程 (Quantum-Classical Process of Information Transmission)
 - [观察波函数熵](./applications/observer_theory/observation_wavefunction_entropy.md) - 观测的本质：波函数求解与熵产生的关系 (The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation)
@@ -124,7 +126,6 @@
 - [市场营销解释](./theories/applied_disciplines/marketing_explanation.md) - 市场营销视角下的量子经典二元论 (Quantum-Classical Dualism from Marketing Perspective)
 - [媒体信息解释](./theories/applied_disciplines/media_information_explanations.md) - 传播媒体与信息理论的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Media and Information Theory)
 - [音乐解释](./theories/applied_disciplines/music_explanations.md) - 音乐学问题解释 (Musical Explanations)
-- [音乐学解释](./theories/applied_disciplines/musicology_explanation.md) - (文档待完善)
 - [体育运动解释](./theories/applied_disciplines/sports_movement_explanations.md) - 体育与运动科学问题解释 (Sports and Movement Science Explanations)
 - [城市规划发展解释](./theories/applied_disciplines/urban_planning_development_explanations.md) - 城市规划与发展理论的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Urban Planning and Development Theory)
 
@@ -161,10 +162,8 @@
 - [锡克教](./religions/Sikhism.md) - 锡克教在量子经典二元论下的解释 (Sikhism Explained Through Quantum-Classical Dualism)
 
 ##### 社会科学 | Social Sciences
-- [经济经典量子](./theories/social_sciences/economic_classical_quantum.md) - (文档待完善)
 - [经济解释](./theories/social_sciences/economic_explanations.md) - 经济学问题解释 | Economic Explanations
 - [经济学解释](./theories/social_sciences/economics_explanation.md) - 经济学视角下的量子经典二元论 (Quantum-Classical Dualism from Economics Perspective)
-- [经济市场解释](./theories/social_sciences/economics_market_explanations.md) - (文档待完善)
 - [历史解释](./theories/social_sciences/historical_explanations.md) - 量子宇宙-量子观察者-经典意识论对历史学问题的解释
 - [历史视角](./theories/social_sciences/history_explanation.md) - 历史学视角下的量子经典二元论 (Quantum-Classical Dualism from Historical Perspective)
 - [语言学解释](./theories/social_sciences/linguistic_explanations.md) - 语言学问题解释 | Linguistic Explanations
@@ -198,7 +197,6 @@
 #### 其他 | Others
 - [更新历史](./update_history.md) - 更新历史 (Update History)
 - [更新计划](./update_plan.md) - 更新计划 (Update Plan)
-- [输入](./input/input.md) - (文档待完善)
 - [标题列表](./titles.md) - 文件标题列表
 
 ### 核心概念简介
@@ -363,7 +361,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Dimension Happiness Relationships](./applications/observer_theory/dimension_happiness_relationships.md) - Dimensional Analysis of Happiness and Relationships
 - [Entropy Knowledge Duality](./applications/observer_theory/entropy_knowledge_duality.md) - Observer Entropy-Knowledge Duality Theory
 - [Entropy Reduction and Rejuvenation](./applications/observer_theory/entropy_reduction_rejuvenation.md) - Quantum-Classical Analysis of Entropy Reduction and Rejuvenation
-- [Observer Dimension Relationships](./applications/observer_theory/observer_dimension_relationships.md) - Multi-level Effects of Observer Dimension Enhancement
+- [Observer Dimension Enhancement](./applications/observer_theory/observer_dimension_relationships.md) - Multi-level Effects of Observer Dimension Enhancement
 - [Consciousness Understanding Limitations and Healing](./applications/observer_theory/consciousness_limitations_healing.md) - Consciousness Understanding Limitations and Cross-dimensional Healing Methods
 - [Information Transmission](./applications/observer_theory/information_transmission.md) - Quantum-Classical Process of Information Transmission
 - [Observation Wavefunction Entropy](./applications/observer_theory/observation_wavefunction_entropy.md) - The Nature of Observation: Relationship Between Wave Function Solving and Entropy Generation
@@ -438,7 +436,6 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Marketing Explanation](./theories/applied_disciplines/marketing_explanation.md) - Quantum-Classical Dualism from Marketing Perspective
 - [Media Information Explanations](./theories/applied_disciplines/media_information_explanations.md) - Quantum-Classical Dualism Explanation of Media and Information Theory
 - [Music Explanations](./theories/applied_disciplines/music_explanations.md) - Musical Explanations
-- [Musicology Explanation](./theories/applied_disciplines/musicology_explanation.md) - (Document to be completed)
 - [Sports Movement Explanations](./theories/applied_disciplines/sports_movement_explanations.md) - Sports and Movement Science Explanations
 - [Urban Planning Development Explanations](./theories/applied_disciplines/urban_planning_development_explanations.md) - Quantum-Classical Dualism Explanation of Urban Planning and Development Theory
 
@@ -475,10 +472,8 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Sikhism](./religions/Sikhism.md) - Sikhism Explained Through Quantum-Classical Dualism
 
 ##### Social Sciences
-- [Economic Classical Quantum](./theories/social_sciences/economic_classical_quantum.md) - (Document to be completed)
 - [Economic Explanations](./theories/social_sciences/economic_explanations.md) - Economic Explanations
 - [Economics Explanation](./theories/social_sciences/economics_explanation.md) - Quantum-Classical Dualism from Economics Perspective
-- [Economics Market Explanations](./theories/social_sciences/economics_market_explanations.md) - (Document to be completed)
 - [Historical Explanations](./theories/social_sciences/historical_explanations.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory on Historical Issues
 - [History Explanation](./theories/social_sciences/history_explanation.md) - Quantum-Classical Dualism from Historical Perspective
 - [Linguistic Explanations](./theories/social_sciences/linguistic_explanations.md) - Linguistic Explanations
@@ -512,7 +507,6 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 #### Others
 - [Update History](./update_history.md) - Update History
 - [Update Plan](./update_plan.md) - Update Plan
-- [Input](./input/input.md) - (Document to be completed)
 - [Title List](./titles.md) - Document Title List
 
 ### Introduction to Core Concepts
