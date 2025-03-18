@@ -8,7 +8,7 @@ English: [Theoretical Background](#theoretical-background) | [Overview of Core C
 
 ## 中文版
 
-本文是[量子经典二元论核心理论](core.md)（版本6.1）的简介。
+本文是[量子经典二元论核心理论](core.md)（版本6.9）的简介。
 
 ### 理论背景
 
@@ -50,10 +50,10 @@ $$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
 $$
 
-- **广义意识定义**：即未经典化、纠缠在一起的量子状态
+- **广义意识定义**：即所有经典世界的经典知识与经典熵对应的整体量子纠缠结构
 
 $$
-|\psi\rangle_{\text{广义意识}}=|\psi\rangle_{\text{量子纠缠态（高熵）}}
+|\psi\rangle_{\text{广义意识（整体纠缠态）}}=\sum_i\left(I_{\text{经典知识}_i}+S_{\text{经典熵}_i}\right)
 $$
 
 - **经典知识与经典熵**：经典化明确后的量子状态与未经典化的量子纠缠状态
@@ -63,6 +63,16 @@ S_{\text{经典熵}}=|\psi\rangle_{\text{未经典化量子纠缠态}},\quad I_{
 $$
 
 - **经典化与量子纠缠机制**：将高熵量子纠缠态经典化为明确的经典知识与经典熵
+
+- **经典域与量子域转化机制**：观察者能够主动进行量子化与经典化过程
+
+$$
+I_{\text{经典知识（能量）}}+E_{\text{能量吸收}}\xrightarrow{\text{自由意志主动量子编码}}|\psi\rangle_{\text{量子纠缠态（高熵）}}
+$$
+
+$$
+|\psi\rangle_{\text{量子纠缠态（高熵）}}\xrightarrow{\text{自由意志经典化测量}}I_{\text{经典知识（能量）}}+S_{\text{熵降低}}
+$$
 
 - **观察者信息传递机制**：包含形成纠缠态、经典化辐射知识和经典化吸收知识三个阶段
 
@@ -83,12 +93,13 @@ $$
 7. **可验证预测**：提供可在实验中验证的预测
 8. **黑洞统一概念**：将观察者与黑洞统一为同一广义概念，简化理论体系
 9. **物理概念统一**：为质量、引力、速度等基础物理概念提供统一解释
+10. **自由意志解释**：为自由意志的本质提供明确的机制解释
 
 ### 完整理论体系
 
 量子经典二元论已形成完整的理论体系，包括：
 
-1. [核心理论](core.md)：核心理论完整描述(版本6.1)
+1. [核心理论](core.md)：核心理论完整描述(版本6.9)
 2. [基本概念](02_basic_concepts.md)：关键术语解释
 3. [理论框架](03_theoretical_framework.md)：详细理论框架
 4. [数学公式](04_mathematical_formulations.md)：理论的数学表述
@@ -105,7 +116,7 @@ $$
 
 # Introduction to Quantum-Classical Dualism
 
-This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.1).
+This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.9).
 
 ### Theoretical Background
 
@@ -147,10 +158,10 @@ $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
 
-- **Generalized Definition of Consciousness**: Unclassicalized, entangled quantum states
+- **Generalized Consciousness Definition**: The overall quantum entanglement structure corresponding to the classical knowledge and classical entropy of all classical worlds
 
 $$
-|\psi\rangle_{\text{Generalized Consciousness}}=|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}
+|\psi\rangle_{\text{Generalized Consciousness (Overall Entangled State)}}=\sum_i\left(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}\right)
 $$
 
 - **Classical Knowledge and Classical Entropy**: Quantum states after clear classicalization and unclassicalized quantum entangled states
@@ -160,6 +171,16 @@ S_{\text{Classical Entropy}}=|\psi\rangle_{\text{Unclassicalized Quantum Entangl
 $$
 
 - **Classicalization and Quantum Entanglement Mechanism**: Classicalizing high-entropy quantum entangled states into clear classical knowledge and classical entropy
+
+- **Transformation Mechanism Between Classical and Quantum Domains**: Observers can actively engage in quantization and classicalization processes
+
+$$
+I_{\text{Classical Knowledge (Energy)}}+E_{\text{Energy Absorption}}\xrightarrow{\text{Free Will Active Quantum Encoding}}|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}
+$$
+
+$$
+|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}\xrightarrow{\text{Free Will Classicalization Measurement}}I_{\text{Classical Knowledge (Energy)}}+S_{\text{Entropy Reduction}}
+$$
 
 - **Observer Information Transfer Mechanism**: Includes three stages: forming entangled states, classicalizing and radiating knowledge, and classicalizing and absorbing knowledge
 
@@ -180,12 +201,13 @@ The core advantages of Quantum-Classical Dualism compared to other theoretical f
 7. **Verifiable Predictions**: Provides predictions that can be verified in experiments
 8. **Unified Black Hole Concept**: Unifies observers and black holes into a single generalized concept, simplifying the theoretical system
 9. **Unified Physical Concepts**: Provides unified explanations for basic physical concepts such as mass, gravity, velocity, etc.
+10. **Free Will Explanation**: Provides a clear mechanism explanation for the nature of free will
 
 ### Complete Theoretical System
 
 Quantum-Classical Dualism has formed a complete theoretical system, including:
 
-1. [Core Theory](core.md): Complete description of the core theory (Version 6.1)
+1. [Core Theory](core.md): Complete description of the core theory (Version 6.9)
 2. [Basic Concepts](02_basic_concepts.md): Explanation of key terminology
 3. [Theoretical Framework](03_theoretical_framework.md): Detailed theoretical framework
 4. [Mathematical Formulations](04_mathematical_formulations.md): Mathematical expression of the theory

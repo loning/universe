@@ -3,8 +3,8 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[量子物理](#量子物理) | [哲学文献](#哲学文献) | [意识研究](#意识研究) | [跨学科研究](#跨学科研究) | [相关理论](#相关理论)  
-English: [Quantum Physics](#quantum-physics) | [Philosophical Literature](#philosophical-literature) | [Consciousness Studies](#consciousness-studies) | [Interdisciplinary Research](#interdisciplinary-research) | [Related Theories](#related-theories)
+中文：[量子物理](#量子物理学基础) | [量子测量问题](#量子测量问题) | [量子信息理论](#量子信息理论) | [意识与量子理论](#意识与量子理论) | [信息熵与热力学](#信息熵与热力学) | [信息传递过程](#信息传递过程与熵变化) | [观察者研究](#观察者与意识同构性研究) | [复数理论](#欧拉公式与复数理论) | [信息守恒](#信息守恒与传播理论) | [宇宙关系](#观察者与宇宙关系) | [相关理论](#量子经典二元论直接相关)  
+English: [Quantum Physics](#foundations-of-quantum-physics) | [Measurement Problem](#quantum-measurement-problem) | [Quantum Information](#quantum-information-theory) | [Consciousness](#consciousness-and-quantum-theory) | [Information Entropy](#information-entropy-and-thermodynamics) | [Information Transfer](#information-transfer-process-and-entropy-changes) | [Observer Studies](#observer-and-consciousness-isomorphism-studies) | [Complex Theory](#euler-formula-and-complex-number-theory) | [Information Conservation](#information-conservation-and-propagation-theory) | [Universe Relationship](#observer-and-universe-relationship) | [Related Theory](#directly-related-to-quantum-classical-dualism)
 
 ## 中文版
 
@@ -81,7 +81,7 @@ English: [Quantum Physics](#quantum-physics) | [Philosophical Literature](#philo
 
 ### 量子经典二元论直接相关
 
-40. [量子经典二元论核心理论](core.md). 量子经典二元论的完整理论阐述(版本6.1).
+40. [量子经典二元论核心理论](core.md). 量子经典二元论的完整理论阐述(版本6.9).
 41. [简介](01_introduction.md). 量子经典二元论的简介.
 42. [基本概念](02_basic_concepts.md). 量子经典二元论的基本概念.
 43. [理论框架](03_theoretical_framework.md). 量子经典二元论的理论框架.
@@ -95,6 +95,8 @@ English: [Quantum Physics](#quantum-physics) | [Philosophical Literature](#philo
 51. [图示库](figures/README.md). 量子经典二元论图示库.
 
 ## English Version
+
+# References
 
 The following are references related to Quantum-Classical Dualism:
 
@@ -169,7 +171,7 @@ The following are references related to Quantum-Classical Dualism:
 
 ### Directly Related to Quantum-Classical Dualism
 
-40. [Quantum-Classical Dualism Core Theory](core.md). Complete Theoretical Exposition of Quantum-Classical Dualism (Version 6.1).
+40. [Quantum-Classical Dualism Core Theory](core.md). Complete Theoretical Exposition of Quantum-Classical Dualism (Version 6.9).
 41. [Introduction](01_introduction.md). Introduction to Quantum-Classical Dualism.
 42. [Basic Concepts](02_basic_concepts.md). Basic Concepts of Quantum-Classical Dualism.
 43. [Theoretical Framework](03_theoretical_framework.md). Theoretical Framework of Quantum-Classical Dualism.

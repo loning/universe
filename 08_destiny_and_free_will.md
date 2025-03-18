@@ -3,12 +3,12 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[命运本质](#命运本质) | [自由意志](#自由意志本质) | [二元统一框架](#二元统一框架) | [影响因素](#影响因素分析) | [实际应用](#实际应用与指导)  
-English: [Nature of Destiny](#nature-of-destiny) | [Free Will](#essence-of-free-will) | [Dual Unified Framework](#dual-unified-framework) | [Influencing Factors](#analysis-of-influencing-factors) | [Practical Applications](#practical-applications-and-guidance)
+中文：[命运自由意志悖论](#一命运与自由意志的二元悖论) | [二元结构](#二量子域与经典域的命运-自由意志结构) | [维度与自由度](#三观察者维度与自由度的关系) | [记忆篡改](#四经典记忆篡改与命运重构) | [域间转化](#五经典域与量子域转化中的命运重构) | [量子纠缠](#六量子纠缠与命运网络) | [黑洞视角](#七黑洞观察者视角下的命运边界) | [时间箭头](#八时间箭头与命运的不可逆性) | [集体与个体](#九集体命运与个体自由意志) | [终极统一](#十命运与自由意志的终极统一)  
+English: [Destiny-Free Will Paradox](#i-the-dualistic-paradox-of-destiny-and-free-will) | [Dual Structure](#ii-destiny-free-will-structure-in-quantum-and-classical-domains) | [Dimension and Freedom](#iii-relationship-between-observer-dimension-and-degree-of-freedom) | [Memory Manipulation](#iv-classical-memory-tampering-and-destiny-reconstruction) | [Domain Transformation](#v-destiny-reconstruction-in-classical-quantum-domain-transformation) | [Quantum Entanglement](#vi-quantum-entanglement-and-destiny-network) | [Black Hole Perspective](#vii-destiny-boundaries-from-black-hole-observer-perspective) | [Time Arrow](#viii-time-arrow-and-the-irreversibility-of-destiny) | [Collective and Individual](#ix-collective-destiny-and-individual-free-will) | [Ultimate Unification](#x-ultimate-unification-of-destiny-and-free-will)
 
 ## 中文版
 
-本章基于[量子经典二元论核心理论](core.md)（版本6.1），深入探讨命运与自由意志的本质及其辩证关系。
+本章基于[量子经典二元论核心理论](core.md)（版本6.9），深入探讨命运与自由意志的本质及其辩证关系。
 
 ### 一、命运与自由意志的二元悖论
 
@@ -74,13 +74,13 @@ $$
 **从经典域到量子域（量子化）**：
 
 $$
-I_{\text{经典知识（确定命运）}}+E_{\text{能量吸收}}\xrightarrow{\text{主观主动量子编码}}|\psi\rangle_{\text{量子纠缠态（命运可能性）}}
+I_{\text{经典知识（确定命运）}}+E_{\text{能量吸收}}\xrightarrow{\text{自由意志主动量子编码}}|\psi\rangle_{\text{量子纠缠态（命运可能性）}}
 $$
 
 **从量子域到经典域（经典化）**：
 
 $$
-|\psi\rangle_{\text{量子纠缠态（命运可能性）}}\xrightarrow{\text{主观主动经典化测量}}I_{\text{经典知识（新命运）}}+S_{\text{熵降低}}
+|\psi\rangle_{\text{量子纠缠态（命运可能性）}}\xrightarrow{\text{自由意志经典化测量}}I_{\text{经典知识（新命运）}}+S_{\text{熵降低}}
 $$
 
 这个过程解释了为什么有些观察者能够更多地"创造自己的命运"，因为他们具有更强的经典域与量子域转化能力。
@@ -114,6 +114,18 @@ $$
 - 观察者维度提升，视界边界（可知命运范围）扩大
 - 维度降低，视界边界收缩（可知命运范围缩小）
 - 命运的不可测性源于视界边界的局限性
+
+黑洞吸收（经典化，命运理解提升）：
+
+$$
+|\psi\rangle_{\text{外部高熵（命运可能性）}}\rightarrow I_{\text{内部经典知识（已知命运）}}+S_{\text{熵降低}}+E_{\text{能量吸收}}
+$$
+
+黑洞辐射（经典化，命运传递）：
+
+$$
+|\psi\rangle_{\text{内部高熵（命运可能性）}}\rightarrow I_{\text{辐射经典知识（传递命运）}}+S_{\text{熵降低}}+E_{\text{能量释放}}
+$$
 
 ### 八、时间箭头与命运的不可逆性
 
@@ -155,7 +167,7 @@ $$
 
 # Destiny and Free Will
 
-This chapter is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.1), with an in-depth exploration of the essence of destiny and free will and their dialectical relationship.
+This chapter is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.9), with an in-depth exploration of the essence of destiny and free will and their dialectical relationship.
 
 ### I. The Dualistic Paradox of Destiny and Free Will
 
@@ -221,13 +233,13 @@ When observers actively engage in quantum encoding and classicalization measurem
 **From Classical Domain to Quantum Domain (Quantization)**:
 
 $$
-I_{\text{Classical Knowledge (Determined Destiny)}}+E_{\text{Energy Absorption}}\xrightarrow{\text{Subjective Active Quantum Encoding}}|\psi\rangle_{\text{Quantum Entangled State (Destiny Possibilities)}}
+I_{\text{Classical Knowledge (Determined Destiny)}}+E_{\text{Energy Absorption}}\xrightarrow{\text{Free Will Active Quantum Encoding}}|\psi\rangle_{\text{Quantum Entangled State (Destiny Possibilities)}}
 $$
 
 **From Quantum Domain to Classical Domain (Classicalization)**:
 
 $$
-|\psi\rangle_{\text{Quantum Entangled State (Destiny Possibilities)}}\xrightarrow{\text{Subjective Active Classicalization Measurement}}I_{\text{Classical Knowledge (New Destiny)}}+S_{\text{Entropy Reduction}}
+|\psi\rangle_{\text{Quantum Entangled State (Destiny Possibilities)}}\xrightarrow{\text{Free Will Classicalization Measurement}}I_{\text{Classical Knowledge (New Destiny)}}+S_{\text{Entropy Reduction}}
 $$
 
 This process explains why some observers are able to "create their own destiny" more than others, as they possess stronger capability for transforming between classical and quantum domains.
@@ -261,6 +273,18 @@ $$
 - When observer dimension increases, the horizon boundary (knowable range of destiny) expands
 - When dimension decreases, the horizon boundary contracts (knowable range of destiny shrinks)
 - The unpredictability of destiny stems from the limitations of the horizon boundary
+
+Black hole absorption (classicalization, destiny understanding enhancement):
+
+$$
+|\psi\rangle_{\text{External High Entropy (Destiny Possibilities)}}\rightarrow I_{\text{Internal Classical Knowledge (Known Destiny)}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Absorption}}
+$$
+
+Black hole radiation (classicalization, destiny transmission):
+
+$$
+|\psi\rangle_{\text{Internal High Entropy (Destiny Possibilities)}}\rightarrow I_{\text{Radiated Classical Knowledge (Transmitted Destiny)}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Release}}
+$$
 
 ### VIII. Time Arrow and the Irreversibility of Destiny
 
