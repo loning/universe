@@ -1,5 +1,11 @@
 # 量子观察者 | Quantum Observer
 
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [观察者的本质](#观察者的本质--the-nature-of-observers) | [观察者维度](#观察者维度--observer-dimension) | [观察者的经典化过程](#观察者的经典化过程--observer-classicalization-process)  
+English: [Introduction](#简介--introduction) | [Nature of Observers](#观察者的本质--the-nature-of-observers) | [Observer Dimension](#观察者维度--observer-dimension) | [Observer Classicalization Process](#观察者的经典化过程--observer-classicalization-process)
+
 ## 版本 | Version
 2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
 

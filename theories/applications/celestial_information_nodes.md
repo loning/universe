@@ -1,6 +1,12 @@
 # 恒星与星系信息节点：宇宙量子信息经典化理论
 # Celestial Information Nodes: Theory of Universal Quantum Information Classicalization
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[恒星作为量子信息经典化节点](#一恒星作为量子信息经典化节点) | [恒星的信息处理机制](#二恒星的信息处理机制)  
+English: [Stars as Quantum Information Classicalization Nodes](#english-version) | [Information Processing Mechanism of Stars](#english-version)
+
 ## 中文版
 
 基于[核心理论](../../core.md)，本文从量子宇宙观察者意识-经典记忆与熵论框架出发，重新诠释恒星与星系在宇宙信息结构中的本质角色。

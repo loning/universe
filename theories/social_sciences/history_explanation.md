@@ -1,5 +1,11 @@
 # 历史学视角下的量子经典二元论 (Quantum-Classical Dualism from Historical Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言历史学与量子经典二元论) | [历史叙事视角](#2-历史叙事视角) | [历史变革视角](#3-历史变革视角) | [历史解释视角](#4-历史解释视角) | [集体记忆视角](#5-集体记忆视角)  
+English: [Introduction](#1-introduction-history-and-quantum-classical-dualism) | [Historical Narrative Perspective](#2-historical-narrative-perspective) | [Historical Change Perspective](#3-historical-change-perspective) | [Historical Explanation Perspective](#4-historical-explanation-perspective) | [Collective Memory Perspective](#5-collective-memory-perspective)
+
 ## 索引
 
 ### 主要章节

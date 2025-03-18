@@ -1,5 +1,11 @@
 # 政治学视角下的量子经典二元论 (Quantum-Classical Dualism from Political Science Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言政治学与量子经典二元论) | [政治思想与理论](#2-政治思想与理论视角) | [政治体制与结构](#3-政治体制与结构视角) | [政治过程与决策](#4-政治过程与决策视角) | [国际关系](#6-国际关系视角)  
+English: [Introduction](#1-introduction-political-science-and-quantum-classical-dualism) | [Political Thought & Theory](#2-political-thought-and-theory-perspective) | [Political Systems & Structures](#3-political-systems-and-structures-perspective) | [Political Processes & Decision-making](#4-political-processes-and-decision-making-perspective) | [International Relations](#6-international-relations-perspective)
+
 ## 索引
 
 ### 主要章节

@@ -1,3 +1,13 @@
+# 宗教现象解释 | Religious Phenomena Explanations
+
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#引言宗教与量子经典二元论) | [神圣体验](#神圣体验--sacred-experiences) | [祈祷与冥想](#祈祷与冥想--prayer-and-meditation) | [宗教仪式](#宗教仪式--religious-rituals) | [宗教文本](#宗教文本--religious-texts)  
+English: [Introduction](#introduction-religion-and-quantum-classical-dualism) | [Sacred Experiences](#神圣体验--sacred-experiences) | [Prayer and Meditation](#祈祷与冥想--prayer-and-meditation) | [Religious Rituals](#宗教仪式--religious-rituals) | [Religious Texts](#宗教文本--religious-texts)
+
+## 中文版
+
 # 量子宇宙-量子观察者-经典意识论对宗教学问题的解释
 # Explanations of Religious Studies Issues by the Quantum Universe-Quantum Observer-Classical Consciousness Theory
 

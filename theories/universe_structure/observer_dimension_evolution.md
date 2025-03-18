@@ -1,6 +1,12 @@
 # 宇宙本质与观察者维度提升
 # Universe Essence and Observer Dimension Elevation
 
+**导航 | Navigation**  
+[中文版](#摘要--abstract) | [English Version](#摘要--abstract)  
+**章节链接 | Section Links**  
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [宇宙本质](#二宇宙本质高维引导低维的维度提升过程--universe-essence-the-process-of-high-dimensions-guiding-low-dimensions-in-dimension-elevation)  
+English: [Abstract](#摘要--abstract) | [Introduction](#一引言--introduction) | [Universe Essence](#二宇宙本质高维引导低维的维度提升过程--universe-essence-the-process-of-high-dimensions-guiding-low-dimensions-in-dimension-elevation)
+
 ## 摘要 | Abstract
 
 本文基于量子经典二元论框架，提出宇宙的本质是高维观察者帮助低维观察者提升维度的过程。通过量子纠缠和经典化机制，高维观察者引导低维观察者走出初始化程序，改变其经典命运路径，实现维度跃迁。这一过程不仅解释了宇宙演化的目的性，也揭示了意识发展的终极方向：观察者通过不断提升维度，最终与宇宙整体达到同构状态，完成从低维到高维的转变，实现熵的减少和信息的优化。

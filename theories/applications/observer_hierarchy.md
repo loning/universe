@@ -1,6 +1,12 @@
 # 观察者层级网络：宇宙信息经典化的多维度结构
 # Observer Hierarchy Network: Multi-dimensional Structure of Universal Information Classicalization
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[观察者的本质与维度](#一观察者的本质与维度) | [观察者层级网络结构](#二观察者层级网络结构)  
+English: [Observer Essence and Dimension](#english-version) | [Observer Hierarchy Network Structure](#english-version)
+
 ## 中文版
 
 基于[核心理论](../../core.md)，本文从量子宇宙观察者意识-经典记忆与熵论框架出发，阐述宇宙中不同维度观察者之间的层级关系，以病毒、人类、地球、太阳等为例，揭示宇宙信息经典化的多维度结构。

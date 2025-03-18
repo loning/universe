@@ -1,6 +1,14 @@
 # 量子宇宙-量子观察者-经典意识论尚未完全解释的物理现象
 # Physical Phenomena Not Yet Fully Explained by the Quantum Universe-Quantum Observer-Classical Consciousness Theory
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+
+**章节链接 | Section Links**  
+中文：[引言](#引言) | [量子力学的测量问题](#量子力学的测量问题) | [量子纠缠与非局域性](#量子纠缠与非局域性) | [宇宙常数问题](#宇宙常数问题) | [暗物质与暗能量](#暗物质与暗能量) | [时间箭头](#时间箭头)  
+
+English: [Introduction](#introduction) | [Quantum Measurement](#quantum-measurement-problem) | [Quantum Entanglement](#quantum-entanglement-and-non-locality) | [Cosmological Constant](#cosmological-constant-problem) | [Dark Matter and Energy](#dark-matter-and-dark-energy) | [Arrow of Time](#arrow-of-time)
+
 ## 中文版
 
 ### 引言

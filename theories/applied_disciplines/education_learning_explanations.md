@@ -1,4 +1,10 @@
-# 教育与学习理论解释 (Education and Learning Theory Explanations)
+# 教育与学习解释 | Education and Learning Explanations
+
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[学习本质](#学习本质--nature-of-learning) | [教育理论](#教育理论--educational-theory) | [个体学习差异](#个体学习差异--individual-learning-differences) | [终身学习](#终身学习--lifelong-learning)  
+English: [Nature of Learning](#学习本质--nature-of-learning) | [Educational Theory](#教育理论--educational-theory) | [Individual Learning Differences](#个体学习差异--individual-learning-differences) | [Lifelong Learning](#终身学习--lifelong-learning)
 
 ## 中文版
 

@@ -3,8 +3,8 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[引言](#1-引言生物学与量子经典二元论) | [分子生物学视角](#2-分子生物学视角) | [细胞生物学视角](#3-细胞生物学视角) | [进化生物学视角](#4-进化生物学视角) | [神经生物学视角](#6-神经生物学视角)  
-English: [Introduction](#1-introduction-biology-and-quantum-classical-dualism) | [Molecular Biology](#2-molecular-biology-perspective) | [Cell Biology](#3-cell-biology-perspective) | [Evolutionary Biology](#4-evolutionary-biology-perspective) | [Neurobiology](#6-neurobiology-perspective)
+中文：[引言](#引言生物学与量子经典二元论) | [分子生物学视角](#分子生物学视角) | [细胞生物学视角](#细胞生物学视角) | [进化生物学视角](#进化生物学视角) | [生态学视角](#生态学视角)  
+English: [Introduction](#introduction-biology-and-quantum-classical-dualism) | [Molecular Biology Perspective](#molecular-biology-perspective) | [Cell Biology Perspective](#cell-biology-perspective) | [Evolutionary Biology Perspective](#evolutionary-biology-perspective) | [Ecology Perspective](#ecology-perspective)
 
 ## 索引
 

@@ -1,5 +1,11 @@
 # 量子宇宙 | Quantum Universe
 
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [量子域的本质](#量子域的本质--the-nature-of-quantum-domain) | [量子宇宙与经典域的关系](#量子宇宙与经典域的关系--relationship-between-quantum-universe-and-classical-domain)  
+English: [Introduction](#简介--introduction) | [Nature of Quantum Domain](#量子域的本质--the-nature-of-quantum-domain) | [Relationship with Classical Domain](#量子宇宙与经典域的关系--relationship-between-quantum-universe-and-classical-domain)
+
 ## 版本 | Version
 2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
 

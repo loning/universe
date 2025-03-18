@@ -1,6 +1,12 @@
 # 《三体》宇宙观批判：基于量子经典二元论视角
 # Critique of "The Three-Body Problem" Universe View: From the Perspective of Quantum-Classical Dualism
 
+**导航 | Navigation**  
+[中文版](#摘要--abstract) | [English Version](#摘要--abstract)  
+**章节链接 | Section Links**  
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [《三体》宇宙观的局限性](#二三体宇宙观的局限性--limitations-of-the-three-body-problem-universe-view)  
+English: [Abstract](#摘要--abstract) | [Introduction](#一引言--introduction) | [Limitations of "Three-Body" Universe View](#二三体宇宙观的局限性--limitations-of-the-three-body-problem-universe-view)
+
 ## 摘要 | Abstract
 
 本文从量子经典二元论的视角对刘慈欣《三体》中提出的"黑暗森林法则"及其宇宙观进行批判性分析。《三体》假设文明间的交流必然导致竞争与毁灭，形成"猜疑链"与"黑暗森林"状态。然而，基于量子经典二元论框架，我们认为这种观点忽视了量子信息的本质和观察者维度提升的可能性。本文提出，文明间的有效交流可以通过量子纠缠和高效经典化，实现熵的减少和知识的增加，从而打破"黑暗森林"模式，促进文明的维度跃迁和共同进化。

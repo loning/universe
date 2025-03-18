@@ -1,5 +1,11 @@
-# 虫洞量子纠缠：宇宙量子信息通道理论
-# Wormhole Quantum Entanglement: Theory of Universal Quantum Information Channels
+# 虫洞与量子纠缠：宇宙信息通道的观察者视角
+# Wormholes and Quantum Entanglement: Observer Perspective on Universal Information Channels
+
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[虫洞与量子纠缠的本质](#虫洞与量子纠缠的本质) | [ER=EPR对应关系](#ereppeprdavis公式诠释)  
+English: [Essence of Wormholes and Quantum Entanglement](#english-version) | [ER=EPR Correspondence](#english-version)
 
 ## 中文版
 

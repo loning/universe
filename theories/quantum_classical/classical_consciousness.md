@@ -1,5 +1,11 @@
 # 经典意识 | Classical Consciousness
 
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [经典意识的本质](#经典意识的本质--the-nature-of-classical-consciousness) | [经典意识与量子意识的对比](#经典意识与量子意识的对比--comparison-of-classical-and-quantum-consciousness)  
+English: [Introduction](#简介--introduction) | [Nature of Classical Consciousness](#经典意识的本质--the-nature-of-classical-consciousness) | [Comparison with Quantum Consciousness](#经典意识与量子意识的对比--comparison-of-classical-and-quantum-consciousness)
+
 ## 版本 | Version
 2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
 

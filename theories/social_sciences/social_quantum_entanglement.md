@@ -1,5 +1,11 @@
 # 社会行为中的量子纠缠效率排序 (Quantum Entanglement Efficiency Ranking in Social Behaviors)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[量子纠缠效率的本质](#1-量子纠缠效率的本质) | [社会行为中的量子纠缠效率排序](#2-社会行为中的量子纠缠效率排序) | [高效纠缠](#21-高效纠缠熵低经典知识多) | [中效纠缠](#22-中效纠缠) | [低效纠缠](#23-低效纠缠熵高经典知识少)  
+English: [Nature of Quantum Entanglement Efficiency](#english-version) | [Quantum Entanglement Efficiency Ranking in Social Behaviors](#english-version) | [High-Efficiency Entanglement](#english-version) | [Medium-Efficiency Entanglement](#english-version) | [Low-Efficiency Entanglement](#english-version)
+
 ## 中文版
 
 本文基于量子经典二元论框架，分析人类社会行为中量子纠缠效率的排序，并解释不同类型社会互动的经典化效率差异。

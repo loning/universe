@@ -1,5 +1,11 @@
 # 经济学视角下的量子经典二元论 (Quantum-Classical Dualism from Economics Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言经济学与量子经典二元论) | [微观经济学视角](#2-微观经济学视角) | [宏观经济学视角](#3-宏观经济学视角) | [行为经济学视角](#4-行为经济学视角) | [信息经济学视角](#6-信息经济学视角)  
+English: [Introduction](#1-introduction-economics-and-quantum-classical-dualism) | [Microeconomics Perspective](#2-microeconomics-perspective) | [Macroeconomics Perspective](#3-macroeconomics-perspective) | [Behavioral Economics Perspective](#4-behavioral-economics-perspective) | [Information Economics Perspective](#6-information-economics-perspective)
+
 ## 索引
 
 ### 主要章节

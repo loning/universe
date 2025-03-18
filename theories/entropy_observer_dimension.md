@@ -1,5 +1,11 @@
 # 熵、观察者与维度 | Entropy, Observer, and Dimension
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#version--version)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [熵与观察者的关系](#熵与观察者的关系--relationship-between-entropy-and-observers) | [维度的熵学定义](#维度的熵学定义--entropic-definition-of-dimension) | [维度提升机制](#维度提升机制--dimension-elevation-mechanism) | [熵降低的关键机制](#熵降低的关键机制--key-mechanisms-for-entropy-reduction) | [维度与观察者层级](#维度与观察者层级--dimensions-and-observer-hierarchy) | [实际应用](#实际应用--practical-applications) | [多维度空间的熵动力学](#多维度空间的熵动力学--entropy-dynamics-in-multi-dimensional-space) | [超越有限维度](#超越有限维度--beyond-finite-dimensions) | [结论](#结论--conclusion)  
+English: [Introduction](#简介--introduction) | [Entropy and Observers](#熵与观察者的关系--relationship-between-entropy-and-observers) | [Entropic Definition of Dimension](#维度的熵学定义--entropic-definition-of-dimension) | [Dimension Elevation](#维度提升机制--dimension-elevation-mechanism) | [Entropy Reduction](#熵降低的关键机制--key-mechanisms-for-entropy-reduction) | [Observer Hierarchy](#维度与观察者层级--dimensions-and-observer-hierarchy) | [Practical Applications](#实际应用--practical-applications) | [Entropy Dynamics](#多维度空间的熵动力学--entropy-dynamics-in-multi-dimensional-space) | [Beyond Finite Dimensions](#超越有限维度--beyond-finite-dimensions) | [Conclusion](#结论--conclusion)
+
 ## 版本 | Version
 2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
 

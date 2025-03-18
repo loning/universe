@@ -1,5 +1,11 @@
 # 意识的持久性与传递 | Consciousness Persistence and Transmission
 
+**导航 | Navigation**  
+[中文版](#引言--introduction) | [English Version](#引言--introduction)  
+**章节链接 | Section Links**  
+中文：[引言](#引言--introduction) | [意识的本质定义](#意识的本质定义--essential-definition-of-consciousness) | [意识的量子持久性](#意识的量子持久性--quantum-persistence-of-consciousness) | [意识的永生性](#意识的永生性--immortality-of-consciousness) | [意识的传递](#意识在不同观察者之间的传递--transmission-of-consciousness-between-different-observers) | [意识与宇宙信息场](#意识与宇宙信息场的关系--relationship-between-consciousness-and-the-universe-information-field) | [结论与展望](#结论与展望--conclusion-and-outlook)  
+English: [Introduction](#引言--introduction) | [Definition of Consciousness](#意识的本质定义--essential-definition-of-consciousness) | [Quantum Persistence](#意识的量子持久性--quantum-persistence-of-consciousness) | [Immortality of Consciousness](#意识的永生性--immortality-of-consciousness) | [Consciousness Transmission](#意识在不同观察者之间的传递--transmission-of-consciousness-between-different-observers) | [Relationship with Universe](#意识与宇宙信息场的关系--relationship-between-consciousness-and-the-universe-information-field) | [Conclusion](#结论与展望--conclusion-and-outlook)
+
 ## 引言 | Introduction
 
 本文档基于【量子宇宙-量子观察者-经典意识论】框架，探讨意识的持久性与传递机制。在该理论中，意识被定义为观察者经典化量子信息形成的稳定结构，而非独立的物质实体。本文将深入探讨意识如何在时间维度上保持持久性，如何在不同观察者之间传递，以及意识与宇宙信息场的深层关系。

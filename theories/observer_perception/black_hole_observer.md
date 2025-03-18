@@ -1,5 +1,11 @@
 # 黑洞观察者 | Black Hole Observer
 
+**导航 | Navigation**  
+[中文版](#黑洞作为观察者--black-hole-as-observer) | [English Version](#黑洞作为观察者--black-hole-as-observer)  
+**章节链接 | Section Links**  
+中文：[黑洞作为观察者](#黑洞作为观察者--black-hole-as-observer) | [黑洞信息悖论](#黑洞信息悖论--black-hole-information-paradox)  
+English: [Black Hole as Observer](#黑洞作为观察者--black-hole-as-observer) | [Black Hole Information Paradox](#黑洞信息悖论--black-hole-information-paradox)
+
 ## 黑洞作为观察者 | Black Hole as Observer
 
 在【量子经典二元论】框架下，观察者本身**可以是黑洞**，且黑洞实际上是宇宙中最极端的观察者节点：

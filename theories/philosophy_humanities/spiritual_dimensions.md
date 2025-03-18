@@ -1,10 +1,10 @@
-# 灵性维度与经典化 (Spiritual Dimensions and Classicalization)
+# 精神维度与非物质意识 | Spiritual Dimensions and Non-material Consciousness
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[高维观察者与灵性导师](#1-高维观察者与灵性导师) | [转世与量子连续性](#2-转世与量子连续性) | [冥想与经典化控制](#3-冥想与经典化控制) | [灵性实践与量子信息处理](#4-灵性实践与量子信息处理) | [实证案例研究](#5-实证案例研究)  
-English: [Higher Dimensional Observers](#1-higher-dimensional-observers-and-spiritual-guides) | [Reincarnation & Quantum Continuity](#2-reincarnation-and-quantum-continuity) | [Meditation & Classicalization Control](#3-meditation-and-classicalization-control) | [Spiritual Practices](#4-spiritual-practices-and-quantum-information-processing) | [Empirical Case Studies](#5-empirical-case-studies)
+中文：[引言](#引言精神维度与量子经典二元论) | [非物质意识](#非物质意识--non-material-consciousness) | [灵性体验](#灵性体验--spiritual-experiences) | [意识超越](#意识超越--consciousness-transcendence)  
+English: [Introduction](#introduction-spiritual-dimensions-and-quantum-classical-dualism) | [Non-material Consciousness](#非物质意识--non-material-consciousness) | [Spiritual Experiences](#灵性体验--spiritual-experiences) | [Consciousness Transcendence](#意识超越--consciousness-transcendence)
 
 ## 中文版
 

@@ -1,5 +1,11 @@
 # 黑洞：宇宙信息经典化的极致节点 (Black Holes: Ultimate Nodes of Universal Information Classicalization)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[基本概念](#基本概念) | [黑洞经典化的本质](#黑洞经典化的本质) | [数学表达](#数学表达) | [黑洞经典化的特性](#黑洞经典化的特性) | [黑洞信息悖论的解决](#黑洞信息悖论的解决) | [黑洞与观察者的关系](#黑洞与观察者的关系) | [黑洞经典化的宇宙意义](#黑洞经典化的宇宙意义) | [实验验证与预测](#实验验证与预测) | [结论](#结论)  
+English: [Basic Concepts](#basic-concepts) | [Nature of Black Hole Classicalization](#the-nature-of-black-hole-classicalization) | [Mathematical Expression](#mathematical-expression) | [Characteristics](#characteristics-of-black-hole-classicalization) | [Information Paradox Resolution](#resolution-of-the-black-hole-information-paradox) | [Relationship with Observers](#relationship-between-black-holes-and-observers) | [Cosmic Significance](#cosmic-significance-of-black-hole-classicalization) | [Experimental Verification](#experimental-verification-and-predictions) | [Conclusion](#conclusion)
+
 ## 中文版
 
 ### 基本概念

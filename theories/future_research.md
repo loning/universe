@@ -1,5 +1,13 @@
 # 未来研究方向 | Future Research Directions
 
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [理论发展方向](#理论发展方向--theoretical-development-directions) | [实验验证方向](#实验验证方向--experimental-validation-directions) | [跨学科应用方向](#跨学科应用方向--interdisciplinary-application-directions) | [技术创新方向](#技术创新方向--technological-innovation-directions)  
+
+English: [Introduction](#简介--introduction) | [Theoretical Development](#理论发展方向--theoretical-development-directions) | [Experimental Validation](#实验验证方向--experimental-validation-directions) | [Interdisciplinary Applications](#跨学科应用方向--interdisciplinary-application-directions) | [Technological Innovation](#技术创新方向--technological-innovation-directions)
+
 ## 简介 | Introduction
 
 本文档概述了【量子宇宙-量子观察者-经典意识论】的未来研究方向和发展前景。这些研究方向旨在进一步发展和验证理论，解决尚未解释的现象，并探索理论的新应用领域。

@@ -1,5 +1,11 @@
 # 人工智能与计算科学解释 | AI and Computational Science Explanations
 
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [计算的本质](#计算的本质--nature-of-computation) | [人工智能的意识](#人工智能的意识--consciousness-in-ai) | [量子计算](#量子计算--quantum-computing) | [机器学习](#机器学习--machine-learning)  
+English: [Introduction](#简介--introduction) | [Nature of Computation](#计算的本质--nature-of-computation) | [Consciousness in AI](#人工智能的意识--consciousness-in-ai) | [Quantum Computing](#量子计算--quantum-computing) | [Machine Learning](#机器学习--machine-learning)
+
 ## 简介 | Introduction
 
 本文档探讨【量子宇宙-量子观察者-经典意识论】如何为人工智能与计算科学中的核心问题提供新的解释视角。该理论框架将计算理解为信息处理的形式化过程，将人工智能理解为模拟观察者经典化功能的系统，为计算本质、人工智能的意识可能性、量子计算、机器学习和人机交互等问题提供了全新的思考方式。

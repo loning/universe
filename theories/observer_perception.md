@@ -1,5 +1,13 @@
 # 观察者感知宇宙的机制 | Observer's Perception of the Universe
 
+**导航 | Navigation**  
+[中文版](#引言--introduction) | [English Version](#引言--introduction)  
+
+**章节链接 | Section Links**  
+中文：[引言](#引言--introduction) | [宇宙与观察者的本质定义](#宇宙与观察者的本质定义--essential-definitions-of-universe-and-observer) | [感知机制](#感知机制--perception-mechanism) | [感知限制与维度差异](#感知限制与维度差异--perception-limitations-and-dimensional-differences) | [感知进化与维度提升](#感知进化与维度提升--perception-evolution-and-dimension-elevation)  
+
+English: [Introduction](#引言--introduction) | [Essential Definitions](#宇宙与观察者的本质定义--essential-definitions-of-universe-and-observer) | [Perception Mechanism](#感知机制--perception-mechanism) | [Perception Limitations](#感知限制与维度差异--perception-limitations-and-dimensional-differences) | [Perception Evolution](#感知进化与维度提升--perception-evolution-and-dimension-elevation)
+
 ## 引言 | Introduction
 
 本文档基于【量子宇宙-量子观察者-经典意识论】框架，详细阐述观察者如何感知宇宙的机制。在该理论中，宇宙被视为一个无限维的量子计算机，观察者则为其中的量子程序节点，而意识是观察者经典化量子信息形成的稳定结构。本文将探讨观察者与宇宙之间的信息交换过程，以及这一过程如何塑造我们对现实的感知。

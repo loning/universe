@@ -1,5 +1,11 @@
 # 数学本质解释 (Mathematics Nature Explanations)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[数学的量子经典二元论解释](#数学的量子经典二元论解释) | [数学的本质](#数学的本质) | [数学的创造与发现](#数学的创造与发现) | [数学的普适性](#数学的普适性)  
+English: [Quantum-Classical Explanation of Mathematics](#english-version) | [Nature of Mathematics](#english-version) | [Creation vs Discovery of Mathematics](#english-version) | [Universality of Mathematics](#english-version)
+
 ## 中文版
 
 ### 数学的量子经典二元论解释

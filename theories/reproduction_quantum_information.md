@@ -1,5 +1,13 @@
 # 生育过程与亲子关系的量子经典解释 (Quantum-Classical Explanation of Reproduction and Parent-Child Relationships)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+
+**章节链接 | Section Links**  
+中文：[生育的量子经典本质](#1-生育的量子经典本质) | [母亲与孩子的量子纠缠](#2-母亲与孩子的量子纠缠) | [父亲的量子影响](#3-父亲的量子影响) | [遗传与环境的量子经典理解](#4-遗传与环境的量子经典理解) | [量子认同与亲子关系](#5-量子认同与亲子关系)  
+
+English: [Quantum-Classical Nature](#1-quantum-classical-nature-of-reproduction) | [Mother-Child Entanglement](#2-quantum-entanglement-between-mother-and-child) | [Father's Quantum Influence](#3-fathers-quantum-influence) | [Genetics and Environment](#4-quantum-classical-understanding-of-heredity-and-environment) | [Identity and Relationships](#5-quantum-identity-and-parent-child-relationships)
+
 ## 中文版
 
 本文探讨量子经典二元论框架下生育过程与亲子关系的本质，阐述父母与子女之间的量子纠缠、信息传递及其对亲子关系的影响。

@@ -1,4 +1,10 @@
-# 量子经典 | Quantum Classical
+# 量子经典二元论 | Quantum-Classical Dualism
+
+**导航 | Navigation**  
+[中文版](#量子经典二元论概述) | [English Version](#quantum-classical-dualism-overview)  
+**章节链接 | Section Links**  
+中文：[概述](#量子经典二元论概述) | [核心原理](#核心原理) | [理论结构](#理论结构) | [应用领域](#应用领域)  
+English: [Overview](#quantum-classical-dualism-overview) | [Core Principles](#core-principles) | [Theoretical Structure](#theoretical-structure) | [Application Areas](#application-areas)
 
 ## 简介 | Introduction
 

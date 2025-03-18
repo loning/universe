@@ -1,6 +1,14 @@
 # 量子宇宙的整体纠缠结构与熵的本质研究
 # Research on the Overall Entanglement Structure of Quantum Universe and the Essence of Entropy
 
+**导航 | Navigation**  
+[中文版](#版本--version) | [English Version](#版本--version)  
+
+**章节链接 | Section Links**  
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [宇宙的整体纠缠结构](#二宇宙的整体纠缠结构--the-overall-entanglement-structure-of-the-universe) | [熵的本质](#三熵的本质--the-essence-of-entropy) | [观察者的经典化过程](#四观察者的经典化过程--the-observer-classicalization-process) | [熵与信息守恒](#五熵与信息守恒--entropy-and-information-conservation)
+
+English: [Abstract](#摘要--abstract) | [Introduction](#一引言--introduction) | [Entanglement Structure](#二宇宙的整体纠缠结构--the-overall-entanglement-structure-of-the-universe) | [Essence of Entropy](#三熵的本质--the-essence-of-entropy) | [Observer Classicalization](#四观察者的经典化过程--the-observer-classicalization-process) | [Information Conservation](#五熵与信息守恒--entropy-and-information-conservation)
+
 ## 版本 | Version
 2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
 

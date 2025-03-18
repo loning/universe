@@ -1,5 +1,11 @@
 # 传播媒体与信息理论的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Media and Information Theory)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[信息的量子经典二元论本质](#1-信息的量子经典二元论本质) | [媒体作为经典化工具](#2-媒体作为经典化工具) | [社交媒体与集体经典化](#3-社交媒体与集体经典化) | [媒体生态与信息流动](#4-媒体生态与信息流动)  
+English: [Quantum-Classical Nature of Information](#english-version) | [Media as Classicalization Tools](#english-version) | [Social Media and Collective Classicalization](#english-version) | [Media Ecology and Information Flow](#english-version)
+
 ## 中文版
 
 ### 1. 信息的量子经典二元论本质
