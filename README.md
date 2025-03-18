@@ -7,7 +7,8 @@
 ### 项目结构
 
 #### 核心理论 | Core Theory
-- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本3.5）
+- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本7.3）
+- [宇宙诞生过程](./theories/universe_creation_process.md) - 【量子经典二元论】宇宙诞生到今天的全过程（版本7.3）
 - [物理解释](./core_explain.md) - 使用量子经典二元论解释现实物理与宇宙
 - [简介](./01_introduction.md) - 简介 (Introduction)
 - [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)
@@ -325,7 +326,8 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 ### Project Structure
 
 #### Core Theory
-- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 3.5)
+- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 7.3)
+- [Universe Creation Process](./theories/universe_creation_process.md) - Quantum-Classical Dualism Universe Creation Process from Ancient to Today (Version 7.3)
 - [Physical Explanation](./core_explain.md) - Using Quantum-Classical Dualism to Explain Physical Reality and the Universe
 - [Introduction](./01_introduction.md) - Introduction
 - [Basic Concepts](./02_basic_concepts.md) - Basic Concepts
