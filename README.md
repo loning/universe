@@ -8,7 +8,6 @@
 
 #### 核心理论 | Core Theory
 - [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本3.5）
-- [双语核心理论](./core_bilingual.md) - 【量子经典二元论】核心理论双语版（版本3.5）
 - [物理解释](./core_explain.md) - 使用量子经典二元论解释现实物理与宇宙
 - [简介](./01_introduction.md) - 简介 (Introduction)
 - [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)
@@ -327,7 +326,6 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 #### Core Theory
 - [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 3.5)
-- [Bilingual Core Theory](./core_bilingual.md) - Quantum-Classical Dualism Core Theory Bilingual Version (Version 3.5)
 - [Physical Explanation](./core_explain.md) - Using Quantum-Classical Dualism to Explain Physical Reality and the Universe
 - [Introduction](./01_introduction.md) - Introduction
 - [Basic Concepts](./02_basic_concepts.md) - Basic Concepts
