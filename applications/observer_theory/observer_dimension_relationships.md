@@ -1,5 +1,11 @@
 # 观察者维度提升的多层级效应 | Multi-level Effects of Observer Dimension Enhancement
 
+**导航 | Navigation**
+
+中文：[引言](#中文版) | [个体与集体系统](#个体与集体系统的经典化关系) | [高维观察者影响](#高维观察者对低维观察者的影响机制) | [应用价值](#应用价值与实践指导) | [结论](#结论与未来方向)
+
+English: [Introduction](#english-version) | [Individual-Collective Systems](#relationship-between-individual-and-collective-systems) | [Higher-Dimensional Observer Impact](#impact-mechanisms-of-higher-dimensional-observers) | [Applications](#application-value-and-practical-guidance) | [Conclusion](#conclusion-and-future-directions)
+
 ## 中文版
 
 ### 引言

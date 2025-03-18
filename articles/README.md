@@ -1,5 +1,9 @@
 # 文章 | Articles
 
+**导航 | Navigation**  
+**章节链接 | Section Links**  
+[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论文章](#量子经典二元论文章-quantum-classical-dualism-articles) | [返回主页](#返回--return)
+
 ## 简介 | Introduction
 
 本目录包含与宇宙观察者理论相关的各种文章和探讨。

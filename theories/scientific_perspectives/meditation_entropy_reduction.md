@@ -1,4 +1,11 @@
 # 冥想减熵机制：量子经典二元论视角
+# Meditation Entropy Reduction Mechanism: A Quantum-Classical Dualism Perspective
+
+**导航 | Navigation**  
+[中文版](#引言) | [English Version](#introduction)  
+**章节链接 | Section Links**  
+中文：[引言](#引言) | [核心机制](#冥想减熵的核心机制) | [神经科学证据](#冥想减熵的神经科学证据) | [实践应用](#冥想减熵的实践应用) | [结论](#结论)  
+English: [Introduction](#introduction) | [Core Mechanisms](#core-mechanisms-of-meditation-entropy-reduction) | [Neuroscience Evidence](#neuroscience-evidence-of-meditation-entropy-reduction) | [Practical Applications](#practical-applications-of-meditation-entropy-reduction) | [Conclusion](#conclusion)
 
 ## 引言
 

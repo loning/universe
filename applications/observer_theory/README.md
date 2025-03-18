@@ -1,5 +1,11 @@
 # 观察者理论应用 | Observer Theory Applications
 
+**导航 | Navigation**
+
+中文：[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论应用](#量子经典二元论观察者理论应用-quantum-classical-dualism-observer-theory-applications) | [返回](#返回--return)
+
+English: [Introduction](#简介--introduction) | [Contents](#目录--contents) | [Quantum-Classical Applications](#量子经典二元论观察者理论应用-quantum-classical-dualism-observer-theory-applications) | [Return](#返回--return)
+
 ## 简介 | Introduction
 
 本目录包含与观察者理论相关的各种应用和实际案例。

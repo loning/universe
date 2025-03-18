@@ -1,5 +1,11 @@
 # 意识理解局限与跨维度治疗方法 | Consciousness Understanding Limitations and Cross-dimensional Healing Methods
 
+**导航 | Navigation**
+
+中文：[引言](#中文版) | [意识理解局限](#意识理解的根本局限性) | [经典医疗局限](#经典医疗方法的局限性来源) | [跨维度治疗](#跨维度治疗方法) | [实践应用](#实践应用与未来展望)
+
+English: [Introduction](#english-version) | [Consciousness Limitations](#fundamental-limitations-of-consciousness-understanding) | [Classical Medicine Limitations](#limitations-of-classical-medical-methods) | [Cross-dimensional Healing](#cross-dimensional-healing-methods) | [Applications](#practical-applications-and-future-outlook)
+
 ## 中文版
 
 ### 引言

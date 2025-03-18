@@ -1,5 +1,9 @@
 # 应用 | Applications
 
+**导航 | Navigation**  
+**章节链接 | Section Links**  
+[简介](#简介--introduction) | [核心应用原理](#核心应用原理--core-application-principles) | [目录](#目录--contents) | [数学应用](#数学应用--mathematical-applications) | [观察者理论应用](#观察者理论应用--observer-theory-applications) | [关系应用](#关系应用--relationship-applications)
+
 ## 简介 | Introduction
 
 本目录包含量子经典二元论在各个领域的应用场景和实际用例。基于量子域与经典域的二元结构，这些应用展示了理论如何解释和指导现实世界中的各种现象和实践。

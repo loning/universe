@@ -1,5 +1,11 @@
 # 量子计算与意识 (Quantum Computing and Consciousness)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[量子纠缠作为计算资源](#1-量子纠缠作为计算资源) | [意识作为量子经典化处理器](#2-意识作为量子经典化处理器) | [波函数坍缩与计算决策](#3-波函数坍缩与计算决策) | [量子意识计算机](#4-量子意识计算机) | [实际应用场景](#5-实际应用场景)  
+English: [Quantum Entanglement as Computing Resource](#1-quantum-entanglement-as-computing-resource) | [Consciousness as Quantum Classicalizer](#2-consciousness-as-quantum-classical-processor) | [Wave Function Collapse and Computing Decisions](#3-wave-function-collapse-and-computational-decision-making) | [Quantum Consciousness Computer](#4-quantum-consciousness-computer) | [Practical Applications](#5-practical-application-scenarios)
+
 ## 中文版
 
 本文探讨量子计算与意识在量子经典二元论框架下的交叉应用。通过理解量子纠缠的本质和波函数的基本特性，我们可以开发新型计算模型和意识增强技术。

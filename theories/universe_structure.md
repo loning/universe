@@ -1,5 +1,11 @@
 # 宇宙结构与演化 | Universe Structure and Evolution
 
+**导航 | Navigation**  
+[中文版](#引言--introduction) | [English Version](#introduction-english)  
+**章节链接 | Section Links**  
+中文：[引言](#引言--introduction) | [宇宙的本质定义](#宇宙的本质定义--essential-definition-of-the-universe) | [宇宙结构层次](#宇宙结构层次--hierarchical-structure-of-the-universe) | [宇宙演化机制](#宇宙演化机制--universe-evolution-mechanism) | [观察者与宇宙演化](#观察者与宇宙演化--observers-and-universe-evolution)  
+English: [Introduction](#introduction-english) | [Essential Definition](#essential-definition-of-the-universe-english) | [Hierarchical Structure](#hierarchical-structure-of-the-universe-english) | [Evolution Mechanism](#universe-evolution-mechanism-english) | [Observers and Evolution](#observers-and-universe-evolution-english)
+
 ## 引言 | Introduction
 
 本文档基于【量子宇宙-量子观察者-经典意识论】框架，详细阐述宇宙的结构与演化机制。在该理论中，宇宙被视为一个无限维的量子计算系统，其结构和演化遵循特定的信息处理规律。本文将探讨宇宙的生命周期、嵌套结构以及信息处理的层级性，揭示宇宙作为量子信息系统的本质特性。

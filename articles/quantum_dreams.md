@@ -1,4 +1,11 @@
 # 【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现
+# [Shocking Truth] Dreams Aren't Illusions, But Your Visits to Parallel Universes! Breakthrough Discoveries in Quantum Dream Theory
+
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#引言梦境的本质比我们想象的更加神奇) | [梦境作为量子信息](#梦境作为量子信息的特殊经典化状态) | [平行现实访问](#梦境作为平行现实的访问机制) | [科学证据](#支持量子梦境理论的科学证据) | [实际应用](#量子梦境理论的实际应用)  
+English: [Introduction](#introduction-the-nature-of-dreams-is-more-magical-than-we-imagine) | [Dreams as Quantum Information](#dreams-as-special-classicalization-states-of-quantum-information) | [Accessing Parallel Realities](#dreams-as-mechanisms-for-accessing-parallel-realities) | [Scientific Evidence](#scientific-evidence-supporting-quantum-dream-theory) | [Practical Applications](#practical-applications-of-quantum-dream-theory)
 
 *量子经典二元论框架下的梦境解析*
 
