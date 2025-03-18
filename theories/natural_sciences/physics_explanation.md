@@ -1,5 +1,11 @@
 # 物理学视角下的量子经典二元论 (Quantum-Classical Dualism from Physics Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言物理学与量子经典二元论) | [量子物理学视角](#2-量子物理学视角) | [相对论视角](#3-相对论视角) | [热力学视角](#4-热力学视角) | [物理学统一理论视角](#5-物理学统一理论视角)  
+English: [Introduction](#1-introduction-physics-and-quantum-classical-dualism) | [Quantum Physics Perspective](#2-quantum-physics-perspective) | [Relativity Perspective](#3-relativity-perspective) | [Thermodynamics Perspective](#4-thermodynamics-perspective) | [Unified Theory Perspective](#5-unified-theory-perspective-in-physics)
+
 ## 中文版
 
 本文从物理学的视角详细解释量子经典二元论核心理论，建立理论与现代物理学之间的概念桥梁。

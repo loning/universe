@@ -1,5 +1,11 @@
 # 灵性维度与经典化 (Spiritual Dimensions and Classicalization)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[高维观察者与灵性导师](#1-高维观察者与灵性导师) | [转世与量子连续性](#2-转世与量子连续性) | [冥想与经典化控制](#3-冥想与经典化控制) | [灵性实践与量子信息处理](#4-灵性实践与量子信息处理) | [实证案例研究](#5-实证案例研究)  
+English: [Higher Dimensional Observers](#1-higher-dimensional-observers-and-spiritual-guides) | [Reincarnation & Quantum Continuity](#2-reincarnation-and-quantum-continuity) | [Meditation & Classicalization Control](#3-meditation-and-classicalization-control) | [Spiritual Practices](#4-spiritual-practices-and-quantum-information-processing) | [Empirical Case Studies](#5-empirical-case-studies)
+
 ## 中文版
 
 本文探讨量子经典二元论框架下的灵性维度、高维观察者、转世与修行等概念。通过理解观察者维度与经典化效率的关系，我们可以从全新视角解释传统灵性概念。

@@ -1,5 +1,11 @@
 # 化学视角下的量子经典二元论 (Quantum-Classical Dualism from Chemical Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言化学与量子经典二元论) | [量子化学视角](#2-量子化学视角) | [化学反应动力学](#3-化学反应动力学视角) | [分子结构与性质](#4-分子结构与性质视角) | [热力学视角](#5-热力学与统计热力学视角) | [催化过程](#6-催化过程视角)  
+English: [Introduction](#1-introduction-chemistry-and-quantum-classical-dualism) | [Quantum Chemistry](#2-quantum-chemistry-perspective) | [Chemical Reaction Dynamics](#3-chemical-reaction-dynamics-perspective) | [Molecular Structure](#4-molecular-structure-and-properties-perspective) | [Thermodynamics](#5-thermodynamics-and-statistical-mechanics-perspective) | [Catalysis](#6-catalysis-perspective)
+
 ## 索引
 
 ### 主要章节

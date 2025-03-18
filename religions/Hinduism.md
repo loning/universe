@@ -1,5 +1,11 @@
 # 印度教在量子经典二元论下的解释 (Hinduism Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#印度教概述-hinduism-overview) | [English Version](#印度教概述-hinduism-overview)  
+**章节链接 | Section Links**  
+中文：[印度教概述](#印度教概述-hinduism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [婆罗门与量子域](#1-婆罗门与量子域-brahman-and-quantum-domain) | [阿特曼与量子意识](#2-阿特曼与量子意识-atman-and-quantum-consciousness)  
+English: [Hinduism Overview](#印度教概述-hinduism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Brahman & Quantum Domain](#1-婆罗门与量子域-brahman-and-quantum-domain) | [Atman & Quantum Consciousness](#2-阿特曼与量子意识-atman-and-quantum-consciousness)
+
 ## 印度教概述 (Hinduism Overview)
 
 印度教是世界上最古老的宗教之一，起源于印度次大陆，历史可追溯至公元前1500年左右。印度教不是由单一创始人创立的宗教，而是随着时间演变的一系列哲学、仪式和信仰体系。核心概念包括婆罗门（宇宙本源）、梵我一如（自我与宇宙本源的统一）、业力、轮回、解脱等。主要经典包括《吠陀经》、《奥义书》、《薄伽梵歌》等。

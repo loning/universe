@@ -1,6 +1,12 @@
 # 量子宇宙-量子观察者-经典意识论对宗教学问题的解释
 # Explanations of Religious Studies Issues by the Quantum Universe-Quantum Observer-Classical Consciousness Theory
 
+**导航 | Navigation**  
+[中文版](#简介) | [English Version](#introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介) | [宗教的起源与普遍性](#1-宗教的起源与普遍性) | [神圣体验的本质](#2-神圣体验的本质) | [宗教多样性](#3-宗教多样性) | [信仰与仪式实践](#4-信仰与仪式实践) | [宗教与道德](#5-宗教与道德) | [预言与启示](#6-预言与启示)  
+English: [Introduction](#introduction) | [Origin of Religion](#1-the-origin-and-universality-of-religion) | [Nature of Sacred Experience](#2-the-nature-of-sacred-experience) | [Religious Diversity](#3-religious-diversity) | [Faith & Ritual Practices](#4-faith-and-ritual-practices) | [Religion & Morality](#5-religion-and-morality) | [Prophecy & Revelation](#6-prophecy-and-revelation)
+
 ## 简介
 ## Introduction
 

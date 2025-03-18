@@ -1,5 +1,11 @@
 # 宗教在量子经典二元论下的解释 (Religions Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#包含的宗教-included-religions) | [English Version](#包含的宗教-included-religions)  
+**章节链接 | Section Links**  
+中文：[包含的宗教](#包含的宗教-included-religions) | [目的](#目的-purpose)  
+English: [Included Religions](#包含的宗教-included-religions) | [Purpose](#目的-purpose)
+
 本目录包含对主要世界宗教的解释，基于量子经典二元论框架。每个宗教都在其独立文件中通过二元论视角进行了解释，展示了这一理论如何与各种宗教思想相融合。
 
 This directory contains explanations of major world religions based on the Quantum-Classical Dualism framework. Each religion is explained in its own file through the dualistic perspective, showing how this theory integrates with various religious thoughts.

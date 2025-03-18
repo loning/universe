@@ -1,5 +1,11 @@
 # 宗教学视角下的量子经典二元论 (Quantum-Classical Dualism from Religious Studies Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言宗教学与量子经典二元论) | [宗教经验视角](#2-宗教经验视角) | [宗教系统视角](#3-宗教系统视角) | [宗教仪式视角](#4-宗教仪式视角) | [宗教文本与解释视角](#5-宗教文本与解释视角) | [神学与宇宙论视角](#6-神学与宇宙论视角) | [宗教道德视角](#7-宗教道德视角) | [宗教多元性视角](#8-宗教多元性视角) | [预测与应用](#9-宗教学视角下的预测与应用) | [结论](#10-结论)  
+English: [Introduction](#1-introduction-religious-studies-and-quantum-classical-dualism) | [Religious Experience](#2-religious-experience-perspective) | [Religious Systems](#3-religious-systems-perspective) | [Religious Rituals](#4-religious-rituals-perspective) | [Religious Texts & Interpretation](#5-religious-texts-and-interpretation-perspective) | [Theology & Cosmology](#6-theology-and-cosmology-perspective) | [Religious Ethics](#7-religious-ethics-perspective) | [Religious Pluralism](#8-religious-pluralism-perspective) | [Predictions & Applications](#9-predictions-and-applications) | [Conclusion](#10-conclusion)
+
 ## 索引
 
 ### 主要章节

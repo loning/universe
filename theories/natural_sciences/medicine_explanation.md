@@ -1,5 +1,11 @@
 # 医学视角下的量子经典二元论 (Quantum-Classical Dualism from Medical Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言医学与量子经典二元论) | [临床医学视角](#2-临床医学视角) | [生理学视角](#3-生理学视角) | [病理学视角](#4-病理学视角) | [神经医学视角](#5-神经医学视角) | [免疫学视角](#6-免疫学视角)  
+English: [Introduction](#1-introduction-medicine-and-quantum-classical-dualism) | [Clinical Medicine](#2-clinical-medicine-perspective) | [Physiology](#3-physiology-perspective) | [Pathology](#4-pathology-perspective) | [Neuromedicine](#5-neuromedicine-perspective) | [Immunology](#6-immunology-perspective)
+
 ## 中文版
 
 本文从医学的视角详细解释量子经典二元论核心理论，建立理论与现代医学之间的概念桥梁。

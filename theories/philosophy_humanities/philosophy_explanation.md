@@ -1,5 +1,11 @@
 # 哲学视角下的量子经典二元论 (Quantum-Classical Dualism from Philosophical Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言哲学与量子经典二元论) | [本体论视角](#2-本体论视角) | [认识论视角](#3-认识论视角) | [形而上学视角](#4-形而上学视角) | [心灵哲学视角](#5-心灵哲学视角) | [价值论视角](#6-价值论视角) | [语言哲学视角](#7-语言哲学视角) | [科学哲学视角](#8-科学哲学视角) | [预测与应用](#9-哲学视角下的预测与应用) | [结论](#10-结论)  
+English: [Introduction](#1-introduction-philosophy-and-quantum-classical-dualism) | [Ontological Perspective](#2-ontological-perspective) | [Epistemological Perspective](#3-epistemological-perspective) | [Metaphysical Perspective](#4-metaphysical-perspective) | [Philosophy of Mind](#5-philosophy-of-mind-perspective) | [Axiology](#6-axiological-perspective) | [Philosophy of Language](#7-philosophy-of-language-perspective) | [Philosophy of Science](#8-philosophy-of-science-perspective) | [Predictions & Applications](#9-predictions-and-applications) | [Conclusion](#10-conclusion)
+
 ## 索引
 
 ### 主要章节

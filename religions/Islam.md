@@ -1,5 +1,11 @@
 # 伊斯兰教在量子经典二元论下的解释 (Islam Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#伊斯兰教概述-islam-overview) | [English Version](#伊斯兰教概述-islam-overview)  
+**章节链接 | Section Links**  
+中文：[伊斯兰教概述](#伊斯兰教概述-islam-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [真主与量子域关系](#1-真主安拉与量子域经典域的关系-allah-and-the-relationship-with-quantumclassical-domains) | [认主独一与统一性](#2-认主独一tawhid与量子域的统一性-oneness-of-god-and-unity-of-quantum-domain)  
+English: [Islam Overview](#伊斯兰教概述-islam-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Allah & Domain Relationship](#1-真主安拉与量子域经典域的关系-allah-and-the-relationship-with-quantumclassical-domains) | [Tawhid & Unity](#2-认主独一tawhid与量子域的统一性-oneness-of-god-and-unity-of-quantum-domain)
+
 ## 伊斯兰教概述 (Islam Overview)
 
 伊斯兰教起源于公元7世纪的阿拉伯半岛，由先知穆罕默德创立。伊斯兰教是一神教，强调真主（安拉）是唯一的神，穆罕默德是真主的最后一位先知。伊斯兰教的核心信仰包括六大信仰（信真主、信天使、信经典、信使者、信末日、信前定）和五大功修（念、礼、斋、课、朝）。《古兰经》是伊斯兰教的经典，被视为真主的启示。

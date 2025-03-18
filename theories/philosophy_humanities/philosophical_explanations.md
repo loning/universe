@@ -1,5 +1,11 @@
 # 哲学问题解释 | Philosophical Explanations
 
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [心身问题](#心身问题--mind-body-problem) | [自由意志](#自由意志--free-will) | [个人同一性](#个人同一性--personal-identity) | [知识本质](#知识本质--nature-of-knowledge) | [意义与目的](#意义与目的--meaning-and-purpose)  
+English: [Introduction](#简介--introduction) | [Mind-Body Problem](#心身问题--mind-body-problem) | [Free Will](#自由意志--free-will) | [Personal Identity](#个人同一性--personal-identity) | [Nature of Knowledge](#知识本质--nature-of-knowledge) | [Meaning & Purpose](#意义与目的--meaning-and-purpose)
+
 ## 简介 | Introduction
 
 本文档探讨【量子宇宙-量子观察者-经典意识论】如何为传统哲学问题提供新的解释视角。该理论框架将宇宙视为量子信息系统，观察者视为量子程序，意识视为经典化信息结构，这一视角为哲学中的经典难题提供了全新的思考方式。

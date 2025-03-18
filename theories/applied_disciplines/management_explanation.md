@@ -1,5 +1,11 @@
 # 管理学视角下的量子经典二元论 (Quantum-Classical Dualism from Management Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言管理学与量子经典二元论) | [战略管理视角](#2-战略管理视角) | [组织结构与设计](#3-组织结构与设计视角) | [决策理论](#4-决策理论视角) | [领导力视角](#5-领导力视角) | [变革管理](#6-变革管理视角)  
+English: [Introduction](#1-introduction-management-and-quantum-classical-dualism) | [Strategic Management](#2-strategic-management-perspective) | [Organizational Structure](#3-organizational-structure-and-design-perspective) | [Decision Theory](#4-decision-theory-perspective) | [Leadership](#5-leadership-perspective) | [Change Management](#6-change-management-perspective)
+
 ## 索引
 
 ### 主要章节

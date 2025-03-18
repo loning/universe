@@ -1,5 +1,11 @@
 # 佛教在量子经典二元论下的解释 (Buddhism Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#佛教概述-buddhism-overview) | [English Version](#佛教概述-buddhism-overview)  
+**章节链接 | Section Links**  
+中文：[佛教概述](#佛教概述-buddhism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [量子域与经典域对应](#1-量子域与经典域的对应关系-correspondence-between-quantum-and-classical-domains) | [轮回与经典化过程](#2-轮回与经典化过程-samsara-and-the-classicalization-process)  
+English: [Buddhism Overview](#佛教概述-buddhism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Quantum & Classical Correspondence](#1-量子域与经典域的对应关系-correspondence-between-quantum-and-classical-domains) | [Samsara & Classicalization](#2-轮回与经典化过程-samsara-and-the-classicalization-process)
+
 ## 佛教概述 (Buddhism Overview)
 
 佛教起源于公元前6世纪的印度，由悉达多·乔达摩（佛陀）创立。佛教的核心教义包括四圣谛、八正道、无我、缘起、空性等概念，旨在引导人们脱离轮回苦海，达到涅槃的解脱境界。

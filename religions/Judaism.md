@@ -1,5 +1,11 @@
 # 犹太教在量子经典二元论下的解释 (Judaism Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#犹太教概述-judaism-overview) | [English Version](#犹太教概述-judaism-overview)  
+**章节链接 | Section Links**  
+中文：[犹太教概述](#犹太教概述-judaism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [上帝与量子域关系](#1-上帝yhwh与量子域经典域的关系-yhwh-and-the-relationship-with-quantumclassical-domains) | [独一神信仰与统一性](#2-独一神信仰与宇宙统一性-monotheism-and-cosmic-unity)  
+English: [Judaism Overview](#犹太教概述-judaism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [YHWH & Domain Relationship](#1-上帝yhwh与量子域经典域的关系-yhwh-and-the-relationship-with-quantumclassical-domains) | [Monotheism & Unity](#2-独一神信仰与宇宙统一性-monotheism-and-cosmic-unity)
+
 ## 犹太教概述 (Judaism Overview)
 
 犹太教是世界上最古老的一神教之一，起源于近东地区，历史可追溯至约4000年前。犹太教以对唯一上帝（YHWH）的信仰为核心，强调通过遵守律法（Torah）与上帝建立契约关系。主要经典包括《塔纳赫》（希伯来圣经，基督教旧约）、《塔木德》等。犹太教强调在现世中通过遵循诫命（mitzvot）实践公义、慈爱，期待弥赛亚时代的到来和世界的修复（Tikkun Olam）。

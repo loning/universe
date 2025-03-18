@@ -1,5 +1,11 @@
 # 数学视角下的量子经典二元论 (Quantum-Classical Dualism from Mathematics Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言数学与量子经典二元论) | [信息论视角](#2-信息论视角) | [复分析视角](#3-复分析视角) | [拓扑学视角](#4-拓扑学视角) | [概率论视角](#5-概率论视角) | [线性代数视角](#6-线性代数视角)  
+English: [Introduction](#1-introduction-mathematics-and-quantum-classical-dualism) | [Information Theory](#2-information-theory-perspective) | [Complex Analysis](#3-complex-analysis-perspective) | [Topology](#4-topology-perspective) | [Probability Theory](#5-probability-theory-perspective) | [Linear Algebra](#6-linear-algebra-perspective)
+
 ## 中文版
 
 本文从数学的视角详细解释量子经典二元论核心理论，建立理论与现代数学之间的概念桥梁。

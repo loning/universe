@@ -1,5 +1,11 @@
 # 道教在量子经典二元论下的解释 (Taoism Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#道教概述-taoism-overview) | [English Version](#道教概述-taoism-overview)  
+**章节链接 | Section Links**  
+中文：[道教概述](#道教概述-taoism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [道与量子域](#1-道与量子域的对应-correspondence-between-tao-and-quantum-domain) | [阴阳与二元结构](#2-阴阳与量子-经典二元结构-yin-yang-and-quantum-classical-dual-structure)  
+English: [Taoism Overview](#道教概述-taoism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Tao & Quantum Domain](#1-道与量子域的对应-correspondence-between-tao-and-quantum-domain) | [Yin-Yang & Dual Structure](#2-阴阳与量子-经典二元结构-yin-yang-and-quantum-classical-dual-structure)
+
 ## 道教概述 (Taoism Overview)
 
 道教起源于中国古代，以老子的《道德经》为基础，发展出了一套以"道"为核心的哲学和宗教体系。道教强调自然、无为、阴阳平衡与修道成仙。道教认为"道"是宇宙的本源，产生万物却不干涉万物，是一种无形但又无所不在的力量。道家思想强调顺应自然、清静无为、返朴归真。

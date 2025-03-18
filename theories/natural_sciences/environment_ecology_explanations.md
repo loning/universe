@@ -1,5 +1,11 @@
 # 环境科学与生态系统解释 (Environmental Science and Ecosystem Explanations)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[环境与生态系统](#环境与生态系统的量子经典二元论解释) | [生态系统本质](#生态系统的量子经典二元论本质) | [生物多样性](#生物多样性的量子经典解释) | [生态平衡](#生态平衡的量子经典解释) | [环境变化](#环境变化与观察者网络) | [可持续发展](#可持续发展的量子经典动态)  
+English: [Environment & Ecosystems](#quantum-classical-dualism-explanation-of-environment-and-ecosystems) | [Ecosystem Nature](#quantum-classical-nature-of-ecosystems) | [Biodiversity](#quantum-classical-explanation-of-biodiversity) | [Ecological Balance](#quantum-classical-explanation-of-ecological-balance) | [Environmental Change](#environmental-change-and-observer-networks) | [Sustainable Development](#quantum-classical-dynamics-of-sustainable-development)
+
 ## 中文版
 
 ### 环境与生态系统的量子经典二元论解释

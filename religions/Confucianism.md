@@ -1,5 +1,11 @@
 # 儒家思想在量子经典二元论下的解释 (Confucianism Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#儒家思想概述-confucianism-overview) | [English Version](#儒家思想概述-confucianism-overview)  
+**章节链接 | Section Links**  
+中文：[儒家思想概述](#儒家思想概述-confucianism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [天道与量子域](#1-天天道与量子域-heavendao-of-heaven-and-quantum-domain) | [仁与经典化核心](#2-仁与经典化核心-benevolence-and-classicalization-core)  
+English: [Confucianism Overview](#儒家思想概述-confucianism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Heaven & Quantum Domain](#1-天天道与量子域-heavendao-of-heaven-and-quantum-domain) | [Benevolence & Classicalization](#2-仁与经典化核心-benevolence-and-classicalization-core)
+
 ## 儒家思想概述 (Confucianism Overview)
 
 儒家思想起源于中国古代，由孔子（公元前551-479年）创立，后经孟子、荀子等人发展，成为中国传统文化的重要组成部分。儒家强调"仁、义、礼、智、信"等伦理道德，注重家庭关系和社会秩序，提倡"修身、齐家、治国、平天下"的理想。核心概念包括仁爱、中庸之道、天人合一、君子人格等。儒家思想虽不完全是宗教，但在东亚地区具有类似宗教的社会功能。

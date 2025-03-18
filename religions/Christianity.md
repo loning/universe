@@ -1,5 +1,11 @@
 # 基督教在量子经典二元论下的解释 (Christianity Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#基督教概述-christianity-overview) | [English Version](#基督教概述-christianity-overview)  
+**章节链接 | Section Links**  
+中文：[基督教概述](#基督教概述-christianity-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [上帝与二元结构](#1-上帝与量子域经典域二元结构-god-and-the-quantumclassical-domain-dual-structure) | [三位一体与对应关系](#2-三位一体与量子经典二元论对应-trinity-and-quantum-classical-dualism-correspondence)  
+English: [Christianity Overview](#基督教概述-christianity-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [God & Dual Structure](#1-上帝与量子域经典域二元结构-god-and-the-quantumclassical-domain-dual-structure) | [Trinity & Correspondence](#2-三位一体与量子经典二元论对应-trinity-and-quantum-classical-dualism-correspondence)
+
 ## 基督教概述 (Christianity Overview)
 
 基督教源于公元1世纪的犹太教，以耶稣基督的生平、教导、死亡与复活为核心。基督教强调上帝是宇宙的创造者，人类因原罪而与上帝隔绝，但通过耶稣基督的救赎可以与上帝和好，获得永生。基督教的核心教义包括三位一体、因信称义、爱与救赎等。

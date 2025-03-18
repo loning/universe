@@ -1,5 +1,11 @@
 # 生物学视角下的量子经典二元论 (Quantum-Classical Dualism from Biological Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言生物学与量子经典二元论) | [分子生物学视角](#2-分子生物学视角) | [细胞生物学视角](#3-细胞生物学视角) | [进化生物学视角](#4-进化生物学视角) | [神经生物学视角](#6-神经生物学视角)  
+English: [Introduction](#1-introduction-biology-and-quantum-classical-dualism) | [Molecular Biology](#2-molecular-biology-perspective) | [Cell Biology](#3-cell-biology-perspective) | [Evolutionary Biology](#4-evolutionary-biology-perspective) | [Neurobiology](#6-neurobiology-perspective)
+
 ## 索引
 
 ### 主要章节

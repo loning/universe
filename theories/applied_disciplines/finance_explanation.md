@@ -1,5 +1,11 @@
 # 金融视角下的量子经典二元论 (Quantum-Classical Dualism from Financial Perspective)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言金融学与量子经典二元论) | [金融市场视角](#2-金融市场视角) | [投资决策视角](#3-投资决策视角) | [资产定价视角](#4-资产定价视角) | [风险管理视角](#5-风险管理视角) | [金融创新视角](#6-金融创新视角)  
+English: [Introduction](#1-introduction-finance-and-quantum-classical-dualism) | [Financial Markets](#2-financial-markets-perspective) | [Investment Decisions](#3-investment-decision-perspective) | [Asset Pricing](#4-asset-pricing-perspective) | [Risk Management](#5-risk-management-perspective) | [Financial Innovation](#6-financial-innovation-perspective)
+
 ## 索引
 
 ### 主要章节

@@ -1,5 +1,11 @@
 # 伦理学问题解释 | Ethical Explanations
 
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [道德的本质](#道德的本质--nature-of-morality) | [价值的来源](#价值的来源--source-of-values) | [伦理决策过程](#伦理决策过程--ethical-decision-making-process) | [责任与自由](#责任与自由--responsibility-and-freedom) | [伦理发展](#伦理发展--ethical-development)  
+English: [Introduction](#简介--introduction) | [Nature of Morality](#道德的本质--nature-of-morality) | [Source of Values](#价值的来源--source-of-values) | [Ethical Decision-Making](#伦理决策过程--ethical-decision-making-process) | [Responsibility & Freedom](#责任与自由--responsibility-and-freedom) | [Ethical Development](#伦理发展--ethical-development)
+
 ## 简介 | Introduction
 
 本文档探讨【量子宇宙-量子观察者-经典意识论】如何为伦理学中的基本问题提供新的解释视角。该理论框架将伦理理解为观察者之间经典化信息交互的协调模式，为道德本质、价值来源、伦理决策、责任与自由以及伦理发展等问题提供了全新的思考方式。

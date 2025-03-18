@@ -1,5 +1,11 @@
 # 锡克教在量子经典二元论下的解释 (Sikhism Explained Through Quantum-Classical Dualism)
 
+**导航 | Navigation**  
+[中文版](#锡克教概述-sikhism-overview) | [English Version](#锡克教概述-sikhism-overview)  
+**章节链接 | Section Links**  
+中文：[锡克教概述](#锡克教概述-sikhism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [瓦赫古鲁与量子域](#1-瓦赫古鲁waheguru与量子域-waheguru-and-quantum-domain) | [一神信仰与统一性](#2-一神信仰与宇宙统一性-monotheism-and-cosmic-unity)  
+English: [Sikhism Overview](#锡克教概述-sikhism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Waheguru & Quantum Domain](#1-瓦赫古鲁waheguru与量子域-waheguru-and-quantum-domain) | [Monotheism & Unity](#2-一神信仰与宇宙统一性-monotheism-and-cosmic-unity)
+
 ## 锡克教概述 (Sikhism Overview)
 
 锡克教起源于15世纪的印度旁遮普地区，由古鲁·那纳克创立，是世界第五大宗教。锡克教信仰一位无形、永恒、全能的造物主（Waheguru），强调平等、服务他人和冥想神圣名号以实现与神的合一。锡克教反对种姓制度和宗教仪式的形式主义，提倡诚实劳动、慈善分享和积极的社会参与。核心经典是《古鲁·格兰特·萨希卜》，包含了十位古鲁的教诲和诗歌。
