@@ -1,8 +1,10 @@
 # 应用 | Applications
 
 **导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-[简介](#简介--introduction) | [核心应用原理](#核心应用原理--core-application-principles) | [目录](#目录--contents) | [数学应用](#数学应用--mathematical-applications) | [观察者理论应用](#观察者理论应用--observer-theory-applications) | [关系应用](#关系应用--relationship-applications)
+中文：[简介](#简介--introduction) | [核心应用原理](#核心应用原理--core-application-principles) | [目录](#目录--contents) | [数学应用](#数学应用--mathematical-applications) | [观察者理论应用](#观察者理论应用--observer-theory-applications) | [关系应用](#关系应用--relationship-applications)  
+English: [Introduction](#简介--introduction) | [Core Principles](#核心应用原理--core-application-principles) | [Contents](#目录--contents) | [Mathematical Applications](#数学应用--mathematical-applications) | [Observer Theory](#观察者理论应用--observer-theory-applications) | [Relationship Applications](#关系应用--relationship-applications)
 
 ## 简介 | Introduction
 

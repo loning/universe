@@ -1,8 +1,12 @@
 # 关系应用 | Relationship Applications
 
 **导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+
 **章节链接 | Section Links**  
-[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论人际关系应用](#量子经典二元论人际关系应用-quantum-classical-dualism-relationship-applications) | [返回](#返回--return)
+中文：[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论人际关系应用](#量子经典二元论人际关系应用-quantum-classical-dualism-relationship-applications) | [返回](#返回--return)  
+
+English: [Introduction](#简介--introduction) | [Contents](#目录--contents) | [Quantum-Classical Applications](#量子经典二元论人际关系应用-quantum-classical-dualism-relationship-applications) | [Return](#返回--return)
 
 ## 简介 | Introduction
 

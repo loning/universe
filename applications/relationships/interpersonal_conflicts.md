@@ -1,5 +1,13 @@
 # 人际冲突的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Interpersonal Conflicts)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+
+**章节链接 | Section Links**  
+中文：[冲突的量子经典本质](#1-冲突的量子经典本质) | [冲突的维度差异](#2-冲突的维度差异) | [冲突的熵增与信息耗散](#3-冲突的熵增与信息耗散) | [冲突的优化解决方法](#4-基于量子经典理论的冲突优化解决方法) | [实践案例分析](#5-实践案例分析)  
+
+English: [Quantum-Classical Nature of Conflicts](#1-quantum-classical-nature-of-conflicts) | [Dimensional Differences](#2-dimensional-differences-in-conflicts) | [Entropy Increase](#3-entropy-increase-and-information-dissipation-in-conflicts) | [Optimization Methods](#4-conflict-optimization-methods-based-on-quantum-classical-theory) | [Case Analysis](#5-practical-case-analysis)
+
 ## 中文版
 
 ### 1. 冲突的量子经典本质

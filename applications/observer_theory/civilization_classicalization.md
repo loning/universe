@@ -1,5 +1,13 @@
 # 文明层级与观察者经典化能力 (Civilization Levels and Observer Classicalization Capacity)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+
+**章节链接 | Section Links**  
+中文：[文明层级与经典化能力的关系](#文明层级与经典化能力的关系) | [不同文明层级最高级观察者的经典化能力](#不同文明层级最高级观察者的经典化能力) | [文明层级跨越的关键突破](#文明层级跨越的关键突破) | [量子经典二元论视角的文明分类](#量子经典二元论视角的文明分类) | [结论与展望](#结论与展望)  
+
+English: [Relationship Between Civilization Levels and Classicalization](#relationship-between-civilization-levels-and-classicalization-capacity) | [Classicalization Capacity of Different Levels](#classicalization-capacity-of-top-observers-at-different-civilization-levels) | [Key Breakthroughs](#key-breakthroughs-in-civilization-level-transitions) | [Civilization Classification](#civilization-classification-from-quantum-classical-dualism-perspective) | [Conclusion](#conclusion-and-outlook)
+
 ## 中文版
 
 ### 文明层级与经典化能力的关系

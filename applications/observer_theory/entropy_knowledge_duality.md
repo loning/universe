@@ -1,5 +1,13 @@
 # 观察者熵知识对偶性理论 (Observer Entropy-Knowledge Duality Theory)
 
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+
+**章节链接 | Section Links**  
+中文：[熵知识对偶性的基本原理](#熵知识对偶性的基本原理) | [熵知识转换的数学模型](#熵知识转换的数学模型) | [观察者之间的熵知识流动](#观察者之间的熵知识流动) | [应用案例与实践方法](#应用案例与实践方法) | [结论](#结论)  
+
+English: [Basic Principles](#basic-principles-of-entropy-knowledge-duality) | [Mathematical Model](#mathematical-model-of-entropy-knowledge-conversion) | [Entropy-Knowledge Flow](#entropy-knowledge-flow-between-observers) | [Applications](#application-cases-and-practical-methods) | [Conclusion](#conclusion)
+
 ## 中文版
 
 ### 熵知识对偶性的基本原理
