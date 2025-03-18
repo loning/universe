@@ -1,4 +1,4 @@
-# 数学公式 (Mathematical Formulations)
+# 量子经典二元论数学公式 (Mathematical Formulations of Quantum-Classical Dualism)
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  

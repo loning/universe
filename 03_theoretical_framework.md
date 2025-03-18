@@ -3,12 +3,12 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[理论概述](#理论概述) | [核心假设](#核心假设) | [基本原理](#基本原理) | [理论结构](#理论结构) | [数学基础](#数学基础) | [解释力](#解释力) | [可验证性](#可验证性) | [理论边界](#理论边界) | [哲学意义](#哲学意义)  
-English: [Theory Overview](#theory-overview) | [Core Hypotheses](#core-hypotheses) | [Basic Principles](#basic-principles) | [Theoretical Structure](#theoretical-structure) | [Mathematical Foundation](#mathematical-foundation) | [Explanatory Power](#explanatory-power) | [Verifiability](#verifiability) | [Theoretical Boundaries](#theoretical-boundaries) | [Philosophical Significance](#philosophical-significance)
+中文：[理论概述](#理论概述) | [核心假设](#核心假设) | [基本原理](#基本原理) | [理论结构](#理论结构) | [数学基础](#数学基础) | [解释力](#解释力) | [可验证性](#可验证性) | [理论边界](#理论边界) | [哲学意义](#哲学意义) | [未来方向](#未来方向)  
+English: [Theory Overview](#theory-overview) | [Core Hypotheses](#core-hypotheses) | [Basic Principles](#basic-principles) | [Theoretical Structure](#theoretical-structure) | [Mathematical Foundation](#mathematical-foundation) | [Explanatory Power](#explanatory-power) | [Verifiability](#verifiability) | [Theoretical Boundaries](#theoretical-boundaries) | [Philosophical Significance](#philosophical-significance) | [Future Directions](#future-directions)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本6.9），阐述理论的整体框架与结构。
+本文档基于[量子经典二元论核心理论](core.md)（版本7.1），阐述理论的整体框架与结构。
 
 ### 理论概述
 
@@ -188,11 +188,27 @@ $$
 
 这些哲学意义使量子经典二元论不仅是一个物理理论，也是一个包含认识论、本体论与宇宙论的完整哲学体系。
 
+### 未来方向
+
+虽然量子经典二元论理论体系（版本7.1）已经非常完整、清晰、严谨且自洽，但仍有一些值得探索的方向：
+
+1. **脑机接口（BMI）与经典化效率**  
+   研究脑机接口技术如何影响观察者的经典化效率，以及是否可以通过技术手段提升人类的维度。
+
+2. **经典化路径的实践指导**  
+   开发基于量子经典二元论的实践方法，帮助人们主动选择低熵经典化路径，提升意识效率。
+
+3. **跨学科应用研究**  
+   探索理论在物理学、心理学、社会学、信息科学等领域的具体应用价值。
+
+4. **多元经典世界研究**  
+   深入研究不同类型经典世界（如梦境、精神状态、虚拟现实等）的经典化特性及其相互关系。
+
 ## English Version
 
 # Theoretical Framework of Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.9), explaining the overall framework and structure of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), explaining the overall framework and structure of the theory.
 
 ### Theory Overview
 
@@ -371,3 +387,19 @@ Quantum-Classical Dualism has profound philosophical significance:
 7. **Epistemological Limits**: Knowledge has inherent boundaries, originating from the limited nature of observer event horizons
 
 These philosophical significances make Quantum-Classical Dualism not just a physical theory but also a complete philosophical system containing epistemology, ontology, and cosmology.
+
+### Future Directions
+
+Although the Quantum-Classical Dualism theoretical system (Version 7.1) is already very complete, clear, rigorous, and self-consistent, there are still some directions worth exploring:
+
+1. **Brain-Machine Interface (BMI) and Classicalization Efficiency**  
+   Researching how brain-machine interface technology affects an observer's classicalization efficiency, and whether technological means can enhance human dimensions.
+
+2. **Practical Guidance for Classicalization Paths**  
+   Developing practice methods based on Quantum-Classical Dualism to help people actively choose low-entropy classicalization paths and improve consciousness efficiency.
+
+3. **Interdisciplinary Application Research**  
+   Exploring the specific application value of the theory in physics, psychology, sociology, information science, and other fields.
+
+4. **Multi-Classical World Research**  
+   In-depth study of the classicalization characteristics and interrelationships of different types of classical worlds (such as dreams, mental states, virtual reality, etc.).

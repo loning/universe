@@ -8,7 +8,7 @@ English: [Application Overview](#application-overview) | [Theoretical Applicatio
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本6.9），提供详细的框架应用指南，帮助研究者、实践者和感兴趣的个人将理论应用于实际问题。
+本文档基于[量子经典二元论核心理论](core.md)（版本7.1），提供详细的框架应用指南，帮助研究者、实践者和感兴趣的个人将理论应用于实际问题。
 
 ### 应用概述
 
@@ -409,7 +409,7 @@ $$
 
 # Framework Application Guide for Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.9), providing a detailed framework application guide to help researchers, practitioners, and interested individuals apply the theory to practical problems.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), providing a detailed framework application guide to help researchers, practitioners, and interested individuals apply the theory to practical problems.
 
 ### Application Overview
 

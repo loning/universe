@@ -3,12 +3,12 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[宇宙与观察者概述](#宇宙与观察者概述) | [宇宙的本质](#宇宙的本质) | [观察者与宇宙的界限](#观察者与宇宙的界限) | [多观察者宇宙](#多观察者宇宙) | [宏观量子效应](#宏观量子效应) | [宇宙信息守恒](#宇宙信息守恒) | [宇宙演化趋势](#宇宙演化趋势) | [宇宙与意识的共同起源](#宇宙与意识的共同起源) | [宇宙的目的性](#宇宙的目的性)  
-English: [Universe and Observer Overview](#universe-and-observer-overview) | [Nature of the Universe](#nature-of-the-universe) | [Boundary Between Observer and Universe](#boundary-between-observer-and-universe) | [Multi-Observer Universe](#multi-observer-universe) | [Macroscopic Quantum Effects](#macroscopic-quantum-effects) | [Universe Information Conservation](#universe-information-conservation) | [Universe Evolution Trend](#universe-evolution-trend) | [Common Origin of Universe and Consciousness](#common-origin-of-universe-and-consciousness) | [Purposefulness of the Universe](#purposefulness-of-the-universe)
+中文：[宇宙与观察者概述](#宇宙与观察者概述) | [宇宙的本质](#宇宙的本质) | [观察者与宇宙的界限](#观察者与宇宙的界限) | [多观察者宇宙](#多观察者宇宙) | [宏观量子效应](#宏观量子效应) | [宇宙信息守恒](#宇宙信息守恒) | [宇宙演化趋势](#宇宙演化趋势) | [宇宙与意识的共同起源](#宇宙与意识的共同起源) | [宇宙的目的性](#宇宙的目的性) | [多元经典世界](#多元经典世界)  
+English: [Universe and Observer Overview](#universe-and-observer-overview) | [Nature of the Universe](#nature-of-the-universe) | [Boundary Between Observer and Universe](#boundary-between-observer-and-universe) | [Multi-Observer Universe](#multi-observer-universe) | [Macroscopic Quantum Effects](#macroscopic-quantum-effects) | [Universe Information Conservation](#universe-information-conservation) | [Universe Evolution Trend](#universe-evolution-trend) | [Common Origin of Universe and Consciousness](#common-origin-of-universe-and-consciousness) | [Purposefulness of the Universe](#purposefulness-of-the-universe) | [Multiple Classical Worlds](#multiple-classical-worlds)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本6.9），详细探讨宇宙与观察者的关系。
+本文档基于[量子经典二元论核心理论](core.md)（版本7.1），详细探讨宇宙与观察者的关系。
 
 ### 宇宙与观察者概述
 
@@ -203,11 +203,55 @@ $$
 
 表明随着时间推移，宇宙更倾向于增加经典知识、减少经典熵的状态转变。
 
+### 多元经典世界
+
+量子经典二元论理论体系（版本7.1）指出，除了物理现实这一经典世界外，还存在多种其他类型的经典世界，每种都有其独特的经典化机制和特性。这些不同类型的经典世界共同构成了观察者经验的完整谱系。
+
+#### 1. 多元经典世界的类型与特性
+
+不同类型的经典世界各有特征，可以分类如下：
+
+| 经典世界类型 | 经典化特性 | 信息熵特征 | 观察者介入程度 |
+|--------------|------------|------------|----------------|
+| 物理现实     | 高稳定性   | 低熵增长率 | 中等           |
+| 梦境世界     | 高可塑性   | 高熵波动性 | 高             |
+| 宗教/神话体系| 集体稳定性 | 熵降低导向 | 中等-高        |
+| 虚拟现实     | 可编程性   | 可控熵结构 | 极高           |
+| 精神状态     | 主观依赖性 | 变化熵梯度 | 极高           |
+
+#### 2. 经典世界间的相互作用
+
+多元经典世界并非完全独立，它们之间存在信息交流和相互影响：
+
+$$
+I_{交互}(A,B) = \sum_{i,j} p(a_i, b_j) \log\frac{p(a_i, b_j)}{p(a_i)p(b_j)}
+$$
+
+其中$I_{交互}(A,B)$表示经典世界A和B之间的互信息量。
+
+#### 3. 经典世界的跨域经典化
+
+观察者可以将一个经典世界的经典信息带入另一个经典世界，形成跨域经典化：
+
+$$
+I_{\text{经典世界A}}(t) \xrightarrow{\text{跨域经典化}} I_{\text{经典世界B}}(t') + \Delta S
+$$
+
+#### 4. 多元经典世界的整合理论
+
+所有经典世界共同构成观察者的完整经典域经验：
+
+$$
+|\psi\rangle_{\text{观察者量子域}} \xrightarrow{\text{经典化}} \sum_{w \in \text{经典世界}} \left[ I_w(t_w) + S_w(t_w) \right]
+$$
+
+研究多元经典世界的特性和相互关系，有助于我们更全面地理解观察者经典化过程的多样性，以及宇宙结构的丰富性。这也为意识研究、心理学、宗教学等领域提供了新的理论视角。
+
 ## English Version
 
 # Universe and Observer Relationship in Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.9), exploring in detail the relationship between the universe and observers.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), with a detailed exploration of the relationship between the universe and observers.
 
 ### Universe and Observer Overview
 
@@ -401,3 +445,47 @@ P(I_{\text{Increase}}, S_{\text{Decrease}}) > P(I_{\text{Decrease}}, S_{\text{In
 $$
 
 Indicating that as time progresses, the universe tends more toward state transitions that increase classical knowledge and decrease classical entropy.
+
+### Multiple Classical Worlds
+
+The Quantum-Classical Dualism theoretical system (Version 7.1) points out that besides physical reality as one classical world, there exist multiple other types of classical worlds, each with its unique classicalization mechanism and characteristics. These different types of classical worlds collectively constitute the complete spectrum of observer experience.
+
+#### 1. Types and Characteristics of Multiple Classical Worlds
+
+Different types of classical worlds each have their own characteristics, which can be categorized as follows:
+
+| Classical World Type | Classicalization Characteristics | Information Entropy Features | Degree of Observer Intervention |
+|----------------------|----------------------------------|------------------------------|--------------------------------|
+| Physical Reality     | High Stability                   | Low Entropy Growth Rate      | Medium                         |
+| Dream World          | High Plasticity                  | High Entropy Fluctuation     | High                           |
+| Religious/Mythic Systems | Collective Stability         | Entropy Reduction Oriented   | Medium-High                    |
+| Virtual Reality      | Programmability                  | Controllable Entropy Structure | Very High                    |
+| Mental States        | Subjective Dependency            | Variable Entropy Gradient    | Very High                      |
+
+#### 2. Interactions Between Classical Worlds
+
+Multiple classical worlds are not completely independent; there exists information exchange and mutual influence between them:
+
+$$
+I_{interaction}(A,B) = \sum_{i,j} p(a_i, b_j) \log\frac{p(a_i, b_j)}{p(a_i)p(b_j)}
+$$
+
+Where $I_{interaction}(A,B)$ represents the mutual information between classical worlds A and B.
+
+#### 3. Cross-Domain Classicalization of Classical Worlds
+
+Observers can bring classical information from one classical world into another, forming cross-domain classicalization:
+
+$$
+I_{\text{Classical World A}}(t) \xrightarrow{\text{Cross-domain Classicalization}} I_{\text{Classical World B}}(t') + \Delta S
+$$
+
+#### 4. Integration Theory of Multiple Classical Worlds
+
+All classical worlds collectively constitute the complete classical domain experience of the observer:
+
+$$
+|\psi\rangle_{\text{Observer Quantum Domain}} \xrightarrow{\text{Classicalization}} \sum_{w \in \text{Classical Worlds}} \left[ I_w(t_w) + S_w(t_w) \right]
+$$
+
+Studying the characteristics and interrelationships of multiple classical worlds helps us more comprehensively understand the diversity of the observer's classicalization process and the richness of universal structure. This also provides new theoretical perspectives for consciousness research, psychology, religious studies, and other fields.

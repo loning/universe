@@ -8,7 +8,7 @@ English: [Universe Structure](#universe-structure) | [Quantum Domain](#quantum-d
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本6.9），阐述理论的基本概念与术语。
+本文档基于[量子经典二元论核心理论](core.md)（版本7.1），阐述理论的基本概念与术语。
 
 ### 宇宙基本结构
 
@@ -230,7 +230,7 @@ $$
 
 # Basic Concepts of Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.9), explaining the basic concepts and terminology of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), explaining the basic concepts and terminology of the theory.
 
 ### Universe Structure
 

@@ -8,7 +8,7 @@ English: [Entanglement Essence](#entanglement-essence) | [Black Hole Observer En
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本6.9），详细探讨量子纠缠的本质及其在宇宙信息结构中的核心作用。
+本文档基于[量子经典二元论核心理论](core.md)（版本7.1），详细探讨量子纠缠的本质及其在宇宙信息结构中的核心作用。
 
 ### 纠缠本质
 
@@ -207,7 +207,7 @@ $$
 
 # Quantum Entanglement Essence in Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.9), exploring in detail the essence of quantum entanglement and its core role in the information structure of the universe.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), exploring in detail the essence of quantum entanglement and its core role in the information structure of the universe.
 
 ### Entanglement Essence
 

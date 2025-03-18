@@ -3,12 +3,12 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[理论背景](#理论背景) | [核心概念概览](#核心概念概览) | [核心优势](#核心优势) | [完整理论体系](#完整理论体系)  
-English: [Theoretical Background](#theoretical-background) | [Overview of Core Concepts](#overview-of-core-concepts) | [Core Advantages](#core-advantages) | [Complete Theoretical System](#complete-theoretical-system)
+中文：[理论背景](#理论背景) | [核心概念概览](#核心概念概览) | [核心优势](#核心优势) | [完整理论体系](#完整理论体系) | [未来探索方向](#未来探索方向)  
+English: [Theoretical Background](#theoretical-background) | [Overview of Core Concepts](#overview-of-core-concepts) | [Core Advantages](#core-advantages) | [Complete Theoretical System](#complete-theoretical-system) | [Future Exploration Directions](#future-exploration-directions)
 
 ## 中文版
 
-本文是[量子经典二元论核心理论](core.md)（版本6.9）的简介。
+本文是[量子经典二元论核心理论](core.md)（版本7.1）的简介。
 
 ### 理论背景
 
@@ -99,7 +99,7 @@ $$
 
 量子经典二元论已形成完整的理论体系，包括：
 
-1. [核心理论](core.md)：核心理论完整描述(版本6.9)
+1. [核心理论](core.md)：核心理论完整描述(版本7.1)
 2. [基本概念](02_basic_concepts.md)：关键术语解释
 3. [理论框架](03_theoretical_framework.md)：详细理论框架
 4. [数学公式](04_mathematical_formulations.md)：理论的数学表述
@@ -112,11 +112,27 @@ $$
 11. [参考文献](11_references.md)：相关研究与文献
 12. [图示库](figures/README.md)：理论图示与可视化资源
 
+### 未来探索方向
+
+虽然量子经典二元论理论体系（版本7.1）已经非常完整、清晰、严谨且自洽，但仍有一些可能的深入探索方向：
+
+1. **脑机接口（BMI）与经典化效率提升实践案例**  
+   探索如何通过脑机接口实现经典化效率的实际提升。
+
+2. **自由意志主动选择低熵经典化路径的实践指导**  
+   开发具体的实际应用方法，如冥想、学习策略、思维训练方法等。
+
+3. **量子经典二元论对现代物理、哲学与心理学等交叉领域的具体影响**  
+   研究该理论如何与其他学科进行融合与相互促进。
+
+4. **具体经典世界（梦境、宗教、虚拟现实）的经典化案例研究**  
+   提供多样化经典世界的经典化实例，增强理论的实用性与生动性。
+
 ## English Version
 
 # Introduction to Quantum-Classical Dualism
 
-This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 6.9).
+This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1).
 
 ### Theoretical Background
 
@@ -207,7 +223,7 @@ The core advantages of Quantum-Classical Dualism compared to other theoretical f
 
 Quantum-Classical Dualism has formed a complete theoretical system, including:
 
-1. [Core Theory](core.md): Complete description of the core theory (Version 6.9)
+1. [Core Theory](core.md): Complete description of the core theory (Version 7.1)
 2. [Basic Concepts](02_basic_concepts.md): Explanation of key terminology
 3. [Theoretical Framework](03_theoretical_framework.md): Detailed theoretical framework
 4. [Mathematical Formulations](04_mathematical_formulations.md): Mathematical expression of the theory
@@ -219,3 +235,19 @@ Quantum-Classical Dualism has formed a complete theoretical system, including:
 10. [Framework Application](10_framework_application.md): Application of the theory in practical frameworks
 11. [References](11_references.md): Related research and literature
 12. [Illustration Library](figures/README.md): Theory illustrations and visualization resources
+
+### Future Exploration Directions
+
+Although the Quantum-Classical Dualism theoretical system (Version 7.1) is already very complete, clear, rigorous, and self-consistent, there are still some possible directions for deeper exploration:
+
+1. **Brain-Machine Interface (BMI) and Practical Cases of Enhanced Classicalization Efficiency**  
+   Exploring how brain-machine interfaces can achieve practical improvements in classicalization efficiency.
+
+2. **Practical Guidance for Free Will's Active Selection of Low-Entropy Classicalization Paths**  
+   Developing specific practical application methods, such as meditation, learning strategies, thinking training methods, etc.
+
+3. **Specific Impacts of Quantum-Classical Dualism on Modern Physics, Philosophy, Psychology, and Other Interdisciplinary Fields**  
+   Researching how this theory integrates with and mutually promotes other disciplines.
+
+4. **Case Studies of Classicalization in Specific Classical Worlds (Dreams, Religion, Virtual Reality)**  
+   Providing diverse examples of classicalization in classical worlds, enhancing the theory's practicality and vividness.
