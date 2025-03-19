@@ -101,6 +101,14 @@
 - [宇宙结构](./theories/universe_structure.md) - 宇宙结构与演化 | Universe Structure and Evolution
 - [感知、梦境与熵变化](./theories/entropy_changes_daily_life.md) - 感知、梦境与日常生活中的熵变化：量子经典二元论视角
 
+##### 科幻分析 | Sci-Fi Analysis
+- [科幻电影分析目录](./theories/sci_fi_analysis/README.md) - 主流科幻电影量子经典二元论分析
+- [《黑客帝国》分析](./theories/sci_fi_analysis/matrix_analysis.md) - 《黑客帝国》：量子经典二元论视角分析
+- [《攻壳机动队》分析](./theories/sci_fi_analysis/ghost_in_shell_analysis.md) - 《攻壳机动队》：量子经典二元论视角分析
+- [《盗梦空间》分析](./theories/sci_fi_analysis/inception_analysis.md) - 《盗梦空间》：量子经典二元论视角分析
+- [《流浪地球》分析](./theories/sci_fi_analysis/wandering_earth_analysis.md) - 《流浪地球》：量子经典二元论视角分析
+- [《三体》评论](./theories/sci_fi_analysis/three_body_critique.md) - 《三体》宇宙观批判：基于量子经典二元论视角
+
 ##### 科学视角 | Scientific Perspectives
 - [冥想减熵机制](./theories/scientific_perspectives/meditation_entropy_reduction.md) - 冥想减熵机制：量子经典二元论视角
 
@@ -187,9 +195,6 @@
 - [经典意识](./theories/quantum_classical/classical_consciousness.md) - 经典意识 | Classical Consciousness
 - [量子观察者](./theories/quantum_classical/quantum_observer.md) - 量子观察者 | Quantum Observer
 - [量子宇宙](./theories/quantum_classical/quantum_universe.md) - 量子宇宙 | Quantum Universe
-
-##### 科幻分析 | Sci-Fi Analysis
-- [三体评论](./theories/sci_fi_analysis/three_body_critique.md) - 《三体》宇宙观批判：基于量子经典二元论视角
 
 ##### 宇宙结构 | Universe Structure
 - [观察者维度演化](./theories/universe_structure/observer_dimension_evolution.md) - 宇宙本质与观察者维度提升
@@ -422,6 +427,14 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Universe Structure](./theories/universe_structure.md) - Universe Structure and Evolution
 - [Perception, Dreams and Entropy Changes](./theories/entropy_changes_daily_life.md) - Patterns of Entropy Changes in Perception Processes, Dream States, and Daily Life from Quantum-Classical Dualism Perspective
 
+##### Sci-Fi Analysis
+- [Sci-Fi Films Analysis Directory](./theories/sci_fi_analysis/README.md) - Science Fiction Films Analysis from Quantum-Classical Dualism Perspective
+- [The Matrix Analysis](./theories/sci_fi_analysis/matrix_analysis.md) - "The Matrix": Analysis from Quantum-Classical Dualism Perspective
+- [Ghost in the Shell Analysis](./theories/sci_fi_analysis/ghost_in_shell_analysis.md) - "Ghost in the Shell": Analysis from Quantum-Classical Dualism Perspective
+- [Inception Analysis](./theories/sci_fi_analysis/inception_analysis.md) - "Inception": Analysis from Quantum-Classical Dualism Perspective
+- [The Wandering Earth Analysis](./theories/sci_fi_analysis/wandering_earth_analysis.md) - "The Wandering Earth": Analysis from Quantum-Classical Dualism Perspective
+- [Three Body Critique](./theories/sci_fi_analysis/three_body_critique.md) - Critique of "The Three-Body Problem" Universe View: From the Perspective of Quantum-Classical Dualism
+
 ##### Scientific Perspectives
 - [Meditation Entropy Reduction](./theories/scientific_perspectives/meditation_entropy_reduction.md) - How Meditation Reduces Entropy in Mental Systems from Quantum-Classical Dualism Perspective
 
@@ -508,9 +521,6 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Classical Consciousness](./theories/quantum_classical/classical_consciousness.md) - Classical Consciousness
 - [Quantum Observer](./theories/quantum_classical/quantum_observer.md) - Quantum Observer
 - [Quantum Universe](./theories/quantum_classical/quantum_universe.md) - Quantum Universe
-
-##### Sci-Fi Analysis
-- [Three Body Critique](./theories/sci_fi_analysis/three_body_critique.md) - Three-Body Universe View Critique: Based on Quantum-Classical Dualism Perspective
 
 ##### Universe Structure
 - [Observer Dimension Evolution](./theories/universe_structure/observer_dimension_evolution.md) - Universe Essence and Observer Dimension Promotion
