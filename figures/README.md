@@ -1,167 +1,351 @@
-# 量子经典二元论图示库 (Quantum-Classical Dualism Illustration Library)
+# 量子经典二元论人物解析库
+# Quantum-Classical Dualism Figures Analysis Library
 
 **导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[图示分类](#图示分类) | [宇宙结构图](#1-宇宙结构图-universe-structure) | [观察者与维度](#2-观察者与维度-observer-and-dimension) | [经典化过程](#3-经典化过程-classicalization-process) | [信息交流](#4-信息交流-information-exchange) | [量子纠缠](#5-量子纠缠-quantum-entanglement) | [理论综合图](#6-理论综合图-theory-integration) | [使用指南](#使用指南) | [开发状态](#图示开发状态) | [参与贡献](#参与贡献) | [关联资源](#关联资源)  
-English: [Illustration Categories](#illustration-categories) | [Universe Structure](#1-universe-structure) | [Observer and Dimension](#2-observer-and-dimension) | [Classicalization Process](#3-classicalization-process) | [Information Exchange](#4-information-exchange) | [Quantum Entanglement](#5-quantum-entanglement) | [Theory Integration](#6-theory-integration) | [Usage Guide](#usage-guide) | [Development Status](#illustration-development-status) | [Contributions](#contributions) | [Related Resources](#related-resources)
+[中文版](#中文版) | [English Version](#english-version)
 
 ## 中文版
 
-本目录包含量子经典二元论理论体系的核心图示，用于直观展示理论的关键概念和关系。所有文档中的图示引用应当统一使用此库中的图示。
+本目录包含了对各领域杰出人物的量子经典二元论解析。我们通过量子经典二元论的视角，深度剖析不同领域人物的思想、哲学观点及其作品与成就所体现的宇宙观，探索人类思想与创造的经典化过程与量子纠缠现象。
 
-## 图示分类
+### 人物分类目录
 
-### 1. 宇宙结构图 (Universe Structure)
-- `universe_dual_structure.png` - 宇宙二元结构示意图，展示量子域和经典域的关系
-- `classical_worlds_network.png` - 经典世界网络图，展示多个经典世界的交织关系
-- `quantum_classical_interface.png` - 量子域与经典域交界面图，展示经典化过程中的域间转换
+1. [音乐人](musicians/README.md) - 音乐家与创作者的量子经典二元论解析
+2. [艺术家](artists/) - 视觉艺术与表演艺术创作者
+3. [哲学家](philosophers/) - 思想家与哲学体系创建者
+4. [科学家](scientists/) - 科学发现与理论创造者
+5. [文学家](literary_figures/) - 作家与文学作品创作者
+6. [宗教领袖](religious_leaders/) - 宗教思想与实践的引领者
+7. [政治领袖](political_leaders/) - 政治思想与国家治理者
+8. [心理学家](psychologists/) - 人类心智研究与理论创建者
+9. [数学家](mathematicians/) - 数学理论与体系构建者
+10. [企业家](entrepreneurs/) - 商业创新与组织构建者
+11. [发明家](innovators/) - 技术创新与发明创造者
+12. [领导者](leaders/) - 各领域重要领导人物
+13. [战略家](strategists/) - 军事与战略思想家
+14. [环保主义者](environmentalists/) - 环境保护思想与行动者
+15. [电影制作人](filmmakers/) - 电影艺术创作者
+16. [人道主义者](humanitarians/) - 人道主义思想与实践者
+17. [经济学家](economists/) - 经济理论与体系创建者
+18. [哲学思潮](philosophical/) - 重要哲学流派与思潮
+19. [宗教思想](religious/) - 宗教哲学与思想体系
 
-### 2. 观察者与维度 (Observer and Dimension)
-- `observer_as_blackhole.png` - 观察者即黑洞模型图，展示观察者与黑洞统一概念
-- `observer_dimension_model.png` - 观察者维度模型图，展示不同维度观察者的经典化效率差异
-- `cross_domain_dimension.png` - 观察者跨领域维度图，展示整体维度的跨领域特性
-- `event_horizon_dynamics.png` - 视界边界动态变化图，展示维度变化与视界边界关系
+### 各目录人物索引
 
-### 3. 经典化过程 (Classicalization Process)
-- `classicalization_process.png` - 经典化过程图，展示量子信息→经典知识+熵的转化过程
-- `consciousness_memory.png` - 量子意识与经典记忆关系图
-- `entropy_reduction.png` - 经典化熵降低过程图
-- `generalized_consciousness.png` - 广义意识量子纠缠结构图
+#### 音乐人 | Musicians
 
-### 4. 信息交流 (Information Exchange)
-- `information_transfer_stages.png` - 信息传递三阶段图
-- `observer_communication.png` - 观察者通信网络图
-- `knowledge_propagation.png` - 知识传播独立副本机制图
-- `information_conservation.png` - 信息守恒过程图
+- [许巍](musicians/xuwei.md) - 中国内地摇滚音乐人
+- [朴树](musicians/pushu.md) - 中国内地独立音乐人
 
-### 5. 量子纠缠 (Quantum Entanglement)
-- `effective_ineffective_entanglement.png` - 有效与无效量子纠缠对比图
-- `entanglement_network.png` - 量子纠缠网络结构图
-- `quantum_domain_superposition.png` - 量子域叠加态示意图
+#### 艺术家 | Artists
 
-### 6. 理论综合图 (Theory Integration)
-- `theory_overview.png` - 量子经典二元论总体框架图
-- `philosophical_implications.png` - 理论哲学意义图解
-- `black_hole_radiation.png` - 黑洞辐射作为经典化过程示意图
-- `low_entropy_ultimate_state.png` - 宇宙低熵终极状态图解
+- [毕加索](artists/picasso.md) - 西班牙画家、雕塑家
+- [莎士比亚](artists/shakespeare.md) - 英国戏剧家、诗人
+- [梵高](artists/van_gogh.md) - 荷兰后印象派画家
+- [安迪·沃霍尔](artists/andy_warhol.md) - 美国波普艺术家
+- [贝多芬](artists/beethoven.md) - 德国作曲家、钢琴家
+- [达芬奇](artists/davinci.md) - 意大利文艺复兴时期艺术家、科学家
+- [弗里达·卡罗](artists/frida_kahlo.md) - 墨西哥画家
+- [玛丽亚·卡拉斯](artists/maria_callas.md) - 美国希腊裔歌剧女高音
+- [莫扎特](artists/mozart.md) - 奥地利作曲家
 
-## 使用指南
+#### 哲学家 | Philosophers
 
-1. 在文档中引用图示时，请使用相对路径：`../figures/[图示文件名]`
-2. 所有图示应当包含中英双语标注
-3. 图示设计应遵循一致的视觉风格
-4. 每个图示应有对应的说明文本，解释图示内容
+- [荀子](philosophers/xunzi.md) - 中国儒家哲学家
+- [汉娜·阿伦特](philosophers/hannah_arendt.md) - 德裔美国哲学家
+- [康德](philosophers/kant.md) - 德国哲学家
+- [老子](philosophers/laozi.md) - 中国道家哲学家
+- [玛丽·沃斯通克拉夫特](philosophers/mary_wollstonecraft.md) - 英国女权主义哲学家
+- [尼采](philosophers/nietzsche.md) - 德国哲学家
+- [柏拉图](philosophers/plato.md) - 古希腊哲学家
+- [苏格拉底](philosophers/socrates.md) - 古希腊哲学家
+- [亚里士多德](philosophers/aristotle.md) - 古希腊哲学家
+- [加缪](philosophers/camus.md) - 法国哲学家、作家
+- [孔子](philosophers/confucius.md) - 中国儒家哲学家
+- [笛卡尔](philosophers/descartes.md) - 法国哲学家、数学家
 
-## 图示开发状态
+#### 科学家 | Scientists
 
-目前图示库仍在开发中，请参考以下开发计划：
+- [图灵](scientists/turing.md) - 英国数学家、计算机科学先驱
+- [高斯](scientists/gauss.md) - 德国数学家、物理学家
+- [霍金](scientists/hawking.md) - 英国理论物理学家
+- [居里夫人](scientists/marie_curie.md) - 波兰裔法国物理学家、化学家
+- [牛顿](scientists/newton.md) - 英国物理学家、数学家
+- [尼尔斯·玻尔](scientists/niels_bohr.md) - 丹麦物理学家
+- [特斯拉](scientists/nikola_tesla.md) - 塞尔维亚裔美国发明家
+- [艾达·洛夫雷斯](scientists/ada_lovelace.md) - 英国数学家、计算机程序先驱
+- [达尔文](scientists/darwin.md) - 英国自然科学家
+- [爱因斯坦](scientists/einstein.md) - 德国裔理论物理学家
 
-- [x] 创建图示库结构
-- [ ] 开发宇宙结构图系列
-- [ ] 开发观察者与维度图系列
-- [ ] 开发经典化过程图系列
-- [ ] 开发信息交流图系列
-- [ ] 开发量子纠缠图系列
-- [ ] 开发理论综合图系列
-- [ ] 开发黑洞辐射与经典化图系列
+#### 文学家 | Literary Figures
 
-## 参与贡献
+- [莎士比亚](literary_figures/shakespeare.md) - 英国戏剧家、诗人
+- [托尔斯泰](literary_figures/tolstoy.md) - 俄国作家
+- [乔治·奥威尔](literary_figures/george_orwell.md) - 英国作家
+- [赫尔曼·黑塞](literary_figures/hermann_hesse.md) - 德国作家
+- [简·奥斯汀](literary_figures/jane_austen.md) - 英国小说家
+- [鲁迅](literary_figures/lu_xun.md) - 中国作家
+- [马克·吐温](literary_figures/mark_twain.md) - 美国作家
 
-欢迎为图示库贡献新的图示设计或改进现有图示。请确保您的贡献遵循统一的设计规范，并附上详细的说明文档。
+#### 宗教领袖 | Religious Leaders
 
-## 关联资源
+- [圣奥古斯丁](religious_leaders/saint_augustine.md) - 基督教神学家、哲学家
+- [圣保罗](religious_leaders/saint_paul.md) - 基督教使徒
+- [斯瓦米·维韦卡南达](religious_leaders/swami_vivekananda.md) - 印度精神领袖
+- [托马斯·阿奎那](religious_leaders/thomas_aquinas.md) - 基督教神学家、哲学家
+- [达赖喇嘛](religious_leaders/dalai_lama.md) - 藏传佛教精神领袖
+- [耶稣基督](religious_leaders/jesus_christ.md) - 基督教创始人
+- [马丁·路德](religious_leaders/martin_luther.md) - 基督教改革家
+- [摩西](religious_leaders/moses.md) - 犹太教先知
+- [特蕾莎修女](religious_leaders/mother_teresa.md) - 天主教修女、人道主义者
+- [穆罕默德](religious_leaders/muhammad.md) - 伊斯兰教先知
+- [教皇约翰·保罗二世](religious_leaders/pope_john_paul_ii.md) - 天主教教皇
+- [佛陀](religious_leaders/buddha.md) - 佛教创始人
 
-- [核心理论文档](../core.md) - 量子经典二元论完整核心理论(版本6.9)
-- [简介](../01_introduction.md) - 量子经典二元论简介
-- [基本概念](../02_basic_concepts.md) - 量子经典二元论基本概念
-- [理论框架](../03_theoretical_framework.md) - 量子经典二元论理论框架
-- [数学公式](../04_mathematical_formulations.md) - 量子经典二元论数学公式
-- [观察者与意识](../05_observer_and_consciousness.md) - 观察者与意识关系
-- [宇宙与观察者关系](../06_universe_observer_relationship.md) - 宇宙与观察者关系
-- [量子纠缠本质](../07_quantum_entanglement_essence.md) - 量子纠缠本质
-- [命运与自由意志](../08_destiny_and_free_will.md) - 命运与自由意志
-- [应用与启示](../09_applications_and_implications.md) - 量子经典二元论的应用与启示
-- [框架应用](../10_framework_application.md) - 理论框架应用
-- [参考文献](../11_references.md) - 相关研究与文献
+#### 政治领袖 | Political Leaders
+
+- [马基雅维利](political_leaders/machiavelli.md) - 意大利政治思想家
+- [马丁·路德·金](political_leaders/martin_luther_king.md) - 美国民权运动领袖
+- [罗莎·卢森堡](political_leaders/rosa_luxemburg.md) - 波兰裔德国革命家
+- [昂山素季](political_leaders/aung_san_suu_kyi.md) - 缅甸政治家
+- [克娄巴特拉](political_leaders/cleopatra.md) - 古埃及法老
+- [伊丽莎白一世](political_leaders/elizabeth_i.md) - 英国女王
+- [甘地](political_leaders/gandhi.md) - 印度独立运动领袖
+
+#### 心理学家 | Psychologists
+
+- [弗洛伊德](psychologists/freud.md) - 奥地利精神分析学创始人
+- [荣格](psychologists/jung.md) - 瑞士精神分析学家
+
+#### 数学家 | Mathematicians
+
+- [约翰·纳什](mathematicians/john_nash.md) - 美国数学家
+- [冯·诺依曼](mathematicians/von_neumann.md) - 匈牙利裔美国数学家
+
+#### 企业家 | Entrepreneurs
+
+- [史蒂夫·乔布斯](entrepreneurs/steve_jobs.md) - 美国企业家、苹果公司联合创始人
+- [乔布斯](entrepreneurs/jobs.md) - 美国企业家、苹果公司联合创始人
+
+#### 发明家 | Innovators
+
+- [比尔·盖茨](innovators/bill_gates.md) - 美国企业家、微软公司联合创始人
+
+#### 领导者 | Leaders
+
+- [亚历山大大帝](leaders/alexander.md) - 马其顿国王、征服者
+- [曼德拉](leaders/mandela.md) - 南非总统、民权活动家
+
+#### 战略家 | Strategists
+
+- [孙子](strategists/sunzi.md) - 中国军事家、《孙子兵法》作者
+
+#### 环保主义者 | Environmentalists
+
+- [蕾切尔·卡森](environmentalists/rachel_carson.md) - 美国海洋生物学家、作家
+
+#### 电影制作人 | Filmmakers
+
+- [斯坦利·库布里克](filmmakers/stanley_kubrick.md) - 美国电影导演
+
+#### 人道主义者 | Humanitarians
+
+- [阿尔伯特·史怀哲](humanitarians/albert_schweitzer.md) - 德国医生、哲学家
+
+#### 经济学家 | Economists
+
+- [亚当·斯密](economists/adam_smith.md) - 英国经济学家
+- [凯恩斯](economists/keynes.md) - 英国经济学家
+
+#### 哲学思潮 | Philosophical Trends
+
+- [西蒙娜·德·波伏娃](philosophical/simone_beauvoir.md) - 法国存在主义哲学家、女权主义者
+
+#### 宗教思想 | Religious Thoughts
+
+- [佛陀](religious/buddha.md) - 佛教创始人
+
+### 使用指南
+
+每位人物的解析文档包含：
+
+- 个人生平与思想背景
+- 核心思想与主要贡献
+- 量子经典二元论视角的深度解析
+- 思想的哲学深度与历史影响
+
+我们通过量子经典二元论的多个维度，对每位人物的思想体系、创作过程或科学发现进行深入解读，揭示其中蕴含的宇宙观与哲学智慧。
 
 ## English Version
 
-# Quantum-Classical Dualism Illustration Library
+# Quantum-Classical Dualism Figures Analysis Library
 
-This directory contains core illustrations of the Quantum-Classical Dualism theoretical system, designed to visually demonstrate the key concepts and relationships of the theory. All illustration references in documents should consistently use the illustrations from this library.
+This directory contains Quantum-Classical Dualism analyses of outstanding figures from various fields. Through the lens of Quantum-Classical Dualism, we deeply analyze the thoughts, philosophical views, and cosmic perspectives embodied in the works and achievements of figures from different domains, exploring the classicalization process and quantum entanglement phenomena in human thought and creation.
 
-## Illustration Categories
+### Category Directory
 
-### 1. Universe Structure
-- `universe_dual_structure.png` - Universe dual structure diagram, showing the relationship between quantum and classical domains
-- `classical_worlds_network.png` - Classical worlds network diagram, showing the interwoven relationships of multiple classical worlds
-- `quantum_classical_interface.png` - Quantum-classical interface diagram, showing domain transitions during classicalization
+1. [Musicians](musicians/README.md) - Quantum-Classical Dualism analysis of musicians and composers
+2. [Artists](artists/) - Visual and performing arts creators
+3. [Philosophers](philosophers/) - Thinkers and philosophical system creators
+4. [Scientists](scientists/) - Scientific discoverers and theory creators
+5. [Literary Figures](literary_figures/) - Writers and literary work creators
+6. [Religious Leaders](religious_leaders/) - Leaders of religious thought and practice
+7. [Political Leaders](political_leaders/) - Political thinkers and state governors
+8. [Psychologists](psychologists/) - Human mind researchers and theory creators
+9. [Mathematicians](mathematicians/) - Mathematical theory and system builders
+10. [Entrepreneurs](entrepreneurs/) - Business innovators and organization builders
+11. [Innovators](innovators/) - Technological innovators and inventors
+12. [Leaders](leaders/) - Important leadership figures in various fields
+13. [Strategists](strategists/) - Military and strategic thinkers
+14. [Environmentalists](environmentalists/) - Environmental protection thinkers and activists
+15. [Filmmakers](filmmakers/) - Film art creators
+16. [Humanitarians](humanitarians/) - Humanitarian thought and practitioners
+17. [Economists](economists/) - Economic theory and system creators
+18. [Philosophical Trends](philosophical/) - Important philosophical schools and trends
+19. [Religious Thoughts](religious/) - Religious philosophy and thought systems
 
-### 2. Observer and Dimension
-- `observer_as_blackhole.png` - Observer as black hole model, illustrating the unified concept of observer and black hole
-- `observer_dimension_model.png` - Observer dimension model, showing classicalization efficiency differences of observers at different dimensions
-- `cross_domain_dimension.png` - Cross-domain observer dimension diagram, showing the cross-domain nature of overall dimensions
-- `event_horizon_dynamics.png` - Event horizon dynamics diagram, showing the relationship between dimension changes and event horizon
+### Figure Index by Category
 
-### 3. Classicalization Process
-- `classicalization_process.png` - Classicalization process diagram, showing the transformation from quantum information to classical knowledge + entropy
-- `consciousness_memory.png` - Quantum consciousness and classical memory relationship diagram
-- `entropy_reduction.png` - Classicalization entropy reduction process diagram
-- `generalized_consciousness.png` - Generalized consciousness quantum entanglement structure diagram
+#### Musicians
 
-### 4. Information Exchange
-- `information_transfer_stages.png` - Three stages of information transfer diagram
-- `observer_communication.png` - Observer communication network diagram
-- `knowledge_propagation.png` - Knowledge propagation independent copy mechanism diagram
-- `information_conservation.png` - Information conservation process diagram
+- [Xu Wei](musicians/xuwei.md) - Rock musician from mainland China
+- [Pu Shu](musicians/pushu.md) - Independent musician from mainland China
 
-### 5. Quantum Entanglement
-- `effective_ineffective_entanglement.png` - Effective and ineffective quantum entanglement comparison
-- `entanglement_network.png` - Quantum entanglement network structure
-- `quantum_domain_superposition.png` - Quantum domain superposition state illustration
+#### Artists
 
-### 6. Theory Integration
-- `theory_overview.png` - Quantum-Classical Dualism overall framework diagram
-- `philosophical_implications.png` - Philosophical implications diagram
-- `black_hole_radiation.png` - Black hole radiation as classicalization process diagram
-- `low_entropy_ultimate_state.png` - Universe low entropy ultimate state diagram
+- [Picasso](artists/picasso.md) - Spanish painter and sculptor
+- [Shakespeare](artists/shakespeare.md) - English playwright and poet
+- [Van Gogh](artists/van_gogh.md) - Dutch post-impressionist painter
+- [Andy Warhol](artists/andy_warhol.md) - American pop artist
+- [Beethoven](artists/beethoven.md) - German composer and pianist
+- [Da Vinci](artists/davinci.md) - Italian Renaissance artist and scientist
+- [Frida Kahlo](artists/frida_kahlo.md) - Mexican painter
+- [Maria Callas](artists/maria_callas.md) - American-Greek soprano
+- [Mozart](artists/mozart.md) - Austrian composer
 
-## Usage Guide
+#### Philosophers
 
-1. When referencing illustrations in documents, please use relative paths: `../figures/[illustration_filename]`
-2. All illustrations should include bilingual annotations (Chinese and English)
-3. Illustration designs should follow a consistent visual style
-4. Each illustration should have corresponding explanatory text
+- [Xunzi](philosophers/xunzi.md) - Chinese Confucian philosopher
+- [Hannah Arendt](philosophers/hannah_arendt.md) - German-American philosopher
+- [Kant](philosophers/kant.md) - German philosopher
+- [Laozi](philosophers/laozi.md) - Chinese Taoist philosopher
+- [Mary Wollstonecraft](philosophers/mary_wollstonecraft.md) - English feminist philosopher
+- [Nietzsche](philosophers/nietzsche.md) - German philosopher
+- [Plato](philosophers/plato.md) - Ancient Greek philosopher
+- [Socrates](philosophers/socrates.md) - Ancient Greek philosopher
+- [Aristotle](philosophers/aristotle.md) - Ancient Greek philosopher
+- [Camus](philosophers/camus.md) - French philosopher and writer
+- [Confucius](philosophers/confucius.md) - Chinese Confucian philosopher
+- [Descartes](philosophers/descartes.md) - French philosopher and mathematician
 
-## Illustration Development Status
+#### Scientists
 
-The illustration library is currently under development. Please refer to the following development plan:
+- [Turing](scientists/turing.md) - British mathematician and computer science pioneer
+- [Gauss](scientists/gauss.md) - German mathematician and physicist
+- [Hawking](scientists/hawking.md) - British theoretical physicist
+- [Marie Curie](scientists/marie_curie.md) - Polish-French physicist and chemist
+- [Newton](scientists/newton.md) - British physicist and mathematician
+- [Niels Bohr](scientists/niels_bohr.md) - Danish physicist
+- [Nikola Tesla](scientists/nikola_tesla.md) - Serbian-American inventor
+- [Ada Lovelace](scientists/ada_lovelace.md) - British mathematician and computer programming pioneer
+- [Darwin](scientists/darwin.md) - British naturalist
+- [Einstein](scientists/einstein.md) - German-born theoretical physicist
 
-- [x] Create illustration library structure
-- [ ] Develop universe structure series
-- [ ] Develop observer and dimension series
-- [ ] Develop classicalization process series
-- [ ] Develop information exchange series
-- [ ] Develop quantum entanglement series
-- [ ] Develop theory integration series
-- [ ] Develop black hole radiation and classicalization series
+#### Literary Figures
 
-## Contributions
+- [Shakespeare](literary_figures/shakespeare.md) - English playwright and poet
+- [Tolstoy](literary_figures/tolstoy.md) - Russian writer
+- [George Orwell](literary_figures/george_orwell.md) - English writer
+- [Hermann Hesse](literary_figures/hermann_hesse.md) - German writer
+- [Jane Austen](literary_figures/jane_austen.md) - English novelist
+- [Lu Xun](literary_figures/lu_xun.md) - Chinese writer
+- [Mark Twain](literary_figures/mark_twain.md) - American writer
 
-Contributions of new illustration designs or improvements to existing illustrations are welcome. Please ensure your contributions follow the unified design specifications and include detailed documentation.
+#### Religious Leaders
 
-## Related Resources
+- [Saint Augustine](religious_leaders/saint_augustine.md) - Christian theologian and philosopher
+- [Saint Paul](religious_leaders/saint_paul.md) - Christian apostle
+- [Swami Vivekananda](religious_leaders/swami_vivekananda.md) - Indian spiritual leader
+- [Thomas Aquinas](religious_leaders/thomas_aquinas.md) - Christian theologian and philosopher
+- [Dalai Lama](religious_leaders/dalai_lama.md) - Tibetan Buddhist spiritual leader
+- [Jesus Christ](religious_leaders/jesus_christ.md) - Founder of Christianity
+- [Martin Luther](religious_leaders/martin_luther.md) - Christian reformer
+- [Moses](religious_leaders/moses.md) - Jewish prophet
+- [Mother Teresa](religious_leaders/mother_teresa.md) - Catholic nun and humanitarian
+- [Muhammad](religious_leaders/muhammad.md) - Prophet of Islam
+- [Pope John Paul II](religious_leaders/pope_john_paul_ii.md) - Catholic Pope
+- [Buddha](religious_leaders/buddha.md) - Founder of Buddhism
 
-- [Core Theory Document](../core.md) - Complete Core Theory of Quantum-Classical Dualism (Version 6.9)
-- [Introduction](../01_introduction.md) - Introduction to Quantum-Classical Dualism
-- [Basic Concepts](../02_basic_concepts.md) - Basic Concepts of Quantum-Classical Dualism
-- [Theoretical Framework](../03_theoretical_framework.md) - Theoretical Framework of Quantum-Classical Dualism
-- [Mathematical Formulations](../04_mathematical_formulations.md) - Mathematical Formulations of Quantum-Classical Dualism
-- [Observer and Consciousness](../05_observer_and_consciousness.md) - Observer and Consciousness Relationship
-- [Universe-Observer Relationship](../06_universe_observer_relationship.md) - Universe and Observer Relationship
-- [Quantum Entanglement Essence](../07_quantum_entanglement_essence.md) - Quantum Entanglement Essence
-- [Destiny and Free Will](../08_destiny_and_free_will.md) - Destiny and Free Will
-- [Applications and Implications](../09_applications_and_implications.md) - Applications and Implications of Quantum-Classical Dualism
-- [Framework Application](../10_framework_application.md) - Theoretical Framework Application
-- [References](../11_references.md) - Related Research and Literature 
+#### Political Leaders
+
+- [Machiavelli](political_leaders/machiavelli.md) - Italian political thinker
+- [Martin Luther King](political_leaders/martin_luther_king.md) - American civil rights leader
+- [Rosa Luxemburg](political_leaders/rosa_luxemburg.md) - Polish-German revolutionary
+- [Aung San Suu Kyi](political_leaders/aung_san_suu_kyi.md) - Burmese politician
+- [Cleopatra](political_leaders/cleopatra.md) - Ancient Egyptian pharaoh
+- [Elizabeth I](political_leaders/elizabeth_i.md) - English queen
+- [Gandhi](political_leaders/gandhi.md) - Indian independence movement leader
+
+#### Psychologists
+
+- [Freud](psychologists/freud.md) - Austrian founder of psychoanalysis
+- [Jung](psychologists/jung.md) - Swiss psychoanalyst
+
+#### Mathematicians
+
+- [John Nash](mathematicians/john_nash.md) - American mathematician
+- [Von Neumann](mathematicians/von_neumann.md) - Hungarian-American mathematician
+
+#### Entrepreneurs
+
+- [Steve Jobs](entrepreneurs/steve_jobs.md) - American entrepreneur, co-founder of Apple Inc.
+- [Jobs](entrepreneurs/jobs.md) - American entrepreneur, co-founder of Apple Inc.
+
+#### Innovators
+
+- [Bill Gates](innovators/bill_gates.md) - American entrepreneur, co-founder of Microsoft
+
+#### Leaders
+
+- [Alexander the Great](leaders/alexander.md) - Macedonian king and conqueror
+- [Mandela](leaders/mandela.md) - South African president and civil rights activist
+
+#### Strategists
+
+- [Sun Tzu](strategists/sunzi.md) - Chinese military strategist, author of "The Art of War"
+
+#### Environmentalists
+
+- [Rachel Carson](environmentalists/rachel_carson.md) - American marine biologist and writer
+
+#### Filmmakers
+
+- [Stanley Kubrick](filmmakers/stanley_kubrick.md) - American film director
+
+#### Humanitarians
+
+- [Albert Schweitzer](humanitarians/albert_schweitzer.md) - German doctor and philosopher
+
+#### Economists
+
+- [Adam Smith](economists/adam_smith.md) - British economist
+- [Keynes](economists/keynes.md) - British economist
+
+#### Philosophical Trends
+
+- [Simone de Beauvoir](philosophical/simone_beauvoir.md) - French existentialist philosopher and feminist
+
+#### Religious Thoughts
+
+- [Buddha](religious/buddha.md) - Founder of Buddhism
+
+### Usage Guide
+
+Each figure's analysis document includes:
+
+- Personal life and thought background
+- Core ideas and major contributions
+- In-depth analysis from the perspective of Quantum-Classical Dualism
+- Philosophical depth and historical influence of their ideas
+
+Through multiple dimensions of Quantum-Classical Dualism, we provide an in-depth interpretation of each figure's thought system, creative process, or scientific discovery, revealing the cosmic view and philosophical wisdom contained within.
