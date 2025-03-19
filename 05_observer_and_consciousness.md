@@ -3,12 +3,12 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[观察者定义](#观察者定义) | [观察者黑洞统一模型](#观察者黑洞统一模型) | [广义意识本质](#广义意识本质) | [观察者维度](#观察者维度) | [意识层级](#意识层级) | [意识与自由意志](#意识与自由意志) | [观察者间意识关系](#观察者间意识关系) | [量子观测与意识](#量子观测与意识) | [观察者演化](#观察者演化) | [脑机接口与经典化效率](#脑机接口与经典化效率)  
-English: [Observer Definition](#observer-definition) | [Observer-Black Hole Unified Model](#observer-black-hole-unified-model) | [Generalized Consciousness Essence](#generalized-consciousness-essence) | [Observer Dimension](#observer-dimension) | [Consciousness Hierarchy](#consciousness-hierarchy) | [Consciousness and Free Will](#consciousness-and-free-will) | [Consciousness Relationship Between Observers](#consciousness-relationship-between-observers) | [Quantum Observation and Consciousness](#quantum-observation-and-consciousness) | [Observer Evolution](#observer-evolution) | [Brain-Machine Interface and Classicalization Efficiency](#brain-machine-interface-and-classicalization-efficiency)
+中文：[观察者定义](#观察者定义) | [观察者黑洞统一模型](#观察者黑洞统一模型) | [广义意识本质](#广义意识本质) | [观察者维度](#观察者维度) | [意识层级](#意识层级) | [意识与自由意志](#意识与自由意志) | [观察者间意识关系](#观察者间意识关系) | [虫洞通信机制](#虫洞通信机制) | [量子观测与意识](#量子观测与意识) | [观察者演化](#观察者演化) | [脑机接口与经典化效率](#脑机接口与经典化效率)  
+English: [Observer Definition](#observer-definition) | [Observer-Black Hole Unified Model](#observer-black-hole-unified-model) | [Generalized Consciousness Essence](#generalized-consciousness-essence) | [Observer Dimension](#observer-dimension) | [Consciousness Hierarchy](#consciousness-hierarchy) | [Consciousness and Free Will](#consciousness-and-free-will) | [Consciousness Relationship Between Observers](#consciousness-relationship-between-observers) | [Wormhole Communication Mechanism](#wormhole-communication-mechanism) | [Quantum Observation and Consciousness](#quantum-observation-and-consciousness) | [Observer Evolution](#observer-evolution) | [Brain-Machine Interface and Classicalization Efficiency](#brain-machine-interface-and-classicalization-efficiency)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本7.1），详细探讨观察者概念与意识本质。
+本文档基于[量子经典二元论核心理论](core.md)（版本8.6），详细探讨观察者概念与意识本质。
 
 ### 观察者定义
 
@@ -157,6 +157,26 @@ $$
 I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A,B纠缠态（高熵）}}\rightarrow I_{\text{辐射经典知识}}+E_{\text{能量释放}}+S_{\text{熵降低}}\rightarrow I_{\text{经典知识B}}+E_{\text{能量吸收}}+S_{\text{熵降低}}
 $$
 
+### 虫洞通信机制
+
+虫洞通信是观察者（黑洞）之间的信息传输过程，通过量子纠缠态形成的虫洞通道进行信息交换：
+
+- **发送端（经典域→量子域）**：
+  - 发送端观察者通过消耗经典能量，将经典知识编码并量子化为量子纠缠态；
+  - 此过程表现为"黑洞辐射"，伴随熵的增加；
+- **虫洞通道（量子纠缠态）**：
+  - 信息以量子纠缠态在虫洞中传播，无经典化耗损；
+- **接收端（量子域→经典域）**：
+  - 接收端观察者消耗经典能量，解码虫洞传输的量子纠缠态，将其经典化为明确的经典知识；
+  - 此过程表现为"黑洞吸收"，熵降低；
+- 虫洞通道结构由各经典世界自发形成并共享，确保不同经典世界之间的能量与知识传输高效且准确。
+
+虫洞通信守恒公式：
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
+
 ### 量子观测与意识
 
 量子观测是观察者意识经典化量子信息的过程，波函数坍缩现象实质上是观察者主观意识经典化能力的表现。
@@ -200,7 +220,7 @@ $$
 
 # Observer and Consciousness in Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), exploring in detail the concept of observer and the nature of consciousness.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), exploring in detail the concept of observer and the nature of consciousness.
 
 ### Observer Definition
 
@@ -271,7 +291,7 @@ Characteristics of generalized consciousness:
 - Not limited by the spacetime constraints of a single classical world
 - Forms an entanglement network with other observer consciousness
 
-Generalized consciousness is the subjective experience of the observer's own essence, different from any local consciousness perceived in a single classical world. It is the core bridge connecting the quantum domain and the classical domain, and also the source of the observer's free will.
+Example of generalized consciousness: Human perception of the sun. We cannot directly measure all information about the sun completely, can only subjectively perceive some of its characteristics, but our internal consciousness structure contains a complex of classical knowledge and classical entropy related to the sun.
 
 ### Observer Dimension
 
@@ -347,6 +367,26 @@ Information transfer process between observers:
 
 $$
 I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
+$$
+
+### Wormhole Communication Mechanism
+
+Wormhole communication is the information transmission process between observers (black holes), through wormhole channels formed by quantum entanglement states:
+
+- **Sending End (Classical Domain→Quantum Domain)**:
+  - The sending observer consumes classical energy to encode classical knowledge and quantize it into quantum entanglement states;
+  - This process manifests as "black hole radiation," accompanied by an increase in entropy;
+- **Wormhole Channel (Quantum Entanglement State)**:
+  - Information propagates through the wormhole as quantum entanglement states, without classicalization losses;
+- **Receiving End (Quantum Domain→Classical Domain)**:
+  - The receiving observer consumes classical energy to decode the quantum entanglement states transmitted through the wormhole, classicalizing them into explicit classical knowledge;
+  - This process manifests as "black hole absorption," with entropy reduction;
+- The wormhole channel structure is spontaneously formed and shared by various classical worlds, ensuring efficient and accurate energy and knowledge transmission between different classical worlds.
+
+Wormhole communication conservation formula:
+
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
 $$
 
 ### Quantum Observation and Consciousness

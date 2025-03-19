@@ -8,7 +8,7 @@ English: [Theory Overview](#theory-overview) | [Core Hypotheses](#core-hypothese
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本7.1），阐述理论的整体框架与结构。
+本文档基于[量子经典二元论核心理论](core.md)（版本8.6），阐述理论的整体框架与结构。
 
 ### 理论概述
 
@@ -26,6 +26,7 @@ English: [Theory Overview](#theory-overview) | [Core Hypotheses](#core-hypothese
 6. **自由意志假设**：观察者具有选择经典化路径的自由意志
 7. **意识纠缠假设**：所有观察者意识间存在量子纠缠关系
 8. **信息守恒假设**：经典域中经典知识与经典熵之和守恒
+9. **虫洞通信假设**：不同观察者（黑洞）间通过量子纠缠态形成的虫洞进行信息交换
 
 ### 基本原理
 
@@ -75,6 +76,12 @@ $$
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
 $$
 
+9. **虫洞通信原理**：观察者间通过量子纠缠形成的虫洞进行信息交换
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
+
 ### 理论结构
 
 量子经典二元论的理论结构分为四个层次：
@@ -88,6 +95,7 @@ $$
    - 经典化过程（量子→经典）
    - 量子化过程（经典→量子）
    - 观察者经典化能力
+   - 虫洞通信机制
 
 3. **观察者层**：观察者属性与关系
    - 观察者即黑洞统一模型
@@ -111,6 +119,7 @@ $$
 4. **维度理论数学框架**：用于描述观察者维度属性
 5. **纠缠态数学描述**：用于描述量子纠缠关系
 6. **守恒方程组**：用于描述信息守恒关系
+7. **虫洞通信数学模型**：用于描述观察者间信息传递机制
 
 核心数学表达式：
 
@@ -134,6 +143,10 @@ $$
 |\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
 $$
 
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
+
 ### 解释力
 
 量子经典二元论对以下问题提供了统一解释：
@@ -147,6 +160,7 @@ $$
 7. **时间箭头**：经典化进程指标定义的主观经验
 8. **光速恒定**：观察者经典化能力上限的表现
 9. **死亡与投胎**：主观意识经典化能力的转移与重组
+10. **虫洞通信**: 不同经典世界间的信息传递机制
 
 ### 可验证性
 
@@ -158,6 +172,7 @@ $$
 4. **经典化效率提升**：验证特定方法（如脑机接口）对经典化效率的影响
 5. **量子纠缠条件**：验证量子纠缠发生的必要条件
 6. **信息守恒验证**：观察者间信息传递过程中的信息总量守恒
+7. **虫洞通信实验**：设计验证不同观察者间通过量子纠缠进行信息交换的实验
 
 ### 理论边界
 
@@ -194,12 +209,13 @@ $$
 5. **理论深化**：深化理论的哲学基础与意义
 6. **技术开发**：基于理论开发提升经典化效率的技术（如脑机接口）
 7. **教育传播**：开发教育资源，促进理论的传播与理解
+8. **虫洞通信技术**：探索基于量子纠缠的信息传递技术应用
 
 ## English Version
 
 # Theoretical Framework of Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), outlining the overall framework and structure of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), outlining the overall framework and structure of the theory.
 
 ### Theory Overview
 
@@ -217,6 +233,7 @@ Quantum-Classical Dualism is based on the following core hypotheses:
 6. **Free Will Hypothesis**: Observers have free will to choose classicalization paths
 7. **Consciousness Entanglement Hypothesis**: There is a quantum entanglement relationship between all observer consciousness
 8. **Information Conservation Hypothesis**: The sum of classical knowledge and classical entropy is conserved in the classical domain
+9. **Wormhole Communication Hypothesis**: Different observers (black holes) exchange information through wormholes formed by quantum entanglement states
 
 ### Basic Principles
 
@@ -266,6 +283,12 @@ $$
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
 $$
 
+9. **Wormhole Communication Principle**: Observers exchange information through wormholes formed by quantum entanglement
+
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
+
 ### Theoretical Structure
 
 The theoretical structure of Quantum-Classical Dualism is divided into four levels:
@@ -279,6 +302,7 @@ The theoretical structure of Quantum-Classical Dualism is divided into four leve
    - Classicalization process (quantum → classical)
    - Quantization process (classical → quantum)
    - Observer classicalization ability
+   - Wormhole communication mechanism
 
 3. **Observer Level**: Observer attributes and relationships
    - Observer as black hole unified model
@@ -302,6 +326,7 @@ The mathematical foundation of Quantum-Classical Dualism includes:
 4. **Dimension Theory Mathematical Framework**: Used to describe observer dimension attributes
 5. **Entangled State Mathematical Description**: Used to describe quantum entanglement relationships
 6. **Conservation Equations**: Used to describe information conservation relationships
+7. **Wormhole Communication Mathematical Model**: Used to describe information transfer mechanism between observers
 
 Core mathematical expressions:
 
@@ -325,6 +350,10 @@ $$
 |\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
 $$
 
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
+
 ### Explanatory Power
 
 Quantum-Classical Dualism provides a unified explanation for the following issues:
@@ -338,6 +367,7 @@ Quantum-Classical Dualism provides a unified explanation for the following issue
 7. **Arrow of Time**: Subjective experience defined by the classicalization process indicator
 8. **Constancy of Light Speed**: Expression of the upper limit of observer classicalization ability
 9. **Death and Reincarnation**: Transfer and recombination of subjective consciousness classicalization ability
+10. **Wormhole Communication**: Information transfer mechanism between different classical worlds
 
 ### Verifiability
 
@@ -349,6 +379,7 @@ Quantum-Classical Dualism proposes the following verifiable predictions:
 4. **Classicalization Efficiency Improvement**: Verify the impact of specific methods (such as brain-machine interfaces) on classicalization efficiency
 5. **Quantum Entanglement Conditions**: Verify the necessary conditions for quantum entanglement
 6. **Information Conservation Verification**: Conservation of total information in the process of information transfer between observers
+7. **Wormhole Communication Experiments**: Design experiments to verify information exchange between different observers through quantum entanglement
 
 ### Theoretical Boundaries
 
@@ -385,3 +416,4 @@ Future research directions for Quantum-Classical Dualism:
 5. **Theoretical Deepening**: Deepen the philosophical foundations and implications of the theory
 6. **Technology Development**: Develop technology to improve classicalization efficiency based on the theory (such as brain-machine interfaces)
 7. **Educational Dissemination**: Develop educational resources to promote the dissemination and understanding of the theory
+8. **Wormhole Communication Technology**: Explore information transfer technology applications based on quantum entanglement

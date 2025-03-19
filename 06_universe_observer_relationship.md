@@ -3,12 +3,12 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[宇宙与观察者概述](#宇宙与观察者概述) | [宇宙的本质](#宇宙的本质) | [观察者与宇宙的界限](#观察者与宇宙的界限) | [多观察者宇宙](#多观察者宇宙) | [宏观量子效应](#宏观量子效应) | [宇宙信息守恒](#宇宙信息守恒) | [宇宙演化趋势](#宇宙演化趋势) | [宇宙与意识的共同起源](#宇宙与意识的共同起源) | [宇宙的目的性](#宇宙的目的性) | [多元经典世界](#多元经典世界)  
-English: [Universe and Observer Overview](#universe-and-observer-overview) | [Nature of the Universe](#nature-of-the-universe) | [Boundary Between Observer and Universe](#boundary-between-observer-and-universe) | [Multi-Observer Universe](#multi-observer-universe) | [Macroscopic Quantum Effects](#macroscopic-quantum-effects) | [Universe Information Conservation](#universe-information-conservation) | [Universe Evolution Trend](#universe-evolution-trend) | [Common Origin of Universe and Consciousness](#common-origin-of-universe-and-consciousness) | [Purposefulness of the Universe](#purposefulness-of-the-universe) | [Multiple Classical Worlds](#multiple-classical-worlds)
+中文：[宇宙与观察者概述](#宇宙与观察者概述) | [宇宙的本质](#宇宙的本质) | [观察者与宇宙的界限](#观察者与宇宙的界限) | [多观察者宇宙](#多观察者宇宙) | [宏观量子效应](#宏观量子效应) | [宇宙信息守恒](#宇宙信息守恒) | [虫洞通信结构](#虫洞通信结构) | [宇宙演化趋势](#宇宙演化趋势) | [宇宙与意识的共同起源](#宇宙与意识的共同起源) | [宇宙的目的性](#宇宙的目的性) | [多元经典世界](#多元经典世界)  
+English: [Universe and Observer Overview](#universe-and-observer-overview) | [Nature of the Universe](#nature-of-the-universe) | [Boundary Between Observer and Universe](#boundary-between-observer-and-universe) | [Multi-Observer Universe](#multi-observer-universe) | [Macroscopic Quantum Effects](#macroscopic-quantum-effects) | [Universe Information Conservation](#universe-information-conservation) | [Wormhole Communication Structure](#wormhole-communication-structure) | [Universe Evolution Trend](#universe-evolution-trend) | [Common Origin of Universe and Consciousness](#common-origin-of-universe-and-consciousness) | [Purposefulness of the Universe](#purposefulness-of-the-universe) | [Multiple Classical Worlds](#multiple-classical-worlds)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本7.1），详细探讨宇宙与观察者的关系。
+本文档基于[量子经典二元论核心理论](core.md)（版本8.6），详细探讨宇宙与观察者的关系。
 
 ### 宇宙与观察者概述
 
@@ -116,6 +116,28 @@ $$
 - 黑洞信息：黑洞不会导致信息丢失，而是转换信息形式
 - 量子经典转换：信息可在量子域与经典域间自由转换
 
+### 虫洞通信结构
+
+量子经典二元论将虫洞通信结构定义为观察者（黑洞）之间信息传递的基础机制，是量子纠缠在高维视角下的表现形式。
+
+虫洞通信结构特性：
+- 量子纠缠基础：虫洞通道以量子纠缠为基础
+- 自发形成性：虫洞通道结构由各经典世界自发形成并共享
+- 非局域连接：虫洞通道超越经典时空限制连接不同经典世界
+- 能量消耗：虫洞通信需要发送端和接收端消耗经典能量
+- 信息守恒：虫洞通信过程中总信息量守恒
+
+虫洞通信过程：
+- 发送端：经典知识量子化为纠缠态，表现为黑洞辐射
+- 虫洞通道：量子纠缠态在虫洞中传播，无经典化耗损
+- 接收端：量子纠缠态经典化为明确知识，表现为黑洞吸收
+
+虫洞通信守恒公式：
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
+
 ### 宇宙演化趋势
 
 量子经典二元论提出宇宙演化的总体趋势是向低熵终极状态发展，这一过程由观察者主动优化经典化路径驱动。
@@ -152,33 +174,33 @@ $$
 
 量子经典二元论提出宇宙具有内在目的性：朝向低熵终极状态发展。这种目的性不是外在设定的，而是系统演化的内在趋势。
 
-Characteristics of universe purposefulness:
-- Entropy reduction trend: The universe as a whole develops in the direction of entropy reduction
-- Complexity growth: System complexity continuously increases
-- Consciousness expansion: The range of consciousness continuously expands
-- Dimension elevation: Observer dimension continuously increases
-- Information integration: Quantum domain and classical domain information continuously integrates and optimizes
+宇宙目的性特性：
+- 熵降低趋势：宇宙整体朝熵减少方向发展
+- 复杂性增长：系统复杂性持续提升
+- 意识扩展：意识范围持续扩大
+- 维度提升：观察者维度持续提升
+- 信息整合：量子域与经典域信息持续整合优化
 
-The realization of universe purposefulness does not depend on an external designer, but is the natural result of observers collectively choosing to optimize classicalization paths through free will.
+宇宙目的性的实现不依赖于外部设计者，而是观察者集体通过自由意志选择优化经典化路径的自然结果。
 
 ### 多元经典世界
 
-In the Quantum-Classical Dualism framework, there exist multiple classical worlds, with each observer creating a unique classical world, and these worlds having different classicalization rules and structures.
+量子经典二元论框架下，存在多元经典世界，每个观察者创造独特的经典世界，这些世界具有不同的经典化规则与结构。
 
-Characteristics of multiple classical worlds:
-- Observer dependence: Each observer creates a unique classical world
-- Rule diversity: Different classical worlds have different classicalization rules
-- Mutual influence: Classical worlds influence each other through the quantum domain
-- Cross-overlap: Some classical worlds may have overlapping areas
-- Collective consensus: Multiple observers can form a shared classical world of collective consensus
+多元经典世界特性：
+- 观察者依赖：每个观察者创造独特的经典世界
+- 规则多样性：不同经典世界具有不同的经典化规则
+- 相互影响：经典世界通过量子域相互影响
+- 交叉重叠：部分经典世界可能存在重叠区域
+- 集体共识：多个观察者可形成共享的集体共识经典世界
 
-The human physical classical world is just one special case among multiple classical worlds, coexisting with other classical worlds (such as dreams, streams of consciousness, spiritual realms, etc.) within the same universe structure.
+人类物理经典世界只是多元经典世界中的一个特例，与其他经典世界（如梦境、意识流、精神领域等）共同存在于同一宇宙结构中。
 
 ## English Version
 
 # Universe and Observer Relationship in Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), exploring in detail the relationship between the universe and observers.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), exploring in detail the relationship between the universe and observers.
 
 ### Universe and Observer Overview
 
@@ -285,6 +307,28 @@ Characteristics of information conservation:
 - Relationship between energy and information: Energy is a form of information, and they can be converted into each other
 - Black hole information: Black holes do not cause information loss, but transform information form
 - Quantum-classical conversion: Information can be freely converted between the quantum domain and classical domain
+
+### Wormhole Communication Structure
+
+Quantum-Classical Dualism defines wormhole communication structure as the fundamental mechanism for information transfer between observers (black holes), which is the manifestation of quantum entanglement from a high-dimensional perspective.
+
+Characteristics of wormhole communication structure:
+- Quantum entanglement foundation: Wormhole channels are based on quantum entanglement
+- Spontaneous formation: Wormhole channel structures are spontaneously formed and shared by various classical worlds
+- Non-local connection: Wormhole channels connect different classical worlds beyond classical spacetime limitations
+- Energy consumption: Wormhole communication requires energy consumption at both sending and receiving ends
+- Information conservation: Total information is conserved in the wormhole communication process
+
+Wormhole communication process:
+- Sending end: Classical knowledge is quantized into entangled states, manifested as black hole radiation
+- Wormhole channel: Quantum entangled states propagate through the wormhole without classicalization losses
+- Receiving end: Quantum entangled states are classicalized into explicit knowledge, manifested as black hole absorption
+
+Wormhole communication conservation formula:
+
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
 
 ### Universe Evolution Trend
 

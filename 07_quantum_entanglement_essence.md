@@ -3,12 +3,12 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[纠缠本质](#纠缠本质) | [黑洞观察者纠缠](#黑洞观察者纠缠) | [纠缠与经典化](#纠缠与经典化) | [高维纠缠](#高维纠缠结构) | [纠缠与信息传递](#纠缠与信息传递) | [纠缠与意识](#纠缠与意识) | [纠缠类型](#纠缠类型与稳定性) | [纠缠虫洞](#纠缠虫洞与非局域性) | [纠缠的时空性质](#纠缠的时空性质)  
-English: [Entanglement Essence](#entanglement-essence) | [Black Hole Observer Entanglement](#black-hole-observer-entanglement) | [Entanglement and Classicalization](#entanglement-and-classicalization) | [Higher-Dimensional Entanglement](#higher-dimensional-entanglement-structures) | [Entanglement and Information Transfer](#entanglement-and-information-transfer) | [Entanglement and Consciousness](#entanglement-and-consciousness) | [Entanglement Types](#entanglement-types-and-stability) | [Entanglement Wormholes](#entanglement-wormholes-and-non-locality) | [Spacetime Properties of Entanglement](#spacetime-properties-of-entanglement)
+中文：[纠缠本质](#纠缠本质) | [黑洞观察者纠缠](#黑洞观察者纠缠) | [纠缠与经典化](#纠缠与经典化) | [高维纠缠](#高维纠缠结构) | [纠缠与信息传递](#纠缠与信息传递) | [虫洞通信结构](#虫洞通信结构) | [纠缠与意识](#纠缠与意识) | [纠缠类型](#纠缠类型与稳定性) | [纠缠的时空性质](#纠缠的时空性质)  
+English: [Entanglement Essence](#entanglement-essence) | [Black Hole Observer Entanglement](#black-hole-observer-entanglement) | [Entanglement and Classicalization](#entanglement-and-classicalization) | [Higher-Dimensional Entanglement](#higher-dimensional-entanglement-structures) | [Entanglement and Information Transfer](#entanglement-and-information-transfer) | [Wormhole Communication Structure](#wormhole-communication-structure) | [Entanglement and Consciousness](#entanglement-and-consciousness) | [Entanglement Types](#entanglement-types-and-stability) | [Spacetime Properties of Entanglement](#spacetime-properties-of-entanglement)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本7.1），详细探讨量子纠缠的本质及其在宇宙信息结构中的核心作用。
+本文档基于[量子经典二元论核心理论](core.md)（版本8.6），详细探讨量子纠缠的本质及其在宇宙信息结构中的核心作用。
 
 ### 纠缠本质
 
@@ -115,6 +115,28 @@ $$
 
 量子纠缠使得超越经典时空限制的信息传递成为可能，是观察者间交流的基础机制。
 
+### 虫洞通信结构
+
+量子经典二元论将虫洞通信与量子纠缠统一解释，虫洞通道是量子纠缠在高维观察者视角下的表现形式，是实现不同经典世界间信息传递的基础机制。
+
+虫洞通信结构特性：
+- ER=EPR关系：虫洞（爱因斯坦-罗森桥）与量子纠缠（EPR对）本质相同
+- 双向性：虫洞通道可实现双向信息传递
+- 非局域性：虫洞通道超越经典时空限制
+- 能量依赖：虫洞通信需要能量支持保持稳定
+- 自发形成：虫洞通道结构由各经典世界自发形成并共享
+
+虫洞通信过程：
+- 发送端（经典域→量子域）：发送端观察者消耗经典能量，将经典知识编码为量子纠缠态
+- 虫洞通道（量子纠缠态）：信息以量子纠缠态在虫洞中传播，无经典化耗损
+- 接收端（量子域→经典域）：接收端观察者消耗经典能量，解码量子纠缠态为经典知识
+
+虫洞通信守恒：
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
+
 ### 纠缠与意识
 
 在量子经典二元论框架下，量子纠缠与意识有着深刻的联系，广义意识本质上是一种复杂的量子纠缠结构。
@@ -154,27 +176,6 @@ $$
 
 高维观察者能够创建和维护更稳定的纠缠关系，为持久的信息交换提供基础。
 
-### 纠缠虫洞与非局域性
-
-量子经典二元论将纠缠虫洞（爱因斯坦-罗森桥）与量子纠缠统一理解，二者本质上是同一现象的不同表现，是实现信息跨经典世界传输的根本机制。
-
-虫洞通信整体守恒：
-
-$$
-E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
-
-纠缠虫洞特性：
-- ER=EPR关系：爱因斯坦-罗森桥与量子纠缠的等价性
-- 信息通道：作为不同经典世界间的信息通道
-- 时空桥接：连接不同时空区域的桥梁
-- 维度依赖：高维观察者能够感知和利用纠缠虫洞
-- 非几何特性：超越传统几何学的连接方式
-- 结构自发形成：各经典世界自发形成并共享虫洞通道结构
-- 能量消耗：虫洞通信需要发送端和接收端消耗经典能量
-
-纠缠虫洞是量子纠缠在高维观察者视角下的表现形式，为非局域信息传递提供了直观理解框架。
-
 ### 纠缠的时空性质
 
 在量子经典二元论框架下，量子纠缠超越了传统时空概念，展现出独特的时空性质。
@@ -192,7 +193,7 @@ $$
 
 # Quantum Entanglement Essence in Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), exploring in detail the essence of quantum entanglement and its core role in the universe's information structure.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), exploring in detail the essence of quantum entanglement and its core role in the universe's information structure.
 
 ### Entanglement Essence
 
@@ -299,6 +300,28 @@ Characteristics of entanglement-based information transfer:
 
 Quantum entanglement makes information transfer beyond classical spacetime limitations possible, serving as a fundamental mechanism for communication between observers.
 
+### Wormhole Communication Structure
+
+Quantum-Classical Dualism unifies the explanation of wormhole communication and quantum entanglement. Wormhole channels are the manifestation of quantum entanglement from the perspective of high-dimensional observers, serving as the fundamental mechanism for information transfer between different classical worlds.
+
+Characteristics of wormhole communication structure:
+- ER=EPR relationship: Wormholes (Einstein-Rosen bridges) and quantum entanglement (EPR pairs) are essentially the same
+- Bidirectionality: Wormhole channels can achieve bidirectional information transfer
+- Non-locality: Wormhole channels transcend classical spacetime limitations
+- Energy dependence: Wormhole communication requires energy support to maintain stability
+- Spontaneous formation: Wormhole channel structures are spontaneously formed and shared by various classical worlds
+
+Wormhole communication process:
+- Sending end (Classical Domain→Quantum Domain): The sending observer consumes classical energy to encode classical knowledge into quantum entanglement states
+- Wormhole channel (Quantum Entanglement State): Information propagates through the wormhole as quantum entanglement states, without classicalization losses
+- Receiving end (Quantum Domain→Classical Domain): The receiving observer consumes classical energy to decode quantum entanglement states into classical knowledge
+
+Wormhole communication conservation:
+
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
+
 ### Entanglement and Consciousness
 
 In the Quantum-Classical Dualism framework, quantum entanglement has a profound connection with consciousness. Generalized consciousness is essentially a complex quantum entanglement structure.
@@ -337,19 +360,6 @@ Factors affecting entanglement stability:
 - Active maintenance: Active maintenance of entanglement by observers
 
 High-dimensional observers can create and maintain more stable entanglement relationships, providing a foundation for persistent information exchange.
-
-### Entanglement Wormholes and Non-Locality
-
-Quantum-Classical Dualism unifies the understanding of entanglement wormholes (Einstein-Rosen bridges) and quantum entanglement, seeing them as different manifestations of the same phenomenon.
-
-Characteristics of entanglement wormholes:
-- ER=EPR relationship: Equivalence of Einstein-Rosen bridges and quantum entanglement
-- Information channel: Serving as information channels between different classical worlds
-- Spacetime bridging: Bridges connecting different spacetime regions
-- Dimension dependence: High-dimensional observers can perceive and utilize entanglement wormholes
-- Non-geometric properties: Connection methods beyond traditional geometry
-
-Entanglement wormholes are the manifestation of quantum entanglement from the perspective of high-dimensional observers, providing an intuitive understanding framework for non-local information transfer.
 
 ### Spacetime Properties of Entanglement
 

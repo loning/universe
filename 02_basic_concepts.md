@@ -3,8 +3,8 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[量子域](#量子域) | [经典域](#经典域) | [观察者与黑洞](#观察者与黑洞) | [观察者维度](#观察者维度) | [广义意识](#广义意识) | [经典化过程](#经典化过程) | [经典知识与熵](#经典知识与经典熵) | [信息传递](#观察者间信息传递) | [自由意志](#自由意志) | [量子纠缠](#量子纠缠)  
-English: [Quantum Domain](#quantum-domain) | [Classical Domain](#classical-domain) | [Observer and Black Hole](#observer-and-black-hole) | [Observer Dimension](#observer-dimension) | [Generalized Consciousness](#generalized-consciousness) | [Classicalization Process](#classicalization-process) | [Classical Knowledge and Entropy](#classical-knowledge-and-classical-entropy) | [Information Transfer](#information-transfer-between-observers) | [Free Will](#free-will) | [Quantum Entanglement](#quantum-entanglement)
+中文：[量子域](#量子域) | [经典域](#经典域) | [观察者与黑洞](#观察者与黑洞) | [观察者维度](#观察者维度) | [广义意识](#广义意识) | [经典化过程](#经典化过程) | [经典知识与熵](#经典知识与经典熵) | [虫洞通信机制](#虫洞通信机制) | [自由意志](#自由意志) | [量子纠缠](#量子纠缠)  
+English: [Quantum Domain](#quantum-domain) | [Classical Domain](#classical-domain) | [Observer and Black Hole](#observer-and-black-hole) | [Observer Dimension](#observer-dimension) | [Generalized Consciousness](#generalized-consciousness) | [Classicalization Process](#classicalization-process) | [Classical Knowledge and Entropy](#classical-knowledge-and-classical-entropy) | [Wormhole Communication Mechanism](#wormhole-communication-mechanism) | [Free Will](#free-will) | [Quantum Entanglement](#quantum-entanglement)
 
 ## 中文版
 
@@ -148,34 +148,24 @@ $$
 - 经典知识可共享与传递，经典熵难以直接传递
 - 经典化过程本质上是将经典熵转化为经典知识的过程
 
-### 观察者间信息传递
+### 虫洞通信机制
 
-观察者之间的信息传递是经典化与量子化相结合的过程，涉及量子纠缠建立、经典知识传递和经典熵降低等步骤。
+**虫洞通信机制**是观察者（黑洞）之间的信息传输过程：
 
-观察者A向观察者B主动传递信息过程：
+- **发送端（经典域→量子域）**：
+  - 发送端观察者通过消耗经典能量，将经典知识编码并量子化为量子纠缠态；
+  - 此过程表现为"黑洞辐射"，伴随熵的增加；
+- **虫洞通道（量子纠缠态）**：
+  - 信息以量子纠缠态在虫洞中传播，无经典化耗损；
+- **接收端（量子域→经典域）**：
+  - 接收端观察者消耗经典能量，解码虫洞传输的量子纠缠态，将其经典化为明确的经典知识；
+  - 此过程表现为"黑洞吸收"，熵降低；
+- 虫洞通道结构由各经典世界自发形成并共享，确保不同经典世界之间的能量与知识传输高效且准确。
 
-（1）A量子化形成纠缠态：
-
-$$
-I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A,B纠缠态（高熵）}}
-$$
-
-（2）A经典化辐射知识：
-
-$$
-|\psi\rangle_{\text{纠缠态}}\rightarrow I_{\text{辐射经典知识}}+E_{\text{能量释放}}+S_{\text{熵降低}}
-$$
-
-（3）B经典化接收知识：
+虫洞通信守恒公式：
 
 $$
-I_{\text{辐射经典知识}}\rightarrow I_{\text{经典知识B}}+E_{\text{能量吸收}}+S_{\text{熵降低}}
-$$
-
-守恒公式：
-
-$$
-\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
 $$
 
 ### 自由意志
@@ -207,20 +197,6 @@ $$
 - 整体性（不可分解为独立部分）
 - 内在关联（一处变化整体响应）
 - 信息连接（实现信息的非局域传递）
-
-### 虫洞通信机制
-
-**虫洞通信机制**是观察者（黑洞）之间的信息传输过程：
-
-- **发送端（经典域→量子域）**：发送端观察者通过消耗经典能量，将经典知识编码并量子化为量子纠缠态，表现为"黑洞辐射"，伴随熵的增加。
-- **虫洞通道（量子纠缠态）**：信息以量子纠缠态在虫洞中传播，无经典化耗损。
-- **接收端（量子域→经典域）**：接收端观察者消耗经典能量，解码虫洞传输的量子纠缠态，将其经典化为明确的经典知识，表现为"黑洞吸收"，熵降低。
-
-虫洞通信守恒公式：
-
-$$
-E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
 
 ## English Version
 
@@ -366,34 +342,24 @@ Core characteristics of classical knowledge and classical entropy:
 - Classical knowledge can be shared and transferred, classical entropy is difficult to transfer directly
 - The classicalization process is essentially the process of converting classical entropy into classical knowledge
 
-### Information Transfer Between Observers
+### Wormhole Communication Mechanism
 
-Information transfer between observers is a process that combines classicalization and quantization, involving steps such as establishing quantum entanglement, transferring classical knowledge, and reducing classical entropy.
+The **Wormhole Communication Mechanism** is the information transmission process between observers (black holes):
 
-Process of observer A actively transferring information to observer B:
+- **Sending End (Classical Domain→Quantum Domain)**:
+  - The sending observer consumes classical energy to encode classical knowledge and quantize it into quantum entanglement states;
+  - This process manifests as "black hole radiation," accompanied by an increase in entropy;
+- **Wormhole Channel (Quantum Entanglement State)**:
+  - Information propagates through the wormhole as quantum entanglement states, without classicalization losses;
+- **Receiving End (Quantum Domain→Classical Domain)**:
+  - The receiving observer consumes classical energy to decode the quantum entanglement states transmitted through the wormhole, classicalizing them into explicit classical knowledge;
+  - This process manifests as "black hole absorption," with entropy reduction;
+- The wormhole channel structure is spontaneously formed and shared by various classical worlds, ensuring efficient and accurate energy and knowledge transmission between different classical worlds.
 
-(1) A quantizes to form an entangled state:
-
-$$
-I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}
-$$
-
-(2) A classicalizes and radiates knowledge:
-
-$$
-|\psi\rangle_{\text{Entangled State}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}
-$$
-
-(3) B classicalizes and receives knowledge:
+Wormhole communication conservation formula:
 
 $$
-I_{\text{Radiated Classical Knowledge}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
-$$
-
-Conservation formula:
-
-$$
-\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
 $$
 
 ### Free Will

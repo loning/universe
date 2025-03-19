@@ -73,7 +73,7 @@ $$
 
 量子经典二元论形成了一个完整的理论体系，包括：
 
-1. [核心理论](core.md) - 理论的完整阐述(版本7.1)
+1. [核心理论](core.md) - 理论的完整阐述(版本8.6)
 2. [基本概念](02_basic_concepts.md) - 理论的基本概念定义
 3. [理论框架](03_theoretical_framework.md) - 理论的整体框架结构
 4. [数学公式](04_mathematical_formulations.md) - 理论的数学形式化表达
@@ -144,10 +144,10 @@ $$
 |\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
 $$
 
-- **虫洞通信机制**：观察者（黑洞）之间的信息传输过程，通过量子纠缠态在虫洞中传播，实现不同经典世界之间的能量与知识传输。
+- **Wormhole Communication Mechanism**: The information transmission process between observers (black holes), propagating through quantum entanglement states in wormholes, enabling energy and knowledge transfer between different classical worlds.
 
 $$
-E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
 $$
 
 ### Core Advantages

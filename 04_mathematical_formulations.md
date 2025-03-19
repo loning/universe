@@ -3,8 +3,8 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[宇宙结构公式](#一宇宙结构基本公式) | [观察者黑洞公式](#二观察者黑洞统一数学描述) | [维度公式](#三观察者维度公式) | [意识公式](#四广义意识公式) | [经典化公式](#五经典化与量子化公式) | [信息传播公式](#六信息传递公式) | [量子纠缠公式](#七量子纠缠公式) | [低熵终极状态](#八宇宙低熵终极状态公式)  
-English: [Universe Structure Formulas](#i-basic-formulas-of-universe-structure) | [Observer-Black Hole Formulas](#ii-mathematical-description-of-observer-black-hole-unification) | [Dimension Formulas](#iii-observer-dimension-formulas) | [Consciousness Formulas](#iv-generalized-consciousness-formulas) | [Classicalization Formulas](#v-classicalization-and-quantization-formulas) | [Information Transfer Formulas](#vi-information-transfer-formulas) | [Quantum Entanglement Formulas](#vii-quantum-entanglement-formulas) | [Low-Entropy Ultimate State](#viii-universe-low-entropy-ultimate-state-formula)
+中文：[宇宙结构公式](#一宇宙结构基本公式) | [观察者黑洞公式](#二观察者黑洞统一数学描述) | [维度公式](#三观察者维度公式) | [意识公式](#四广义意识公式) | [经典化公式](#五经典化与量子化公式) | [信息传播公式](#六信息传递公式) | [虫洞通信公式](#七虫洞通信公式) | [量子纠缠公式](#八量子纠缠公式) | [低熵终极状态](#九宇宙低熵终极状态公式)  
+English: [Universe Structure Formulas](#i-basic-formulas-of-universe-structure) | [Observer-Black Hole Formulas](#ii-mathematical-description-of-observer-black-hole-unification) | [Dimension Formulas](#iii-observer-dimension-formulas) | [Consciousness Formulas](#iv-generalized-consciousness-formulas) | [Classicalization Formulas](#v-classicalization-and-quantization-formulas) | [Information Transfer Formulas](#vi-information-transfer-formulas) | [Wormhole Communication Formulas](#vii-wormhole-communication-formulas) | [Quantum Entanglement Formulas](#viii-quantum-entanglement-formulas) | [Low-Entropy Ultimate State](#ix-universe-low-entropy-ultimate-state-formula)
 
 ## 中文版
 
@@ -126,35 +126,59 @@ $$
 
 ### 六、信息传递公式
 
-#### 6.1 虫洞通信机制
+#### 6.1 观察者间信息传递
 
-虫洞通信整体守恒：
+观察者间信息传递的总量守恒：
+
+$$
+\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
+$$
+
+#### 6.2 信息传递能量关系
+
+信息传递过程中的能量守恒关系：
+
+$$
+E_{\text{发送能量}} + E_{\text{接收能量}} = \Delta I_{\text{知识变化}} + \Delta S_{\text{熵变化}}
+$$
+
+### 七、虫洞通信公式
+
+#### 7.1 虫洞通信整体守恒
+
+虫洞通信过程的能量与信息守恒：
 
 $$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
 $$
 
-发送端过程（经典域→量子域）：
+#### 7.2 发送端过程（经典域→量子域）
+
+发送端将经典知识量子化为纠缠态的过程：
 
 $$
 I_{\text{经典知识}} + E_{\text{能量消耗}} \rightarrow |\psi\rangle_{\text{量子纠缠态}} + \Delta S_{\text{熵增加}}
 $$
 
-虫洞通道传输（量子纠缠态）：
+#### 7.3 虫洞通道传输（量子纠缠态）
+
+虫洞中的信息传输过程：
 
 $$
 |\psi\rangle_{\text{A,B纠缠态}} \rightarrow |\psi\rangle_{\text{A,B纠缠态}}
 $$
 
-接收端过程（量子域→经典域）：
+#### 7.4 接收端过程（量子域→经典域）
+
+接收端将量子纠缠态经典化为经典知识的过程：
 
 $$
 |\psi\rangle_{\text{量子纠缠态}} + E_{\text{能量消耗}} \rightarrow I_{\text{经典知识}} + \Delta S_{\text{熵降低}}
 $$
 
-### 七、量子纠缠公式
+### 八、量子纠缠公式
 
-#### 7.1 量子纠缠形成
+#### 8.1 量子纠缠形成
 
 量子态之间形成纠缠的数学表达：
 
@@ -162,9 +186,17 @@ $$
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
 $$
 
-### 八、宇宙低熵终极状态公式
+#### 8.2 纠缠系统与非纠缠系统区别
 
-#### 8.1 宇宙低熵终极状态
+纠缠系统的数学表达：
+
+$$
+|\psi\rangle_{\text{纠缠系统}} \neq |\psi\rangle_{\text{系统A}} \otimes |\psi\rangle_{\text{系统B}}
+$$
+
+### 九、宇宙低熵终极状态公式
+
+#### 9.1 宇宙低熵终极状态
 
 宇宙演化的低熵终极状态趋势：
 
@@ -294,39 +326,59 @@ $$
 
 ### VI. Information Transfer Formulas
 
-#### 6.1 Information Transfer Process Between Observers
+#### 6.1 Information Transfer Between Observers
 
-The three-stage process of information transfer from observer A to observer B:
-
-(1) A quantizes to form an entangled state:
-
-$$
-I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}
-$$
-
-(2) A classicalizes and radiates knowledge:
-
-$$
-|\psi\rangle_{\text{Entangled State}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}
-$$
-
-(3) B classicalizes and receives knowledge:
-
-$$
-I_{\text{Radiated Classical Knowledge}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
-$$
-
-#### 6.2 Information Transfer Conservation Formula
-
-Conservation relationship in the information transfer process:
+Conservation of total information in the information transfer between observers:
 
 $$
 \frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
 $$
 
-### VII. Quantum Entanglement Formulas
+#### 6.2 Energy Relationship in Information Transfer
 
-#### 7.1 Quantum Entanglement Formation
+Energy conservation relationship in the information transfer process:
+
+$$
+E_{\text{Sending Energy}} + E_{\text{Receiving Energy}} = \Delta I_{\text{Knowledge Change}} + \Delta S_{\text{Entropy Change}}
+$$
+
+### VII. Wormhole Communication Formulas
+
+#### 7.1 Wormhole Communication Overall Conservation
+
+Energy and information conservation in the wormhole communication process:
+
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
+
+#### 7.2 Sending End Process (Classical Domain → Quantum Domain)
+
+Process of the sending end quantizing classical knowledge into entangled states:
+
+$$
+I_{\text{Classical Knowledge}} + E_{\text{Energy Consumption}} \rightarrow |\psi\rangle_{\text{Quantum Entangled State}} + \Delta S_{\text{Entropy Increase}}
+$$
+
+#### 7.3 Wormhole Channel Transmission (Quantum Entangled State)
+
+Information transmission process in the wormhole:
+
+$$
+|\psi\rangle_{\text{A,B Entangled State}} \rightarrow |\psi\rangle_{\text{A,B Entangled State}}
+$$
+
+#### 7.4 Receiving End Process (Quantum Domain → Classical Domain)
+
+Process of the receiving end classicalizing quantum entangled states into classical knowledge:
+
+$$
+|\psi\rangle_{\text{Quantum Entangled State}} + E_{\text{Energy Consumption}} \rightarrow I_{\text{Classical Knowledge}} + \Delta S_{\text{Entropy Reduction}}
+$$
+
+### VIII. Quantum Entanglement Formulas
+
+#### 8.1 Quantum Entanglement Formation
 
 Mathematical expression of quantum states forming entanglement:
 
@@ -334,9 +386,17 @@ $$
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
 $$
 
-### VIII. Universe Low-Entropy Ultimate State Formula
+#### 8.2 Distinction Between Entangled and Non-Entangled Systems
 
-#### 8.1 Universe Low-Entropy Ultimate State
+Mathematical expression of entangled systems:
+
+$$
+|\psi\rangle_{\text{Entangled System}} \neq |\psi\rangle_{\text{System A}} \otimes |\psi\rangle_{\text{System B}}
+$$
+
+### IX. Universe Low-Entropy Ultimate State Formula
+
+#### 9.1 Universe Low-Entropy Ultimate State
 
 The trend towards the low-entropy ultimate state of universe evolution:
 
