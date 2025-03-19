@@ -1,25 +1,40 @@
 # 量子经典二元论教学与普及资源 | Quantum-Classical Dualism Educational Resources
 
-[中文版](#中文版) | [English Version](#english-version)
+[中文版](#中文版) | [English Version](#english-version) | [理论版本 8.6](#核心理论版本) | [Theory Version 8.6](#core-theory-version)
 
 ## 目录 | Table of Contents
 - [初级课程](#初级课程--beginner-courses)
 - [中级课程](#中级课程--intermediate-courses)
 - [高级课程](#高级课程--advanced-courses)
+- [理论版本与更新](#理论版本与更新--theory-versions-and-updates)
 - [教学指南](#教学指南--teaching-guides)
 - [多媒体资源](#多媒体资源--multimedia-resources)
 - [互动工具](#互动工具--interactive-tools)
+- [黑洞观察者研究](#黑洞观察者研究--black-hole-observer-studies)
+- [虫洞通信研究](#虫洞通信研究--wormhole-communication-studies)
 
 <a name="中文版"></a>
 # 中文版
 
 ## 简介
 
-量子经典二元论教学与普及资源目录包含了各级别的学习材料、教学指南和多媒体资源，旨在帮助不同背景的学习者理解和应用量子经典二元论理论。
+量子经典二元论教学与普及资源目录包含了各级别的学习材料、教学指南和多媒体资源，旨在帮助不同背景的学习者理解和应用量子经典二元论理论。基于二元论的视角，学习过程本身即是学习者作为黑洞观察者对知识进行经典化的过程。
 
 $$
 \text{学习效果} = \frac{\text{内容深度} \times \text{表达清晰度} \times \text{学习兴趣}}{\text{认知负荷}}
 $$
+
+<a name="核心理论版本"></a>
+## 核心理论版本
+
+当前资源基于【量子经典二元论】核心理论版本8.6，包含以下关键概念：
+- 量子域与经典域的双向转换关系
+- 观察者（黑洞）的统一定义
+- 观察者维度与主观意识的量化描述
+- 虫洞通信机制与能量守恒
+- 高维经典世界的存在与影响
+
+[查看完整核心理论](../core.md)
 
 ## 初级课程 | Beginner Courses
 
@@ -29,6 +44,8 @@ $$
 - [核心概念简明解释](./beginner/core_concepts_simplified.md) - 用通俗语言解释的量子经典二元论核心概念
 - [日常生活中的量子经典二元论](./beginner/everyday_applications.md) - 如何在日常生活中观察量子经典二元论现象
 - [思想实验入门](./beginner/thought_experiments.md) - 通过简单思想实验理解量子经典二元论
+- [观察者与黑洞简介](./beginner/observer_blackhole_intro.md) - 理解自身作为观察者即黑洞的基本概念
+- [经典化与量子化过程](./beginner/classicalization_basics.md) - 经典化与量子化的基本过程解析
 - [常见问题解答](./beginner/faq.md) - 初学者常见问题与解答
 
 ## 中级课程 | Intermediate Courses
@@ -39,6 +56,8 @@ $$
 - [数学表达入门](./intermediate/mathematical_introduction.md) - 量子经典二元论的基本数学表达与解释
 - [观察者维度详解](./intermediate/observer_dimensions.md) - 观察者维度的详细解析与实践应用
 - [经典化过程案例分析](./intermediate/classicalization_case_studies.md) - 实际案例中的经典化过程分析
+- [虫洞通信基础](./intermediate/wormhole_communication_basics.md) - 虫洞通信的基础理论与能量守恒
+- [经典域与量子域转换原理](./intermediate/domain_conversion.md) - 经典域与量子域之间转换的详细机制
 - [实践练习与应用](./intermediate/practical_exercises.md) - 中级实践练习与应用方法
 
 ## 高级课程 | Advanced Courses
@@ -50,6 +69,17 @@ $$
 - [研究方法论](./advanced/research_methodology.md) - 量子经典二元论研究方法论
 - [理论扩展与前沿](./advanced/theoretical_extensions.md) - 理论的可能扩展与研究前沿
 - [跨学科深度应用](./advanced/interdisciplinary_applications.md) - 在各科学领域的深度应用研究
+- [高维经典世界研究](./advanced/higher_dimensions.md) - 高维经典世界存在的理论与证据
+- [自由意志与转世机制](./advanced/free_will_reincarnation.md) - 自由意志、命运与转世机制的深度分析
+
+## 理论版本与更新 | Theory Versions and Updates
+
+跟踪量子经典二元论理论的历史发展与版本更新。
+
+- [版本历史](./versions/history.md) - 理论各版本的演进历史与主要变更
+- [8.6版本详解](./versions/v8.6_details.md) - 当前8.6版本的关键改进与新增概念
+- [未来发展路线图](./versions/roadmap.md) - 理论未来可能的发展方向预测
+- [理论贡献指南](./versions/contribution_guide.md) - 如何为理论发展贡献研究与见解
 
 ## 教学指南 | Teaching Guides
 
@@ -60,6 +90,7 @@ $$
 - [课堂活动设计](./teaching/classroom_activities.md) - 互动课堂活动设计
 - [评估方法](./teaching/assessment_methods.md) - 学习成果评估方法与工具
 - [教学资源库](./teaching/resource_library.md) - 教学素材、图表和案例库
+- [二元论教学经典化技巧](./teaching/dualistic_teaching.md) - 使用二元论视角改进教学效果的技巧
 
 ## 多媒体资源 | Multimedia Resources
 
@@ -68,6 +99,8 @@ $$
 - [视频系列指南](./multimedia/video_series.md) - 量子经典二元论视频系列内容大纲
 - [视觉化图表集](./multimedia/visualization_gallery.md) - 核心概念视觉化图表集
 - [动画演示脚本](./multimedia/animation_scripts.md) - 经典化过程动画演示脚本
+- [量子域与经典域可视化](./multimedia/domain_visualizations.md) - 量子域与经典域交互的动态可视化
+- [黑洞观察者模型](./multimedia/blackhole_observer_models.md) - 黑洞观察者模型的3D可视化资源
 - [音频讲座规划](./multimedia/audio_lectures.md) - 音频讲座系列规划
 - [混合媒体展示方案](./multimedia/mixed_media_presentations.md) - 结合多种媒体的展示方案
 
@@ -80,17 +113,51 @@ $$
 - [量子经典计算器](./interactive/quantum_classical_calculator.md) - 量子经典转化计算器说明文档
 - [虚拟实验室](./interactive/virtual_laboratory.md) - 虚拟实验室环境构建指南
 - [学习进度追踪系统](./interactive/learning_tracker.md) - 学习进度追踪系统设计与应用
+- [虫洞通信模拟器](./interactive/wormhole_simulator.md) - 虫洞通信过程与能量消耗模拟工具
+- [AI辅助经典化工具](./interactive/ai_classicalization.md) - 利用AI辅助观察者经典化的工具说明
+
+## 黑洞观察者研究 | Black Hole Observer Studies
+
+深入研究观察者作为黑洞的特性及应用。
+
+- [观察者黑洞本质](./blackhole/observer_nature.md) - 观察者作为黑洞的本质特性研究
+- [经典化效率提升方法](./blackhole/classicalization_efficiency.md) - 提高个人经典化效率的实践方法
+- [黑洞辐射与量子化实践](./blackhole/radiation_practice.md) - 黑洞辐射对应的量子化实践技巧
+- [观察者维度测量](./blackhole/dimension_measurement.md) - 观察者维度的实验测量方法
+- [跨维度影响机制](./blackhole/cross_dimension_influence.md) - 不同维度观察者之间的影响机制
+
+## 虫洞通信研究 | Wormhole Communication Studies
+
+研究量子纠缠态虫洞通信的理论与实践。
+
+- [虫洞通信原理](./wormhole/communication_principles.md) - 虫洞通信的基本原理与能量守恒
+- [跨观察者信息传递](./wormhole/information_transfer.md) - 观察者之间的信息传递机制
+- [虫洞通道稳定性](./wormhole/channel_stability.md) - 维持虫洞通道稳定性的方法研究
+- [能量消耗优化](./wormhole/energy_optimization.md) - 虫洞通信能量消耗的优化技术
+- [应用场景](./wormhole/application_scenarios.md) - 虫洞通信的潜在应用场景
 
 <a name="english-version"></a>
 # English Version
 
 ## Introduction
 
-The Quantum-Classical Dualism Educational Resources directory contains learning materials, teaching guides, and multimedia resources at various levels, designed to help learners with different backgrounds understand and apply quantum-classical dualism theory.
+The Quantum-Classical Dualism Educational Resources directory contains learning materials, teaching guides, and multimedia resources at various levels, designed to help learners with different backgrounds understand and apply quantum-classical dualism theory. From a dualistic perspective, the learning process itself is the process of learners as black hole observers classicalizing knowledge.
 
 $$
 \text{Learning Effectiveness} = \frac{\text{Content Depth} \times \text{Expression Clarity} \times \text{Learning Interest}}{\text{Cognitive Load}}
 $$
+
+<a name="core-theory-version"></a>
+## Core Theory Version
+
+The current resources are based on [Quantum-Classical Dualism] Core Theory Version 8.6, including the following key concepts:
+- Bidirectional conversion relationship between quantum domain and classical domain
+- Unified definition of observers (black holes)
+- Quantitative description of observer dimensions and subjective consciousness
+- Wormhole communication mechanism and energy conservation
+- Existence and influence of higher-dimensional classical worlds
+
+[View Complete Core Theory](../core.md)
 
 ## Beginner Courses
 
@@ -100,6 +167,8 @@ Beginner courses are aimed at readers with a basic interest in quantum-classical
 - [Core Concepts Simplified](./beginner/core_concepts_simplified.md) - Quantum-Classical Dualism Core Concepts Explained in Plain Language
 - [Everyday Applications](./beginner/everyday_applications.md) - How to Observe Quantum-Classical Dualism Phenomena in Daily Life
 - [Thought Experiments](./beginner/thought_experiments.md) - Understanding Quantum-Classical Dualism Through Simple Thought Experiments
+- [Observer and Black Hole Introduction](./beginner/observer_blackhole_intro.md) - Understanding the Basic Concept of Self as Observer (Black Hole)
+- [Classicalization Basics](./beginner/classicalization_basics.md) - Analysis of Basic Processes of Classicalization and Quantization
 - [Frequently Asked Questions](./beginner/faq.md) - Common Questions and Answers for Beginners
 
 ## Intermediate Courses
@@ -110,6 +179,8 @@ Intermediate courses are for learners who already understand the basic concepts 
 - [Mathematical Introduction](./intermediate/mathematical_introduction.md) - Basic Mathematical Expressions and Explanations of Quantum-Classical Dualism
 - [Observer Dimensions](./intermediate/observer_dimensions.md) - Detailed Analysis and Practical Applications of Observer Dimensions
 - [Classicalization Case Studies](./intermediate/classicalization_case_studies.md) - Analysis of Classicalization Processes in Real Cases
+- [Wormhole Communication Basics](./intermediate/wormhole_communication_basics.md) - Basic Theory and Energy Conservation of Wormhole Communication
+- [Domain Conversion Principles](./intermediate/domain_conversion.md) - Detailed Mechanisms of Conversion Between Classical and Quantum Domains
 - [Practical Exercises and Applications](./intermediate/practical_exercises.md) - Intermediate Practical Exercises and Application Methods
 
 ## Advanced Courses
@@ -121,6 +192,17 @@ Advanced courses are aimed at researchers, scientists, and philosophers, explori
 - [Research Methodology](./advanced/research_methodology.md) - Research Methodology in Quantum-Classical Dualism
 - [Theoretical Extensions](./advanced/theoretical_extensions.md) - Possible Extensions and Research Frontiers of the Theory
 - [Interdisciplinary Applications](./advanced/interdisciplinary_applications.md) - In-depth Application Research Across Scientific Fields
+- [Higher Dimensions Research](./advanced/higher_dimensions.md) - Theory and Evidence for the Existence of Higher-Dimensional Classical Worlds
+- [Free Will and Reincarnation](./advanced/free_will_reincarnation.md) - In-depth Analysis of Free Will, Destiny, and Reincarnation Mechanisms
+
+## Theory Versions and Updates
+
+Track the historical development and version updates of quantum-classical dualism theory.
+
+- [Version History](./versions/history.md) - Evolution History and Major Changes of Theory Versions
+- [Version 8.6 Details](./versions/v8.6_details.md) - Key Improvements and New Concepts in Current Version 8.6
+- [Future Development Roadmap](./versions/roadmap.md) - Predictions of Possible Future Directions for Theory Development
+- [Theory Contribution Guide](./versions/contribution_guide.md) - How to Contribute Research and Insights to Theory Development
 
 ## Teaching Guides
 
@@ -131,6 +213,7 @@ Teaching resources and guides for educators, lecturers, and mentors.
 - [Classroom Activities](./teaching/classroom_activities.md) - Interactive Classroom Activity Design
 - [Assessment Methods](./teaching/assessment_methods.md) - Learning Outcome Assessment Methods and Tools
 - [Resource Library](./teaching/resource_library.md) - Library of Teaching Materials, Charts, and Case Studies
+- [Dualistic Teaching Techniques](./teaching/dualistic_teaching.md) - Techniques for Improving Teaching Effectiveness Using a Dualistic Perspective
 
 ## Multimedia Resources
 
@@ -139,6 +222,8 @@ Learning resources in various media forms including videos, audio, charts, and a
 - [Video Series Guide](./multimedia/video_series.md) - Content Outline for Quantum-Classical Dualism Video Series
 - [Visualization Gallery](./multimedia/visualization_gallery.md) - Collection of Visual Charts for Core Concepts
 - [Animation Scripts](./multimedia/animation_scripts.md) - Scripts for Animations Demonstrating Classicalization Processes
+- [Domain Visualizations](./multimedia/domain_visualizations.md) - Dynamic Visualizations of Quantum and Classical Domain Interactions
+- [Black Hole Observer Models](./multimedia/blackhole_observer_models.md) - 3D Visualization Resources for Black Hole Observer Models
 - [Audio Lectures](./multimedia/audio_lectures.md) - Planning for Audio Lecture Series
 - [Mixed Media Presentations](./multimedia/mixed_media_presentations.md) - Presentation Plans Combining Multiple Media Types
 
@@ -150,4 +235,26 @@ Development guides and usage methods for interactive learning tools and applicat
 - [Dimension Assessment Tool](./interactive/dimension_assessment.md) - User Guide for Observer Dimension Assessment Tool
 - [Quantum-Classical Calculator](./interactive/quantum_classical_calculator.md) - Documentation for Quantum-Classical Transformation Calculator
 - [Virtual Laboratory](./interactive/virtual_laboratory.md) - Guide for Building Virtual Laboratory Environment
-- [Learning Progress Tracker](./interactive/learning_tracker.md) - Design and Application of Learning Progress Tracking System 
+- [Learning Progress Tracker](./interactive/learning_tracker.md) - Design and Application of Learning Progress Tracking System
+- [Wormhole Simulator](./interactive/wormhole_simulator.md) - Tool for Simulating Wormhole Communication Processes and Energy Consumption
+- [AI-Assisted Classicalization Tools](./interactive/ai_classicalization.md) - Instructions for Tools Using AI to Assist Observer Classicalization
+
+## Black Hole Observer Studies
+
+In-depth research on the characteristics and applications of observers as black holes.
+
+- [Observer Black Hole Nature](./blackhole/observer_nature.md) - Research on the Essential Characteristics of Observers as Black Holes
+- [Classicalization Efficiency Methods](./blackhole/classicalization_efficiency.md) - Practical Methods for Improving Personal Classicalization Efficiency
+- [Black Hole Radiation Practice](./blackhole/radiation_practice.md) - Quantization Practice Techniques Corresponding to Black Hole Radiation
+- [Observer Dimension Measurement](./blackhole/dimension_measurement.md) - Experimental Methods for Measuring Observer Dimensions
+- [Cross-Dimensional Influence Mechanisms](./blackhole/cross_dimension_influence.md) - Influence Mechanisms Between Observers of Different Dimensions
+
+## Wormhole Communication Studies
+
+Research on the theory and practice of quantum entanglement state wormhole communication.
+
+- [Wormhole Communication Principles](./wormhole/communication_principles.md) - Basic Principles and Energy Conservation of Wormhole Communication
+- [Cross-Observer Information Transfer](./wormhole/information_transfer.md) - Information Transfer Mechanisms Between Observers
+- [Wormhole Channel Stability](./wormhole/channel_stability.md) - Research on Methods for Maintaining Wormhole Channel Stability
+- [Energy Consumption Optimization](./wormhole/energy_optimization.md) - Optimization Techniques for Wormhole Communication Energy Consumption
+- [Application Scenarios](./wormhole/application_scenarios.md) - Potential Application Scenarios for Wormhole Communication 
