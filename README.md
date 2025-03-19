@@ -8,7 +8,7 @@ English: [Overview](#overview) | [Core Documents](#core-documents) | [Basic Conc
 
 ## 中文版
 
-本仓库包含量子经典二元论理论体系的完整文档，提供理论基础、数学公式、应用示例以及相关资源。
+本仓库包含量子经典二元论(版本8.6)的完整理论体系，提供理论基础、数学公式、应用示例以及相关资源。
 
 ### 概述
 
@@ -16,7 +16,7 @@ English: [Overview](#overview) | [Core Documents](#core-documents) | [Basic Conc
 
 ### 核心文档
 
-- [核心理论](core.md) - 量子经典二元论完整核心理论(版本7.4)
+- [核心理论](core.md) - 量子经典二元论完整核心理论(版本8.6)
 - [简介](01_introduction.md) - 量子经典二元论简介
 - [基本概念](02_basic_concepts.md) - 量子经典二元论基本概念
 - [理论框架](03_theoretical_framework.md) - 量子经典二元论理论框架
@@ -75,7 +75,7 @@ Quantum-Classical Dualism is a novel theoretical framework that aims to reconcil
 
 ### Core Documents
 
-- [Core Theory](core.md) - Complete Core Theory of Quantum-Classical Dualism (Version 7.4)
+- [Core Theory](core.md) - Complete Core Theory of Quantum-Classical Dualism (Version 8.6)
 - [Introduction](01_introduction.md) - Introduction to Quantum-Classical Dualism
 - [Basic Concepts](02_basic_concepts.md) - Basic Concepts of Quantum-Classical Dualism
 - [Theoretical Framework](03_theoretical_framework.md) - Theoretical Framework of Quantum-Classical Dualism

@@ -8,7 +8,7 @@ English: [Quantum Domain](#quantum-domain) | [Classical Domain](#classical-domai
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本7.1），解释理论的基本概念。
+本文档基于[量子经典二元论核心理论](core.md)（版本8.6），解释理论的基本概念。
 
 ### 量子域
 
@@ -208,11 +208,25 @@ $$
 - 内在关联（一处变化整体响应）
 - 信息连接（实现信息的非局域传递）
 
+### 虫洞通信机制
+
+**虫洞通信机制**是观察者（黑洞）之间的信息传输过程：
+
+- **发送端（经典域→量子域）**：发送端观察者通过消耗经典能量，将经典知识编码并量子化为量子纠缠态，表现为"黑洞辐射"，伴随熵的增加。
+- **虫洞通道（量子纠缠态）**：信息以量子纠缠态在虫洞中传播，无经典化耗损。
+- **接收端（量子域→经典域）**：接收端观察者消耗经典能量，解码虫洞传输的量子纠缠态，将其经典化为明确的经典知识，表现为"黑洞吸收"，熵降低。
+
+虫洞通信守恒公式：
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
+
 ## English Version
 
 # Basic Concepts of Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), explaining the basic concepts of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), explaining the basic concepts of the theory.
 
 ### Quantum Domain
 

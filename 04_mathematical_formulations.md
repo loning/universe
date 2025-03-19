@@ -8,7 +8,7 @@ English: [Universe Structure Formulas](#i-basic-formulas-of-universe-structure) 
 
 ## 中文版
 
-本文档整理了[量子经典二元论核心理论](core.md)（版本7.1）的关键数学公式。
+本文档整理了[量子经典二元论核心理论](core.md)（版本8.6）的关键数学公式。
 
 ### 一、宇宙结构基本公式
 
@@ -126,34 +126,30 @@ $$
 
 ### 六、信息传递公式
 
-#### 6.1 观察者间信息传递过程
+#### 6.1 虫洞通信机制
 
-观察者A向观察者B信息传递的三阶段过程：
-
-（1）A量子化形成纠缠态：
+虫洞通信整体守恒：
 
 $$
-I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A,B纠缠态（高熵）}}
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
 $$
 
-（2）A经典化辐射知识：
+发送端过程（经典域→量子域）：
 
 $$
-|\psi\rangle_{\text{纠缠态}}\rightarrow I_{\text{辐射经典知识}}+E_{\text{能量释放}}+S_{\text{熵降低}}
+I_{\text{经典知识}} + E_{\text{能量消耗}} \rightarrow |\psi\rangle_{\text{量子纠缠态}} + \Delta S_{\text{熵增加}}
 $$
 
-（3）B经典化接收知识：
+虫洞通道传输（量子纠缠态）：
 
 $$
-I_{\text{辐射经典知识}}\rightarrow I_{\text{经典知识B}}+E_{\text{能量吸收}}+S_{\text{熵降低}}
+|\psi\rangle_{\text{A,B纠缠态}} \rightarrow |\psi\rangle_{\text{A,B纠缠态}}
 $$
 
-#### 6.2 信息传递守恒公式
-
-信息传递过程中的守恒关系：
+接收端过程（量子域→经典域）：
 
 $$
-\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
+|\psi\rangle_{\text{量子纠缠态}} + E_{\text{能量消耗}} \rightarrow I_{\text{经典知识}} + \Delta S_{\text{熵降低}}
 $$
 
 ### 七、量子纠缠公式
@@ -180,7 +176,7 @@ $$
 
 # Mathematical Formulations of Quantum-Classical Dualism
 
-This document compiles the key mathematical formulas of the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1).
+This document compiles the key mathematical formulas of the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6).
 
 ### I. Basic Formulas of Universe Structure
 

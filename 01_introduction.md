@@ -8,7 +8,7 @@ English: [Theoretical Background](#theoretical-background) | [Overview of Core C
 
 ## 中文版
 
-本文是[量子经典二元论核心理论](core.md)（版本7.1）的简介。
+本文是[量子经典二元论核心理论](core.md)（版本8.6）的简介。
 
 ### 理论背景
 
@@ -48,6 +48,12 @@ $$
 
 $$
 |\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
+$$
+
+- **虫洞通信机制**：观察者（黑洞）之间的信息传输过程，通过量子纠缠态在虫洞中传播，实现不同经典世界之间的能量与知识传输。
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
 $$
 
 ### 核心优势
@@ -96,7 +102,7 @@ $$
 
 # Introduction to Quantum-Classical Dualism
 
-This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1).
+This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6).
 
 ### Theoretical Background
 
@@ -138,6 +144,12 @@ $$
 |\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
 $$
 
+- **虫洞通信机制**：观察者（黑洞）之间的信息传输过程，通过量子纠缠态在虫洞中传播，实现不同经典世界之间的能量与知识传输。
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
+
 ### Core Advantages
 
 The theoretical advantages of Quantum-Classical Dualism:
@@ -155,7 +167,7 @@ The theoretical advantages of Quantum-Classical Dualism:
 
 Quantum-Classical Dualism forms a complete theoretical system, including:
 
-1. [Core Theory](core.md) - Complete exposition of the theory (Version 7.1)
+1. [Core Theory](core.md) - Complete exposition of the theory (Version 8.6)
 2. [Basic Concepts](02_basic_concepts.md) - Basic concept definitions of the theory
 3. [Theoretical Framework](03_theoretical_framework.md) - Overall framework structure of the theory
 4. [Mathematical Formulations](04_mathematical_formulations.md) - Mathematical formalization of the theory
