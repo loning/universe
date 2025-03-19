@@ -1,14 +1,11 @@
-# 量子经典二元论基本概念 (Basic Concepts of Quantum-Classical Dualism)
+# 量子经典二元论基本概念
+# Basic Concepts of Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[量子域](#量子域) | [经典域](#经典域) | [观察者与黑洞](#观察者与黑洞) | [观察者维度](#观察者维度) | [广义意识](#广义意识) | [经典化过程](#经典化过程) | [经典知识与熵](#经典知识与经典熵) | [虫洞通信机制](#虫洞通信机制) | [自由意志](#自由意志) | [量子纠缠](#量子纠缠)  
-English: [Quantum Domain](#quantum-domain) | [Classical Domain](#classical-domain) | [Observer and Black Hole](#observer-and-black-hole) | [Observer Dimension](#observer-dimension) | [Generalized Consciousness](#generalized-consciousness) | [Classicalization Process](#classicalization-process) | [Classical Knowledge and Entropy](#classical-knowledge-and-classical-entropy) | [Wormhole Communication Mechanism](#wormhole-communication-mechanism) | [Free Will](#free-will) | [Quantum Entanglement](#quantum-entanglement)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本8.6），解释理论的基本概念。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.1），解释理论的基本概念。
 
 ### 量子域
 
@@ -200,9 +197,7 @@ $$
 
 ## English Version
 
-# Basic Concepts of Quantum-Classical Dualism
-
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), explaining the basic concepts of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), explaining the basic concepts of the theory.
 
 ### Quantum Domain
 

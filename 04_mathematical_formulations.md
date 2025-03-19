@@ -1,14 +1,11 @@
-# 量子经典二元论数学公式 (Mathematical Formulations of Quantum-Classical Dualism)
+# 量子经典二元论数学公式
+# Mathematical Formulations of Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[宇宙结构公式](#一宇宙结构基本公式) | [观察者黑洞公式](#二观察者黑洞统一数学描述) | [维度公式](#三观察者维度公式) | [意识公式](#四广义意识公式) | [经典化公式](#五经典化与量子化公式) | [信息传播公式](#六信息传递公式) | [虫洞通信公式](#七虫洞通信公式) | [量子纠缠公式](#八量子纠缠公式) | [低熵终极状态](#九宇宙低熵终极状态公式)  
-English: [Universe Structure Formulas](#i-basic-formulas-of-universe-structure) | [Observer-Black Hole Formulas](#ii-mathematical-description-of-observer-black-hole-unification) | [Dimension Formulas](#iii-observer-dimension-formulas) | [Consciousness Formulas](#iv-generalized-consciousness-formulas) | [Classicalization Formulas](#v-classicalization-and-quantization-formulas) | [Information Transfer Formulas](#vi-information-transfer-formulas) | [Wormhole Communication Formulas](#vii-wormhole-communication-formulas) | [Quantum Entanglement Formulas](#viii-quantum-entanglement-formulas) | [Low-Entropy Ultimate State](#ix-universe-low-entropy-ultimate-state-formula)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档整理了[量子经典二元论核心理论](core.md)（版本8.6）的关键数学公式。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.1），整理了理论的关键数学公式。
 
 ### 一、宇宙结构基本公式
 
@@ -206,9 +203,7 @@ $$
 
 ## English Version
 
-# Mathematical Formulations of Quantum-Classical Dualism
-
-This document compiles the key mathematical formulas of the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6).
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), compiling the key mathematical formulas of the theory.
 
 ### I. Basic Formulas of Universe Structure
 

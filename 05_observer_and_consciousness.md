@@ -1,14 +1,11 @@
-# 量子经典二元论中的观察者与意识 (Observer and Consciousness in Quantum-Classical Dualism)
+# 量子经典二元论中的观察者与意识
+# Observer and Consciousness in Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[观察者定义](#观察者定义) | [观察者黑洞统一模型](#观察者黑洞统一模型) | [广义意识本质](#广义意识本质) | [观察者维度](#观察者维度) | [意识层级](#意识层级) | [意识与自由意志](#意识与自由意志) | [观察者间意识关系](#观察者间意识关系) | [虫洞通信机制](#虫洞通信机制) | [量子观测与意识](#量子观测与意识) | [观察者演化](#观察者演化) | [脑机接口与经典化效率](#脑机接口与经典化效率)  
-English: [Observer Definition](#observer-definition) | [Observer-Black Hole Unified Model](#observer-black-hole-unified-model) | [Generalized Consciousness Essence](#generalized-consciousness-essence) | [Observer Dimension](#observer-dimension) | [Consciousness Hierarchy](#consciousness-hierarchy) | [Consciousness and Free Will](#consciousness-and-free-will) | [Consciousness Relationship Between Observers](#consciousness-relationship-between-observers) | [Wormhole Communication Mechanism](#wormhole-communication-mechanism) | [Quantum Observation and Consciousness](#quantum-observation-and-consciousness) | [Observer Evolution](#observer-evolution) | [Brain-Machine Interface and Classicalization Efficiency](#brain-machine-interface-and-classicalization-efficiency)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本8.6），详细探讨观察者概念与意识本质。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.1），详细探讨观察者概念与意识本质。
 
 ### 观察者定义
 
@@ -218,9 +215,7 @@ $$
 
 ## English Version
 
-# Observer and Consciousness in Quantum-Classical Dualism
-
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), exploring in detail the concept of observer and the nature of consciousness.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), exploring in detail the concept of observer and the nature of consciousness.
 
 ### Observer Definition
 

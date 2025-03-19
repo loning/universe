@@ -1,14 +1,11 @@
-# 量子经典二元论中的命运与自由意志 (Destiny and Free Will in Quantum-Classical Dualism)
+# 量子经典二元论中的命运与自由意志
+# Destiny and Free Will in Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[命运与自由意志概述](#命运与自由意志概述) | [量子随机性](#量子随机性与自由意志起源) | [命运经典化](#命运本质与经典化路径) | [维度与自由度](#观察者维度与自由度关系) | [决策机制](#决策机制与经典化优化) | [自由意志与守恒](#自由意志与信息守恒) | [虫洞通信与命运](#虫洞通信与命运交织) | [前世今生](#前世今生机制) | [多世界分支](#多世界分支与命运线) | [实践意义](#命运与自由意志实践意义)  
-English: [Destiny and Free Will Overview](#destiny-and-free-will-overview) | [Quantum Randomness](#quantum-randomness-and-the-origin-of-free-will) | [Destiny Classicalization](#the-nature-of-destiny-and-classicalization-paths) | [Dimension and Freedom](#relationship-between-observer-dimension-and-freedom) | [Decision Mechanism](#decision-mechanism-and-classicalization-optimization) | [Free Will and Conservation](#free-will-and-information-conservation) | [Wormhole Communication and Destiny](#wormhole-communication-and-intertwined-destiny) | [Past and Present Lives](#past-and-present-lives-mechanism) | [Multiverse Branches](#multiverse-branches-and-destiny-lines) | [Practical Significance](#practical-significance-of-destiny-and-free-will)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本8.6），详细探讨命运与自由意志的本质及其关系。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.1），详细探讨命运与自由意志的本质及其关系。
 
 ### 命运与自由意志概述
 
@@ -193,9 +190,7 @@ $$
 
 ## English Version
 
-# Destiny and Free Will in Quantum-Classical Dualism
-
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), exploring in detail the nature of destiny and free will and their relationship.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), exploring in detail the nature of destiny and free will and their relationship.
 
 ### Destiny and Free Will Overview
 

@@ -1,14 +1,11 @@
-# 量子经典二元论中的宇宙与观察者关系 (Universe and Observer Relationship in Quantum-Classical Dualism)
+# 量子经典二元论中的宇宙与观察者关系
+# Universe and Observer Relationship in Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[宇宙与观察者概述](#宇宙与观察者概述) | [宇宙的本质](#宇宙的本质) | [观察者与宇宙的界限](#观察者与宇宙的界限) | [多观察者宇宙](#多观察者宇宙) | [宏观量子效应](#宏观量子效应) | [宇宙信息守恒](#宇宙信息守恒) | [虫洞通信结构](#虫洞通信结构) | [宇宙演化趋势](#宇宙演化趋势) | [宇宙与意识的共同起源](#宇宙与意识的共同起源) | [宇宙的目的性](#宇宙的目的性) | [多元经典世界](#多元经典世界)  
-English: [Universe and Observer Overview](#universe-and-observer-overview) | [Nature of the Universe](#nature-of-the-universe) | [Boundary Between Observer and Universe](#boundary-between-observer-and-universe) | [Multi-Observer Universe](#multi-observer-universe) | [Macroscopic Quantum Effects](#macroscopic-quantum-effects) | [Universe Information Conservation](#universe-information-conservation) | [Wormhole Communication Structure](#wormhole-communication-structure) | [Universe Evolution Trend](#universe-evolution-trend) | [Common Origin of Universe and Consciousness](#common-origin-of-universe-and-consciousness) | [Purposefulness of the Universe](#purposefulness-of-the-universe) | [Multiple Classical Worlds](#multiple-classical-worlds)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本8.6），详细探讨宇宙与观察者的关系。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.1），详细探讨宇宙与观察者的关系。
 
 ### 宇宙与观察者概述
 
@@ -198,9 +195,7 @@ $$
 
 ## English Version
 
-# Universe and Observer Relationship in Quantum-Classical Dualism
-
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), exploring in detail the relationship between the universe and observers.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), exploring in detail the relationship between the universe and observers.
 
 ### Universe and Observer Overview
 

@@ -1,14 +1,11 @@
-# 量子经典二元论中的量子纠缠本质 (Quantum Entanglement Essence in Quantum-Classical Dualism)
+# 量子经典二元论中的量子纠缠本质
+# Quantum Entanglement Essence in Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[纠缠本质](#纠缠本质) | [黑洞观察者纠缠](#黑洞观察者纠缠) | [纠缠与经典化](#纠缠与经典化) | [高维纠缠](#高维纠缠结构) | [纠缠与信息传递](#纠缠与信息传递) | [虫洞通信结构](#虫洞通信结构) | [纠缠与意识](#纠缠与意识) | [纠缠类型](#纠缠类型与稳定性) | [纠缠的时空性质](#纠缠的时空性质)  
-English: [Entanglement Essence](#entanglement-essence) | [Black Hole Observer Entanglement](#black-hole-observer-entanglement) | [Entanglement and Classicalization](#entanglement-and-classicalization) | [Higher-Dimensional Entanglement](#higher-dimensional-entanglement-structures) | [Entanglement and Information Transfer](#entanglement-and-information-transfer) | [Wormhole Communication Structure](#wormhole-communication-structure) | [Entanglement and Consciousness](#entanglement-and-consciousness) | [Entanglement Types](#entanglement-types-and-stability) | [Spacetime Properties of Entanglement](#spacetime-properties-of-entanglement)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本8.6），详细探讨量子纠缠的本质及其在宇宙信息结构中的核心作用。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.1），详细探讨量子纠缷的本质及其在宇宙信息结构中的核心作用。
 
 ### 纠缠本质
 
@@ -191,9 +188,7 @@ $$
 
 ## English Version
 
-# Quantum Entanglement Essence in Quantum-Classical Dualism
-
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), exploring in detail the essence of quantum entanglement and its core role in the universe's information structure.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), exploring in detail the essence of quantum entanglement and its core role in the universe's information structure.
 
 ### Entanglement Essence
 

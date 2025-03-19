@@ -1,10 +1,7 @@
-# 参考文献 (References)
+# 参考文献
+# References
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[量子物理](#量子物理学基础) | [量子测量问题](#量子测量问题) | [量子信息理论](#量子信息理论) | [意识与量子理论](#意识与量子理论) | [信息熵与热力学](#信息熵与热力学) | [信息传递过程](#信息传递过程与熵变化) | [观察者研究](#观察者与意识同构性研究) | [复数理论](#欧拉公式与复数理论) | [信息守恒](#信息守恒与传播理论) | [宇宙关系](#观察者与宇宙关系) | [脑机接口研究](#脑机接口与经典化研究) | [多元经典世界](#多元经典世界研究) | [经典化实践](#经典化实践方法研究) | [虫洞通信研究](#虫洞通信与黑洞观察者研究) | [相关理论](#量子经典二元论直接相关)  
-English: [Quantum Physics](#foundations-of-quantum-physics) | [Measurement Problem](#quantum-measurement-problem) | [Quantum Information](#quantum-information-theory) | [Consciousness](#consciousness-and-quantum-theory) | [Information Entropy](#information-entropy-and-thermodynamics) | [Information Transfer](#information-transfer-process-and-entropy-changes) | [Observer Studies](#observer-and-consciousness-isomorphism-studies) | [Complex Theory](#euler-formula-and-complex-number-theory) | [Information Conservation](#information-conservation-and-propagation-theory) | [Universe Relationship](#observer-and-universe-relationship) | [BMI Research](#brain-machine-interface-and-classicalization-research) | [Multiple Classical Worlds](#multiple-classical-worlds-research) | [Classicalization Practice](#classicalization-practice-methods-research) | [Wormhole Communication](#wormhole-communication-and-black-hole-observer-research) | [Related Theory](#directly-related-to-quantum-classical-dualism)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
@@ -124,8 +121,6 @@ English: [Quantum Physics](#foundations-of-quantum-physics) | [Measurement Probl
 68. [图示库](figures/README.md). 量子经典二元论图示库.
 
 ## English Version
-
-# References
 
 The following are references related to Quantum-Classical Dualism:
 

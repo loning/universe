@@ -1,14 +1,11 @@
-# 量子经典二元论理论框架 (Theoretical Framework of Quantum-Classical Dualism)
+# 量子经典二元论理论框架
+# Theoretical Framework of Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[理论概述](#理论概述) | [核心假设](#核心假设) | [基本原理](#基本原理) | [理论结构](#理论结构) | [数学基础](#数学基础) | [解释力](#解释力) | [可验证性](#可验证性) | [理论边界](#理论边界) | [哲学意义](#哲学意义) | [未来方向](#未来方向)  
-English: [Theory Overview](#theory-overview) | [Core Hypotheses](#core-hypotheses) | [Basic Principles](#basic-principles) | [Theoretical Structure](#theoretical-structure) | [Mathematical Foundation](#mathematical-foundation) | [Explanatory Power](#explanatory-power) | [Verifiability](#verifiability) | [Theoretical Boundaries](#theoretical-boundaries) | [Philosophical Significance](#philosophical-significance) | [Future Directions](#future-directions)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本8.6），阐述理论的整体框架与结构。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.1），阐述理论的整体框架与结构。
 
 ### 理论概述
 
@@ -213,9 +210,7 @@ $$
 
 ## English Version
 
-# Theoretical Framework of Quantum-Classical Dualism
-
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), outlining the overall framework and structure of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), outlining the overall framework and structure of the theory.
 
 ### Theory Overview
 

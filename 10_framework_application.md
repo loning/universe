@@ -1,14 +1,11 @@
-# 量子经典二元论框架应用指南 (Framework Application Guide for Quantum-Classical Dualism)
+# 量子经典二元论框架应用
+# Framework Application of Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[应用概述](#应用概述) | [理论应用方法](#理论应用方法) | [实证研究指南](#实证研究指南) | [学科交叉应用](#学科交叉应用) | [案例分析](#案例分析) | [实践工具](#实践工具) | [发展方向](#发展方向)  
-English: [Application Overview](#application-overview) | [Theoretical Application Methods](#theoretical-application-methods) | [Empirical Research Guidelines](#empirical-research-guidelines) | [Cross-disciplinary Applications](#cross-disciplinary-applications) | [Case Analysis](#case-analysis) | [Practical Tools](#practical-tools) | [Development Directions](#development-directions)
+[中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本8.6），提供详细的框架应用指南，帮助研究者、实践者和感兴趣的个人将理论应用于实际问题。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.1），详细阐述理论的实际应用框架。
 
 ### 应用概述
 
@@ -328,9 +325,7 @@ English: [Application Overview](#application-overview) | [Theoretical Applicatio
 
 ## English Version
 
-# Framework Application Guide for Quantum-Classical Dualism
-
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), providing a detailed framework application guide to help researchers, practitioners, and interested individuals apply the theory to practical problems.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), detailing the practical application framework of the theory.
 
 ### Application Overview
 
