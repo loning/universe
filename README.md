@@ -152,6 +152,7 @@
 - [宗教解释](./theories/philosophy_humanities/religious_explanations.md) - 量子宇宙-量子观察者-经典意识论对宗教学问题的解释
 - [宗教研究视角](./theories/philosophy_humanities/religious_studies_explanation.md) - 宗教学视角下的量子经典二元论 (Quantum-Classical Dualism from Religious Studies Perspective)
 - [精神维度](./theories/philosophy_humanities/spiritual_dimensions.md) - 灵性维度与经典化 (Spiritual Dimensions and Classicalization)
+- [易经解释](./theories/philosophy_humanities/yijing_quantum_classical.md) - 易经与量子经典二元论：宇宙观对照与解释 (I Ching and Quantum-Classical Dualism: Cosmological Correspondence)
 
 #### 宗教解释 | Religious Explanations
 - [宗教解释概述](./religions/README.md) - 宗教在量子经典二元论下的解释 (Religions Explained Through Quantum-Classical Dualism)
@@ -163,7 +164,6 @@
 - [犹太教](./religions/Judaism.md) - 犹太教在量子经典二元论下的解释 (Judaism Explained Through Quantum-Classical Dualism)
 - [儒家思想](./religions/Confucianism.md) - 儒家思想在量子经典二元论下的解释 (Confucianism Explained Through Quantum-Classical Dualism)
 - [锡克教](./religions/Sikhism.md) - 锡克教在量子经典二元论下的解释 (Sikhism Explained Through Quantum-Classical Dualism)
-- [易经](./religions/YiJing.md) - 易经在量子经典二元论下的解释 (I Ching Explained Through Quantum-Classical Dualism)
 
 ##### 社会科学 | Social Sciences
 - [经济解释](./theories/social_sciences/economic_explanations.md) - 经济学问题解释 | Economic Explanations
@@ -473,6 +473,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Religious Explanations](./theories/philosophy_humanities/religious_explanations.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory on Religious Studies Issues
 - [Religious Studies Explanation](./theories/philosophy_humanities/religious_studies_explanation.md) - Quantum-Classical Dualism from Religious Studies Perspective
 - [Spiritual Dimensions](./theories/philosophy_humanities/spiritual_dimensions.md) - Spiritual Dimensions and Classicalization
+- [易经解释](./theories/philosophy_humanities/yijing_quantum_classical.md) - 易经与量子经典二元论：宇宙观对照与解释 (I Ching and Quantum-Classical Dualism: Cosmological Correspondence)
 
 #### Religious Explanations
 - [Religious Explanations Overview](./religions/README.md) - Religions Explained Through Quantum-Classical Dualism
@@ -484,7 +485,6 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Judaism](./religions/Judaism.md) - Judaism Explained Through Quantum-Classical Dualism
 - [Confucianism](./religions/Confucianism.md) - Confucianism Explained Through Quantum-Classical Dualism
 - [Sikhism](./religions/Sikhism.md) - Sikhism Explained Through Quantum-Classical Dualism
-- [I Ching](./religions/YiJing.md) - I Ching Explained Through Quantum-Classical Dualism
 
 ##### Social Sciences
 - [Economic Explanations](./theories/social_sciences/economic_explanations.md) - Economic Explanations
