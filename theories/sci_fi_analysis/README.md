@@ -17,6 +17,8 @@
 3. [《盗梦空间》分析](./inception_analysis.md) - 《盗梦空间》：量子经典二元论视角分析
 4. [《流浪地球》分析](./wandering_earth_analysis.md) - 《流浪地球》：量子经典二元论视角分析
 5. [《三体》评论](./three_body_critique.md) - 《三体》宇宙观批判：基于量子经典二元论视角
+6. [《星际穿越》分析](./interstellar_analysis.md) - 《星际穿越》：量子经典二元论视角分析
+7. [《银翼杀手》分析](./blade_runner_analysis.md) - 《银翼杀手》：量子经典二元论视角分析
 
 ### 主题映射表
 
@@ -27,6 +29,8 @@
 | 盗梦空间 | 潜意识 | 多层梦境结构 | 梦主与入梦者 | 共享梦境 |
 | 流浪地球 | 可能的轨道路径 | 实际地球飞行路径 | 人类集体观察者 | 人类集体决策网络 |
 | 三体 | 宇宙可能性 | 文明间互动现实 | 不同文明观察者 | 文明间交流 |
+| 星际穿越 | 五维空间 | 三维物理世界 | 库珀(高维观察者) | 父女间的跨时空联系 |
+| 银翼杀手 | 自由意志源头 | 复制人与人类世界 | 人类与复制人 | 罗伊的灵魂觉醒 |
 
 ## Introduction to Science Fiction Films Analysis
 
@@ -41,6 +45,8 @@ By reinterpreting these classic science fiction works through the theoretical fr
 3. [Inception Analysis](./inception_analysis.md) - "Inception": Analysis from Quantum-Classical Dualism Perspective
 4. [The Wandering Earth Analysis](./wandering_earth_analysis.md) - "The Wandering Earth": Analysis from Quantum-Classical Dualism Perspective
 5. [Three Body Critique](./three_body_critique.md) - Critique of "The Three-Body Problem" Universe View: From the Perspective of Quantum-Classical Dualism
+6. [Interstellar Analysis](./interstellar_analysis.md) - "Interstellar": Analysis from Quantum-Classical Dualism Perspective
+7. [Blade Runner Analysis](./blade_runner_analysis.md) - "Blade Runner": Analysis from Quantum-Classical Dualism Perspective
 
 ### Theme Mapping Table
 
@@ -51,3 +57,5 @@ By reinterpreting these classic science fiction works through the theoretical fr
 | Inception | Subconscious | Multi-layer Dream Structure | Dreamer and Dream Entrants | Shared Dreams |
 | The Wandering Earth | Possible Orbit Paths | Actual Earth Flight Path | Human Collective Observer | Human Collective Decision Network |
 | The Three-Body Problem | Universe Possibilities | Reality of Civilization Interaction | Different Civilization Observers | Communication Between Civilizations | 
+| Interstellar | Five-dimensional Space | Three-dimensional Physical World | Cooper (Higher-dimensional Observer) | Cross-temporal Connection Between Father and Daughter |
+| Blade Runner | Source of Free Will | Replicant and Human World | Humans and Replicants | Roy's Soul Awakening | 
