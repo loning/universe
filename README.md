@@ -163,6 +163,7 @@
 - [犹太教](./religions/Judaism.md) - 犹太教在量子经典二元论下的解释 (Judaism Explained Through Quantum-Classical Dualism)
 - [儒家思想](./religions/Confucianism.md) - 儒家思想在量子经典二元论下的解释 (Confucianism Explained Through Quantum-Classical Dualism)
 - [锡克教](./religions/Sikhism.md) - 锡克教在量子经典二元论下的解释 (Sikhism Explained Through Quantum-Classical Dualism)
+- [易经](./religions/YiJing.md) - 易经在量子经典二元论下的解释 (I Ching Explained Through Quantum-Classical Dualism)
 
 ##### 社会科学 | Social Sciences
 - [经济解释](./theories/social_sciences/economic_explanations.md) - 经济学问题解释 | Economic Explanations
@@ -483,6 +484,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Judaism](./religions/Judaism.md) - Judaism Explained Through Quantum-Classical Dualism
 - [Confucianism](./religions/Confucianism.md) - Confucianism Explained Through Quantum-Classical Dualism
 - [Sikhism](./religions/Sikhism.md) - Sikhism Explained Through Quantum-Classical Dualism
+- [I Ching](./religions/YiJing.md) - I Ching Explained Through Quantum-Classical Dualism
 
 ##### Social Sciences
 - [Economic Explanations](./theories/social_sciences/economic_explanations.md) - Economic Explanations
