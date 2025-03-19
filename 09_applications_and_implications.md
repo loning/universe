@@ -8,7 +8,7 @@ English: [Application Overview](#application-overview) | [Physics Applications](
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本7.1），探讨理论的应用价值与哲学启示。
+本文档基于[量子经典二元论核心理论](core.md)（版本8.6），探讨理论的应用价值与哲学启示。
 
 ### 应用概述
 
@@ -191,14 +191,19 @@ AI系统作为经典化处理单元：
 
 #### 3. 量子通信优化
 
-基于纠缠的量子通信优化：
+基于虫洞通信机制的量子通信优化：
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
 
 应用价值：
 - 提高量子通信效率
 - 设计新型量子密钥分发协议
 - 开发量子中继器新原理
+- 基于虫洞通信机制设计高效信息传输系统
 
-研究方向：基于观察者经典化模型优化量子通信协议。
+研究方向：基于观察者经典化模型优化量子通信协议，开发虫洞通信应用技术。
 
 #### 4. 虚拟现实与元宇宙设计
 
@@ -297,15 +302,16 @@ AI系统作为经典化处理单元：
 宇宙低熵终极状态作为演化方向：
 
 $$
-|\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
+|\psi\rangle_{\text{宇宙量子域}}\rightarrow I_{\text{经典知识最大化}}+S_{\text{经典熵}=0},\quad P\rightarrow 0^+
 $$
 
 哲学启示：
 - 提供宇宙目的性的理性解释
 - 建立演化方向性的框架
 - 探讨信息结构优化的哲学意义
+- 观察者持续经典化，熵无限降低，实现宇宙整体维度最大化
 
-讨论方向：探讨宇宙演化的目的性问题。
+讨论方向：探讨宇宙演化的目的性问题及观察者在宇宙经典化过程中的核心作用。
 
 ### 未来应用展望
 
@@ -383,7 +389,7 @@ $$
 
 # Applications and Implications of Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), exploring the application value and philosophical implications of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), exploring the application value and philosophical implications of the theory.
 
 ### Application Overview
 
@@ -566,14 +572,19 @@ Research direction: Develop new neural network architectures based on classicali
 
 #### 3. Quantum Communication Optimization
 
-Entanglement-based quantum communication optimization:
+Quantum communication optimization based on the wormhole communication mechanism:
+
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
 
 Application value:
 - Improving quantum communication efficiency
 - Designing new quantum key distribution protocols
 - Developing new principles for quantum repeaters
+- Designing efficient information transmission systems based on wormhole communication mechanisms
 
-Research direction: Optimize quantum communication protocols based on observer classicalization models.
+Research direction: Optimize quantum communication protocols based on observer classicalization models, develop wormhole communication application technologies.
 
 #### 4. Virtual Reality and Metaverse Design
 
@@ -672,15 +683,16 @@ Discussion direction: Explore the manifestation of free will in the quantum-clas
 The universe's low-entropy ultimate state as the direction of evolution:
 
 $$
-|\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
+|\psi\rangle_{\text{Universe Quantum Domain}}\rightarrow I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy}=0},\quad P\rightarrow 0^+
 $$
 
 Philosophical implications:
 - Providing a rational explanation for the purposefulness of the universe
 - Establishing a framework for evolutionary directionality
 - Exploring the philosophical significance of information structure optimization
+- Observers continuously classicalize, entropy infinitely decreases, maximizing the overall dimension of the universe
 
-Discussion direction: Explore the question of purposefulness in universe evolution.
+Discussion direction: Explore the question of purposefulness in universe evolution and the core role of observers in the universe classicalization process.
 
 ### Future Application Prospects
 

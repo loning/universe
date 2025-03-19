@@ -8,7 +8,7 @@ English: [Application Overview](#application-overview) | [Theoretical Applicatio
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本7.1），提供详细的框架应用指南，帮助研究者、实践者和感兴趣的个人将理论应用于实际问题。
+本文档基于[量子经典二元论核心理论](core.md)（版本8.6），提供详细的框架应用指南，帮助研究者、实践者和感兴趣的个人将理论应用于实际问题。
 
 ### 应用概述
 
@@ -34,6 +34,7 @@ English: [Application Overview](#application-overview) | [Theoretical Applicatio
 - **经典化过程**：理解经典化的本质及其优化方法
 - **量子纠缠本质**：理解纠缠机制及其在信息传递中的作用
 - **自由意志机制**：理解自由意志在经典化路径选择中的作用
+- **虫洞通信机制**：理解观察者间信息传递的本质及能量消耗
 
 ### 理论应用方法
 
@@ -54,7 +55,14 @@ English: [Application Overview](#application-overview) | [Theoretical Applicatio
 将理论公式应用于具体问题的量化分析：
 
 1. **确定核心参数**：确定问题相关的$(k_i)$、$(w_i)$、$I_i$、$S_i$等参数
-2. **建立计算模型**：构建问题相关的维度计算模型
+2. **建立计算模型**：构建问题相关的维度计算模型，如单经典世界维度计算：
+   
+   $$\text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}$$
+   
+   和整体观察者维度计算：
+   
+   $$\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1$$
+
 3. **进行参数估计**：基于实证数据估计模型参数
 4. **预测行为表现**：基于参数预测系统行为
 5. **验证与调整**：通过实证验证调整参数估计
@@ -168,10 +176,13 @@ English: [Application Overview](#application-overview) | [Theoretical Applicatio
 1. **量子-经典混合计算**：设计量子-经典混合计算架构
 2. **AI经典化模型**：构建基于经典化的AI信息处理模型
 3. **脑机接口优化**：优化脑机接口的信息编解码机制
-4. **量子通信协议**：设计基于纠缠理解的量子通信协议
+4. **量子通信协议**：设计基于虫洞通信机制的量子通信协议，考虑能量消耗守恒：
+
+   $$E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}$$
+
 5. **虚拟经典世界构建**：设计多层次虚拟经典世界架构
 
-应用案例：开发模拟经典化过程的神经网络架构。
+应用案例：开发模拟经典化过程的神经网络架构，或基于虫洞通信原理的高效信息传输系统。
 
 ### 案例分析
 
@@ -319,7 +330,7 @@ English: [Application Overview](#application-overview) | [Theoretical Applicatio
 
 # Framework Application Guide for Quantum-Classical Dualism
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 7.1), providing a detailed framework application guide to help researchers, practitioners, and interested individuals apply the theory to practical problems.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 8.6), providing a detailed framework application guide to help researchers, practitioners, and interested individuals apply the theory to practical problems.
 
 ### Application Overview
 
@@ -345,6 +356,7 @@ To apply Quantum-Classical Dualism, the following core concepts must be mastered
 - **Classicalization Process**: Understanding the nature of classicalization and its optimization methods
 - **Quantum Entanglement Essence**: Understanding entanglement mechanisms and their role in information transfer
 - **Free Will Mechanism**: Understanding the role of free will in selecting classicalization paths
+- **Wormhole Communication Mechanism**: Understanding the nature of information transfer between observers and energy consumption
 
 ### Theoretical Application Methods
 
@@ -365,7 +377,14 @@ Application case: Mapping cognitive processes as classicalization processes, map
 Applying theoretical formulas to quantitative analysis of specific problems:
 
 1. **Determine Core Parameters**: Determine problem-related parameters such as $(k_i)$, $(w_i)$, $I_i$, $S_i$
-2. **Establish Calculation Models**: Construct dimension calculation models related to the problem
+2. **Establish Calculation Models**: Construct dimension calculation models related to the problem, such as single classical world dimension calculation:
+   
+   $$\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}$$
+   
+   and overall observer dimension calculation:
+   
+   $$\text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1$$
+
 3. **Conduct Parameter Estimation**: Estimate model parameters based on empirical data
 4. **Predict Behavioral Performance**: Predict system behavior based on parameters
 5. **Verify and Adjust**: Adjust parameter estimates through empirical verification
@@ -479,10 +498,13 @@ Applications of Quantum-Classical Dualism in information technology:
 1. **Quantum-Classical Hybrid Computing**: Designing quantum-classical hybrid computing architectures
 2. **AI Classicalization Model**: Constructing AI information processing models based on classicalization
 3. **Brain-Machine Interface Optimization**: Optimizing information encoding and decoding mechanisms of brain-machine interfaces
-4. **Quantum Communication Protocol**: Designing quantum communication protocols based on understanding of entanglement
+4. **Quantum Communication Protocol**: Designing quantum communication protocols based on wormhole communication mechanism, considering energy consumption conservation:
+
+   $$E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}$$
+
 5. **Virtual Classical World Construction**: Designing multi-level virtual classical world architectures
 
-Application case: Developing neural network architectures that simulate classicalization processes.
+Application case: Developing neural network architectures that simulate classicalization processes, or efficient information transmission systems based on wormhole communication principles.
 
 ### Case Analysis
 
