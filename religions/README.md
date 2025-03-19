@@ -17,14 +17,14 @@ This directory contains explanations of major world religions based on the Quant
 
 ## 包含的宗教 (Included Religions)
 
-1. [佛教 (Buddhism)](Buddhism.md)
-2. [基督教 (Christianity)](Christianity.md)
-3. [伊斯兰教 (Islam)](Islam.md)
-4. [道教 (Taoism)](Taoism.md)
-5. [印度教 (Hinduism)](Hinduism.md)
-6. [犹太教 (Judaism)](Judaism.md)
-7. [儒家思想 (Confucianism)](Confucianism.md)
-8. [锡克教 (Sikhism)](Sikhism.md)
+1. [佛教 (Buddhism)](Buddhism.md) - 核心理论版本9.1 | [经典著作](buddhism_scriptures/README.md)
+2. [基督教 (Christianity)](Christianity.md) - 核心理论版本9.1 | [经典著作](christianity_scriptures/README.md)
+3. [伊斯兰教 (Islam)](Islam.md) - 核心理论版本9.1 | [经典著作](islam_scriptures/README.md)
+4. [道教 (Taoism)](Taoism.md) - 核心理论版本9.1 | [经典著作](taoism_scriptures/README.md)
+5. [印度教 (Hinduism)](Hinduism.md) - 核心理论版本9.1 | [经典著作](hinduism_scriptures/README.md)
+6. [犹太教 (Judaism)](Judaism.md) - 核心理论版本9.1 | [经典著作](judaism_scriptures/README.md)
+7. [儒家思想 (Confucianism)](Confucianism.md) - 核心理论版本9.1 | [经典著作](confucianism_scriptures/README.md)
+8. [锡克教 (Sikhism)](Sikhism.md) - 核心理论版本9.1 | [经典著作](sikhism_scriptures/README.md)
 
 ## 目的 (Purpose)
 
