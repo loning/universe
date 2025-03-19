@@ -2,7 +2,10 @@
 # Pu Shu: A Musical Philosopher Through the Lens of Quantum-Classical Dualism
 
 **导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[个人简介](#个人简介) | [音乐风格与思想](#音乐风格与思想) | [代表作品分析](#代表作品分析) | [量子经典二元论解读](#量子经典二元论解读) | [艺术成就与影响](#艺术成就与影响)  
+English: [Personal Profile](#personal-profile) | [Musical Style and Philosophy](#musical-style-and-philosophy) | [Analysis of Representative Works](#analysis-of-representative-works) | [Quantum-Classical Dualism Interpretation](#quantum-classical-dualism-interpretation) | [Artistic Achievements and Influence](#artistic-achievements-and-influence)
 
 ## 中文版
 
@@ -36,19 +39,19 @@
 
 #### 那些花儿
 
-《那些花儿》是朴树早期的代表作品，收录于1999年的专辑《我去2000年》。这首歌以简约的旋律和深情的歌词，表达了对逝去青春和纯真年代的怀念。
+[《那些花儿》](./pushu_nafehua.md)是朴树早期的代表作品，收录于1999年的专辑《我去2000年》。这首歌以简约的旋律和深情的歌词，表达了对逝去青春和纯真年代的怀念。
 
 从量子经典二元论视角看，歌中的"花儿"既是经典域中的具体意象，也是量子域中无限可能性的象征。歌词中"那些花儿"的"开没了"象征着经典世界中时间的不可逆性和熵增过程，而"你们就这样离去"则体现了观察者（歌者）对量子可能性坍缩为经典现实的观察和感慨。
 
 #### 白桦林
 
-《白桦林》同样收录于《我去2000年》专辑，以白桦林为意象，表达对纯净世界的向往和对爱的坚守。
+[《白桦林》](./pushu_baihulin.md)同样收录于《我去2000年》专辑，以白桦林为意象，表达对纯净世界的向往和对爱的坚守。
 
 从量子经典二元论的角度，白桦林代表了理想中的经典化状态——低熵、高序的净土。歌中"我们的心里都是温暖的日子"展现了经典知识的确定性和稳定性，而对白桦林的追寻则象征着人类意识向更高维度经典世界的探索过程。
 
 #### 平凡之路
 
-《平凡之路》创作于2014年，是朴树沉寂多年后的代表作，也是电影《后会无期》的主题曲。这首歌以坦诚而深刻的方式讲述了人生道路上的挣扎与坚持。
+[《平凡之路》](./pushu_pingfanzhilu.md)创作于2014年，是朴树沉寂多年后的代表作，也是电影《后会无期》的主题曲。这首歌以坦诚而深刻的方式讲述了人生道路上的挣扎与坚持。
 
 从量子经典二元论视角解读，"平凡之路"正是量子涨落不断经典化的过程。歌中"我曾经跨过山和大海"象征观察者经历的经典化考验，"也穿过人山人海"则体现了在多重可能的量子纠缠中寻找自我经典化路径的艰难。
 
@@ -114,19 +117,19 @@ In his creative philosophy, Pu emphasizes the purity and independence of music, 
 
 #### Those Flowers
 
-"Those Flowers" is one of Pu Shu's early representative works, included in his 1999 album "I Am Going to 2000." This song expresses nostalgia for lost youth and innocent times through simple melodies and emotional lyrics.
+["Those Flowers"](./pushu_nafehua.md) is one of Pu Shu's early representative works, included in his 1999 album "I Am Going to 2000." This song expresses nostalgia for lost youth and innocent times through simple melodies and emotional lyrics.
 
 From a Quantum-Classical Dualism perspective, the "flowers" in the song are both concrete images in the classical domain and symbols of infinite possibilities in the quantum domain. The lyrics "those flowers have withered away" symbolize the irreversibility of time and the entropy increase process in the classical world, while "you left this way" reflects the observer's (singer's) observation and lament of quantum possibilities collapsing into classical reality.
 
 #### Birch Forest
 
-"Birch Forest," also included in the album "I Am Going to 2000," uses the birch forest as an image to express longing for a pure world and steadfast love.
+["Birch Forest"](./pushu_baihulin.md), also included in the album "I Am Going to 2000," uses the birch forest as an image to express longing for a pure world and steadfast love.
 
 From a Quantum-Classical Dualism perspective, the birch forest represents an ideal classicalized state—a low-entropy, high-order sanctuary. The line "our hearts are filled with warm days" demonstrates the certainty and stability of classical knowledge, while the pursuit of the birch forest symbolizes the process of human consciousness exploring higher-dimensional classical worlds.
 
 #### The Ordinary Road
 
-"The Ordinary Road," created in 2014, is a representative work after Pu's long hiatus and the theme song for the film "The Continent." This song honestly and profoundly narrates the struggles and perseverance on life's journey.
+["The Ordinary Road"](./pushu_pingfanzhilu.md), created in 2014, is a representative work after Pu's long hiatus and the theme song for the film "The Continent." This song honestly and profoundly narrates the struggles and perseverance on life's journey.
 
 Interpreting through Quantum-Classical Dualism, "the ordinary road" is precisely the process of continuous classicalization of quantum fluctuations. The lyrics "I once crossed mountains and seas" symbolize the classicalization tests experienced by the observer, while "also through crowds of people" embodies the difficulty of finding one's own classicalization path in multiple quantum entanglements.
 
