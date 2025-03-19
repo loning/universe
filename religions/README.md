@@ -10,6 +10,11 @@ English: [Included Religions](#包含的宗教-included-religions) | [Purpose](#
 
 This directory contains explanations of major world religions based on the Quantum-Classical Dualism framework. Each religion is explained in its own file through the dualistic perspective, showing how this theory integrates with various religious thoughts.
 
+
+## 宗教解释方式
+
+首先使用量子经典二元论解释宗教本身，对每个宗教创建独立的.md文件，通过量子经典二元论框架对宗教核心概念进行解释。每个宗教文件包含双语内容（中文和英文），并运用量子域（无限可能）和经典域（现实确定）的概念阐释宗教思想。
+
 ## 包含的宗教 (Included Religions)
 
 1. [佛教 (Buddhism)](Buddhism.md)
