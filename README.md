@@ -25,6 +25,7 @@
 
 #### 历史人物分析 | Historical Figures Analysis
 - [历史人物分析索引](./figures/README.md) - 基于量子经典二元论视角的历史人物思想分析
+- **音乐人** - [**许巍 (许魏)**](./figures/musicians/xuwei.md) ★、[**朴树**](./figures/musicians/pushu.md) ★、更多[音乐人分析](./figures/musicians/README.md)
 - 哲学家 - 柏拉图、老子、康德、荀子、尼采、苏格拉底、笛卡尔、亚里士多德等
 - 科学家 - 爱因斯坦、达尔文、牛顿、玛丽·居里、尼尔斯·玻尔、高斯、图灵等
 - 艺术家 - 莎士比亚、莫扎特、达芬奇等
@@ -344,6 +345,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 #### Historical Figures Analysis
 - [Historical Figures Analysis Index](./figures/README.md) - Analysis of Historical Figures' Thoughts from the Perspective of Quantum-Classical Dualism
+- **Musicians** - [**Xu Wei**](./figures/musicians/xuwei.md) ★, [**Pu Shu**](./figures/musicians/pushu.md) ★, more [Musicians Analysis](./figures/musicians/README.md)
 - Philosophers - Plato, Lao Tzu, Kant, Xunzi, Nietzsche, Socrates, Descartes, Aristotle, etc.
 - Scientists - Einstein, Darwin, Newton, Marie Curie, Niels Bohr, Gauss, Turing, etc.
 - Artists - Shakespeare, Mozart, Da Vinci, etc.
