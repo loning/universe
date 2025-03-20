@@ -1,5 +1,5 @@
-# 感知、梦境与日常生活中的熵变化：量子经典二元论视角
-# Perception, Dreams, and Entropy Changes in Daily Life: A Quantum-Classical Dualism Perspective
+# 感知、梦境与日常生活中的熵变化：量子经典二元论视角（版本9.2）
+# Perception, Dreams, and Entropy Changes in Daily Life: A Quantum-Classical Dualism Perspective (Version 9.2)
 
 **导航 | Navigation**  
 [中文版](#引言) | [English Version](#introduction)  

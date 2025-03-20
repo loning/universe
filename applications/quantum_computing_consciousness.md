@@ -1,4 +1,4 @@
-# 量子计算与意识 (Quantum Computing and Consciousness)
+# 量子计算与意识 (Quantum Computing and Consciousness)（版本9.2）
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  

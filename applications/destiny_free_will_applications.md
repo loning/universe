@@ -1,4 +1,4 @@
-# 命运与自由意志应用 (Destiny and Free Will Applications)
+# 命运与自由意志应用 (Destiny and Free Will Applications)（版本9.2）
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  

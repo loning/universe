@@ -1,4 +1,4 @@
-# 量子经典二元论入门指南：从零开始的宇宙理解 | Quantum-Classical Dualism Introduction Guide: Understanding the Universe from Scratch
+# 量子经典二元论入门指南：从零开始的宇宙理解（版本9.2）| Quantum-Classical Dualism Introduction Guide: Understanding the Universe from Scratch (Version 9.2)
 
 [中文版](#中文版) | [English Version](#english-version)
 

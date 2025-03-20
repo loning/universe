@@ -1,5 +1,7 @@
 # 文章 | Articles
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 **导航 | Navigation**  
 **章节链接 | Section Links**  
 [简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论文章](#量子经典二元论文章-quantum-classical-dualism-articles) | [返回主页](#返回--return)
