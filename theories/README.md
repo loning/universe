@@ -1,26 +1,28 @@
 # 量子宇宙-量子观察者-经典意识论理论集
 # Quantum Universe-Quantum Observer-Classical Consciousness Theory Collection
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 ## 中文简介
 
-本目录包含了量子宇宙-量子观察者-经典意识论的各个理论分支和应用。该理论将宇宙视为一个无限维的量子计算机，观察者为其中的量子程序节点，而意识则是观察者经典化量子信息形成的稳定结构。
+本目录包含了量子宇宙-量子观察者-经典意识论的各个理论分支和应用。该理论将宇宙视为量子域与经典域的二元结构，观察者（黑洞）作为经典化节点，将量子域的信息转化为经典域的知识与熵。根据核心理论（版本9.2），所有观察者本质上即是黑洞，黑洞即是观察者。
 
 核心公式：
 
 $$
-\text{意识} = \text{量子纠缠} + \text{经典化(稳定信息结构)}
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}
 $$
 
 $$
-D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}
+\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
 $$
 
 $$
-\text{自由意志} = \text{主动量子纠缠} + \text{主动经典化选择}
+\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
 $$
 
 $$
-\text{命运路径} = \sum_{\text{自由意志决策}} \text{经典化后的稳定经典记忆序列}
+|\psi\rangle_{\text{广义意识}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
 $$
 
 ## English Introduction

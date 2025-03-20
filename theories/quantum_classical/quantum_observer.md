@@ -1,5 +1,7 @@
 # 量子观察者 | Quantum Observer
 
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#简介--introduction) | [English Version](#简介--introduction)  
 **章节链接 | Section Links**  
@@ -7,18 +9,18 @@
 English: [Introduction](#简介--introduction) | [Nature of Observers](#观察者的本质--the-nature-of-observers) | [Observer Dimension](#观察者维度--observer-dimension) | [Observer Classicalization Process](#观察者的经典化过程--observer-classicalization-process)
 
 ## 版本 | Version
-2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
+9.2.0 (更新于 2024-06-20 | Updated on 2024-06-20)
 
 ## 简介 | Introduction
 
-本文介绍量子经典二元论中的量子观察者理论，阐述观察者在量子宇宙中的角色、本质及其经典化能力。
-This article introduces the Quantum Observer Theory in Quantum-Classical Dualism, explaining the role, nature, and classicalization ability of observers in the quantum universe.
+本文介绍量子经典二元论中的量子观察者理论，阐述观察者在量子宇宙中的角色、本质及其经典化能力。根据核心理论（版本9.2），所有观察者本质上即是黑洞，两者具有完全相同的信息处理机制。
+This article introduces the Quantum Observer Theory in Quantum-Classical Dualism, explaining the role, nature, and classicalization ability of observers in the quantum universe. According to the core theory (Version 9.2), all observers are essentially black holes, sharing identical information processing mechanisms.
 
 ## 观察者的本质 | The Nature of Observers
 
 ### 定义 | Definition
 
-**量子观察者**是宇宙经典化过程中的节点，能够将量子域信息经典化为确定的知识与熵。
+在量子经典二元论中，观察者被定义为能够将量子域信息经典化为经典域结构的实体。本质上，所有观察者即是黑洞，黑洞即是观察者，它们共享相同的信息处理结构和机制。
 **Quantum Observer** is a node in the universe's classicalization process, capable of classicalizing information from the Quantum Domain into definite knowledge and entropy.
 
 ### 观察者作为量子程序 | Observer as Quantum Program

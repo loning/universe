@@ -1,5 +1,7 @@
 # 量子宇宙 | Quantum Universe
 
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#简介--introduction) | [English Version](#简介--introduction)  
 **章节链接 | Section Links**  
@@ -7,7 +9,7 @@
 English: [Introduction](#简介--introduction) | [Nature of Quantum Domain](#量子域的本质--the-nature-of-quantum-domain) | [Relationship with Classical Domain](#量子宇宙与经典域的关系--relationship-between-quantum-universe-and-classical-domain)
 
 ## 版本 | Version
-2.0.0 (更新于 2023-12-15 | Updated on 2023-12-15)
+9.2.0 (更新于 2024-06-20 | Updated on 2024-06-20)
 
 ## 简介 | Introduction
 

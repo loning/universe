@@ -1,5 +1,7 @@
 # 应用 | Applications
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
@@ -15,8 +17,8 @@ This directory contains various application scenarios and practical use cases of
 
 量子经典二元论应用基于以下核心原理：
 
-1. **观察者经典化**：观察者通过将量子可能性经典化为确定信息，影响物质世界和个人经验
-   **Observer Classicalization**: Observers influence the material world and personal experience by classicalizing quantum possibilities into definite information
+1. **观察者（黑洞）经典化**：观察者作为黑洞，通过经典化过程将量子域信息转换为经典知识与熵，消耗经典能量
+   **Observer (Black Hole) Classicalization**: Observers as black holes convert quantum domain information into classical knowledge and entropy through the classicalization process, consuming classical energy
 
    $$|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}$$
 

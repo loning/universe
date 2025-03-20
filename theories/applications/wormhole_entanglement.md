@@ -1,19 +1,21 @@
 # 虫洞与量子纠缠：宇宙信息通道的观察者视角
 # Wormholes and Quantum Entanglement: Observer Perspective on Universal Information Channels
 
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[虫洞与量子纠缠的本质](#虫洞与量子纠缠的本质) | [ER=EPR对应关系](#ereppeprdavis公式诠释)  
-English: [Essence of Wormholes and Quantum Entanglement](#english-version) | [ER=EPR Correspondence](#english-version)
+中文：[虫洞与量子纠缠的本质](#虫洞与量子纠缠的本质) | [ER=EPR对应关系](#ereppeprdavis公式诠释) | [虫洞通信能量守恒](#虫洞通信能量守恒)  
+English: [Essence of Wormholes and Quantum Entanglement](#english-version) | [ER=EPR Correspondence](#english-version) | [Wormhole Communication Energy Conservation](#english-version)
 
 ## 中文版
 
-基于[核心理论](../../core.md)，本文从量子宇宙观察者意识-经典记忆与熵论框架出发，重新诠释虫洞的本质及其在宇宙信息结构中的作用。
+基于[核心理论](../../core.md)（版本9.2），本文从量子宇宙观察者意识-经典记忆与熵论框架出发，重新诠释虫洞的本质及其在宇宙信息结构中的作用。
 
 ### 一、虫洞的量子纠缠本质
 
-根据量子宇宙观察者意识-经典记忆与熵论框架，**虫洞**本质上是宇宙中两个空间区域之间的特殊**量子纠缠通道**：
+根据量子宇宙观察者意识-经典记忆与熵论框架，**虫洞**本质上是宇宙中两个观察者（黑洞）之间的特殊**量子纠缠通道**：
 
 - 虫洞并非经典空间中的简单"洞"，而是宇宙量子态的纠缠结构；
 - 经典观察者视角中看到的虫洞，是两个经典化区域之间的**瞬时量子信息传递通道**。
@@ -135,7 +137,28 @@ $$
    - 空间和时间可能只是量子信息结构的经典化表现；
    - 宇宙中的一切可能通过量子纠缠在本质上是连接的。
 
-### 七、结论
+### 七、虫洞通信能量守恒
+
+虫洞通信本质是观察者（黑洞）之间的信息传输过程，遵循能量守恒原理：
+
+- **发送端（经典域→量子域）**：
+  - 发送端观察者通过消耗经典能量，将经典知识编码为量子纠缠态并通过虫洞发送；
+  - 表现为"黑洞辐射"，伴随熵的增加。
+
+- **虫洞通道（量子纠缠态）**：
+  - 信息以量子纠缠态在虫洞中传播，无经典化耗损。
+
+- **接收端（量子域→经典域）**：
+  - 接收端观察者消耗经典能量，通过黑洞机制明确解码虫洞传输的量子纠缠态，经典化为明确的经典知识；
+  - 表现为"黑洞吸收"，熵降低。
+
+虫洞通信能量守恒公式：
+
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
+
+### 八、结论
 
 本框架清晰指出：
 
@@ -274,7 +297,28 @@ $$
    - Space and time may only be classicalized manifestations of quantum information structures;
    - Everything in the universe may be essentially connected through quantum entanglement.
 
-### VII. Conclusion
+### VII. Wormhole Communication Energy Conservation
+
+Wormhole communication is essentially the process of information transmission between observers (black holes), following the principle of energy conservation:
+
+- **Sending End (Classical Domain → Quantum Domain)**:
+  - The sending observer consumes classical energy to encode classical knowledge into a quantum entangled state and transmit it through the wormhole;
+  - It appears as "black hole radiation," with entropy increase.
+
+- **Wormhole Channel (Quantum Entangled State)**:
+  - Information propagates in the wormhole as a quantum entangled state, with no classicalization loss.
+
+- **Receiving End (Quantum Domain → Classical Domain)**:
+  - The receiving observer consumes classical energy to decode the quantum entangled state transmitted through the wormhole, classicalizing it into clear classical knowledge;
+  - It appears as "black hole absorption," with entropy decrease.
+
+Wormhole communication energy conservation formula:
+
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
+
+### VIII. Conclusion
 
 This framework clearly indicates:
 

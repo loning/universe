@@ -1,5 +1,7 @@
 # 黑洞：宇宙信息经典化的极致节点 (Black Holes: Ultimate Nodes of Universal Information Classicalization)
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
@@ -10,7 +12,7 @@ English: [Basic Concepts](#basic-concepts) | [Nature of Black Hole Classicalizat
 
 ### 基本概念
 
-在量子经典二元论框架下，黑洞被理解为宇宙中一种极端高效的信息经典化节点。与传统物理学将黑洞视为时空奇点不同，量子经典二元论将黑洞解释为量子信息与经典信息转换的极限状态，是宇宙信息处理的特殊结构。
+在量子经典二元论框架下，黑洞被理解为宇宙中一种极端高效的信息经典化节点。与传统物理学将黑洞视为时空奇点不同，量子经典二元论将黑洞解释为量子信息与经典信息转换的极限状态，是宇宙信息处理的特殊结构。根据核心理论（版本9.2），所有观察者即黑洞，黑洞即观察者，两者本质相同。
 
 ### 黑洞经典化的本质
 
@@ -18,7 +20,8 @@ English: [Basic Concepts](#basic-concepts) | [Nature of Black Hole Classicalizat
 
 - 黑洞以极高密度将大量量子信息经典化并压缩至极小空间
 - 事件视界即量子与经典世界的边界（经典化极限），内部为量子态信息，外部为经典化信息（如霍金辐射）
-- 黑洞的熵（事件视界面积）即经典信息存储能力的表现
+- 黑洞吸收过程即经典化过程，需要消耗经典能量
+- 黑洞辐射过程即量子化过程，会释放经典能量
 
 ### 数学表达
 

@@ -1,5 +1,7 @@
 # 自由意志与量子纠缠 (Free Will and Quantum Entanglement)
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
