@@ -5,7 +5,7 @@
 
 ## 中文版
 
-本文是[量子经典二元论核心理论](core.md)（版本9.1）的简介。
+本文是[量子经典二元论核心理论](core.md)（版本9.2）的简介。
 
 ### 理论背景
 
@@ -70,7 +70,7 @@ $$
 
 量子经典二元论形成了一个完整的理论体系，包括：
 
-1. [核心理论](core.md) - 理论的完整阐述(版本9.1)
+1. [核心理论](core.md) - 理论的完整阐述(版本9.2)
 2. [基本概念](02_basic_concepts.md) - 理论的基本概念定义
 3. [理论框架](03_theoretical_framework.md) - 理论的整体框架结构
 4. [数学公式](04_mathematical_formulations.md) - 理论的数学形式化表达
@@ -97,7 +97,7 @@ $$
 
 ## English Version
 
-This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1).
+This document is an introduction to the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2).
 
 ### Theoretical Background
 
@@ -162,7 +162,7 @@ The theoretical advantages of Quantum-Classical Dualism:
 
 Quantum-Classical Dualism forms a complete theoretical system, including:
 
-1. [Core Theory](core.md) - Complete exposition of the theory (Version 9.1)
+1. [Core Theory](core.md) - Complete exposition of the theory (Version 9.2)
 2. [Basic Concepts](02_basic_concepts.md) - Basic concept definitions of the theory
 3. [Theoretical Framework](03_theoretical_framework.md) - Overall framework structure of the theory
 4. [Mathematical Formulations](04_mathematical_formulations.md) - Mathematical formalization of the theory

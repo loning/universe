@@ -5,24 +5,30 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本9.1），整理了理论的关键数学公式。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.2），整理了理论的关键数学公式。
 
 ### 一、宇宙结构基本公式
 
-#### 1.1 量子域波函数表示
+#### 1.1 量子域表示
 
-量子域表示为无限维的波函数叠加态：
+量子域包含波函数叠加态和量子纠缠态：
+
+$$
+|\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
+$$
+
+波函数叠加态数学表达：
 
 $$
 |\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i |c_i|^2 = 1
 $$
 
-#### 1.2 经典域结构表示
+#### 1.2 经典域表示
 
-经典域表示为经典知识与经典熵的总和：
+经典域由经典熵和经典知识组成：
 
 $$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
+|\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
 $$
 
 #### 1.3 经典域守恒关系
@@ -203,7 +209,7 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), compiling the key mathematical formulas of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2), compiling the key mathematical formulas of the theory.
 
 ### I. Basic Formulas of Universe Structure
 

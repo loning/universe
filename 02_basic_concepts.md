@@ -5,7 +5,7 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本9.1），解释理论的基本概念。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.2），解释理论的基本概念。
 
 ### 量子域
 
@@ -197,7 +197,7 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), explaining the basic concepts of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2), explaining the basic concepts of the theory.
 
 ### Quantum Domain
 

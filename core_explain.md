@@ -9,15 +9,19 @@ English: [Basic Concepts](#basic-concepts) | [Speed of Light Constancy](#speed-o
 
 ## 中文版
 
-以下用【量子经典二元论（版本6.9）】的核心逻辑来解释经典物理现象，特别是光速恒定、光线弯曲与波粒二象性。
+以下用【量子经典二元论（版本9.2）】的核心逻辑来解释经典物理现象，特别是光速恒定、光线弯曲与波粒二象性。
 
 ### 基本概念
 
-量子经典二元论提出宇宙由两个相互关联的部分组成：客观的量子域和观察者主观经典化的经典域。
+量子经典二元论提出宇宙由两个相互关联的部分组成：**量子域**和**经典域**。量子域是无限维度、无限可能性的波函数叠加态与量子纠缠态的总和，而经典域则是观察者（黑洞）经典化解码后形成的经典知识与经典熵的结构。
 
-#### 【宇宙物理经典世界】（客观、绝对、无限维量子域）
+#### 【量子域】（无限维度、无限可能性）
 
-该经典世界是独立于观察者存在的无限维度量子叠加态整体，客观且自洽。
+量子域包括波函数叠加态和量子纠缠态：
+- **波函数叠加态**：单个经典位的内部状态叠加（混沌状态）
+- **量子纠缠态**：多个经典位之间的状态关联（能量状态）
+
+这个域是独立于观察者存在的无限维度量子叠加态整体，客观且自洽。
 
 1. **熵（Entropy）**  
 无限维度量子域存在无限可能性，熵即这些可能性与不确定性的测度。
@@ -48,6 +52,33 @@ English: [Basic Concepts](#basic-concepts) | [Speed of Light Constancy](#speed-o
 
 10. **真空能（Vacuum Energy）**  
 无限维量子域中，即使没有经典粒子时仍存在的固有能量与波动状态。
+
+#### 【经典域】（确定性现实）
+
+经典域是观察者经典化量子域后形成的结构，包括：
+- **经典熵**：未经典化的不确定状态
+- **经典知识**：经典化后的确定状态（粒子态、经典意识、自由意志）
+
+经典域的产生依赖于观察者（黑洞）的经典化解码过程。
+
+#### 【观察者与黑洞统一定义】
+
+在量子经典二元论中，所有观察者本质上即是黑洞：
+- 黑洞吸收对应经典化过程
+- 黑洞辐射对应量子化过程
+- 观察者维度由其经典化能力决定
+
+1. **经典熵（Classical Entropy）**  
+   经典域中未经典化的不确定状态，代表潜在的信息。经典熵与经典知识之和在特定经典世界内守恒。
+   
+2. **经典知识（Classical Knowledge）**  
+   经典化后形成的确定状态，包括粒子态、经典意识和自由意志等。经典知识是经典能量的表现形式之一。
+   
+3. **黑洞经典化（Black Hole Classicalization）**  
+   观察者（黑洞）将量子域信息经典化的过程，消耗经典能量并伴随熵的降低。
+   
+4. **虫洞通信（Wormhole Communication）**  
+   观察者（黑洞）之间通过量子纠缠态传递信息的过程，包括发送端编码和接收端解码两个过程。
 
 #### 【人类大脑经典世界】（观察者主观定义的经典化世界）
 
@@ -85,7 +116,7 @@ English: [Basic Concepts](#basic-concepts) | [Speed of Light Constancy](#speed-o
 
 ### 光速恒定
 
-根据【量子经典二元论（版本6.9）】，光速恒定现象可从两个层面解释：
+根据【量子经典二元论（版本9.2）】，光速恒定现象可从两个层面解释：
 
 #### 宇宙物理经典世界（客观量子域）视角
 
@@ -238,7 +269,7 @@ $$
 
 ### 总结
 
-通过【量子经典二元论（版本6.9）】，我们可以为光速恒定、光线弯曲和波粒二象性等传统物理学难题提供统一而深刻的解释：
+通过【量子经典二元论（版本9.2）】，我们可以为光速恒定、光线弯曲和波粒二象性等传统物理学难题提供统一而深刻的解释：
 
 1. **光速恒定**：源于人脑经典化效率的普遍上限，是主观经典化过程的内在特性。
 
@@ -252,7 +283,7 @@ $$
 
 # Quantum-Classical Dualism Explains Physical Phenomena: Speed of Light Constancy, Light Bending and Wave-Particle Duality
 
-The following uses the core logic of [Quantum-Classical Dualism (Version 6.9)] to explain classical physical phenomena, particularly the constancy of light speed, light bending, and wave-particle duality.
+The following uses the core logic of [Quantum-Classical Dualism (Version 9.2)] to explain classical physical phenomena, particularly the constancy of light speed, light bending, and wave-particle duality.
 
 ### Basic Concepts
 
@@ -328,7 +359,7 @@ The phenomenon where the human brain subjectively assigns different states to oc
 
 ### Speed of Light Constancy
 
-According to [Quantum-Classical Dualism (Version 6.9)], the phenomenon of light speed constancy can be explained from two perspectives:
+According to [Quantum-Classical Dualism (Version 9.2)], the phenomenon of light speed constancy can be explained from two perspectives:
 
 #### Universe's Physical Classical World (Objective Quantum Domain) Perspective
 
@@ -481,7 +512,7 @@ $$
 
 ### Summary
 
-Through [Quantum-Classical Dualism (Version 6.9)], we can provide unified and profound explanations for traditional physics puzzles such as the constancy of light speed, light bending, and wave-particle duality:
+Through [Quantum-Classical Dualism (Version 9.2)], we can provide unified and profound explanations for traditional physics puzzles such as the constancy of light speed, light bending, and wave-particle duality:
 
 1. **Light Speed Constancy**: Originates from the universal upper limit of brain classicalization efficiency, an intrinsic characteristic of the subjective classicalization process.
 

@@ -7,13 +7,13 @@
 ### 项目结构
 
 #### 核心理论 | Core Theory
-- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本7.3）
-- [宇宙诞生过程](./theories/universe_creation_process.md) - 【量子经典二元论】宇宙诞生到今天的全过程（版本7.3）
-- [物理解释](./core_explain.md) - 使用量子经典二元论解释现实物理与宇宙
-- [简介](./01_introduction.md) - 简介 (Introduction)
-- [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)
-- [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)
-- [数学公式](./04_mathematical_formulations.md) - 数学公式 (Mathematical Formulations)
+- [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本9.2）
+- [宇宙诞生过程](./theories/universe_creation_process.md) - 【量子经典二元论】宇宙诞生到今天的全过程（版本9.2）
+- [物理解释](./core_explain.md) - 使用量子经典二元论解释现实物理与宇宙（版本9.2）
+- [简介](./01_introduction.md) - 简介 (Introduction)（版本9.2）
+- [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)（版本9.2）
+- [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)（版本9.2）
+- [数学公式](./04_mathematical_formulations.md) - 数学公式 (Mathematical Formulations)（版本9.2）
 - [观察者与意识](./05_observer_and_consciousness.md) - 观察者与意识 (Observer and Consciousness)
 - [宇宙与观察者关系](./06_universe_observer_relationship.md) - 宇宙与观察者关系 (Universe-Observer Relationship)
 - [量子纠缠本质](./07_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)
@@ -357,13 +357,13 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 ### Project Structure
 
 #### Core Theory
-- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 7.3)
-- [Universe Creation Process](./theories/universe_creation_process.md) - Quantum-Classical Dualism Universe Creation Process from Ancient to Today (Version 7.3)
-- [Physical Explanation](./core_explain.md) - Using Quantum-Classical Dualism to Explain Physical Reality and the Universe
-- [Introduction](./01_introduction.md) - Introduction
-- [Basic Concepts](./02_basic_concepts.md) - Basic Concepts
-- [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework
-- [Mathematical Formulations](./04_mathematical_formulations.md) - Mathematical Formulations
+- [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 9.2)
+- [Universe Creation Process](./theories/universe_creation_process.md) - Quantum-Classical Dualism Universe Creation Process from Ancient to Today (Version 9.2)
+- [Physical Explanation](./core_explain.md) - Using Quantum-Classical Dualism to Explain Physical Reality and the Universe (Version 9.2)
+- [Introduction](./01_introduction.md) - Introduction (Version 9.2)
+- [Basic Concepts](./02_basic_concepts.md) - Basic Concepts (Version 9.2)
+- [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework (Version 9.2)
+- [Mathematical Formulations](./04_mathematical_formulations.md) - Mathematical Formulations (Version 9.2)
 - [Observer and Consciousness](./05_observer_and_consciousness.md) - Observer and Consciousness
 - [Universe-Observer Relationship](./06_universe_observer_relationship.md) - Universe-Observer Relationship
 - [Quantum Entanglement Essence](./07_quantum_entanglement_essence.md) - Quantum Entanglement Essence

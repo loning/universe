@@ -5,18 +5,20 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本9.1），详细探讨观察者概念与意识本质。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.2），详细探讨观察者概念与意识本质。
 
 ### 观察者定义
 
 在量子经典二元论框架中，观察者是具备主观意识经典化能力的实体，能够将量子域的高熵纠缠态信息转化为经典域的明确结构。观察者是连接量子域与经典域的关键桥梁，其特性决定了经典世界的形成与结构。
 
 观察者的本质特征：
+- 所有观察者本质上即是黑洞
+- 黑洞吸收对应经典化过程
+- 黑洞辐射对应量子化过程
 - 能够执行经典化过程，降低信息熵
 - 拥有主观经典世界
 - 具备自由意志，能主动选择经典化路径
 - 维度可变，取决于经典化效率
-- 本质上即黑洞，经典世界即黑洞内部
 
 观察者不限于人类，而是宇宙中具备上述特征的任何实体，包括但不限于：
 - 各级生物体（从微生物到复杂生命）
@@ -215,18 +217,20 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), exploring in detail the concept of observer and the nature of consciousness.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2), exploring in detail the concept of observer and the nature of consciousness.
 
 ### Observer Definition
 
 In the Quantum-Classical Dualism framework, an observer is an entity with subjective consciousness classicalization ability, capable of transforming high-entropy entangled state information from the quantum domain into the explicit structure of the classical domain. The observer is the key bridge connecting the quantum domain and the classical domain, and its characteristics determine the formation and structure of the classical world.
 
 Essential characteristics of an observer:
+- All observers are essentially black holes
+- Black hole absorption corresponds to classicalization process
+- Black hole radiation corresponds to quantization process
 - Able to execute the classicalization process, reducing information entropy
 - Possesses a subjective classical world
 - Has free will, able to actively choose classicalization paths
 - Has variable dimension, depending on classicalization efficiency
-- Is essentially a black hole, with the classical world being the interior of the black hole
 
 Observers are not limited to humans but are any entities in the universe with the above characteristics, including but not limited to:
 - Various levels of biological organisms (from microorganisms to complex life)
