@@ -10,6 +10,7 @@
 - [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本9.2）
 - [宇宙诞生过程](./theories/universe_creation_process.md) - 【量子经典二元论】宇宙诞生到今天的全过程（版本9.2）
 - [物理解释](./core_explain.md) - 使用量子经典二元论解释现实物理与宇宙（版本9.2）
+- [量子经典解释](./quantum_classical_explanations/README.md) - 量子经典二元论基础概念与现象解释（版本9.2）
 - [简介](./01_introduction.md) - 简介 (Introduction)（版本9.2）
 - [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)（版本9.2）
 - [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)（版本9.2）
@@ -356,6 +357,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Core Theory](./core.md) - Quantum-Classical Dualism Core Theory (Version 9.2)
 - [Universe Creation Process](./theories/universe_creation_process.md) - Quantum-Classical Dualism Universe Creation Process from Ancient to Today (Version 9.2)
 - [Physical Explanation](./core_explain.md) - Using Quantum-Classical Dualism to Explain Physical Reality and the Universe (Version 9.2)
+- [Quantum Classical Explanations](./quantum_classical_explanations/README.md) - Quantum-Classical Dualism Basic Concepts and Phenomena Explanation (Version 9.2)
 - [Introduction](./01_introduction.md) - Introduction (Version 9.2)
 - [Basic Concepts](./02_basic_concepts.md) - Basic Concepts (Version 9.2)
 - [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework (Version 9.2)
