@@ -3,8 +3,8 @@
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[引言](#1-引言化学与量子经典二元论) | [量子化学视角](#2-量子化学视角) | [化学反应动力学](#3-化学反应动力学视角) | [分子结构与性质](#4-分子结构与性质视角) | [热力学视角](#5-热力学与统计热力学视角) | [催化过程](#6-催化过程视角)  
-English: [Introduction](#1-introduction-chemistry-and-quantum-classical-dualism) | [Quantum Chemistry](#2-quantum-chemistry-perspective) | [Chemical Reaction Dynamics](#3-chemical-reaction-dynamics-perspective) | [Molecular Structure](#4-molecular-structure-and-properties-perspective) | [Thermodynamics](#5-thermodynamics-and-statistical-mechanics-perspective) | [Catalysis](#6-catalysis-perspective)
+中文：[引言](#1-引言化学与量子经典二元论) | [量子化学视角](#2-量子化学视角) | [化学反应动力学](#3-化学反应动力学视角) | [分子结构与性质](#4-分子结构与性质视角) | [热力学视角](#5-热力学与统计热力学视角) | [催化过程](#6-催化过程视角) | [量子信息场在化学反应中的作用](#7-量子信息场在化学反应中的作用) | [化学反应中的维度共振](#8-化学反应中的维度共振)  
+English: [Introduction](#1-introduction-chemistry-and-quantum-classical-dualism) | [Quantum Chemistry](#2-quantum-chemistry-perspective) | [Chemical Reaction Dynamics](#3-chemical-reaction-dynamics-perspective) | [Molecular Structure](#4-molecular-structure-and-properties-perspective) | [Thermodynamics](#5-thermodynamics-and-statistical-mechanics-perspective) | [Catalysis](#6-catalysis-perspective) | [Role of Quantum Information Field in Chemical Reactions](#7-role-of-quantum-information-field-in-chemical-reactions) | [Dimensional Resonance in Chemical Reactions](#8-dimensional-resonance-in-chemical-reactions)
 
 ## 索引
 
@@ -15,10 +15,12 @@ English: [Introduction](#1-introduction-chemistry-and-quantum-classical-dualism)
 - [4. 分子结构与性质视角](#4-分子结构与性质视角)
 - [5. 热力学与统计热力学视角](#5-热力学与统计热力学视角)
 - [6. 催化过程视角](#6-催化过程视角)
-- [7. 化学自组织与复杂系统视角](#7-化学自组织与复杂系统视角)
-- [8. 生物化学视角](#8-生物化学视角)
-- [9. 化学视角下的预测与应用](#9-化学视角下的预测与应用)
-- [10. 结论](#10-结论)
+- [7. 量子信息场在化学反应中的作用](#7-量子信息场在化学反应中的作用)
+- [8. 化学反应中的维度共振](#8-化学反应中的维度共振)
+- [9. 化学自组织与复杂系统视角](#9-化学自组织与复杂系统视角)
+- [10. 生物化学视角](#10-生物化学视角)
+- [11. 化学视角下的预测与应用](#11-化学视角下的预测与应用)
+- [12. 结论](#12-结论)
 
 ### 关键概念索引
 - 电子结构与量子态 [2.1](#21-电子结构与量子态)
@@ -222,7 +224,64 @@ E_{a}^{cat} < E_{a}^{uncat}
 
 现代催化剂设计旨在精确控制经典化路径，实现高选择性、高效率的化学转化，类似于经典化过程的人为调控。
 
-## 7. 化学自组织与复杂系统视角
+## 7. 量子信息场在化学反应中的作用
+
+### 分子水平的量子信息场
+
+分子间的量子信息场可表示为：
+
+$$
+\Phi_{\text{分子}}=\sum_{i,j} |\psi_{\text{电子}_i}\rangle \otimes |\psi_{\text{核}_j}\rangle
+$$
+
+场的主要特性：
+1. **电子云分布**：反映量子信息场的空间结构
+2. **化学键纠缠**：通过场效应实现分子间相互作用
+3. **催化效应**：场介导的反应加速
+
+### 反应动力学中的场效应
+
+反应速率与场强度关系：
+
+$$
+k_{\text{反应}}=A\exp(-\frac{E_a}{RT})\cdot f(\Phi_{\text{场强度}})
+$$
+
+其中：
+- $k_{\text{反应}}$ 是反应速率常数
+- $E_a$ 是活化能
+- $f(\Phi_{\text{场强度}})$ 是场强度函数
+
+## 8. 化学反应中的维度共振
+
+### 分子间维度共振
+
+分子间的共振条件：
+
+$$
+f_{\text{分子共振}}=\frac{D_{\text{复杂分子}}}{D_{\text{简单分子}}}=n,\quad n\in\mathbb{N}
+$$
+
+共振效应：
+1. **反应选择性**：增强特定反应路径
+2. **能量传递**：提高能量转移效率
+3. **构象变化**：促进特定构象的形成
+
+### 催化过程中的维度效应
+
+催化剂的维度作用：
+
+$$
+\eta_{\text{催化}}=k\cdot\frac{D_{\text{催化剂}}}{D_{\text{底物}}}\cdot\exp(-\frac{\Delta G^{\ddagger}}{RT})
+$$
+
+其中：
+- $\eta_{\text{催化}}$ 是催化效率
+- $D_{\text{催化剂}}$ 是催化剂维度
+- $D_{\text{底物}}$ 是底物维度
+- $\Delta G^{\ddagger}$ 是活化自由能
+
+## 9. 化学自组织与复杂系统视角
 
 ### 7.1 自组织现象与自发经典化
 
@@ -254,7 +313,7 @@ Belousov-Zhabotinsky反应等化学振荡系统展示了系统状态的周期性
 
 普利高津的耗散结构理论描述了开放系统如何通过能量流动维持远离平衡的有序状态，类似于经典世界通过持续经典化维持稳定。
 
-## 8. 生物化学视角
+## 10. 生物化学视角
 
 ### 8.1 生物大分子与功能经典化
 
@@ -286,7 +345,7 @@ K_d = \frac{[\text{游离分子A}][\text{游离分子B}]}{[\text{复合物AB}]}
 
 抗原-抗体识别、酶-底物结合和DNA-蛋白质相互作用等都体现了生物系统对特定分子信息的经典化处理能力。
 
-## 9. 化学视角下的预测与应用
+## 11. 化学视角下的预测与应用
 
 基于化学视角，量子经典二元论可以做出以下预测：
 
@@ -302,7 +361,7 @@ K_d = \frac{[\text{游离分子A}][\text{游离分子B}]}{[\text{复合物AB}]}
 
 6. **复杂混合物新分析**：量子经典二元论可能为复杂混合物分析提供新框架，将其视为不同程度经典化的量子可能性的集合。
 
-## 10. 结论
+## 12. 结论
 
 化学视角为量子经典二元论提供了丰富的应用和验证途径。从量子化学到反应动力学，从分子结构到热力学规律，从催化过程到化学自组织，化学的多个领域都与量子经典二元论的核心概念有着自然的对应关系。
 
