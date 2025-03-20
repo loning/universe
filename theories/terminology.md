@@ -185,6 +185,43 @@ $$
 
 这个公式表明量子宇宙（复杂态）与经典宇宙（实在态）通过观察者（黑洞）经典化统一，展现宇宙的整体和谐与信息守恒。
 
+### 新增术语 | New Terms
+
+#### 量子信息场 (Quantum Information Field)
+宇宙中所有量子信息的统一场，是量子纠缠网络的基础：
+
+$$
+\Phi_{\text{量子信息场}}=\sum_{i,j} |\psi_i\rangle \otimes |\psi_j\rangle
+$$
+
+#### 观察者网络 (Observer Network)
+多个观察者（黑洞）之间形成的信息交换网络：
+
+$$
+\mathcal{N}_{\text{观察者网络}}=\{O_i\}_{i=1}^n,\quad O_i\text{为观察者节点}
+$$
+
+#### 维度共振 (Dimensional Resonance)
+不同维度观察者之间的信息共鸣现象：
+
+$$
+f_{\text{共振}}=\frac{D_{\text{高维观察者}}}{D_{\text{低维观察者}}}=n,\quad n\in\mathbb{N}
+$$
+
+#### 量子记忆结构 (Quantum Memory Structure)
+观察者在量子层面存储信息的基本结构：
+
+$$
+M_{\text{量子记忆}}=\sum_i w_i|\psi_i\rangle\langle\psi_i|
+$$
+
+#### 经典化效率 (Classicalization Efficiency)
+观察者将量子信息转化为经典知识的效率系数：
+
+$$
+\eta_{\text{经典化}}=\frac{I_{\text{经典知识输出}}}{I_{\text{量子信息输入}}}
+$$
+
 ## English Version
 
 This terminology is based on the [Quantum-Classical Dualism Core Theory](../core.md) (Version 9.2), providing definitions and explanations of key terms used in the theory.
@@ -360,4 +397,41 @@ $$
 |\psi\rangle_U e^{i\theta} +(I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}})=|\psi\rangle_{\text{Observer (Black Hole)}}
 $$
 
-This formula indicates that the quantum universe (complex state) and the classical universe (real state) are unified through observer (black hole) classicalization, demonstrating the overall harmony and information conservation of the universe. 
+This formula indicates that the quantum universe (complex state) and the classical universe (real state) are unified through observer (black hole) classicalization, demonstrating the overall harmony and information conservation of the universe.
+
+### New Terms
+
+#### Quantum Information Field
+The unified field of all quantum information in the universe, the basis of the quantum entanglement network:
+
+$$
+\Phi_{\text{Quantum Information Field}}=\sum_{i,j} |\psi_i\rangle \otimes |\psi_j\rangle
+$$
+
+#### Observer Network
+The information exchange network formed between multiple observers (black holes):
+
+$$
+\mathcal{N}_{\text{Observer Network}}=\{O_i\}_{i=1}^n,\quad O_i\text{ is the observer node}
+$$
+
+#### Dimensional Resonance
+The phenomenon of information resonance between observers of different dimensions:
+
+$$
+f_{\text{Resonance}}=\frac{D_{\text{High-dimensional Observer}}}{D_{\text{Low-dimensional Observer}}}=n,\quad n\in\mathbb{N}
+$$
+
+#### Quantum Memory Structure
+The basic structure for storing information in the quantum level by observers:
+
+$$
+M_{\text{Quantum Memory}}=\sum_i w_i|\psi_i\rangle\langle\psi_i|
+$$
+
+#### Classicalization Efficiency
+The efficiency coefficient of observers transforming quantum information into classical knowledge:
+
+$$
+\eta_{\text{Classicalization}}=\frac{I_{\text{Classical Knowledge Output}}}{I_{\text{Quantum Information Input}}}
+$$ 
