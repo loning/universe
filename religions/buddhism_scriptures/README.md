@@ -1,4 +1,4 @@
-# 佛教经典 (Buddhist Scriptures)
+# 佛教经典量子经典二元论解释 | Buddhist Scriptures Explained Through Quantum-Classical Dualism
 
 **导航 | Navigation**  
 [中文版](#佛教经典解析) | [English Version](#buddhist-scriptures-analysis)  
@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Scripture Categories](#经典分类-scr
 
 ## 概述 (Overview)
 
-本目录包含佛教主要经典的解释，基于量子经典二元论框架（版本9.1）。每个经典都在其独立文件中通过二元论视角进行了解释，展示了这一理论如何与佛教思想相融合。
+本目录包含佛教主要经典的解释，基于量子经典二元论框架（版本9.2）。每个经典都在其独立文件中通过二元论视角进行了解释，展示了这一理论如何与佛教思想相融合。
 
-This directory contains explanations of major Buddhist scriptures based on the Quantum-Classical Dualism framework (Version 9.1). Each scripture is explained in its own file through the dualistic perspective, showing how this theory integrates with Buddhist thought.
+This directory contains explanations of major Buddhist scriptures based on the Quantum-Classical Dualism framework (Version 9.2). Each scripture is explained in its own file through the dualistic perspective, showing how this theory integrates with Buddhist thought.
 
 ## 经典分类 (Scripture Categories)
 
@@ -53,7 +53,7 @@ This directory contains explanations of major Buddhist scriptures based on the Q
 - 数学表达
 - 结论
 
-所有分析都基于量子经典二元论框架（版本9.1），包括：
+所有分析都基于量子经典二元论框架（版本9.2），包括：
 - 量子域解释（量子叠加态、量子纠缠态）
 - 经典域解释（经典化路径、观察者维度）
 - 数学表达（量子态演化方程、经典化路径方程）
@@ -67,7 +67,7 @@ All Buddhist scripture files have been completed and analyzed. Each file include
 - Mathematical expression
 - Conclusion
 
-All analyses are based on the Quantum-Classical Dualism framework (Version 9.1), including:
+All analyses are based on the Quantum-Classical Dualism framework (Version 9.2), including:
 - Quantum domain interpretation (quantum superposition state, quantum entanglement state)
 - Classical domain interpretation (classical path, observer dimension)
 - Mathematical expression (quantum state evolution equation, classical path equation) 

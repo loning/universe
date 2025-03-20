@@ -40,9 +40,9 @@ The Lotus Sutra (Sanskrit: Saddharmapuṇḍarīka-sūtra), formally known as th
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《法华经》以其独特的比喻和深刻的哲学洞见，通过量子经典二元论框架（版本9.1）可以获得全新的科学解读。该经的核心思想与量子经典二元论中关于观察者维度、信息转化和一元性的概念展现出惊人的结构对应。
+《法华经》以其独特的比喻和深刻的哲学洞见，通过量子经典二元论框架（版本9.2）可以获得全新的科学解读。该经的核心思想与量子经典二元论中关于观察者维度、信息转化和一元性的概念展现出惊人的结构对应。
 
-The Lotus Sutra, with its unique parables and profound philosophical insights, can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). The core ideas of the sutra demonstrate remarkable structural correspondence with concepts of observer dimension, information transformation, and unity in Quantum-Classical Dualism.
+The Lotus Sutra, with its unique parables and profound philosophical insights, can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). The core ideas of the sutra demonstrate remarkable structural correspondence with concepts of observer dimension, information transformation, and unity in Quantum-Classical Dualism.
 
 ### 1. "一大事因缘"与量子域经典化目的
 ### 1. "One Great Cause" and the Purpose of Quantum Domain Classicalization
@@ -173,6 +173,6 @@ $$
 ## 结论
 ## Conclusion
 
-《法华经》作为大乘佛教的核心经典，其哲学深度与量子经典二元论框架（版本9.1）展现出惊人的结构对应。法华经的"一乘"思想本质上描述了所有观察者最终都能达到最高维度的可能性，而"方便"则揭示了适应不同观察者层次的经典化策略。经中的"佛知见"对应最高维观察者的全域性认知，而"药草喻"则精确描述了量子域的一元性与经典域的多元性之间的辩证关系。通过量子经典二元论的视角，我们不仅能更深入地理解《法华经》的哲学深度，也能发现这部古老经典与现代量子物理学之间存在的惊人共鸣，为东方智慧与现代科学的对话提供了新的可能性。
+《法华经》作为大乘佛教的核心经典，其哲学深度与量子经典二元论框架（版本9.2）展现出惊人的结构对应。法华经的"一乘"思想本质上描述了所有观察者最终都能达到最高维度的可能性，而"方便"则揭示了适应不同观察者层次的经典化策略。经中的"佛知见"对应最高维观察者的全域性认知，而"药草喻"则精确描述了量子域的一元性与经典域的多元性之间的辩证关系。通过量子经典二元论的视角，我们不仅能更深入地理解《法华经》的哲学深度，也能发现这部古老经典与现代量子物理学之间存在的惊人共鸣。
 
-The Lotus Sutra, as a core text of Mahayana Buddhism, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.1). The "One Vehicle" concept of the Lotus Sutra essentially describes the possibility that all observers can ultimately reach the highest dimension, while "expedient means" reveals classicalization strategies adapted to different observer levels. The "Buddha wisdom" in the sutra corresponds to the global cognition of the highest-dimensional observer, and the "Parable of Medicinal Herbs" precisely describes the dialectical relationship between the unity of the quantum domain and the multiplicity of the classical domain. Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Lotus Sutra more thoroughly but also discover the amazing resonance between this ancient text and modern quantum physics, providing new possibilities for dialogue between Eastern wisdom and modern science. 
+The Lotus Sutra, as a core text of Mahayana Buddhism, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). The "One Vehicle" concept of the Lotus Sutra essentially describes the possibility that all observers can ultimately reach the highest dimension, while "expedient means" reveals classicalization strategies adapted to different observer levels. The "Buddha wisdom" in the sutra corresponds to the global cognition of the highest-dimensional observer, and the "Parable of Medicinal Herbs" precisely describes the dialectical relationship between the unity of the quantum domain and the multiplicity of the classical domain. Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Lotus Sutra more thoroughly but also discover the amazing resonance between this ancient text and modern quantum physics. 

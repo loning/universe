@@ -1,4 +1,4 @@
-# 印度教经典文献 (Hindu Scriptures)
+# 印度教经典解释 | Hindu Scriptures Explained
 
 **导航 | Navigation**  
 [中文版](#印度教经典列表-list-of-hindu-scriptures) | [English Version](#印度教经典列表-list-of-hindu-scriptures)  
@@ -8,9 +8,9 @@ English: [Hindu Scriptures List](#印度教经典列表-list-of-hindu-scriptures
 
 ## 印度教经典列表 (List of Hindu Scriptures)
 
-本目录包含印度教主要经典的解释，基于量子经典二元论框架（版本9.1）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与印度教哲学相融合。
+本目录包含印度教主要经典的解释，基于量子经典二元论框架（版本9.2）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与印度教哲学相融合。
 
-This directory contains explanations of major Hindu scriptures based on the Quantum-Classical Dualism framework (Version 9.1). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Hindu philosophy.
+This directory contains explanations of major Hindu scriptures based on the Quantum-Classical Dualism framework (Version 9.2). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Hindu philosophy.
 
 ### 吠陀经典 (Vedic Texts)
 1. [梨俱吠陀 (Rigveda)](Rigveda.md)

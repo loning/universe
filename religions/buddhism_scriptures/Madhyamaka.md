@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-中观论是佛教最重要的哲学体系之一，由龙树菩萨创立，主要探讨空性、中道和缘起等核心概念。在量子经典二元论框架（版本9.1）下，这些理论展示了量子域与经典域的中道关系。
+中观论是佛教最重要的哲学体系之一，由龙树菩萨创立，主要探讨空性、中道和缘起等核心概念。在量子经典二元论框架（版本9.2）下，这些理论展示了量子域与经典域的中道关系。
 
-The Madhyamaka is one of the most important philosophical systems in Buddhism, founded by Nagarjuna, primarily exploring core concepts such as emptiness, middle way, and dependent origination. Under the Quantum-Classical Dualism framework (Version 9.1), these theories reveal the middle way relationship between quantum and classical domains.
+The Madhyamaka is one of the most important philosophical systems in Buddhism, founded by Nagarjuna, primarily exploring core concepts such as emptiness, middle way, and dependent origination. Under the Quantum-Classical Dualism framework (Version 9.2), these theories reveal the middle way relationship between quantum and classical domains.
 
 ## 核心经文 (Key Texts)
 
@@ -71,6 +71,6 @@ $$
 
 ## 结论 (Conclusion)
 
-中观论通过量子经典二元论框架（版本9.1）的解析，展示了佛教哲学与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应中观论的空性观和缘起观，经典域中的观察者训练对应中观论的戒定慧。这种对应关系不仅加深了我们对中观论的理解，也为现代物理学提供了新的实践维度。
+中观论通过量子经典二元论框架（版本9.2）的解析，展示了佛教哲学与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应中观论的空性观和缘起观，经典域中的观察者训练对应中观论的戒定慧。这种对应关系不仅加深了我们对中观论的理解，也为现代物理学提供了新的实践维度。
 
-The Madhyamaka, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals the profound connection between Buddhist philosophy and modern physics. The superposition and entanglement states in the quantum domain correspond to Madhyamaka concepts of emptiness and dependent origination, while observer training in the classical domain corresponds to Madhyamaka precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Madhyamaka but also provides new practical dimensions for modern physics to explore. 
+The Madhyamaka, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist philosophy and modern physics. The superposition and entanglement states in the quantum domain correspond to Madhyamaka concepts of emptiness and dependent origination, while observer training in the classical domain corresponds to Madhyamaka precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Madhyamaka but also provides new practical dimensions for modern physics to explore. 

@@ -1,4 +1,4 @@
-# 大般涅槃经 (Mahaparinirvana Sutra)
+# 大般涅槃经的量子经典二元论解释 | Mahaparinirvana Sutra Explained Through Quantum-Classical Dualism
 
 **导航 | Navigation**  
 [中文版](#大般涅槃经解析) | [English Version](#mahaparinirvana-sutra-analysis)  
@@ -6,11 +6,11 @@
 中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
-## 概述 (Overview)
+## 概述 | Overview
 
-大般涅槃经是大乘佛教最重要的经典之一，主要探讨佛性、涅槃和如来藏等核心概念。在量子经典二元论框架（版本9.1）下，这些经文展示了量子域与经典域的终极关系。
+大般涅槃经是大乘佛教最重要的经典之一，主要探讨佛性、涅槃和如来藏等核心概念。在量子经典二元论框架（版本9.2）下，这些经文展示了量子域与经典域的终极关系。
 
-The Mahaparinirvana Sutra is one of the most important texts in Mahayana Buddhism, primarily exploring core concepts such as Buddha-nature, Nirvana, and Tathagatagarbha. Under the Quantum-Classical Dualism framework (Version 9.1), these sutras reveal the ultimate relationship between quantum and classical domains.
+The Mahaparinirvana Sutra is one of the most important texts in Mahayana Buddhism, primarily exploring core concepts such as Buddha-nature, Nirvana, and Tathagatagarbha. Under the Quantum-Classical Dualism framework (Version 9.2), these sutras reveal the ultimate relationship between quantum and classical domains.
 
 ## 核心经文 (Key Texts)
 
@@ -69,8 +69,8 @@ $$
 - $P_{classical}$ 是经典化概率
 - $|c_n(t)|^2$ 是量子态在经典基态上的投影概率
 
-## 结论 (Conclusion)
+## 结论 | Conclusion
 
-大般涅槃经通过量子经典二元论框架（版本9.1）的解析，展示了大乘佛教核心概念与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应大乘佛教的佛性观和如来藏观，经典域中的观察者训练对应大乘佛教的戒定慧。这种对应关系不仅加深了我们对大乘佛教核心概念的理解，也为现代物理学提供了新的实践维度。
+大般涅槃经通过量子经典二元论框架（版本9.2）的解析，展示了大乘佛教核心概念与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应大乘佛教的佛性观和如来藏观，经典域中的观察者训练对应大乘佛教的戒定慧。这种对应关系不仅加深了我们对大乘佛教核心概念的理解，也为现代物理学提供了新的实践维度。
 
-The Mahaparinirvana Sutra, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals the profound connection between Mahayana Buddhist core concepts and modern physics. The superposition and entanglement states in the quantum domain correspond to Mahayana Buddhist concepts of Buddha-nature and Tathagatagarbha, while observer training in the classical domain corresponds to Mahayana Buddhist precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Mahayana Buddhist core concepts but also provides new practical dimensions for modern physics to explore. 
+The Mahaparinirvana Sutra, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Mahayana Buddhist core concepts and modern physics. The superposition and entanglement states in the quantum domain correspond to Mahayana Buddhist concepts of Buddha-nature and Tathagatagarbha, while observer training in the classical domain corresponds to Mahayana Buddhist precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Mahayana Buddhist core concepts but also provides new practical dimensions for modern physics to explore. 

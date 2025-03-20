@@ -24,7 +24,7 @@
 - [术语表](./terminology_glossary.md) - 量子经典二元论术语表 (Terminology Glossary)（版本9.2）
 
 #### 历史人物分析 | Historical Figures Analysis
-- [历史人物分析索引](./figures/README.md) - 基于量子经典二元论视角的历史人物思想分析
+- [历史人物分析索引](./figures/README.md) - 基于量子经典二元论视角的历史人物思想分析（版本9.2）
 - **音乐人** - [**许巍 (许魏)**](./figures/musicians/xuwei.md) ★、[**朴树**](./figures/musicians/pushu.md) ★、更多[音乐人分析](./figures/musicians/README.md)
 - 哲学家 - 柏拉图、老子、康德、荀子、尼采、苏格拉底、笛卡尔、亚里士多德等
 - 科学家 - 爱因斯坦、达尔文、牛顿、玛丽·居里、尼尔斯·玻尔、高斯、图灵等

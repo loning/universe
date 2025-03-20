@@ -64,9 +64,9 @@ The Vimalakirti Sutra (Sanskrit: Vimalakīrtinirdeśa Sūtra), is one of the imp
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《维摩诘经》以其独特的视角和深刻的哲学思想，通过量子经典二元论框架（版本9.1）可以获得全新的科学解读。经中对实相、不二法门和空性的阐述与量子经典二元论中关于观察者、量子-经典二元性以及信息转化的概念展现出惊人的结构对应。
+《维摩诘经》以其独特的视角和深刻的哲学思想，通过量子经典二元论框架（版本9.2）可以获得全新的科学解读。经中对实相、不二法门和空性的阐述与量子经典二元论中关于观察者、量子-经典二元性以及信息转化的概念展现出惊人的结构对应。
 
-The Vimalakirti Sutra, with its unique perspective and profound philosophical ideas, can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). The sutra's exposition on ultimate reality, non-duality, and emptiness demonstrates remarkable structural correspondence with concepts of observer, quantum-classical duality, and information transformation in Quantum-Classical Dualism.
+The Vimalakirti Sutra, with its unique perspective and profound philosophical ideas, can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). The sutra's exposition on ultimate reality, non-duality, and emptiness demonstrates remarkable structural correspondence with concepts of observer, quantum-classical duality, and information transformation in Quantum-Classical Dualism.
 
 ### 1. "为法来耶？求床座耶？"与观察者优先级
 ### 1. "Did you come for the Dharma or for a seat?" and Observer Priority

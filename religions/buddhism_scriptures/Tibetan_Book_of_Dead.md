@@ -1,4 +1,4 @@
-# 西藏度亡经 (Tibetan Book of the Dead)
+# 西藏度亡经的量子经典二元论解释 | Tibetan Book of Dead Explained Through Quantum-Classical Dualism
 
 **导航 | Navigation**  
 [中文版](#西藏度亡经解析) | [English Version](#tibetan-book-of-the-dead-analysis)  
@@ -6,11 +6,11 @@
 中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
-## 概述 (Overview)
+## 概述 | Overview
 
-《西藏度亡经》是藏传佛教最重要的经典之一，主要探讨生死、中阴和轮回等核心概念。在量子经典二元论框架（版本9.1）下，这些典籍展示了量子域与经典域的生死关系。
+《西藏度亡经》是藏传佛教最重要的经典之一，主要探讨生死、中阴和轮回等核心概念。在量子经典二元论框架（版本9.2）下，这些典籍展示了量子域与经典域的生死关系。
 
-The Tibetan Book of the Dead is one of the most important texts in Tibetan Buddhism, primarily exploring core concepts such as life and death, bardo, and reincarnation. Under the Quantum-Classical Dualism framework (Version 9.1), these texts reveal the relationship between quantum and classical domains in the context of life and death.
+The Tibetan Book of the Dead is one of the most important texts in Tibetan Buddhism, primarily exploring core concepts such as life and death, bardo, and reincarnation. Under the Quantum-Classical Dualism framework (Version 9.2), these texts reveal the relationship between quantum and classical domains in the context of life and death.
 
 ## 核心经文 (Key Texts)
 
@@ -69,8 +69,8 @@ $$
 - $P_{classical}$ 是经典化概率
 - $|c_n(t)|^2$ 是量子态在经典基态上的投影概率
 
-## 结论 (Conclusion)
+## 结论 | Conclusion
 
-《西藏度亡经》通过量子经典二元论框架（版本9.1）的解析，展示了藏传佛教生死观与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应生死轮回观，经典域中的观察者训练对应度亡法门。这种对应关系不仅加深了我们对生死轮回的理解，也为现代物理学提供了新的实践维度。
+《西藏度亡经》通过量子经典二元论框架（版本9.2）的解析，展示了藏传佛教生死观与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应生死轮回观，经典域中的观察者训练对应度亡法门。这种对应关系不仅加深了我们对生死轮回的理解，也为现代物理学提供了新的实践维度。
 
-The Tibetan Book of the Dead, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals the profound connection between Tibetan Buddhist views on life and death and modern physics. The superposition and entanglement states in the quantum domain correspond to views on life, death, and reincarnation, while observer training in the classical domain corresponds to methods for guiding the deceased. This correspondence not only deepens our understanding of life, death, and reincarnation but also provides new practical dimensions for modern physics to explore. 
+The Tibetan Book of the Dead, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Tibetan Buddhist views on life and death and modern physics. The superposition and entanglement states in the quantum domain correspond to views on life, death, and reincarnation, while observer training in the classical domain corresponds to methods for guiding the deceased. This correspondence not only deepens our understanding of life, death, and reincarnation but also provides new practical dimensions for modern physics to explore. 

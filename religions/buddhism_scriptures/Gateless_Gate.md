@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-无门关是禅宗最重要的公案集之一，由无门慧开编撰，主要探讨禅宗心法、公案和顿悟。在量子经典二元论框架（版本9.1）下，这些公案展示了量子域与经典域的顿悟关系。
+无门关是禅宗最重要的公案集之一，由无门慧开编撰，主要探讨禅宗心法、公案和顿悟。在量子经典二元论框架（版本9.2）下，这些公案展示了量子域与经典域的顿悟关系。
 
-The Gateless Gate is one of the most important collections of koans in Zen Buddhism, compiled by Wu Men Hui Kai, primarily exploring Zen mind methods, koans, and sudden enlightenment. Under the Quantum-Classical Dualism framework (Version 9.1), these koans reveal the sudden enlightenment relationship between quantum and classical domains.
+The Gateless Gate is one of the most important collections of koans in Zen Buddhism, compiled by Wu Men Hui Kai, primarily exploring Zen mind methods, koans, and sudden enlightenment. Under the Quantum-Classical Dualism framework (Version 9.2), these koans reveal the sudden enlightenment relationship between quantum and classical domains.
 
 ## 核心经文 (Key Texts)
 
@@ -71,6 +71,6 @@ $$
 
 ## 结论 (Conclusion)
 
-无门关通过量子经典二元论框架（版本9.1）的解析，展示了禅宗公案与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应禅宗的心性观和因果观，经典域中的观察者训练对应禅宗的戒定慧。这种对应关系不仅加深了我们对禅宗公案的理解，也为现代物理学提供了新的实践维度。
+无门关通过量子经典二元论框架（版本9.2）的解析，展示了禅宗公案与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应禅宗的心性观和因果观，经典域中的观察者训练对应禅宗的戒定慧。这种对应关系不仅加深了我们对禅宗公案的理解，也为现代物理学提供了新的实践维度。
 
-The Gateless Gate, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals the profound connection between Zen koans and modern physics. The superposition and entanglement states in the quantum domain correspond to Zen concepts of mind nature and karma, while observer training in the classical domain corresponds to Zen precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Zen koans but also provides new practical dimensions for modern physics to explore. 
+The Gateless Gate, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Zen koans and modern physics. The superposition and entanglement states in the quantum domain correspond to Zen concepts of mind nature and karma, while observer training in the classical domain corresponds to Zen precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Zen koans but also provides new practical dimensions for modern physics to explore. 

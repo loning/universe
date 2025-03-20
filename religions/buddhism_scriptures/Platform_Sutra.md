@@ -1,4 +1,4 @@
-# 六祖坛经 (Platform Sutra)
+# 六祖坛经的量子经典二元论解释 | Platform Sutra Explained Through Quantum-Classical Dualism
 
 **导航 | Navigation**  
 [中文版](#六祖坛经解析) | [English Version](#platform-sutra-analysis)  
@@ -6,11 +6,11 @@
 中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
-## 概述 (Overview)
+## 概述 | Overview
 
-六祖坛经是禅宗最重要的经典之一，由六祖惠能口述，弟子法海记录，主要探讨顿悟法门和心性本净。在量子经典二元论框架（版本9.1）下，这些经文展示了量子域与经典域的顿悟关系。
+六祖坛经是禅宗最重要的经典之一，由六祖惠能口述，弟子法海记录，主要探讨顿悟法门和心性本净。在量子经典二元论框架（版本9.2）下，这些经文展示了量子域与经典域的顿悟关系。
 
-The Platform Sutra is one of the most important texts in Zen Buddhism, dictated by the Sixth Patriarch Huineng and recorded by his disciple Fahai, primarily exploring the sudden enlightenment method and the innate purity of mind. Under the Quantum-Classical Dualism framework (Version 9.1), these sutras reveal the sudden enlightenment relationship between quantum and classical domains.
+The Platform Sutra is one of the most important texts in Zen Buddhism, dictated by the Sixth Patriarch Huineng and recorded by his disciple Fahai, primarily exploring the sudden enlightenment method and the innate purity of mind. Under the Quantum-Classical Dualism framework (Version 9.2), these sutras reveal the sudden enlightenment relationship between quantum and classical domains.
 
 ## 核心经文 (Key Texts)
 
@@ -69,8 +69,8 @@ $$
 - $P_{classical}$ 是经典化概率
 - $|c_n(t)|^2$ 是量子态在经典基态上的投影概率
 
-## 结论 (Conclusion)
+## 结论 | Conclusion
 
-六祖坛经通过量子经典二元论框架（版本9.1）的解析，展示了禅宗顿悟法门与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应禅宗的心性观和因果观，经典域中的观察者训练对应禅宗的戒定慧。这种对应关系不仅加深了我们对禅宗顿悟法门的理解，也为现代物理学提供了新的实践维度。
+六祖坛经通过量子经典二元论框架（版本9.2）的解析，展示了禅宗顿悟法门与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应禅宗的心性观和因果观，经典域中的观察者训练对应禅宗的戒定慧。这种对应关系不仅加深了我们对禅宗顿悟法门的理解，也为现代物理学提供了新的实践维度。
 
-The Platform Sutra, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals the profound connection between Zen sudden enlightenment method and modern physics. The superposition and entanglement states in the quantum domain correspond to Zen concepts of mind nature and karma, while observer training in the classical domain corresponds to Zen precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Zen sudden enlightenment method but also provides new practical dimensions for modern physics to explore. 
+The Platform Sutra, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Zen sudden enlightenment method and modern physics. The superposition and entanglement states in the quantum domain correspond to Zen concepts of mind nature and karma, while observer training in the classical domain corresponds to Zen precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Zen sudden enlightenment method but also provides new practical dimensions for modern physics to explore. 

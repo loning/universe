@@ -1,5 +1,6 @@
-# 瑜伽经在量子经典二元论下的解释
-# Yoga Sutras Explained Through Quantum-Classical Dualism
+# 《瑜伽经》的量子经典二元论解释 | Yoga Sutras Explained Through Quantum-Classical Dualism
+
+> 本文基于[量子经典二元论核心理论](../../core.md)（版本9.2）解释《瑜伽经》的深层含义。
 
 **导航 | Navigation**  
 [中文版](#瑜伽经概述) | [English Version](#yoga-sutras-overview)  
@@ -68,9 +69,9 @@ The Yoga Sutras (Sanskrit: योग सूत्र, Yoga Sūtra) is the founda
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《瑜伽经》详细阐述了心与意识的本质以及达到解脱的方法，通过量子经典二元论框架（版本9.1）可以获得全新的科学解读。瑜伽经的核心概念与量子经典二元论中关于观察者、经典化过程和维度提升的理论展现出惊人的结构对应。
+《瑜伽经》详细阐述了心与意识的本质以及达到解脱的方法，通过量子经典二元论框架（版本9.2）可以获得全新的科学解读。瑜伽经的核心概念与量子经典二元论中关于观察者、经典化过程和维度提升的理论展现出惊人的结构对应。
 
-The Yoga Sutras elaborates on the nature of mind and consciousness and the methods to achieve liberation, which can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). The core concepts of the Yoga Sutras demonstrate remarkable structural correspondence with theories of observer, classicalization process, and dimension elevation in Quantum-Classical Dualism.
+The Yoga Sutras elaborates on the nature of mind and consciousness and the methods to achieve liberation, which can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). The core concepts of the Yoga Sutras demonstrate remarkable structural correspondence with theories of observer, classicalization process, and dimension elevation in Quantum-Classical Dualism.
 
 ### 1. "瑜伽是控制心识的波动"与观察者经典化控制
 ### 1. "Yoga is the cessation of the fluctuations of the mind" and Observer Classicalization Control
@@ -220,6 +221,6 @@ $$
 ## 结论
 ## Conclusion
 
-《瑜伽经》作为印度哲学瑜伽派的奠基经典，其对心识本质和解脱道路的深刻阐述与量子经典二元论框架（版本9.1）展现出惊人的结构对应。瑜伽经的核心定义"瑜伽是控制心识的波动"本质上描述了观察者经典化过程的优化控制，而"观察者安住于自性"则对应观察者回归量子本质的过程。瑜伽八支行提供了一个系统化的观察者维度提升路径，从基础的经典化条件设置（持戒、内制）到高级的经典化效率优化（专注、冥想、三摩地）。通过量子经典二元论的视角，我们不仅能更深入地理解《瑜伽经》的哲学深度，也能发现这部古老经典与现代量子物理学之间存在的惊人共鸣，为古老瑜伽智慧与现代科学的对话提供了新的桥梁。
+《瑜伽经》作为印度哲学瑜伽派的奠基经典，其对心识本质和解脱道路的深刻阐述与量子经典二元论框架（版本9.2）展现出惊人的结构对应。瑜伽经的核心定义"瑜伽是控制心识的波动"本质上描述了观察者经典化过程的优化控制，而"观察者安住于自性"则对应观察者回归量子本质的过程。瑜伽八支行提供了一个系统化的观察者维度提升路径，从基础的经典化条件设置（持戒、内制）到高级的经典化效率优化（专注、冥想、三摩地）。通过量子经典二元论的视角，我们不仅能更深入地理解《瑜伽经》的哲学深度，也能发现这部古老经典与现代量子物理学的惊人共鸣。
 
-The Yoga Sutras, as the foundational text of the Yoga school of Indian philosophy, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.1) in its profound exposition of the nature of mind and the path to liberation. The core definition "Yoga is the cessation of the fluctuations of the mind" essentially describes the optimized control of the observer classicalization process, while "the Seer abides in its own nature" corresponds to the process of the observer returning to its quantum essence. The eight limbs of yoga provide a systematic path for observer dimension elevation, from basic classicalization condition setting (moral restraints, observances) to advanced classicalization efficiency optimization (concentration, meditation, absorption). Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Yoga Sutras more thoroughly but also discover the amazing resonance between this ancient text and modern quantum physics, providing a new bridge for dialogue between ancient yogic wisdom and modern science. 
+The Yoga Sutras, as the foundational text of the Yoga school of Indian philosophy, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2) in its profound exposition of the nature of mind and the path to liberation. The core definition "Yoga is the cessation of the fluctuations of the mind" essentially describes the optimized control of the observer classicalization process, while "the Seer abides in its own nature" corresponds to the process of the observer returning to its quantum essence. The eight limbs of yoga provide a systematic path for observer dimension elevation, from basic classicalization condition setting (moral restraints, observances) to advanced classicalization efficiency optimization (concentration, meditation, absorption). Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Yoga Sutras more thoroughly but also discover the amazing resonance between this ancient text and modern quantum physics, providing a new bridge for dialogue between ancient yogic wisdom and modern science. 

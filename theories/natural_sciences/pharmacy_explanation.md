@@ -1,5 +1,7 @@
 # 药学视角下的量子经典二元论 | Quantum-Classical Dualism from Pharmacy Perspective
-# 版本：9.1 | Version: 9.1
+# 版本：9.2 | Version: 9.2
+
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
 
 [返回首页](../../README.md) | [Back to Home](../../README.md)
 
@@ -13,7 +15,6 @@
 5. [药学理论对量子经典二元论的支持](#五药学理论对量子经典二元论的支持)
 6. [药理系统的数学模型](#六药理系统的数学模型)
 7. [药物与经典熵、经典知识转化关系](#七药物与经典熵经典知识转化关系)
-8. [药物的量子信息场特性 | Quantum Information Field Properties of Drugs](#八药物的量子信息场特性-quantum-information-field-properties-of-drugs)
 
 ## English Navigation
 1. [Analysis of Quantum-Classical Dualism from Pharmacy Perspective](#i-analysis-of-quantum-classical-dualism-from-pharmacy-perspective)
@@ -23,7 +24,6 @@
 5. [Support of Pharmaceutical Theory for Quantum-Classical Dualism](#v-support-of-pharmaceutical-theory-for-quantum-classical-dualism)
 6. [Mathematical Models of Pharmacological Systems](#vi-mathematical-models-of-pharmacological-systems)
 7. [Relationship Between Drugs and Classical Entropy, Classical Knowledge Transformation](#vii-relationship-between-drugs-and-classical-entropy-classical-knowledge-transformation)
-8. [Quantum Information Field Properties of Drugs](#viii-quantum-information-field-properties-of-drugs)
 
 ---
 
@@ -185,75 +185,6 @@ $\text{治疗效果}=\Delta\left(\frac{I_{\text{生物系统经典知识}}}{S_{\
 
 $\text{维度提升}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{器官系统}_i\text{经典知识}}}{S_{\text{器官系统}_i\text{经典熵}}}\right)_{\text{治疗后}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{器官系统}_i\text{经典知识}}}{S_{\text{器官系统}_i\text{经典熵}}}\right)_{\text{治疗前}}$
 
-## 八、药物的量子信息场特性 | Quantum Information Field Properties of Drugs
-
-### 药物分子的量子信息场 | Quantum Information Field of Drug Molecules
-
-药物分子的场结构：
-
-$$
-\Phi_{\text{药物}}=\sum_{i,j} |\psi_{\text{活性基团}_i}\rangle \otimes |\psi_{\text{靶点}_j}\rangle
-$$
-
-场的关键特性：
-1. **选择性**：与特定靶点的量子信息匹配
-2. **可调性**：场结构可通过分子修饰调节
-3. **协同性**：多个活性基团的场效应叠加
-
-### 药物-靶点相互作用 | Drug-Target Interaction
-
-相互作用的场表达：
-
-$$
-E_{\text{作用}}=\int_{\Omega} \Phi_{\text{药物}}(x)\cdot\Phi_{\text{靶点}}^*(x)dx
-$$
-
-其中：
-- $\Omega$ 是作用区域
-- $\Phi_{\text{靶点}}$ 是靶点的场函数
-
-## 药物作用的维度共振 | Dimensional Resonance in Drug Action
-
-### 药效与维度共振 | Drug Efficacy and Dimensional Resonance
-
-药效与维度关系：
-
-$$
-\eta_{\text{药效}}=k\cdot\frac{D_{\text{药物}}}{D_{\text{靶点}}}\cdot\exp(-\frac{\Delta G}{RT})
-$$
-
-其中：
-- $\eta_{\text{药效}}$ 是药物效力
-- $D_{\text{药物}}$ 是药物分子维度
-- $D_{\text{靶点}}$ 是靶点维度
-- $\Delta G$ 是结合自由能
-
-### 药物设计的维度优化 | Dimensional Optimization in Drug Design
-
-药物设计策略：
-
-$$
-D_{\text{设计}}=\max\{D_{\text{基础}}\cdot(1+\sum_{i=1}^n w_i\cdot m_i),\quad D_{\text{目标}}\}
-$$
-
-其中：
-- $w_i$ 是各结构修饰的权重
-- $m_i$ 是修饰效果函数
-- $D_{\text{目标}}$ 是目标药效所需维度
-
-### 联合用药的维度协同 | Dimensional Synergy in Combined Therapy
-
-联合用药效应：
-
-$$
-E_{\text{联合}}=\sum_{i=1}^n E_i + \beta\prod_{i,j} f_{\text{共振}}(D_i,D_j)
-$$
-
-其中：
-- $E_i$ 是单药效应
-- $\beta$ 是协同系数
-- $f_{\text{共振}}$ 是维度共振函数
-
 ---
 
 # English Version
@@ -412,73 +343,4 @@ $\text{Therapeutic Effect}=\Delta\left(\frac{I_{\text{Biological System Classica
 
 The therapeutic effect of drugs can be understood as the enhancement of biological system observer dimensions:
 
-$\text{Dimension Enhancement}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{After Treatment}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{Before Treatment}}$
-
-## VIII. Quantum Information Field Properties of Drugs
-
-### Quantum Information Field of Drug Molecules
-
-Drug molecules' field structure:
-
-$$
-\Phi_{\text{药物}}=\sum_{i,j} |\psi_{\text{活性基团}_i}\rangle \otimes |\psi_{\text{靶点}_j}\rangle
-$$
-
-Field key characteristics:
-1. **Selectivity**: Matching quantum information with specific targets
-2. **Adjustability**: Field structure can be adjusted by molecular modification
-3. **Synergy**: Superposition of field effects from multiple active groups
-
-### Drug-Target Interaction
-
-Field expression of interaction:
-
-$$
-E_{\text{作用}}=\int_{\Omega} \Phi_{\text{药物}}(x)\cdot\Phi_{\text{靶点}}^*(x)dx
-$$
-
-Where:
-- $\Omega$ is the area of action
-- $\Phi_{\text{靶点}}$ is the field function of the target
-
-## Drug Action Dimensional Resonance
-
-### Drug Efficacy and Dimensional Resonance
-
-Drug efficacy and dimensional relationship:
-
-$$
-\eta_{\text{药效}}=k\cdot\frac{D_{\text{药物}}}{D_{\text{靶点}}}\cdot\exp(-\frac{\Delta G}{RT})
-$$
-
-Where:
-- $\eta_{\text{药效}}$ is drug efficacy
-- $D_{\text{药物}}$ is drug molecule dimension
-- $D_{\text{靶点}}$ is target dimension
-- $\Delta G$ is binding free energy
-
-### Dimensional Optimization in Drug Design
-
-Drug design strategy:
-
-$$
-D_{\text{设计}}=\max\{D_{\text{基础}}\cdot(1+\sum_{i=1}^n w_i\cdot m_i),\quad D_{\text{目标}}\}
-$$
-
-Where:
-- $w_i$ is weight of each structural modification
-- $m_i$ is modification effect function
-- $D_{\text{目标}}$ is dimension required for target drug efficacy
-
-### Dimensional Synergy in Combined Therapy
-
-Combined therapy effect:
-
-$$
-E_{\text{联合}}=\sum_{i=1}^n E_i + \beta\prod_{i,j} f_{\text{共振}}(D_i,D_j)
-$$
-
-Where:
-- $E_i$ is single drug effect
-- $\beta$ is synergistic coefficient
-- $f_{\text{共振}}$ is dimensional resonance function 
+$\text{Dimension Enhancement}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{After Treatment}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{Before Treatment}}$ 

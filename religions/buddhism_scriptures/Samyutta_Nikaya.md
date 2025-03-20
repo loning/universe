@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-相应部是巴利三藏中最重要的经典之一，包含56个主题的相应经文，主要探讨缘起法、五蕴、六处等核心概念。在量子经典二元论框架（版本9.1）下，这些经文展示了量子域与经典域的对应关系。
+相应部是巴利三藏中最重要的经典之一，包含56个主题的相应经文，主要探讨缘起法、五蕴、六处等核心概念。在量子经典二元论框架（版本9.2）下，这些经文展示了量子域与经典域的对应关系。
 
-The Samyutta Nikaya is one of the most important texts in the Pali Canon, containing discourses grouped into 56 themes, primarily exploring core concepts such as dependent origination, five aggregates, and six sense bases. Under the Quantum-Classical Dualism framework (Version 9.1), these sutras reveal the correspondence between quantum and classical domains.
+The Samyutta Nikaya is one of the most important texts in the Pali Canon, containing discourses grouped into 56 themes, primarily exploring core concepts such as dependent origination, five aggregates, and six sense bases. Under the Quantum-Classical Dualism framework (Version 9.2), these sutras reveal the correspondence between quantum and classical domains.
 
 ## 核心经文 (Key Texts)
 
@@ -71,6 +71,6 @@ $$
 
 ## 结论 (Conclusion)
 
-相应部通过量子经典二元论框架（版本9.1）的解析，展示了佛教核心概念与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应佛教的缘起观和五蕴观，经典域中的观察者训练对应佛教的四圣谛和八正道。这种对应关系不仅加深了我们对佛教核心概念的理解，也为现代物理学提供了新的理论维度。
+相应部通过量子经典二元论框架（版本9.2）的解析，展示了佛教核心概念与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应佛教的缘起观和五蕴观，经典域中的观察者训练对应佛教的四圣谛和八正道。这种对应关系不仅加深了我们对佛教核心概念的理解，也为现代物理学提供了新的理论维度。
 
-The Samyutta Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals the profound connection between Buddhist core concepts and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of dependent origination and five aggregates, while observer training in the classical domain corresponds to Buddhist four noble truths and eightfold path. This correspondence not only deepens our understanding of Buddhist core concepts but also provides new theoretical dimensions for modern physics to explore. 
+The Samyutta Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist core concepts and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of dependent origination and five aggregates, while observer training in the classical domain corresponds to Buddhist four noble truths and eightfold path. This correspondence not only deepens our understanding of Buddhist core concepts but also provides new theoretical dimensions for modern physics to explore. 

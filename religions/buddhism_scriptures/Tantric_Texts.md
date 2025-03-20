@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-密宗典籍是藏传佛教最重要的经典之一，主要探讨密法、本尊和曼陀罗等核心概念。在量子经典二元论框架（版本9.1）下，这些典籍展示了量子域与经典域的密法关系。
+密宗典籍是藏传佛教最重要的经典之一，主要探讨密法、本尊和曼陀罗等核心概念。在量子经典二元论框架（版本9.2）下，这些典籍展示了量子域与经典域的密法关系。
 
-The Tantric Texts are one of the most important texts in Tibetan Buddhism, primarily exploring core concepts such as esoteric methods, deities, and mandalas. Under the Quantum-Classical Dualism framework (Version 9.1), these texts reveal the esoteric relationship between quantum and classical domains.
+The Tantric Texts are one of the most important texts in Tibetan Buddhism, primarily exploring core concepts such as esoteric methods, deities, and mandalas. Under the Quantum-Classical Dualism framework (Version 9.2), these texts reveal the esoteric relationship between quantum and classical domains.
 
 ## 核心经文 (Key Texts)
 
@@ -71,6 +71,6 @@ $$
 
 ## 结论 (Conclusion)
 
-密宗典籍通过量子经典二元论框架（版本9.1）的解析，展示了藏传佛教密法与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应密宗的本尊观和曼陀罗观，经典域中的观察者训练对应密宗的戒定慧。这种对应关系不仅加深了我们对密宗密法的理解，也为现代物理学提供了新的实践维度。
+密宗典籍通过量子经典二元论框架（版本9.2）的解析，展示了藏传佛教密法与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应密宗的本尊观和曼陀罗观，经典域中的观察者训练对应密宗的戒定慧。这种对应关系不仅加深了我们对密宗密法的理解，也为现代物理学提供了新的实践维度。
 
-The Tantric Texts, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveal the profound connection between Tibetan Buddhist esoteric methods and modern physics. The superposition and entanglement states in the quantum domain correspond to Tantric concepts of deities and mandalas, while observer training in the classical domain corresponds to Tantric precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Tantric methods but also provides new practical dimensions for modern physics to explore. 
+The Tantric Texts, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveal the profound connection between Tibetan Buddhist esoteric methods and modern physics. The superposition and entanglement states in the quantum domain correspond to Tantric concepts of deities and mandalas, while observer training in the classical domain corresponds to Tantric precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Tantric methods but also provides new practical dimensions for modern physics to explore. 

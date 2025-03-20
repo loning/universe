@@ -48,9 +48,9 @@ The Lankavatara Sutra (Sanskrit: Laṅkāvatāra Sūtra), fully known as the Sut
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《楞伽经》以其深刻的唯识思想和如来藏教义，通过量子经典二元论框架（版本9.1）可以获得全新的科学解读。该经的核心概念与量子经典二元论中关于观察者经典化、意识本质和量子-经典二元超越的理论展现出惊人的结构对应。
+《楞伽经》以其深刻的唯识思想和如来藏教义，通过量子经典二元论框架（版本9.2）可以获得全新的科学解读。该经的核心概念与量子经典二元论中关于观察者经典化、意识本质和量子-经典二元超越的理论展现出惊人的结构对应。
 
-The Lankavatara Sutra, with its profound Yogachara (consciousness-only) thought and Tathāgatagarbha doctrine, can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). The core concepts of the sutra demonstrate remarkable structural correspondence with theories on observer classicalization, the nature of consciousness, and the transcendence of quantum-classical duality in Quantum-Classical Dualism.
+The Lankavatara Sutra, with its profound Yogachara (consciousness-only) thought and Tathāgatagarbha doctrine, can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). The core concepts of the sutra demonstrate remarkable structural correspondence with theories on observer classicalization, the nature of consciousness, and the transcendence of quantum-classical duality in Quantum-Classical Dualism.
 
 ### 1. "一切法不生...缘起无性"与量子潜势本质
 ### 1. "All Dharmas Are Unborn...Dependent Origination Is Without Inherent Nature" and Quantum Potential Nature
@@ -182,6 +182,4 @@ $$
 ## 结论
 ## Conclusion
 
-《楞伽经》作为大乘佛教唯识思想的重要经典，其对心识本质和如来藏的阐述与量子经典二元论框架（版本9.1）展现出惊人的结构对应。楞伽经的"一切法不生...缘起无性"对应量子域的本质特性，"四种禅"完美映射观察者维度的进阶层级，而"三界虚伪、唯心、所现"则揭示了经典域的投射本质。该经关于"自心现妄想"的论述精确描述了观察者经典化过程，"得相所相灭，无别有心体"则展现了对量子-经典二元的最终超越。通过量子经典二元论的视角，这部公元4-5世纪的经典获得了现代科学语言的诠释，不仅展示了唯识思想的科学深度，也为佛教哲学与量子物理的对话提供了新的桥梁，进一步证明了量子经典二元论作为统一理论框架的解释力。
-
-The Lankavatara Sutra, as an important classic of Mahayana Buddhist Yogachara thought, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.1) in its exposition on the nature of consciousness and Tathāgatagarbha. The sutra's "all dharmas are unborn...dependent origination is without inherent nature" corresponds to the essential characteristics of the quantum domain, the "four kinds of meditation" perfectly maps to the progressive levels of observer dimension, and "the three realms are false, mind-only, mere appearances" reveals the projective nature of the classical domain. The sutra's discourse on "projections of one's own mind as delusions" precisely describes the observer classicalization process, and "when the perceived and the perceiver are extinguished, there is no separate mind-entity" demonstrates the ultimate transcendence of quantum-classical duality. Through the perspective of Quantum-Classical Dualism, this 4th-5th century classic receives interpretation in the language of modern science, not only showcasing the scientific depth of Yogachara thought but also providing a new bridge for dialogue between Buddhist philosophy and quantum physics, further proving the explanatory power of Quantum-Classical Dualism as a unified theoretical framework. 
+《楞伽经》作为大乘佛教唯识思想的重要经典，其对心识本质和如来藏的阐述与量子经典二元论框架（版本9.2）展现出惊人的结构对应。楞伽经的"一切法不生...缘起无性"对应量子域的本质特性，"四种禅"完美映射观察者维度的进阶层级，而"三界虚伪、唯心、所现"则揭示了经典域的投射本质。该经关于"自心现妄想"的论述精确描述了观察者经典化过程，"得相所相灭，无别有心体"则展现了对量子-经典二元的最终超越。通过量子经典二元论的视角，这部公元4-5世纪的经典获得了现代科学语言的诠释，不仅展示了唯识思想的科学性，也为现代物理学提供了新的思考维度。 
