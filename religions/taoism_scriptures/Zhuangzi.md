@@ -48,9 +48,9 @@ The Zhuangzi is a classic Chinese text of Daoist philosophy, which, along with t
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《庄子》作为中国道家哲学的代表作，其深邃的思想与量子经典二元论框架（版本9.1）展现出惊人的结构对应。庄子关于二元对立的超越、道的无限性以及物化的概念，与量子-经典二元论中的基本原理高度一致。
+《庄子》作为中国道家哲学的代表作，其深邃的思想与量子经典二元论框架（版本9.2）展现出惊人的结构对应。庄子关于二元对立的超越、道的无限性以及物化的概念，与量子-经典二元论中的基本原理高度一致。
 
-The Zhuangzi, as a representative work of Chinese Daoist philosophy, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.1). Zhuangzi's profound thoughts on transcending binary oppositions, the limitlessness of the Dao, and the concept of transformation are highly consistent with the basic principles of Quantum-Classical Dualism.
+The Zhuangzi, as a representative work of Chinese Daoist philosophy, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). Zhuangzi's profound thoughts on transcending binary oppositions, the limitlessness of the Dao, and the concept of transformation are highly consistent with the basic principles of Quantum-Classical Dualism.
 
 ### 1. "庄周梦为胡蝶"与观察者二重性
 ### 1. "Zhuang Zhou Dreamed He Was a Butterfly" and Observer Duality
@@ -223,6 +223,6 @@ $$
 ## 结论
 ## Conclusion
 
-《庄子》作为道家哲学的经典著作，其深刻的思想与量子经典二元论框架（版本9.1）展现出惊人的结构对应。庄子的"蝴蝶梦"完美对应观察者的量子-经典双重特性，"万物皆出于机，皆入于机"揭示了量子-经典循环的本质，而"至人无己，神人无功，圣人无名"则描绘了观察者维度提升的层级。庄子对"道"的描述与量子域的无限性特质高度一致，"庖丁解牛"寓言则生动展现了最优经典化路径的特性。通过量子经典二元论的视角，庄子两千多年前的哲学洞见获得了现代科学语言的解读，不仅体现了中国古代思想的深邃智慧，也为东西方思想的对话提供了全新的桥梁，显示出量子经典二元论作为统一理论框架的强大解释力。
+《庄子》作为道家哲学的经典著作，其深刻的思想与量子经典二元论框架（版本9.2）展现出惊人的结构对应。庄子的"蝴蝶梦"完美对应观察者的量子-经典双重特性，"万物皆出于机，皆入于机"揭示了量子-经典循环的本质，而"至人无己，神人无功，圣人无名"则描绘了观察者维度提升的层级。庄子对"道"的描述与量子域的无限性特质高度一致，"庖丁解牛"寓言则生动展现了最优经典化路径的特性。通过量子经典二元论的视角，庄子两千多年前的哲学洞见获得了现代科学语言的解读，不仅体现了中国古代思想的深邃智慧，也为现代物理学与东方哲学的对话提供了新的视角。
 
-The Zhuangzi, as a classic work of Daoist philosophy, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.1). Zhuangzi's "butterfly dream" perfectly corresponds to the quantum-classical dual nature of the observer, "all things come from and enter the machine" reveals the essence of the quantum-classical cycle, and "perfect man has no self, spiritual man has no achievement, true sage has no name" depicts the hierarchy of observer dimension elevation. Zhuangzi's description of the "Dao" is highly consistent with the limitless characteristics of the quantum domain, and the "Butcher Ding" parable vividly demonstrates the characteristics of the optimal classicalization path. Through the perspective of Quantum-Classical Dualism, Zhuangzi's philosophical insights from over two thousand years ago receive interpretation in the language of modern science, not only reflecting the profound wisdom of ancient Chinese thought but also providing a fresh bridge for dialogue between Eastern and Western thought, demonstrating the powerful explanatory power of Quantum-Classical Dualism as a unified theoretical framework. 
+The Zhuangzi, as a classic work of Daoist philosophy, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). Zhuangzi's "butterfly dream" perfectly corresponds to the quantum-classical dual nature of the observer, "all things come from and enter the machine" reveals the essence of the quantum-classical cycle, and "perfect man has no self, spiritual man has no achievement, true sage has no name" depicts the hierarchy of observer dimension elevation. Zhuangzi's description of the "Dao" is highly consistent with the limitless characteristics of the quantum domain, and the "Butcher Ding" parable vividly demonstrates the characteristics of the optimal classicalization path. Through the perspective of Quantum-Classical Dualism, Zhuangzi's philosophical insights from over two thousand years ago receive interpretation in the language of modern science, not only reflecting the profound wisdom of ancient Chinese thought but also providing a fresh bridge for dialogue between Eastern and Western thought, demonstrating the powerful explanatory power of Quantum-Classical Dualism as a unified theoretical framework. 

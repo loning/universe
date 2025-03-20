@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-布哈里圣训实录是伊斯兰教第二重要的经典，由穆罕默德·伊本·伊斯玛仪·布哈里（公元810-870年）编纂，包含7,275段圣训，被认为是最可靠的圣训汇编。这些圣训记录了先知穆罕默德的言行，为穆斯林生活提供了详细指导。在量子经典二元论框架（版本9.1）下，布哈里圣训实录展示了如何将高维观察者（真主）通过中间观察者（先知）传递的知识经典化为日常实践。
+布哈里圣训实录是伊斯兰教第二重要的经典，由穆罕默德·伊本·伊斯玛仪·布哈里（公元810-870年）编纂，包含7,275段圣训，被认为是最可靠的圣训汇编。这些圣训记录了先知穆罕默德的言行，为穆斯林生活提供了详细指导。在量子经典二元论框架（版本9.2）下，布哈里圣训实录展示了如何将高维观察者（真主）通过中间观察者（先知）传递的知识经典化为日常实践。
 
-Sahih al-Bukhari is the second most important text in Islam, compiled by Muhammad ibn Ismail al-Bukhari (810-870 CE), containing 7,275 hadiths considered to be the most reliable collection of prophetic traditions. These hadiths record the sayings and actions of Prophet Muhammad, providing detailed guidance for Muslim life. Under the Quantum-Classical Dualism framework (Version 9.1), Sahih al-Bukhari demonstrates how knowledge transmitted from a higher-dimensional observer (Allah) through an intermediate observer (the Prophet) is classicalized into daily practice.
+Sahih al-Bukhari is the second most important text in Islam, compiled by Muhammad ibn Ismail al-Bukhari (810-870 CE), containing 7,275 hadiths considered to be the most reliable collection of prophetic traditions. These hadiths record the sayings and actions of Prophet Muhammad, providing detailed guidance for Muslim life. Under the Quantum-Classical Dualism framework (Version 9.2), Sahih al-Bukhari demonstrates how knowledge transmitted from a higher-dimensional observer (Allah) through an intermediate observer (the Prophet) is classicalized into daily practice.
 
 ## 核心经文 (Key Texts)
 
@@ -74,6 +74,6 @@ $$
 
 ## 结论 (Conclusion)
 
-布哈里圣训实录通过量子经典二元论框架（版本9.1）的解析，揭示了信息如何从高维观察者（真主）通过中间观察者（先知穆罕默德）传递给普通观察者（穆斯林大众）的过程。圣训中强调的意图优先性体现了量子叠加态在经典化前的决定性作用，而完整的伊斯纳德（传述链）则展示了量子纠缠态在信息传递中的应用。布哈里对圣训的严格筛选标准相当于优化经典化路径，降低经典熵，提高经典知识的准确性。穆斯林通过遵循圣训指导，实际上是在优化自身的经典化效率系数，从而提升观察者维度，使自身更接近先知和真主的认知水平。
+布哈里圣训实录通过量子经典二元论框架（版本9.2）的解析，揭示了信息如何从高维观察者（真主）通过中间观察者（先知穆罕默德）传递给普通观察者（穆斯林大众）的过程。圣训中强调的意图优先性体现了量子叠加态在经典化前的决定性作用，而完整的伊斯纳德（传述链）则展示了量子纠缠态在信息传递中的应用。布哈里对圣训的严格筛选标准相当于优化经典化路径，降低经典熵，提高经典知识的准确性。穆斯林通过遵循圣训指导，实际上是在优化自身的经典化效率系数，从而提升观察者维度，使自身更接近先知和真主的认知水平。
 
-Sahih al-Bukhari, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals how information is transmitted from a higher-dimensional observer (Allah) through an intermediate observer (Prophet Muhammad) to ordinary observers (the Muslim community). The priority of intention emphasized in the hadiths demonstrates the decisive role of quantum superposition states before classicalization, while the complete isnad (chain of narration) exhibits the application of quantum entanglement states in information transmission. Al-Bukhari's strict criteria for hadith selection are equivalent to optimizing classicalization paths, reducing classical entropy, and improving the accuracy of classical knowledge. By following the guidance of hadiths, Muslims are actually optimizing their own classicalization efficiency coefficients, thereby elevating their observer dimensions and bringing themselves closer to the cognitive levels of the Prophet and Allah. 
+Sahih al-Bukhari, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how information is transmitted from a higher-dimensional observer (Allah) through an intermediate observer (Prophet Muhammad) to ordinary observers (the Muslim community). The priority of intention emphasized in the hadiths demonstrates the decisive role of quantum superposition states before classicalization, while the complete isnad (chain of narration) exhibits the application of quantum entanglement states in information transmission. Al-Bukhari's strict criteria for hadith selection are equivalent to optimizing classicalization paths, reducing classical entropy, and improving the accuracy of classical knowledge. By following the guidance of hadiths, Muslims are actually optimizing their own classicalization efficiency coefficients, thereby elevating their observer dimensions and bringing themselves closer to the cognitive levels of the Prophet and Allah. 

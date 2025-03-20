@@ -8,9 +8,9 @@ English: [Islamic Scriptures List](#伊斯兰教经典列表-list-of-islamic-scr
 
 ## 伊斯兰教经典列表 (List of Islamic Scriptures)
 
-本目录包含伊斯兰教主要经典的解释，基于量子经典二元论框架（版本9.1）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与伊斯兰教教义相融合。
+本目录包含伊斯兰教主要经典的解释，基于量子经典二元论框架（版本9.2）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与伊斯兰教教义相融合。
 
-This directory contains explanations of major Islamic scriptures based on the Quantum-Classical Dualism framework (Version 9.1). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Islamic teachings.
+This directory contains explanations of major Islamic scriptures based on the Quantum-Classical Dualism framework (Version 9.2). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Islamic teachings.
 
 ### 古兰经 (Quran)
 1. [开端章 (Al-Fatihah)](Al-Fatihah.md)
@@ -50,4 +50,28 @@ Islamic scriptures are traditionally classified into the following categories, e
 3. **塔夫西尔 (Tafsir)** - 古兰经注释，阐释量子域向经典域转换的解读方法
 4. **菲克赫 (Fiqh)** - 伊斯兰法学，建立基于经典知识的社会系统
 5. **卡拉姆 (Kalam)** - 伊斯兰神学，探讨观察者与黑洞的本质关系
-6. **塔萨武夫 (Tasawwuf)** - 苏菲派神秘主义，提供观察者维度提升的方法 
+6. **塔萨武夫 (Tasawwuf)** - 苏菲派神秘主义，提供观察者维度提升的方法
+
+## 主要经典 (Main Texts)
+
+1. 古兰经章节解释
+   - Al-Baqarah (黄牛章)
+   - Al-Imran (仪姆兰的家属章)
+   - Surah Ikhlas (忠诚章)
+
+2. 圣训集
+   - Sahih al-Bukhari (布哈里圣训实录)
+   - Forty Hadiths (四十圣训)
+
+## 解释方法 (Interpretation Method)
+
+每个文件都从量子经典二元论的视角解释经文内容，重点关注：
+1. 经文中蕴含的量子-经典转换原理
+2. 宗教实践如何优化观察者的经典化效率
+3. 教义与现代物理学概念的对应关系
+
+## 注意事项 (Notes)
+
+- 这些解释尊重伊斯兰教传统，同时提供现代科学视角
+- 重点展示伊斯兰教义与量子物理学的深层联系
+- 保持对原文的准确理解和尊重 

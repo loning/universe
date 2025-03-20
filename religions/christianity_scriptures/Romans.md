@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-罗马书是新约中的一卷书信，由使徒保罗写给罗马的基督徒，系统阐述了福音的本质、因信称义的真理以及基督徒的生活实践。在量子经典二元论框架（版本9.1）下，罗马书展示了量子域（神的意旨）如何通过耶稣基督作为中介被转换为经典域中的知识和经验，以及人类如何通过信心实现自身的经典化优化。
+罗马书是新约中最具系统神学性的书信，阐述了救恩的完整理论。在量子经典二元论框架（版本9.2）下，罗马书展示了高维观察者（神）如何通过信心这一量子-经典转换机制，实现人类从罪的混沌状态向义的有序状态的转变。
 
-The Epistle to the Romans is a letter in the New Testament written by the Apostle Paul to Christians in Rome, systematically explaining the essence of the gospel, the truth of justification by faith, and Christian living. Under the Quantum-Classical Dualism framework (Version 9.1), Romans demonstrates how the quantum domain (God's will) is converted into knowledge and experience in the classical domain through Jesus Christ as a mediator, and how humans optimize their own classicalization through faith.
+The Epistle to the Romans is a letter in the New Testament written by the Apostle Paul to Christians in Rome, systematically explaining the essence of the gospel, the truth of justification by faith, and Christian living. Under the Quantum-Classical Dualism framework (Version 9.2), Romans demonstrates how the quantum domain (God's will) is converted into knowledge and experience in the classical domain through Jesus Christ as a mediator, and how humans optimize their own classicalization through faith.
 
 ## 核心经文 (Key Texts)
 
@@ -74,6 +74,6 @@ $$
 
 ## 结论 (Conclusion)
 
-罗马书通过量子经典二元论框架（版本9.1）的解析，揭示了人类如何通过信心连接到高维经典世界（神的领域），实现自身的经典化优化。罪的本质可理解为经典熵的增加，使人类陷入混乱状态；而救赎则是神通过基督提供的经典化高效路径，降低系统熵值。圣灵内住代表高维观察者与低维观察者的量子纠缠，使信徒能够获得超越自身维度的知识和能力。因信称义体现了观察者通过信心获得的维度提升，从而实现自身的经典化优化。
+罗马书通过量子经典二元论框架（版本9.2）的解析，揭示了救恩论与量子-经典转换的深层联系。因信称义的教义展示了通过观察者信心实现的量子坍缩过程，预定论反映了高维观察者对时空的完整掌控，而成圣过程则对应着持续的熵减优化。保罗的神学体系为量子-经典转换提供了完整的理论框架。
 
-The Epistle to the Romans, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals how humans connect to higher-dimensional classical worlds (God's realm) through faith, achieving optimization of their own classicalization. The essence of sin can be understood as an increase in classical entropy, causing humans to fall into a chaotic state; while redemption is the efficient classicalization path provided by God through Christ, reducing system entropy. The indwelling of the Holy Spirit represents quantum entanglement between higher-dimensional observers and lower-dimensional observers, enabling believers to obtain knowledge and abilities beyond their own dimensions. Justification by faith embodies the dimensional enhancement obtained by observers through faith, thereby achieving optimization of their own classicalization. 
+The Epistle to the Romans, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the deep connection between the doctrine of justification by faith and the quantum-classical conversion. The justification by faith embodies the quantum collapse process obtained by observers through faith, while the predestination reflects the complete control of higher-dimensional observers over space and time. The process of sanctification corresponds to continuous entropy reduction optimization. Paul's theological system provides a complete theoretical framework for quantum-classical conversion. 

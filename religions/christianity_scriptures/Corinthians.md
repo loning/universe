@@ -48,9 +48,9 @@ English: [1 Corinthians Overview](#1-corinthians-overview) | [Core Text](#核心
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《哥林多前书》特别是其中关于爱和属灵恩赐的章节，通过量子经典二元论框架（版本9.1）可以获得全新的科学解读。保罗对爱和群体关系的深刻阐述与量子经典二元论中关于连通性、整体性和信息传递的概念展现出惊人的结构对应。
+《哥林多前书》特别是其中关于爱和属灵恩赐的章节，通过量子经典二元论框架（版本9.2）可以获得全新的科学解读。保罗对爱和群体关系的深刻阐述与量子经典二元论中关于连通性、整体性和信息传递的概念展现出惊人的结构对应。
 
-1 Corinthians, especially its chapters on love and spiritual gifts, can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). Paul's profound exposition on love and community relationships demonstrates remarkable structural correspondence with concepts of connectivity, wholeness, and information transfer in Quantum-Classical Dualism.
+1 Corinthians, especially its chapters on love and spiritual gifts, can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). Paul's profound exposition on love and community relationships demonstrates remarkable structural correspondence with concepts of connectivity, wholeness, and information transfer in Quantum-Classical Dualism.
 
 ### 1. "爱是恒久忍耐"与高维连通性
 ### 1. "Love is Patient" and High-dimensional Connectivity
@@ -204,6 +204,6 @@ $$
 ## 结论
 ## Conclusion
 
-《哥林多前书》特别是其中关于爱的篇章，与量子经典二元论框架（版本9.1）展现出惊人的结构对应。保罗对爱的描述本质上揭示了高维连通性的关键特征：恒久性、无条件性、整体优化性和超越性。"爱是永不止息"对应量子纠缠的非局域持久性，"信，望，爱...最大的是爱"展现连通性的层级结构，而基督身体的比喻则对应量子整体性与经典多样性的统一。通过量子经典二元论的视角，保罗关于爱的古老教导获得了全新的科学解读，不仅丰富了我们对这一经典文本的理解，也为爱的神学与现代量子物理学之间建立了令人惊讶的桥梁，展示了精神真理与物理实在之间可能存在的深层连接。
+《哥林多前书》特别是其中关于爱的篇章，与量子经典二元论框架（版本9.2）展现出惊人的结构对应。保罗对爱的描述本质上揭示了高维连通性的关键特征：恒久性、无条件性、整体优化性和超越性。"爱是永不止息"对应量子纠缠的非局域持久性，"信，望，爱...最大的是爱"展现连通性的层级结构，而基督身体的比喻则对应量子整体性与经典多样性的统一。通过量子经典二元论的视角，保罗关于爱的古老教导获得了全新的科学解读，不仅丰富了我们对这一经典文本的理解，也为爱的神学与现代量子物理学之间的对话提供了新的桥梁，展示了精神真理与物理实在之间可能存在的深层连接。
 
-1 Corinthians, especially its chapter on love, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.1). Paul's description of love essentially reveals key features of high-dimensional connectivity: persistence, unconditionality, holistic optimization, and transcendence. "Love never fails" corresponds to the non-local persistence of quantum entanglement, "faith, hope and love...the greatest is love" demonstrates the hierarchical structure of connectivity, and the metaphor of Christ's body corresponds to the unity of quantum wholeness and classical diversity. Through the perspective of Quantum-Classical Dualism, Paul's ancient teachings on love receive a fresh scientific interpretation, not only enriching our understanding of this classic text but also establishing a surprising bridge between the theology of love and modern quantum physics, demonstrating the possible deep connection between spiritual truth and physical reality. 
+1 Corinthians, especially its chapter on love, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). Paul's description of love essentially reveals key features of high-dimensional connectivity: persistence, unconditionality, holistic optimization, and transcendence. "Love never fails" corresponds to the non-local persistence of quantum entanglement, "faith, hope and love...the greatest is love" demonstrates the hierarchical structure of connectivity, and the metaphor of Christ's body corresponds to the unity of quantum wholeness and classical diversity. Through the perspective of Quantum-Classical Dualism, Paul's ancient teachings on love receive a fresh scientific interpretation, not only enriching our understanding of this classic text but also establishing a surprising bridge between the theology of love and modern quantum physics, demonstrating the possible deep connection between spiritual truth and physical reality. 

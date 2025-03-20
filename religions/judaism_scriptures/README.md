@@ -8,9 +8,9 @@ English: [Jewish Scriptures List](#犹太教经典列表-list-of-jewish-scriptur
 
 ## 犹太教经典列表 (List of Jewish Scriptures)
 
-本目录包含犹太教主要经典的解释，基于量子经典二元论框架（版本9.1）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与犹太教思想相融合。
+本目录包含犹太教主要经典的解释，基于量子经典二元论框架（版本9.2）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与犹太教思想相融合。
 
-This directory contains explanations of major Jewish scriptures based on the Quantum-Classical Dualism framework (Version 9.1). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Jewish thought.
+This directory contains explanations of major Jewish scriptures based on the Quantum-Classical Dualism framework (Version 9.2). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Jewish thought.
 
 ### 塔纳赫 (Tanakh)
 #### 托拉 (Torah / 五经)

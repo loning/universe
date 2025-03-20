@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-路加福音是新约四福音书之一，由医生路加所著，着重记录耶稣基督的生平事迹，特别关注祂对穷人、妇女和社会边缘人群的关怀。在量子经典二元论框架（版本9.1）下，路加福音展示了量子域与经典域之间的理想转换模式，以及神通过成为人（观察者维度转变）来实现最完美经典化的过程。
+路加福音是新约四福音书中最具历史性的一卷，由医生路加所写。在量子经典二元论框架（版本9.2）下，路加福音展示了高维观察者（神）如何通过历史事件的精确记录，将量子可能性经典化为确定的历史叙事。
 
-The Gospel of Luke is one of the four Gospels in the New Testament, written by Luke the physician, focusing on recording the life and deeds of Jesus Christ, with special attention to His care for the poor, women, and marginalized groups in society. Under the Quantum-Classical Dualism framework (Version 9.1), Luke demonstrates the ideal conversion mode between quantum and classical domains, and how God achieves the most perfect classicalization by becoming human (observer dimension transformation).
+The Gospel of Luke is one of the four Gospels in the New Testament, written by Luke the physician, focusing on recording the life and deeds of Jesus Christ, with special attention to His care for the poor, women, and marginalized groups in society. Under the Quantum-Classical Dualism framework (Version 9.2), Luke demonstrates how God achieves the most perfect classicalization through precise historical record of quantum events, transforming quantum possibilities into certain historical narratives.
 
 ## 核心经文 (Key Texts)
 
@@ -73,6 +73,6 @@ $$
 
 ## 结论 (Conclusion)
 
-路加福音通过量子经典二元论框架（版本9.1）的解析，展示了神如何通过道成肉身实现观察者维度的转换，将高维经典世界的知识带入低维经典世界。耶稣作为完美的人，展示了理想的经典化路径，其教导和比喻帮助人类理解量子域的本质。天国"在你们心里"的概念揭示了量子经典转换的内在性质，表明经典化过程不仅仅是外部现象，更是内心意识的转变。十字架救赎则体现了通过有序承担熵增（罪）来降低整体系统熵值的量子经典机制。
+路加福音通过量子经典二元论框架（版本9.2）的解析，揭示了历史记录在量子-经典转换中的重要作用。作为一位医生和历史学家，路加通过严谨的考证和记录，将耶稣生平的量子事件（神迹、教导、复活）经典化为可传承的历史文本。这种经典化过程不仅保存了高维信息，也为后人提供了可验证的历史依据。路加对普世救恩的强调，反映了量子-经典转换的普适性原理。
 
-The Gospel of Luke, analyzed through the Quantum-Classical Dualism framework (Version 9.1), demonstrates how God achieves observer dimension transformation through incarnation, bringing knowledge from higher-dimensional classical worlds into lower-dimensional classical worlds. Jesus, as the perfect human, demonstrates the ideal classicalization path, and His teachings and parables help humans understand the nature of the quantum domain. The concept of the kingdom of God being "within you" reveals the intrinsic nature of quantum-classical conversion, indicating that the classicalization process is not merely an external phenomenon but also a transformation of inner consciousness. The redemption of the cross embodies the quantum-classical mechanism of reducing overall system entropy by orderly bearing entropy increase (sin). 
+The Gospel of Luke, analyzed through the Quantum-Classical Dualism framework (Version 9.2), demonstrates how God achieves observer dimension transformation through incarnation, bringing knowledge from higher-dimensional classical worlds into lower-dimensional classical worlds. Jesus, as the perfect human, demonstrates the ideal classicalization path, and His teachings and parables help humans understand the nature of the quantum domain. The concept of the kingdom of God being "within you" reveals the intrinsic nature of quantum-classical conversion, indicating that the classicalization process is not merely an external phenomenon but also a transformation of inner consciousness. The redemption of the cross embodies the quantum-classical mechanism of reducing overall system entropy by orderly bearing entropy increase (sin). 

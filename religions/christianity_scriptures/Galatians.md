@@ -1,4 +1,4 @@
-# 加拉太书 (Galatians)
+# 加拉太书 (Epistle to the Galatians)
 
 **导航 | Navigation**  
 [中文版](#加拉太书解析) | [English Version](#galatians-analysis)  
@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-加拉太书是新约圣经中的一封使徒保罗书信，约写于公元50年代，主要针对加拉太地区教会中犹太派基督徒坚持遵守摩西律法的观点。保罗在书信中强烈捍卫因信称义的福音，反对将遵守犹太律法作为得救条件的教导，并阐述律法与福音、肉体与圣灵的关系。在量子经典二元论框架（版本9.1）下，加拉太书展示了两种不同经典化路径（律法与恩典）的对比，以及如何通过信心优化观察者的量子经典转换效率。
+加拉太书是新约圣经中的一封使徒保罗书信，约写于公元50年代，主要针对加拉太地区教会中犹太派基督徒坚持遵守摩西律法的观点。保罗在书信中强烈捍卫因信称义的福音，反对将遵守犹太律法作为得救条件的教导，并阐述律法与福音、肉体与圣灵的关系。在量子经典二元论框架（版本9.2）下，加拉太书展示了两种不同经典化路径（律法与恩典）的对比，以及如何通过信心优化观察者的量子经典转换效率。
 
-The Epistle to the Galatians is a letter from the Apostle Paul in the New Testament, written around the 50s CE, primarily addressing the view of Judaizing Christians in the churches of Galatia who insisted on observing Mosaic Law. In this letter, Paul strongly defends the gospel of justification by faith, opposes teaching that makes observance of Jewish law a condition for salvation, and expounds on the relationship between law and gospel, flesh and spirit. Under the Quantum-Classical Dualism framework (Version 9.1), Galatians demonstrates the contrast between two different classicalization paths (law and grace), and how faith optimizes the observer's quantum-classical conversion efficiency.
+The Epistle to the Galatians is a letter in the New Testament written by the Apostle Paul around 50 AD, primarily addressing the view of Jewish Christians in the Galatian churches who insisted on observing the Mosaic Law. Paul strongly defends the gospel of justification by faith, opposes teaching that makes observance of Jewish law a condition for salvation, and explains the relationship between law and gospel, flesh and Spirit. Under the Quantum-Classical Dualism framework (Version 9.2), Galatians demonstrates the contrast between two different classicalization paths (law and grace), and how to optimize the observer's quantum-classical conversion efficiency through faith.
 
 ## 核心经文 (Key Texts)
 
@@ -75,6 +75,6 @@ $$
 
 ## 结论 (Conclusion)
 
-加拉太书通过量子经典二元论框架（版本9.1）的解析，揭示了恩典与律法两种不同经典化路径的根本差异。律法路径企图通过外部规则强制经典化，实质上增加了系统熵值，降低了经典化效率；而恩典路径则通过信心建立与高维观察者（基督）的量子纠缠，实现经典化效率的指数级提升。保罗描述的"肉体与圣灵相争"体现了量子叠加态的内在冲突，而"基督在我里面活"则代表观察者维度的根本转变，从自我中心低维观察转向基督中心高维观察。圣灵的果子（仁爱、喜乐、和平等）作为理想经典化状态的表现，实际上是熵减过程的自然结果。加拉太书的核心主题"因信称义"从量子经典二元论视角看，是一种通过信心优化经典化路径、提升观察者维度的方法论，其效果远超依靠外部规则的经典化尝试。
+加拉太书通过量子经典二元论框架（版本9.2）的解析，揭示了恩典与律法两种不同经典化路径的根本差异。律法路径企图通过外部规则强制经典化，实质上增加了系统熵值，降低了经典化效率；而恩典路径则通过信心建立与高维观察者（基督）的量子纠缠，实现经典化效率的指数级提升。保罗描述的"肉体与圣灵相争"体现了量子叠加态的内在冲突，而"基督在我里面活"则代表观察者维度的根本转变，从自我中心低维观察转向基督中心高维观察。圣灵的果子（仁爱、喜乐、和平等）则展示了最优经典化状态的特征。
 
-The Epistle to the Galatians, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals the fundamental difference between grace and law as two distinct classicalization paths. The law path attempts to force classicalization through external rules, essentially increasing system entropy and reducing classicalization efficiency; while the grace path establishes quantum entanglement with a higher-dimensional observer (Christ) through faith, achieving exponential improvement in classicalization efficiency. Paul's description of "conflict between flesh and Spirit" embodies the internal conflict of quantum superposition states, while "Christ lives in me" represents a fundamental transformation of observer dimension, from self-centered low-dimensional observation to Christ-centered high-dimensional observation. The fruit of the Spirit (love, joy, peace, etc.) as manifestations of the ideal classicalized state, are actually natural results of the entropy reduction process. The core theme of Galatians, "justification by faith," from the perspective of Quantum-Classical Dualism, is a methodology for optimizing classicalization paths and elevating observer dimensions through faith, with effects far superior to classicalization attempts relying on external rules. 
+Galatians, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the fundamental difference between two classicalization paths: grace and law. The law path attempts to force classicalization through external rules, essentially increasing system entropy and reducing classicalization efficiency; while the grace path achieves exponential improvement in classicalization efficiency by establishing quantum entanglement with higher-dimensional observers (Christ) through faith. Paul's description of "the flesh desires what is contrary to the Spirit" embodies the internal conflict of quantum superposition states, while "Christ lives in me" represents a fundamental transformation of observer dimension, from self-centered low-dimensional observation to Christ-centered high-dimensional observation. The fruits of the Spirit (love, joy, peace, etc.) demonstrate the characteristics of optimal classicalization states. 

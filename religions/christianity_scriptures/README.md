@@ -8,9 +8,9 @@ English: [Christian Scriptures List](#基督教经典列表-list-of-christian-sc
 
 ## 基督教经典列表 (List of Christian Scriptures)
 
-本目录包含基督教主要经典的解释，基于量子经典二元论框架（版本9.1）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与基督教教义相融合。
+本目录包含基督教主要经典的解释，基于量子经典二元论框架（版本9.2）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与基督教教义相融合。
 
-This directory contains explanations of major Christian scriptures based on the Quantum-Classical Dualism framework (Version 9.1). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Christian teachings.
+This directory contains explanations of major Christian scriptures based on the Quantum-Classical Dualism framework (Version 9.2). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Christian teachings.
 
 ### 旧约 (Old Testament)
 1. [创世记 (Genesis)](Genesis.md)
@@ -56,3 +56,31 @@ Christian scriptures are traditionally classified into the following categories,
 5. **福音书 (Gospels)** - 展示量子域与经典域双向转换的终极示范
 6. **书信 (Epistles)** - 阐述经典知识在各种情境中的应用
 7. **启示文学 (Apocalyptic)** - 揭示宇宙经典化的终极目标状态 
+
+## 主要经典 (Main Texts)
+
+1. 福音书
+   - 马太福音
+   - 马可福音
+   - 路加福音
+   - 约翰福音
+
+2. 使徒书信
+   - 罗马书
+   - 哥林多前后书
+   - 加拉太书
+
+3. 启示录
+
+## 解释方法 (Interpretation Method)
+
+每个文件都从量子经典二元论的视角解释经文内容，重点关注：
+1. 基督教教义中的量子-经典对应关系
+2. 信仰实践如何优化观察者的经典化效率
+3. 神学理论与现代物理学概念的对应
+
+## 注意事项 (Notes)
+
+- 这些解释尊重基督教传统，同时提供现代科学视角
+- 重点展示基督教教义与量子物理学的深层联系
+- 保持对原文的准确理解和尊重 

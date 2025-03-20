@@ -40,9 +40,9 @@ The Torah (Hebrew: תּוֹרָה‎), also known as the "Five Books of Moses" o
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《托拉》蕴含了对宇宙创造、神的本质和人与神关系的丰富洞见，这些洞见通过量子经典二元论框架（版本9.1）可以获得系统化的科学解读。托拉对神创世和神-人关系的描述与量子-经典结构展现出惊人的对应关系。
+《托拉》蕴含了对宇宙创造、神的本质和人与神关系的丰富洞见，这些洞见通过量子经典二元论框架（版本9.2）可以获得系统化的科学解读。托拉对神创世和神-人关系的描述与量子-经典结构展现出惊人的对应关系。
 
-The Torah contains rich insights into cosmic creation, divine nature, and the relationship between humans and God, which can receive systematic scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). The Torah's descriptions of divine creation and God-human relationship demonstrate remarkable correspondence with quantum-classical structure.
+The Torah contains rich insights into cosmic creation, divine nature, and the relationship between humans and God, which can receive systematic scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). The Torah's descriptions of divine creation and God-human relationship demonstrate remarkable correspondence with quantum-classical structure.
 
 ### 1. "起初，神创造天地"与量子域到经典域的转化
 ### 1. "In the beginning God created the heavens and the earth" and Transformation from Quantum to Classical Domain
@@ -160,6 +160,6 @@ $$
 ## 结论
 ## Conclusion
 
-《托拉》作为犹太教最神圣的经典，其对创世、神的本质和人神关系的描述与量子经典二元论框架（版本9.1）展现出深刻的结构对应。《创世记》的创世叙事可以理解为量子域到经典域的转化过程，神照自己形象造人的描述对应观察者的双重身份特性，而"我是自有永有的"则揭示了量子域的本源特性。《申命记》中"示玛篇"的一神信仰对应量子域的整体性，而爱神的诫命则对应观察者与量子源的最优连接状态。通过量子经典二元论的视角，这部古老经典的深刻智慧获得了现代科学语言的表达，不仅展现了犹太教思想与现代量子物理学之间存在的惊人共鸣，也为宗教与科学的对话提供了新的可能性。
+《托拉》作为犹太教最神圣的经典，其对创世、神的本质和人神关系的描述与量子经典二元论框架（版本9.2）展现出深刻的结构对应。《创世记》的创世叙事可以理解为量子域到经典域的转化过程，神照自己形象造人的描述对应观察者的双重身份特性，而"我是自有永有的"则揭示了量子域的本源特性。《申命记》中"示玛篇"的一神信仰对应量子域的整体性，而爱神的诫命则对应观察者与量子源的最优连接状态。通过量子经典二元论的视角，这部古老经典的深刻智慧获得了现代科学语言的表达，不仅展现了犹太教思想与现代量子物理学之间存在的惊人共鸣，也为宗教与科学的对话提供了新的可能性。
 
-The Torah, as Judaism's most sacred text, demonstrates profound structural correspondence with the Quantum-Classical Dualism framework (version 9.1) in its descriptions of creation, divine nature, and God-human relationship. The creation narrative in Genesis can be understood as the transformation process from quantum to classical domain, the description of God creating humans in His image corresponds to the dual identity characteristic of observers, and "I AM WHO I AM" reveals the essential characteristics of the quantum domain. The monotheistic faith in the "Shema" of Deuteronomy corresponds to the wholeness of the quantum domain, while the commandment to love God corresponds to the optimal connection state between observer and quantum source. Through the perspective of Quantum-Classical Dualism, the profound wisdom of this ancient text receives expression in the language of modern science, not only demonstrating the amazing resonance between Jewish thought and modern quantum physics but also providing new possibilities for dialogue between religion and science. 
+The Torah, as Judaism's most sacred text, demonstrates profound structural correspondence with the Quantum-Classical Dualism framework (version 9.2) in its descriptions of creation, divine nature, and God-human relationship. The creation narrative in Genesis can be understood as the transformation process from quantum to classical domain, the description of God creating humans in His image corresponds to the dual identity characteristic of observers, and "I AM WHO I AM" reveals the essential characteristics of the quantum domain. The monotheistic faith in the "Shema" of Deuteronomy corresponds to the wholeness of the quantum domain, while the commandment to love God corresponds to the optimal connection state between observer and quantum source. Through the perspective of Quantum-Classical Dualism, the profound wisdom of this ancient text receives expression in the language of modern science, not only demonstrating the amazing resonance between Jewish thought and modern quantum physics but also providing new possibilities for dialogue between religion and science. 

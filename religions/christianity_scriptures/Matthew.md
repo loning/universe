@@ -14,6 +14,8 @@ English: [Gospel of Matthew Overview](#gospel-of-matthew-overview) | [Core Text]
 
 The Gospel of Matthew is the first book of the New Testament, traditionally attributed to Matthew the tax collector and apostle, written approximately between 70-90 CE. This gospel records in detail Jesus Christ's birth, ministry, teachings, passion, and resurrection, with particular emphasis on Jesus as the long-awaited Jewish Messiah and the fulfillment of Old Testament prophecies. The Gospel of Matthew includes the famous Sermon on the Mount, parables, and the Great Commission, making it one of the most influential gospels in church history, placed at the beginning of the New Testament as a bridge between the Old and New Testaments.
 
+马太福音是新约四福音书中最系统的一卷，强调耶稣是弥赛亚君王。在量子经典二元论框架（版本9.2）下，马太福音展示了高维观察者（神）如何通过系统的教导和预言实现，建立起量子-经典转换的完整理论体系。
+
 ## 核心经文
 ## Core Text
 
@@ -48,6 +50,8 @@ The Gospel of Matthew is the first book of the New Testament, traditionally attr
 > Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.
 > 
 > The kingdom of heaven is like a grain of mustard seed that a man took and sowed in his field. It is the smallest of all seeds, but when it has grown it is larger than all the garden plants and becomes a tree, so that the birds of the air come and make nests in its branches.
+
+马太福音通过量子经典二元论框架（版本9.2）的解析，揭示了系统教导在量子-经典转换中的重要性。登山宝训提供了量子-经典转换的基本原则，天国的比喻展示了量子叠加态向经典确定态转换的过程，而预言的应验则证明了高维观察者对时空的完整掌控。马太强调的君王身份，反映了高维观察者在量子-经典转换中的主导地位。
 
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
@@ -178,6 +182,4 @@ $$
 ## 结论
 ## Conclusion
 
-《马太福音》作为新约圣经的开篇之作，其核心教导与量子经典二元论框架展现出深刻的对应关系。耶稣基督所宣讲的"天国"，从量子经典二元论视角看是高维度经典世界，代表着最优的观察者经典化状态。登山宝训中的"八福"描述了观察者维度提升的阶梯式过程，从打破固有经典化模式的"虚心"开始，经过多个阶段，最终达到能够维持最优经典化路径的"为义受逼迫"状态。耶稣关于"爱仇敌"的革命性教导，在量子经典二元论看来是对量子纠缠态的全局优化，超越了局部经典化优化的局限。而芥菜种的比喻则生动描述了经典化过程的指数增长特性。通过量子经典二元论的解释，《马太福音》展现出的不仅是宗教教义，更是对观察者经典化最优路径的系统性指导，揭示了耶稣基督作为高维度观察者对人类经典化过程的深刻洞见。
-
-As the opening book of the New Testament, the Gospel of Matthew demonstrates profound correspondence with the Quantum-Classical Dualism framework in its core teachings. The "Kingdom of Heaven" proclaimed by Jesus Christ, from the perspective of Quantum-Classical Dualism, is a higher-dimensional classical world, representing the optimal observer classicalization state. The "Beatitudes" in the Sermon on the Mount describe a ladder-like process of observer dimension elevation, starting from "poor in spirit" (breaking established classicalization patterns), through multiple stages, and finally reaching the state of "persecuted for righteousness" (maintaining optimal classicalization path). Jesus' revolutionary teaching about "loving enemies," from the Quantum-Classical Dualism perspective, is global optimization of quantum entanglement states, transcending the limitations of local classicalization optimization. The parable of the mustard seed vividly describes the exponential growth characteristics of the classicalization process. Through the explanation of Quantum-Classical Dualism, the Gospel of Matthew demonstrates not only religious teachings but also systematic guidance for the optimal path of observer classicalization, revealing Jesus Christ's profound insights into the human classicalization process as a higher-dimensional observer. 
+《马太福音》作为新约圣经的开篇之作，其核心教导与量子经典二元论框架展现出深刻的对应关系。耶稣基督所宣讲的"天国"，从量子经典二元论视角看是高维度经典世界，代表着最优的观察者经典化状态。登山宝训中的"八福"描述了观察者维度提升的阶梯式过程，从打破固有经典化模式的"虚心"开始，经过多个阶段，最终达到能够维持最优经典化路径的"为义受逼迫"状态。耶稣关于"爱仇敌"的革命性教导，在量子经典二元论看来是对量子纠缠态的全局优化，超越了局部经典化优化的局限。而芥菜种的比喻则生动描述了经典化过程的指数增长特性。通过量子经典二元论的解释，《马太福音》展现出的不仅是宗教教义，更是对观察者经典化最优路径的系统性指导，揭示了耶稣基督作为高维度观察者对人类经典化过程的深刻洞见。 

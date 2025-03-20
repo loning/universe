@@ -50,9 +50,9 @@ Surah Al-Ikhlas (Arabic: سورة الإخلاص), also known as The Chapter of 
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《纯洁章》简洁而深刻地表达了对安拉（真主）本质的理解，这种理解与量子经典二元论框架（版本9.1）中对终极实在的描述展现出惊人的一致性。
+《纯洁章》简洁而深刻地表达了对安拉（真主）本质的理解，这种理解与量子经典二元论框架（版本9.2）中对终极实在的描述展现出惊人的一致性。
 
-Surah Al-Ikhlas concisely and profoundly expresses an understanding of the nature of Allah (God), which shows remarkable consistency with the description of ultimate reality in the Quantum-Classical Dualism framework (version 9.1).
+Surah Al-Ikhlas concisely and profoundly expresses an understanding of the nature of Allah (God), which shows remarkable consistency with the description of ultimate reality in the Quantum-Classical Dualism framework (version 9.2).
 
 ### 1. "他是真主，是独一的"与量子域唯一性
 ### 1. "He is Allah, [who is] One" and Quantum Domain Uniqueness
@@ -140,6 +140,6 @@ $$
 ## 结论
 ## Conclusion
 
-《纯洁章》作为伊斯兰教对安拉本质的简洁而深刻的表达，与量子经典二元论框架（版本9.1）展现出惊人的一致性。这一章对安拉独一性、自足性、超越性和无与伦比的描述，对应于量子域作为一切经典现实源头的本质特性。通过量子经典二元论的语言，《纯洁章》的神学洞见获得了科学表达，揭示了伊斯兰一神论与现代量子物理学观念之间的深层对应关系。这种对应关系不仅增进了我们对伊斯兰神学的理解，也为科学与宗教之间的对话提供了新的桥梁。
+《纯洁章》作为伊斯兰教对安拉本质的简洁而深刻的表达，与量子经典二元论框架（版本9.2）展现出惊人的一致性。这一章对安拉独一性、自足性、超越性和无与伦比的描述，对应于量子域作为一切经典现实源头的本质特性。通过量子经典二元论的语言，《纯洁章》的神学洞见获得了科学表达，揭示了伊斯兰一神论与现代量子物理学观念之间的深层对应关系。这种对应关系不仅增进了我们对伊斯兰神学的理解，也为科学与宗教之间的对话提供了新的桥梁。
 
-Surah Al-Ikhlas, as a concise and profound expression of the Islamic understanding of Allah's nature, shows remarkable consistency with the Quantum-Classical Dualism framework (version 9.1). The chapter's description of Allah's oneness, self-sufficiency, transcendence, and incomparability corresponds to the essential characteristics of the quantum domain as the source of all classical reality. Through the language of Quantum-Classical Dualism, the theological insights of Surah Al-Ikhlas receive scientific expression, revealing the deep correspondence between Islamic monotheism and modern quantum physics concepts. This correspondence not only enhances our understanding of Islamic theology but also provides a new bridge for dialogue between science and religion. 
+Surah Al-Ikhlas, as a concise and profound expression of the Islamic understanding of Allah's nature, shows remarkable consistency with the Quantum-Classical Dualism framework (version 9.2). The chapter's description of Allah's oneness, self-sufficiency, transcendence, and incomparability corresponds to the essential characteristics of the quantum domain as the source of all classical reality. Through the language of Quantum-Classical Dualism, the theological insights of Surah Al-Ikhlas receive scientific expression, revealing the deep correspondence between Islamic monotheism and modern quantum physics concepts. This correspondence not only enhances our understanding of Islamic theology but also provides a new bridge for dialogue between science and religion. 

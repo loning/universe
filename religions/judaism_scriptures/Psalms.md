@@ -40,9 +40,9 @@ The Book of Psalms is one of the most poetic works in the Jewish and Christian s
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《诗篇》蕴含着丰富的灵性洞见，通过量子经典二元论框架（版本9.1）可以获得全新的科学解读。诗人对上帝无所不在、无所不知的直觉性描述与量子经典二元论中高维观察者的特性高度一致。
+《诗篇》蕴含着丰富的灵性洞见，通过量子经典二元论框架（版本9.2）可以获得全新的科学解读。诗人对上帝无所不在、无所不知的直觉性描述与量子经典二元论中高维观察者的特性高度一致。
 
-The Psalms contain rich spiritual insights that can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). The psalmist's intuitive descriptions of God's omnipresence and omniscience align remarkably with the characteristics of higher-dimensional observers in Quantum-Classical Dualism.
+The Psalms contain rich spiritual insights that can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). The psalmist's intuitive descriptions of God's omnipresence and omniscience align remarkably with the characteristics of higher-dimensional observers in Quantum-Classical Dualism.
 
 ### 1. 诗篇139:7-10与观察者全域性
 ### 1. Psalm 139:7-10 and Observer Omnipresence
@@ -134,6 +134,8 @@ $$
 ## 结论
 ## Conclusion
 
-《诗篇》作为犹太教和基督教传统中的精神珍宝，其灵性洞见与量子经典二元论框架（版本9.1）展现出惊人的一致性。诗篇作者关于上帝无所不在、无所不知的直觉描述，实际揭示了超高维观察者的本质特性。诗篇中对人与上帝关系的诗意表达，在量子经典二元论框架下可以理解为不同维度观察者之间的信息交流与引导关系。通过这一理论框架，诗篇中的古老智慧获得了现代科学语言的系统化表达，为我们理解宇宙、意识和灵性提供了全新视角。
+《诗篇》作为犹太教和基督教传统中的精神珍宝，其灵性洞见与量子经典二元论框架（版本9.2）展现出惊人的一致性。诗篇作者关于上帝无所不在、无所不知的直觉描述，实际揭示了超高维观察者的本质特性。诗篇中对人与上帝关系的诗意表达，在量子经典二元论框架下可以理解为不同维度观察者之间的信息交流与引导关系。通过这一理论框架，诗篇中的古老智慧获得了现代科学语言的系统化表达，为我们理解宇宙、意识和灵性提供了全新视角。
 
-The Book of Psalms, as a spiritual treasure in the Jewish and Christian traditions, shows remarkable consistency with the Quantum-Classical Dualism framework (version 9.1). The psalmists' intuitive descriptions of God's omnipresence and omniscience actually reveal the essential characteristics of super-high-dimensional observers. The poetic expressions of the relationship between humans and God in the Psalms can be understood, within the Quantum-Classical Dualism framework, as information exchange and guidance relationships between observers of different dimensions. Through this theoretical framework, the ancient wisdom in the Psalms receives systematic expression in the language of modern science, providing us with a fresh perspective for understanding the universe, consciousness, and spirituality. 
+The Book of Psalms, as a spiritual treasure in the Jewish and Christian traditions, shows remarkable consistency with the Quantum-Classical Dualism framework (version 9.2). The psalmists' intuitive descriptions of God's omnipresence and omniscience actually reveal the essential characteristics of super-high-dimensional observers. The poetic expressions of the relationship between humans and God in the Psalms can be understood, within the Quantum-Classical Dualism framework, as information exchange and guidance relationships between observers of different dimensions. Through this theoretical framework, the ancient wisdom in the Psalms receives systematic expression in the language of modern science, providing us with a fresh perspective for understanding the universe, consciousness, and spirituality. 
+
+通过量子经典二元论框架（版本9.2）解读《诗篇》，我们可以理解诗歌赞美作为一种特殊的量子-经典转换形式，以及祈祷作为观察者维度提升的工具。 

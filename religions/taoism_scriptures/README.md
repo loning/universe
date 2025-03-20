@@ -8,9 +8,9 @@ English: [Taoist Scriptures List](#道教经典列表-list-of-taoist-scriptures)
 
 ## 道教经典列表 (List of Taoist Scriptures)
 
-本目录包含道教主要经典的解释，基于量子经典二元论框架（版本9.1）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与道教哲学相融合。
+本目录包含道教主要经典的解释，基于量子经典二元论框架（版本9.2）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与道教哲学相融合。
 
-This directory contains explanations of major Taoist scriptures based on the Quantum-Classical Dualism framework (Version 9.1). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Taoist philosophy.
+This directory contains explanations of major Taoist scriptures based on the Quantum-Classical Dualism framework (Version 9.2). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Taoist philosophy.
 
 ### 道家哲学经典 (Philosophical Classics)
 1. [道德经 (Tao Te Ching)](Tao_Te_Ching.md)
@@ -49,3 +49,28 @@ Taoist scriptures are traditionally classified into the following categories, ea
 4. **斋醮科仪经典** - 建立高维经典世界与低维经典世界的连接仪式
 5. **尊神经典** - 解释高维经典世界观察者与人类经典世界的互动关系
 6. **戒律经典** - 提供经典化路径优化的行为规范 
+
+## 主要经典 (Main Texts)
+
+1. 道家经典
+   - 道德经
+   - 庄子
+   - 列子
+
+2. 道教经典
+   - 太平经
+   - 黄庭经
+   - 清静经
+
+## 解释方法 (Interpretation Method)
+
+每个文件都从量子经典二元论的视角解释经文内容，重点关注：
+1. 道家思想中的量子-经典对应关系
+2. 修道实践如何优化观察者的经典化效率
+3. 道教理论与现代物理学概念的对应
+
+## 注意事项 (Notes)
+
+- 这些解释尊重道教传统，同时提供现代科学视角
+- 重点展示道家思想与量子物理学的深层联系
+- 保持对原文的准确理解和尊重 

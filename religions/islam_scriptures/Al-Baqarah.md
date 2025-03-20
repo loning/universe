@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-黄牛章（阿拉伯语：سورة البقرة‎）是《古兰经》的第二章，也是最长的一章，包含286节经文。此章因其中讲述摩西命令以色列人宰杀黄牛的故事而得名。在量子经典二元论框架（版本9.1）下，黄牛章揭示了量子域与经典域之间的转换规则，以及观察者如何通过信仰与顺服实现维度提升。
+黄牛章（阿拉伯语：سورة البقرة‎）是《古兰经》的第二章，也是最长的一章，包含286节经文。此章因其中讲述摩西命令以色列人宰杀黄牛的故事而得名。在量子经典二元论框架（版本9.2）下，黄牛章揭示了量子域与经典域之间的转换规则，以及观察者如何通过信仰与顺服实现维度提升。
 
-Al-Baqarah (Arabic: سورة البقرة‎, "The Cow") is the second and longest chapter of the Quran, containing 286 verses. It is named after the story of Moses ordering the Israelites to sacrifice a cow. Under the Quantum-Classical Dualism framework (Version 9.1), Al-Baqarah reveals the conversion rules between the quantum and classical domains, and how observers achieve dimensional elevation through faith and submission.
+Al-Baqarah (Arabic: سورة البقرة‎, "The Cow") is the second and longest chapter of the Quran, containing 286 verses. It is named after the story of Moses ordering the Israelites to sacrifice a cow. Under the Quantum-Classical Dualism framework (Version 9.2), Al-Baqarah reveals the conversion rules between the quantum and classical domains, and how observers achieve dimensional elevation through faith and submission.
 
 ## 核心经文 (Key Texts)
 
@@ -73,6 +73,6 @@ $$
 
 ## 结论 (Conclusion)
 
-黄牛章通过量子经典二元论框架（版本9.1）的解析，揭示了人类作为代理人（哈里发）在宇宙经典化中的独特角色。"信仰幽玄"体现了对量子域本质的认知，而伊斯兰的五功则提供了实现经典化的具体路径。真主教授阿丹万物的名称，象征着授予人类经典化世界的能力。通过顺服真主的命令，信仰者能够提高经典化效率系数，实现观察者维度的提升。黄牛章中的律法和导引不仅仅是宗教规条，更是量子经典转换的优化参数，帮助人类在混沌的量子可能性中找到确定的经典路径。
+黄牛章通过量子经典二元论框架（版本9.2）的解析，揭示了人类作为代理人（哈里发）在宇宙经典化中的独特角色。"信仰幽玄"体现了对量子域本质的认知，而伊斯兰的五功则提供了实现经典化的具体路径。真主教授阿丹万物的名称，象征着授予人类经典化世界的能力。通过顺服真主的命令，信仰者能够提高经典化效率系数，实现观察者维度的提升。黄牛章中的律法和导引不仅仅是宗教规条，更是量子经典转换的优化参数，帮助人类在混沌的量子可能性中找到确定的经典路径。
 
-Al-Baqarah, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals humanity's unique role as vicegerents (khalifah) in the universe's classicalization. "Believing in the unseen" embodies cognition of the quantum domain's nature, while the five pillars of Islam provide specific paths for classicalization. Allah teaching Adam the names of all things symbolizes granting humans the ability to classicalize the world. Through submission to Allah's commands, believers can improve their classicalization efficiency coefficient, achieving observer dimension elevation. The laws and guidance in Al-Baqarah are not merely religious regulations but optimization parameters for quantum-classical conversion, helping humans find determined classical paths in the chaotic quantum possibilities. 
+Al-Baqarah, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals humanity's unique role as vicegerents (khalifah) in the universe's classicalization. "Believing in the unseen" embodies cognition of the quantum domain's nature, while the five pillars of Islam provide specific paths for classicalization. Allah teaching Adam the names of all things symbolizes granting humans the ability to classicalize the world. Through submission to Allah's commands, believers can improve their classicalization efficiency coefficient, achieving observer dimension elevation. The laws and guidance in Al-Baqarah are not merely religious regulations but optimization parameters for quantum-classical conversion, helping humans find determined classical paths in the chaotic quantum possibilities. 

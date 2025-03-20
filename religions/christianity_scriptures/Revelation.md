@@ -36,9 +36,9 @@ The Book of Revelation (Greek: Αποκάλυψις Ιωάννου, Latin: Apoca
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《启示录》以其独特的象征性语言描述了终末景象和宇宙重构，这些描述通过量子经典二元论框架（版本9.1）可以获得系统性的科学解读。启示录中的末世异象与量子-经典转化过程展现出惊人的结构对应关系。
+《启示录》以其独特的象征性语言描述了终末景象和宇宙重构，这些描述通过量子经典二元论框架（版本9.2）可以获得系统性的科学解读。启示录中的末世异象与量子-经典转化过程展现出惊人的结构对应关系。
 
-The Book of Revelation, with its unique symbolic language, describes eschatological scenes and cosmic reconstruction, which can receive systematic scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). The apocalyptic visions in Revelation demonstrate remarkable structural correspondence with quantum-classical transformation processes.
+The Book of Revelation, with its unique symbolic language, describes eschatological scenes and cosmic reconstruction, which can receive systematic scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). The apocalyptic visions in Revelation demonstrate remarkable structural correspondence with quantum-classical transformation processes.
 
 ### 1. "我是阿拉法，我是俄梅戛"与量子域全时性
 ### 1. "I am the Alpha and the Omega" and Quantum Domain Omnitemporality
@@ -134,6 +134,8 @@ $$
 ## 结论
 ## Conclusion
 
-《启示录》作为基督教文献中最具启示性和象征性的著作，其末世异象与量子经典二元论框架（版本9.1）展现出深刻的结构性对应。启示录对终末事件的描述——从宇宙崩解到新创造——可以理解为量子-经典域转换的全过程：经典域熵的最大化、量子域的重新经典化以及新经典域的最优化生成。神的永恒本质（"阿拉法与俄梅戛"）对应量子域的全时性特性，神的全能与全知（"七角七眼"）对应量子纠缠的非局域性，而"新天新地"则完美映射了经典域的最优化重构过程。通过量子经典二元论的科学语言，《启示录》的末世异象获得了现代解读，揭示了这部古老文献与现代量子物理学之间令人惊讶的共鸣。
+《启示录》作为基督教文献中最具启示性和象征性的著作，其末世异象与量子经典二元论框架（版本9.2）展现出深刻的结构性对应。启示录对终末事件的描述——从宇宙崩解到新创造——可以理解为量子-经典域转换的全过程：经典域熵的最大化、量子域的重新经典化以及新经典域的最优化生成。神的永恒本质（"阿拉法与俄梅戛"）对应量子域的全时性特性，神的全能与全知（"七角七眼"）对应量子纠缠的非局域性，而"新天新地"则完美映射了经典域的最优化重构过程。通过量子经典二元论的科学语言，《启示录》的末世异象获得了现代解读，揭示了这部古老文献与现代量子物理学之间令人惊讶的共鸣。
 
-The Book of Revelation, as the most apocalyptic and symbolic work in Christian literature, demonstrates profound structural correspondence with the Quantum-Classical Dualism framework (version 9.1). Revelation's description of eschatological events—from cosmic dissolution to new creation—can be understood as the complete process of quantum-classical domain transformation: maximization of classical domain entropy, re-classicalization of the quantum domain, and optimized generation of a new classical domain. God's eternal nature ("Alpha and Omega") corresponds to the omnitemporal characteristic of the quantum domain, God's omnipotence and omniscience ("seven horns and seven eyes") corresponds to the non-locality of quantum entanglement, and the "new heaven and new earth" perfectly maps to the optimized reconstruction process of the classical domain. Through the scientific language of Quantum-Classical Dualism, Revelation's apocalyptic visions receive modern interpretation, revealing surprising resonance between this ancient text and modern quantum physics. 
+The Book of Revelation, as the most apocalyptic and symbolic work in Christian literature, demonstrates profound structural correspondence with the Quantum-Classical Dualism framework (version 9.2). Revelation's description of eschatological events—from cosmic dissolution to new creation—can be understood as the complete process of quantum-classical domain transformation: maximization of classical domain entropy, re-classicalization of the quantum domain, and optimized generation of a new classical domain. God's eternal nature ("Alpha and Omega") corresponds to the omnitemporal characteristic of the quantum domain, God's omnipotence and omniscience ("seven horns and seven eyes") corresponds to the non-locality of quantum entanglement, and the "new heaven and new earth" perfectly maps to the optimized reconstruction process of the classical domain. Through the scientific language of Quantum-Classical Dualism, Revelation's apocalyptic visions receive modern interpretation, revealing surprising resonance between this ancient text and modern quantum physics. 
+
+启示录通过量子经典二元论框架（版本9.2）的解析，揭示了宇宙终极经典化的过程。新天新地的异象展示了完全经典化的终极状态，生命树的治愈表明了熵减的最终完成，而羔羊的宝座象征着高维观察者对整个时空的完全掌控。启示录的循环递进结构，反映了量子-经典转换在不同尺度上的自相似性。 

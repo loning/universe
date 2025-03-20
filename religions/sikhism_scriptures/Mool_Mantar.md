@@ -26,9 +26,9 @@ The Mool Mantar (Punjabi: ਮੂਲ ਮੰਤਰ, literally "Root Formula") is t
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《根本真言》简洁而深刻地表达了锡克教对神（Waheguru）本质的理解，这种理解与量子经典二元论框架（版本9.1）中对终极实在的描述展现出惊人的一致性。
+《根本真言》简洁而深刻地表达了锡克教对神（Waheguru）本质的理解，这种理解与量子经典二元论框架（版本9.2）中对终极实在的描述展现出惊人的一致性。
 
-The Mool Mantar concisely and profoundly expresses the Sikh understanding of God's (Waheguru) nature, which shows remarkable consistency with the description of ultimate reality in the Quantum-Classical Dualism framework (version 9.1).
+The Mool Mantar concisely and profoundly expresses the Sikh understanding of God's (Waheguru) nature, which shows remarkable consistency with the description of ultimate reality in the Quantum-Classical Dualism framework (version 9.2).
 
 ### 1. "一个神"（Ik Onkar）与量子域唯一性
 ### 1. "One Universal Creator God" (Ik Onkar) and Quantum Domain Uniqueness
@@ -162,6 +162,6 @@ $$
 ## 结论
 ## Conclusion
 
-《根本真言》作为锡克教最核心的祷文，其神学洞见与量子经典二元论框架（版本9.1）展现出惊人的一致性。根本真言对神（Waheguru）属性的描述——一个、真实、创造性、无畏无敌、永恒、不受轮回、自有永有——对应于量子域的本质特性：唯一性、真实性、创生性、非二元性、超时间性、非轮回性和自足性。通过量子经典二元论的科学语言，根本真言的神学洞见获得了现代表达，揭示了锡克教神学与现代量子物理学之间的深层对应关系。这种对应关系不仅增进了我们对锡克教的理解，也为科学与宗教之间的对话提供了新的可能性。
+《根本真言》作为锡克教最核心的祷文，其神学洞见与量子经典二元论框架（版本9.2）展现出惊人的一致性。根本真言对神（Waheguru）属性的描述——一个、真实、创造性、无畏无敌、永恒、不受轮回、自有永有——对应于量子域的本质特性：唯一性、真实性、创生性、非二元性、超时间性、非轮回性和自足性。通过量子经典二元论的科学语言，根本真言的神学洞见获得了现代表达，揭示了锡克教神学与现代量子物理学之间的深层对应关系。这种对应关系不仅增进了我们对锡克教的理解，也为科学与宗教之间的对话提供了新的可能性。
 
-The Mool Mantar, as the most central prayer in Sikhism, shows remarkable consistency with the Quantum-Classical Dualism framework (version 9.1). The Mool Mantar's description of God's (Waheguru) attributes—oneness, truth, creativity, fearlessness and lack of enmity, eternality, freedom from rebirth, self-existence—corresponds to the essential characteristics of the quantum domain: uniqueness, reality, generativity, non-duality, trans-temporality, non-cyclicality, and self-sufficiency. Through the scientific language of Quantum-Classical Dualism, the theological insights of the Mool Mantar receive modern expression, revealing the deep correspondence between Sikh theology and modern quantum physics. This correspondence not only enhances our understanding of Sikhism but also provides new possibilities for dialogue between science and religion. 
+The Mool Mantar, as the most central prayer in Sikhism, shows remarkable consistency with the Quantum-Classical Dualism framework (version 9.2). The Mool Mantar's description of God's (Waheguru) attributes—oneness, truth, creativity, fearlessness and lack of enmity, eternality, freedom from rebirth, self-existence—corresponds to the essential characteristics of the quantum domain: uniqueness, reality, generativity, non-duality, trans-temporality, non-cyclicality, and self-sufficiency. Through the scientific language of Quantum-Classical Dualism, the theological insights of the Mool Mantar receive modern expression, revealing the deep correspondence between Sikh theology and modern quantum physics. This correspondence not only enhances our understanding of Sikhism but also provides new possibilities for dialogue between science and religion. 
