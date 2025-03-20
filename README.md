@@ -215,6 +215,17 @@
 - [可视化概述](./visualizations/README.md) - 量子经典二元论可视化 (Quantum-Classical Dualism Visualizations)
 - [核心概念可视化](./visualizations/core_concepts.md) - 量子经典二元论核心概念可视化 (Quantum-Classical Dualism Core Concepts Visualization)
 
+#### 教育资源 | Education Resources
+- [教育资源概述](./education/README.md) - 量子经典二元论教学与普及资源 (Quantum-Classical Dualism Educational Resources)
+- [初级课程](./education/beginner/) - 面向初学者的量子经典二元论课程 (Beginner Courses)
+- [中级课程](./education/intermediate/) - 面向进阶学习者的量子经典二元论课程 (Intermediate Courses)
+- [高级课程](./education/advanced/) - 面向研究者的量子经典二元论深度课程 (Advanced Courses)
+- [教学指南](./education/teaching/) - 教育者教学资源和指南 (Teaching Guides)
+- [多媒体资源](./education/multimedia/) - 视频、音频和图表等学习资源 (Multimedia Resources)
+- [互动工具](./education/interactive/) - 互动学习工具和应用 (Interactive Tools)
+- [黑洞观察者研究](./education/blackhole/) - 观察者作为黑洞的特性研究 (Black Hole Observer Studies)
+- [虫洞通信研究](./education/wormhole/) - 量子纠缠态虫洞通信研究 (Wormhole Communication Studies)
+
 #### 其他 | Others
 - [更新历史](./update_history.md) - 更新历史 (Update History)
 - [更新计划](./update_plan.md) - 更新计划 (Update Plan)
@@ -553,10 +564,21 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Visualizations Overview](./visualizations/README.md) - Quantum-Classical Dualism Visualizations
 - [Core Concepts Visualization](./visualizations/core_concepts.md) - Quantum-Classical Dualism Core Concepts Visualization
 
-#### Others
-- [Update History](./update_history.md) - Update History
-- [Update Plan](./update_plan.md) - Update Plan
-- [Title List](./titles.md) - Document Title List
+#### 教育资源 | Education Resources
+- [教育资源概述](./education/README.md) - 量子经典二元论教学与普及资源 (Quantum-Classical Dualism Educational Resources)
+- [初级课程](./education/beginner/) - 面向初学者的量子经典二元论课程 (Beginner Courses)
+- [中级课程](./education/intermediate/) - 面向进阶学习者的量子经典二元论课程 (Intermediate Courses)
+- [高级课程](./education/advanced/) - 面向研究者的量子经典二元论深度课程 (Advanced Courses)
+- [教学指南](./education/teaching/) - 教育者教学资源和指南 (Teaching Guides)
+- [多媒体资源](./education/multimedia/) - 视频、音频和图表等学习资源 (Multimedia Resources)
+- [互动工具](./education/interactive/) - 互动学习工具和应用 (Interactive Tools)
+- [黑洞观察者研究](./education/blackhole/) - 观察者作为黑洞的特性研究 (Black Hole Observer Studies)
+- [虫洞通信研究](./education/wormhole/) - 量子纠缠态虫洞通信研究 (Wormhole Communication Studies)
+
+#### 其他 | Others
+- [更新历史](./update_history.md) - 更新历史 (Update History)
+- [更新计划](./update_plan.md) - 更新计划 (Update Plan)
+- [标题列表](./titles.md) - 文件标题列表
 
 ### Introduction to Core Concepts
 
