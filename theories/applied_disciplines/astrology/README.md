@@ -1,4 +1,4 @@
-# 占星学量子经典二元论分析 | Astrology Quantum-Classical Dualism Analysis (版本 7.3)
+# 占星学量子经典二元论分析 | Astrology Quantum-Classical Dualism Analysis (版本 9.2)
 
 **导航链接：**
 - [中文版](#量子经典二元论视角下的占星学分析)
