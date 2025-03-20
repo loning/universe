@@ -39,7 +39,7 @@ $$
 \Psi_{\text{universe}} = \sum_{i,j} c_{ij} |o_i\rangle_O \otimes |s_j\rangle_S,
 $$
 
-其中 $|o_i\rangle_O$ 是观测者的状态基矢，$|s_j\rangle_S$ 是被观测系统的状态基矢， $c_{ij}$ 是概率幅。
+其中 $|o_i\rangle_O$ 是观测者的状态基矢， $|s_j\rangle_S$ 是被观测系统的状态基矢， $c_{ij}$ 是概率幅。
 
 观测过程使系统发生纠缠，例如初始态：
 
@@ -58,7 +58,7 @@ $$
 经典宇宙的表观状态可通过对观测者或系统的部分迹操作获得，例如：
 
 $$
-\rho_S = \text{Tr}_O \left( |\Psi_{\text{universe}}\rangle\langle\Psi_{\text{universe}}| \right),
+\rho_S = \text{Tr}_O \left( |\Psi_{\text{universe}}\rangle\langle\Psi_{\text{universe}}| \right)
 $$
 
 其中 $\rho_S$ 是被观测系统的密度矩阵。
