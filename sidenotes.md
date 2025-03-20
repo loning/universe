@@ -25,7 +25,7 @@ $$
 \Psi_{\text{universe}} \in \mathcal{H}_{\text{universe}}.
 $$
 
-将宇宙系统区分为观测者（记为 \(O\)）和被观测者（记为 \(S\)），其希尔伯特空间可分解为张量积：
+将宇宙系统区分为观测者（记为 $O$）和被观测者（记为 $S$），其希尔伯特空间可分解为张量积：
 
 $$
 \mathcal{H}_{\text{universe}} = \mathcal{H}_O \otimes \mathcal{H}_S,
@@ -39,7 +39,7 @@ $$
 \Psi_{\text{universe}} = \sum_{i,j} c_{ij} |o_i\rangle_O \otimes |s_j\rangle_S,
 $$
 
-其中 $|o_i\rangle_O$ 是观测者的状态基矢，$|s_j\rangle_S$ 是被观测系统的状态基矢，$c_{ij}$ 是概率幅。
+其中 $|o_i\rangle_O$ 是观测者的状态基矢，$|s_j\rangle_S$ 是被观测系统的状态基矢， $c_{ij}$ 是概率幅。
 
 观测过程使系统发生纠缠，例如初始态：
 
