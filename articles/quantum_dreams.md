@@ -1,5 +1,7 @@
 # 【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现
-# [Shocking Truth] Dreams Aren't Illusions, But Your Visits to Parallel Universes! Breakthrough Discoveries in Quantum Dream Theory
+（版本9.2）
+# [ASTONISHING TRUTH] Dreams Are Not Illusions, But Your Visits to Parallel Universes! Breakthrough Discoveries in Quantum Dream Theory
+(Version 9.2)
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  

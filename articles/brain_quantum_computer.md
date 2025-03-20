@@ -1,5 +1,7 @@
 # 【颠覆认知】你的大脑其实是宇宙最强大的量子计算机！科学家揭示惊人真相
+（版本9.2）
 # [Mind-Blowing] Your Brain is Actually the Universe's Most Powerful Quantum Computer! Scientists Reveal Shocking Truth
+(Version 9.2)
 
 **导航 | Navigation**  
 [中文版](#引言你的大脑比你想象的更神奇) | [English Version](#introduction-your-brain-is-more-amazing-than-you-think)  

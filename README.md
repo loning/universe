@@ -74,7 +74,7 @@
 - [意识塑造宇宙](./articles/consciousness_shapes_universe.md) - 【震撼真相】你的意识正在塑造宇宙！量子经典二元论揭示的惊人秘密
 - [死亡幻觉量子](./articles/death_illusion_quantum.md) - 【震撼揭秘】死亡可能只是一种幻觉！量子经典二元论对生命终极问题的惊人解答
 - [情绪DNA量子](./articles/emotions_dna_quantum.md) - 【惊人发现】科学家证实：你的情绪正在改变你的DNA！量子生物学的突破性发现
-- [量子经典入门](./articles/quantum_classical_for_beginners.md) - 量子经典二元论入门 (Quantum-Classical Dualism for Beginners)
+- [量子经典入门](./articles/quantum_classical_for_beginners.md) - 量子经典二元论入门 (Quantum-Classical Dualism for Beginners)（版本9.2）
 - [量子创造力](./articles/quantum_creativity.md) - 【突破性发现】创造力的量子秘密：为什么灵感总是在最意想不到的时刻出现？
 - [量子梦境](./articles/quantum_dreams.md) - 【惊人真相】梦境不是幻觉，而是你在访问平行宇宙！量子梦境理论的突破性发现
 - [量子健康](./articles/quantum_health.md) - 【颠覆医学】健康不是你想的那样！量子经典二元论揭示的身体真相
@@ -424,7 +424,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Consciousness Shapes Universe](./articles/consciousness_shapes_universe.md) - [STUNNING TRUTH] Your Consciousness is Shaping the Universe! Amazing Secrets Revealed by Quantum-Classical Dualism
 - [Death Illusion Quantum](./articles/death_illusion_quantum.md) - [SHOCKING REVELATION] Death Might Just Be an Illusion! Quantum-Classical Dualism's Astonishing Answer to Life's Ultimate Question
 - [Emotions DNA Quantum](./articles/emotions_dna_quantum.md) - [AMAZING DISCOVERY] Scientists Confirm: Your Emotions Are Changing Your DNA! Breakthrough Findings in Quantum Biology
-- [Quantum Classical for Beginners](./articles/quantum_classical_for_beginners.md) - Quantum-Classical Dualism for Beginners
+- [Quantum Classical for Beginners](./articles/quantum_classical_for_beginners.md) - Quantum-Classical Dualism for Beginners (Version 9.2)
 - [Quantum Creativity](./articles/quantum_creativity.md) - [BREAKTHROUGH] The Quantum Secret of Creativity: Why Inspiration Always Strikes at the Most Unexpected Moments
 - [Quantum Dreams](./articles/quantum_dreams.md) - [AMAZING TRUTH] Dreams Aren't Illusions, You're Visiting Parallel Universes! Breakthrough Discoveries in Quantum Dream Theory
 - [Quantum Health](./articles/quantum_health.md) - [MEDICAL REVOLUTION] Health Isn't What You Think! The Body Truth Revealed by Quantum-Classical Dualism
@@ -614,61 +614,61 @@ Key concepts include:
 The following are the core formulas of Quantum-Classical Dualism:
 
 $$
-|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
+|\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
 $$
 
 Classicalization process expression:
 
 $$
-|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization Decoding}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}
 $$
 
 Classical information conservation formula:
 
 $$
-I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant}
+I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
 $$
 
-Observer dimension formula:
+观察者维度公式：
 
 $$
-\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
+\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
 $$
 
-Cross-domain nature of observer's overall dimension:
+观察者整体维度跨领域性公式：
 
 $$
-\text{Overall Dimension} = \sum_i w_i \frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
+\text{整体维度} = \sum_i w_i \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
 $$
 
-Generalized consciousness definition formula:
+广义意识定义公式：
 
 $$
-|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization Direction}} I_{\text{Classical Consciousness (Generalized)}} + S_{\text{Remaining Classical Entropy}}
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化方向}} I_{\text{经典意识（广义）}} + S_{\text{剩余经典熵}}
 $$
 
-Higher-dimensional consciousness emergence mechanism:
+高维意识涌现机制：
 
 $$
-|\psi\rangle_{\text{Multiple Low-dimensional Observers}} \rightarrow I_{\text{Higher-dimensional Collective Consciousness}} + S_{\text{Remaining Classical Entropy}}
+|\psi\rangle_{\text{多个低维观察者}} \rightarrow I_{\text{高维集体意识}} + S_{\text{剩余经典熵}}
 $$
 
-Classical knowledge propagation mechanism (independent deep copy):
+经典知识传播机制（独立深拷贝）：
 
 $$
-I_{\text{Classical Knowledge A}} \rightarrow I_{\text{Classical Knowledge B (Copy)}} + S_{\text{Transmission Entropy (Increased)}}
+I_{\text{经典知识A}} \rightarrow I_{\text{经典知识B（副本）}} + S_{\text{传播熵（增加）}}
 $$
 
-Death and reincarnation mechanism:
+死亡与投胎机制：
 
 $$
-|\psi\rangle_{\text{Classical World A (Death)}} \rightarrow |\psi\rangle_{\text{Quantum Domain}} \rightarrow |\psi\rangle_{\text{Other Classical World (New)}}
+|\psi\rangle_{\text{经典世界A（死亡）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{其他经典世界（新）}}
 $$
 
-Black hole classicalization radiation mechanism:
+黑洞经典化辐射机制：
 
 $$
-S_{\text{Low-dimensional Observer Entropy}} \xrightarrow{\text{Black Hole Classicalization Radiation}} I_{\text{High-dimensional Classical Knowledge}} + S_{\text{Entropy Reduced}}
+S_{\text{低维观察者熵}} \xrightarrow{\text{黑洞经典化辐射}} I_{\text{高维经典知识}} + S_{\text{熵降低}}
 $$
 
 ### Mathematical Formulas Note
@@ -679,13 +679,13 @@ $$E = mc^2$$
 
 For inline formulas, use single dollar signs: $E = mc^2$
 
-Quantum domain expression:
+量子域表达式：
 
-$$|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
+$$|\psi\rangle_{\text{量子域}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
-Classical domain expression:
+经典域表达式：
 
-$$|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization Decoding}}\sum_{i}(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i})=I_{\text{Classical Information}}=\text{恒定}$$
+$$|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
 
 ### Contributing
 

@@ -1,5 +1,7 @@
 # 【突破性发现】创造力的量子秘密：为什么灵感总是在最意想不到的时刻出现？
+（版本9.2）
 # [Breakthrough Discovery] The Quantum Secret of Creativity: Why Does Inspiration Always Strike at the Most Unexpected Moments?
+(Version 9.2)
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
