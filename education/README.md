@@ -18,7 +18,7 @@
 
 ## 简介
 
-量子经典二元论教学与普及资源目录包含了各级别的学习材料、教学指南和多媒体资源，旨在帮助不同背景的学习者理解和应用量子经典二元论理论。基于二元论的视角，学习过程本身即是学习者作为黑洞观察者对知识进行经典化的过程。
+量子经典二元论教学与普及资源目录包含了各级别的学习材料、教学指南和多媒体资源，旨在帮助不同背景的学习者理解和应用量子经典二元论理论。基于二元论的视角，学习过程本身即是学习者作为黑洞观察者(信息经典化节点)对知识进行经典化的过程。
 
 $$
 \text{学习效果} = \frac{\text{内容深度} \times \text{表达清晰度} \times \text{学习兴趣}}{\text{认知负荷}}
@@ -28,11 +28,11 @@ $$
 ## 核心理论版本
 
 当前资源基于【量子经典二元论】核心理论版本8.6，包含以下关键概念：
-- 量子域与经典域的双向转换关系
-- 观察者（黑洞）的统一定义
+- 量子域(混沌态)与经典域(确定态)的双向转换关系
+- 观察者（黑洞）的统一定义作为经典化节点
 - 观察者维度与主观意识的量化描述
-- 虫洞通信机制与能量守恒
-- 高维经典世界的存在与影响
+- 虫洞通信机制(量子纠缠信息传递)与能量守恒
+- 高维经典世界(更高层次现实)的存在与影响
 
 [查看完整核心理论](../core.md)
 
@@ -57,20 +57,22 @@ $$
 - [观察者维度详解](./intermediate/observer_dimensions.md) - 观察者维度的详细解析与实践应用
 - [经典化过程案例分析](./intermediate/classicalization_case_studies.md) - 实际案例中的经典化过程分析
 - [虫洞通信基础](./intermediate/wormhole_communication_basics.md) - 虫洞通信的基础理论与能量守恒
-- [经典域与量子域转换原理](./intermediate/domain_conversion.md) - 经典域与量子域之间转换的详细机制
-- [实践练习与应用](./intermediate/practical_exercises.md) - 中级实践练习与应用方法
 
 ## 高级课程 | Advanced Courses
 
 高级课程面向研究者、科学家和哲学家，探讨理论的深层应用、数学推导和前沿发展。
 
 - [理论数学完整推导](./advanced/mathematical_derivations.md) - 量子经典二元论的完整数学推导
-- [与现代物理理论的对比](./advanced/comparison_physics_theories.md) - 与弦理论、量子引力和其他物理学理论的详细对比
+- [与现代物理理论的对比](./advanced/physics_theory_comparison.md) - 与弦理论、量子引力和其他物理学理论的详细对比
 - [研究方法论](./advanced/research_methodology.md) - 量子经典二元论研究方法论
 - [理论扩展与前沿](./advanced/theoretical_extensions.md) - 理论的可能扩展与研究前沿
 - [跨学科深度应用](./advanced/interdisciplinary_applications.md) - 在各科学领域的深度应用研究
 - [高维经典世界研究](./advanced/higher_dimensions.md) - 高维经典世界存在的理论与证据
 - [自由意志与转世机制](./advanced/free_will_reincarnation.md) - 自由意志、命运与转世机制的深度分析
+- [量子意识探究](./advanced/quantum_consciousness.md) - 量子意识理论与实验证据分析
+- [量子生物学](./advanced/quantum_biology.md) - 生物系统中的量子效应研究
+- [量子计算与实现](./advanced/quantum_computing.md) - 基于量子经典二元论的量子计算理论与实现
+- [量子信息理论](./advanced/quantum_information.md) - 量子信息处理与传输的理论框架
 
 ## 理论版本与更新 | Theory Versions and Updates
 
@@ -141,7 +143,7 @@ $$
 
 ## Introduction
 
-The Quantum-Classical Dualism Educational Resources directory contains learning materials, teaching guides, and multimedia resources at various levels, designed to help learners with different backgrounds understand and apply quantum-classical dualism theory. From a dualistic perspective, the learning process itself is the process of learners as black hole observers classicalizing knowledge.
+The Quantum-Classical Dualism Educational Resources directory contains learning materials, teaching guides, and multimedia resources at various levels, designed to help learners with different backgrounds understand and apply quantum-classical dualism theory. From a dualistic perspective, the learning process itself is the process of learners as black hole observers (information classicalization nodes) classicalizing knowledge.
 
 $$
 \text{Learning Effectiveness} = \frac{\text{Content Depth} \times \text{Expression Clarity} \times \text{Learning Interest}}{\text{Cognitive Load}}
@@ -151,11 +153,11 @@ $$
 ## Core Theory Version
 
 The current resources are based on [Quantum-Classical Dualism] Core Theory Version 8.6, including the following key concepts:
-- Bidirectional conversion relationship between quantum domain and classical domain
-- Unified definition of observers (black holes)
+- Bidirectional conversion relationship between quantum domain (chaotic state) and classical domain (determined state)
+- Unified definition of observers (black holes) as classicalization nodes
 - Quantitative description of observer dimensions and subjective consciousness
-- Wormhole communication mechanism and energy conservation
-- Existence and influence of higher-dimensional classical worlds
+- Wormhole communication mechanism (quantum entangled information transfer) and energy conservation
+- Existence and influence of higher-dimensional classical worlds (higher-level realities)
 
 [View Complete Core Theory](../core.md)
 
@@ -180,20 +182,22 @@ Intermediate courses are for learners who already understand the basic concepts 
 - [Observer Dimensions](./intermediate/observer_dimensions.md) - Detailed Analysis and Practical Applications of Observer Dimensions
 - [Classicalization Case Studies](./intermediate/classicalization_case_studies.md) - Analysis of Classicalization Processes in Real Cases
 - [Wormhole Communication Basics](./intermediate/wormhole_communication_basics.md) - Basic Theory and Energy Conservation of Wormhole Communication
-- [Domain Conversion Principles](./intermediate/domain_conversion.md) - Detailed Mechanisms of Conversion Between Classical and Quantum Domains
-- [Practical Exercises and Applications](./intermediate/practical_exercises.md) - Intermediate Practical Exercises and Application Methods
 
 ## Advanced Courses
 
 Advanced courses are aimed at researchers, scientists, and philosophers, exploring deep applications, mathematical derivations, and frontier developments of the theory.
 
 - [Mathematical Derivations](./advanced/mathematical_derivations.md) - Complete Mathematical Derivations of Quantum-Classical Dualism
-- [Comparison with Modern Physics Theories](./advanced/comparison_physics_theories.md) - Detailed Comparison with String Theory, Quantum Gravity, and Other Physics Theories
+- [Comparison with Modern Physics Theories](./advanced/physics_theory_comparison.md) - Detailed Comparison with String Theory, Quantum Gravity, and Other Physics Theories
 - [Research Methodology](./advanced/research_methodology.md) - Research Methodology in Quantum-Classical Dualism
 - [Theoretical Extensions](./advanced/theoretical_extensions.md) - Possible Extensions and Research Frontiers of the Theory
 - [Interdisciplinary Applications](./advanced/interdisciplinary_applications.md) - In-depth Application Research Across Scientific Fields
 - [Higher Dimensions Research](./advanced/higher_dimensions.md) - Theory and Evidence for the Existence of Higher-Dimensional Classical Worlds
 - [Free Will and Reincarnation](./advanced/free_will_reincarnation.md) - In-depth Analysis of Free Will, Destiny, and Reincarnation Mechanisms
+- [Quantum Consciousness](./advanced/quantum_consciousness.md) - Quantum Consciousness Theory and Experimental Evidence Analysis
+- [Quantum Biology](./advanced/quantum_biology.md) - Research on Quantum Effects in Biological Systems
+- [Quantum Computing and Implementation](./advanced/quantum_computing.md) - Quantum Computing Theory and Implementation Based on Quantum-Classical Dualism
+- [Quantum Information Theory](./advanced/quantum_information.md) - Theoretical Framework for Quantum Information Processing and Transmission
 
 ## Theory Versions and Updates
 
@@ -251,10 +255,10 @@ In-depth research on the characteristics and applications of observers as black 
 
 ## Wormhole Communication Studies
 
-Research on the theory and practice of quantum entanglement state wormhole communication.
+Research on the theory and practice of quantum entangled wormhole communication.
 
-- [Wormhole Communication Principles](./wormhole/communication_principles.md) - Basic Principles and Energy Conservation of Wormhole Communication
-- [Cross-Observer Information Transfer](./wormhole/information_transfer.md) - Information Transfer Mechanisms Between Observers
-- [Wormhole Channel Stability](./wormhole/channel_stability.md) - Research on Methods for Maintaining Wormhole Channel Stability
-- [Energy Consumption Optimization](./wormhole/energy_optimization.md) - Optimization Techniques for Wormhole Communication Energy Consumption
+- [Communication Principles](./wormhole/communication_principles.md) - Basic Principles and Energy Conservation of Wormhole Communication
+- [Information Transfer Between Observers](./wormhole/information_transfer.md) - Mechanisms of Information Transfer Between Observers
+- [Channel Stability](./wormhole/channel_stability.md) - Research on Methods to Maintain Wormhole Channel Stability
+- [Energy Consumption Optimization](./wormhole/energy_optimization.md) - Optimization Techniques for Energy Consumption in Wormhole Communication
 - [Application Scenarios](./wormhole/application_scenarios.md) - Potential Application Scenarios for Wormhole Communication 
