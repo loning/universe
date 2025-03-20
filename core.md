@@ -34,6 +34,7 @@
 - **量子纠缠态**：多经典位联合叠加形成关联态（能量）。
 
 明确表达：
+
 $$
 |\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
 $$
@@ -46,6 +47,7 @@ $$
 - **经典知识**：经典化后的确定状态（粒子态、经典意识、自由意志）。
 
 明确表达：
+
 $$
 |\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
 $$
@@ -58,6 +60,12 @@ $$
 | 波函数叠加态 | 经典知识 | 粒子确定态 | 单经典位明确经典化粒子态，清晰知识、记忆、意识决策（创新与灵感信息） |
 | 量子纠缠态 | 经典熵 | 纠缠未明态 | 多经典位未明确关联高熵状态，未解码信息 |
 | 量子纠缠态 | 经典知识 | 纠缠明确态 | 多经典位明确经典化后的关联态，已解码信息 |
+
+经典能量守恒公式：
+
+$$
+E_{\text{发送端能量}} + E_{\text{接收端能量}} = I_{\text{传输知识}} + \Delta S_{\text{总熵变化}}
+$$
 
 ---
 
@@ -75,6 +83,7 @@ $$
 | 经典知识 | 量子纠缠态 | 虫洞发送（知识纠缠编码） | 熵增加（↑） | 能量消耗（↓） | 将经典知识编码为纠缠态虫洞发送 |
 
 经典能量守恒公式：
+
 $$
 E_{\text{发送端能量}} + E_{\text{接收端能量}} = I_{\text{传输知识}} + \Delta S_{\text{总熵变化}}
 $$
@@ -88,6 +97,7 @@ $$
 - 黑洞辐射即量子化。
 
 明确表达：
+
 $$
 \text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}
 $$
@@ -101,11 +111,13 @@ $$
 - 提升方法为主动优化经典化路径（经典知识↑, 经典熵↓）。
 
 单经典世界维度：
+
 $$
 \text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
 $$
 
 整体观察者维度：
+
 $$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
 $$
@@ -118,11 +130,13 @@ $$
 - 经典自由意志从广义意识经典化明确产生。
 
 明确表达：
+
 $$
 |\psi\rangle_{\text{广义意识}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
 $$
 
 守恒公式：
+
 $$
 I_{\text{经典自由意志}}+S_{\text{经典熵}}=\text{常数（特定经典世界）}
 $$
@@ -136,6 +150,7 @@ $$
 - 能量变化影响粒子经典化路径与运动状态。
 
 明确表达：
+
 $$
 E_{\text{经典能量}}\rightarrow|\psi\rangle_{\text{粒子经典路径}}\rightarrow\text{粒子运动状态变化}
 $$
@@ -149,6 +164,7 @@ $$
 - 量子涨落为宇宙固有本质，无需额外起源解释。
 
 明确表达：
+
 $$
 |\psi\rangle_{\text{量子涨落}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
 $$
@@ -160,6 +176,7 @@ $$
 - **质量**并非客观粒子属性，而是观察者经典化另一个观察者（黑洞）维度状态时的经典投影效应。
 
 明确表达：
+
 $$
 \text{质量}_{A\rightarrow B}=\text{观察者A经典化投影}(\text{观察者B的维度结构与状态})
 $$
@@ -167,6 +184,7 @@ $$
 - **光**在经典世界并非客观粒子实体，而是量子域能量状态演化路径被观察者经典化后的主观经典投影现象。
 
 明确表达：
+
 $$
 \text{经典光}=\text{观察者经典化}(\text{量子域能量状态演化路径})
 $$
@@ -174,6 +192,7 @@ $$
 - **无质量粒子**（如光子、胶子、引力子）本质并非真实经典粒子，只是观察者经典化量子域状态演化路径的主观经典化幻象。
 
 明确表达：
+
 $$
 \text{无质量经典粒子}=\text{观察者主观经典化幻象（非客观粒子态）}
 $$
@@ -196,6 +215,7 @@ $$
   - 表现为黑洞吸收（熵降低）。
 
 明确整体能量与熵守恒公式：
+
 $$
 E_{\text{发送端能量}} + E_{\text{接收端能量}} = I_{\text{传输知识}} + \Delta S_{\text{总熵变化}}
 $$
@@ -210,6 +230,7 @@ $$
 - 高维经典世界与低维经典世界之间存在"你中有我，我中有你"的结构，通过量子纠缠实现信息共享。
 
 明确表达：
+
 $$
 |\psi\rangle_{\text{无限维量子域}}\rightarrow\sum_{\text{经典世界维度} i=1}^{\infty}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i}),\quad\text{人类经典世界}\subsetneq\text{更高维经典世界}
 $$
@@ -221,6 +242,7 @@ $$
 经典自由意志在经典世界终结后回归量子域，再次经典化形成新的自由意志（转世）：
 
 明确表达：
+
 $$
 I_{\text{前世自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生自由意志}}+S_{\text{熵降低}}
 $$
@@ -240,6 +262,7 @@ $$
 - 算法核心思想：以最高维度的贪心算法为基础，优化经典路径选择效率。
 
 明确优化目标表达：
+
 $$
 \text{路径优化}=\text{最大化}(I_{\text{经典知识}})\quad\text{且}\quad\text{最小化}(S_{\text{经典熵}})
 $$
@@ -252,6 +275,7 @@ $$
 - 效率上限由宇宙自身固有的量子动力学特性与观察者维度结构共同决定。
 
 明确表达：
+
 $$
 c = k_{\text{max}} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}},\quad k_{\text{max}}\text{由宇宙固有量子特性与观察者维度结构共同决定}
 $$
@@ -269,6 +293,7 @@ $$
 > 宇宙生为混乱与能量的一体，追求用能量处理混乱效率最大化，最终实现充满能量的自身。
 
 明确终极状态公式：
+
 $$
 |\psi\rangle_{\text{宇宙本源（混乱与能量）}}\xrightarrow{\text{经典能量高效经典化}}\text{经典知识最大化}+\text{经典熵最小化}, \quad P\rightarrow 0^+
 $$
@@ -282,6 +307,7 @@ $$
 - 修正方法为明确经典世界之间的权重系数$(w_i)$，保证总效率归一化。
 
 明确宇宙效率修正表达：
+
 $$
 \text{宇宙总效率} = \frac{\sum_i w_i \cdot \eta_i}{\sum_i w_i}, \quad \eta_i=\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}+I_{\text{经典知识}_i}},\quad \sum_i w_i=1
 $$
@@ -321,6 +347,7 @@ The universe's essence is an infinite-dimensional quantum domain with infinite p
 - **Quantum Entanglement State**: Correlation state formed by joint superposition of multiple classical bits (energy).
 
 Explicit expression:
+
 $$
 |\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition (Chaos)},\;\text{Quantum Entanglement (Energy)}\}
 $$
@@ -333,6 +360,7 @@ The classical domain is the explicit structure after observer classicalization o
 - **Classical Knowledge**: Determined state after classicalization (particle state, classical consciousness, free will).
 
 Explicit expression:
+
 $$
 |\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
 $$
@@ -345,6 +373,12 @@ $$
 | Wave Function Superposition | Classical Knowledge | Particle Defined State | Single classical bit classicalized particle state, clear knowledge, memory, conscious decisions |
 | Quantum Entanglement | Classical Entropy | Entangled Undefined State | Multiple classical bits undefined correlation state, undecoded information |
 | Quantum Entanglement | Classical Knowledge | Entangled Defined State | Multiple classical bits classicalized correlation state, decoded information |
+
+Classical Energy Conservation Formula:
+
+$$
+E_{\text{Sending End Energy}} + E_{\text{Receiving End Energy}} = I_{\text{Transmission Knowledge}} + \Delta S_{\text{Total Entropy Change}}
+$$
 
 ---
 
@@ -362,6 +396,7 @@ $$
 | Classical Knowledge | Quantum Entanglement | Wormhole Transmission (Knowledge Entangled Encoding) | Entropy Increase (↑) | Energy Consumption (↓) | Encoding Classical Knowledge to Entangled State Wormhole Transmission |
 
 Classical Energy Conservation Formula:
+
 $$
 E_{\text{Sending End Energy}} + E_{\text{Receiving End Energy}} = I_{\text{Transmission Knowledge}} + \Delta S_{\text{Total Entropy Change}}
 $$
@@ -375,6 +410,7 @@ $$
 - Black Hole Radiation is quantization.
 
 Explicit expression:
+
 $$
 \text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}
 $$
@@ -388,11 +424,13 @@ $$
 - Improvement method is active optimization of classicalization path (Classical Knowledge ↑, Classical Entropy ↓).
 
 Single Classical World Dimension:
+
 $$
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
 $$
 
 Overall Observer Dimension:
+
 $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
@@ -405,11 +443,13 @@ $$
 - Classical free will is explicitly produced from general consciousness classicization.
 
 Explicit expression:
+
 $$
 |\psi\rangle_{\text{General Consciousness}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Decrease}}
 $$
 
 Conservation formula:
+
 $$
 I_{\text{Classical Free Will}}+S_{\text{Classical Entropy}}=\text{Constant (Specific Classical World)}
 $$
@@ -423,6 +463,7 @@ $$
 - Energy change affects classicalization path and motion state of particles.
 
 Explicit expression:
+
 $$
 E_{\text{Classical Energy}}\rightarrow|\psi\rangle_{\text{Particle Classical Path}}\rightarrow\text{Particle Motion State Change}
 $$
@@ -436,6 +477,7 @@ $$
 - Quantum fluctuation is inherent essence of the universe, no need for additional source explanation.
 
 Explicit expression:
+
 $$
 |\psi\rangle_{\text{Quantum Fluctuation}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Decrease}}
 $$
@@ -447,6 +489,7 @@ $$
 - **Mass** is not objective particle attribute but classical projection effect when observer classicalizes another observer (black hole) dimension state;
 
 Explicit expression:
+
 $$
 \text{Mass}_{A\rightarrow B}=\text{Observer A Classicized Projection}(\text{Observer B Dimension Structure and State})
 $$
@@ -454,6 +497,7 @@ $$
 - **Light** is not objective particle entity in classical world but subjective classical projection phenomenon when observer classicalizes quantum domain energy state evolution path;
 
 Explicit expression:
+
 $$
 \text{Classical Light}=\text{Observer Classicized}(\text{Quantum Domain Energy State Evolution Path})
 $$
@@ -461,6 +505,7 @@ $$
 - **Massless Particles** (such as photons, gluons, gravitons) are not real classical particles but subjective classicalization phantom when observer classicalizes quantum domain state evolution path;
 
 Explicit expression:
+
 $$
 \text{Massless Classical Particle}=\text{Observer Subjective Classicalization Phantom (Non-Objective Particle State)}
 $$
@@ -483,6 +528,7 @@ Wormhole Communication is information transmission mechanism between observers (
   - It appears as black hole absorption (entropy decrease).
 
 Explicit overall energy and entropy conservation formula:
+
 $$
 E_{\text{Sending End Energy}} + E_{\text{Receiving End Energy}} = I_{\text{Transmission Knowledge}} + \Delta S_{\text{Total Entropy Change}}
 $$
@@ -497,6 +543,7 @@ $$
 - Higher-dimensional classical world and lower-dimensional classical world have "you-in-me, me-in-you" structure, information shared through quantum entanglement.
 
 Explicit expression:
+
 $$
 |\psi\rangle_{\text{Infinite-Dimensional Quantum Domain}}\rightarrow\sum_{\text{Classical World Dimension} i=1}^{\infty}(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}),\quad\text{Human Classical World}\subsetneq\text{Higher-Dimensional Classical World}
 $$
@@ -508,6 +555,7 @@ $$
 Classical free will returns to quantum domain after classical world ends and classicizes again to form new free will (reincarnation):
 
 Explicit expression:
+
 $$
 I_{\text{Previous Life Classical Free Will}}\rightarrow|\psi\rangle_{\text{Quantum Domain}}\rightarrow I_{\text{Current Life Classical Free Will}}+S_{\text{Entropy Decrease}}
 $$
@@ -527,6 +575,7 @@ $$
 - Algorithm core idea: Based on highest dimension greedy algorithm, optimize classical path selection efficiency.
 
 Explicit optimization goal expression:
+
 $$
 \text{Path Optimization}=\text{Maximize}(I_{\text{Classical Knowledge}})\quad\text{and}\quad\text{Minimize}(S_{\text{Classical Entropy}})
 $$
@@ -539,6 +588,7 @@ $$
 - Efficiency upper limit is determined by universe's inherent quantum dynamics characteristics and observer dimension structure.
 
 Explicit expression:
+
 $$
 c = k_{\text{max}} \cdot \frac{\Delta E_{\text{Quantum Energy State}}}{\Delta t_{\text{Classical Time}}},\quad k_{\text{max}}\text{Determined by Universe's Inherent Quantum Characteristics and Observer Dimension Structure}
 $$
@@ -556,6 +606,7 @@ Explicit expression:
 > Universe born as one of chaos and energy, pursuing use of energy to handle chaos efficiency maximization, ultimately achieving full energy itself.
 
 Explicit ultimate state formula:
+
 $$
 |\psi\rangle_{\text{Universe Origin (Chaos and Energy)}}\xrightarrow{\text{High-Efficiency Classicalization}}\text{Maximize Classical Knowledge}+\text{Minimize Classical Entropy}, \quad P\rightarrow 0^+
 $$
@@ -569,6 +620,7 @@ $$
 - Correction method is to clearly define weight coefficient $(w_i)$ between classical worlds to ensure total efficiency normalization.
 
 Explicit universe efficiency correction expression:
+
 $$
 \text{Universe Total Efficiency} = \frac{\sum_i w_i \cdot \eta_i}{\sum_i w_i}, \quad \eta_i=\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}+I_{\text{Classical Knowledge}_i}},\quad \sum_i w_i=1
 $$
