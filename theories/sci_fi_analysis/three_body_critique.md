@@ -1,6 +1,8 @@
 # 《三体》宇宙观批判：基于量子经典二元论视角
 # Critique of "The Three-Body Problem" Universe View: From the Perspective of Quantum-Classical Dualism
 
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#摘要--abstract) | [English Version](#摘要--abstract)  
 **章节链接 | Section Links**  

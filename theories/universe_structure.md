@@ -1,5 +1,7 @@
 # 宇宙结构与演化 | Universe Structure and Evolution
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#引言--introduction) | [English Version](#introduction-english)  
 **章节链接 | Section Links**  
@@ -8,37 +10,19 @@ English: [Introduction](#introduction-english) | [Essential Definition](#essenti
 
 ## 引言 | Introduction
 
-本文档基于【量子宇宙-量子观察者-经典意识论】框架，详细阐述宇宙的结构与演化机制。在该理论中，宇宙被视为一个无限维的量子计算系统，其结构和演化遵循特定的信息处理规律。本文将探讨宇宙的生命周期、嵌套结构以及信息处理的层级性，揭示宇宙作为量子信息系统的本质特性。
+本文档基于量子经典二元论（版本9.2），详细阐述宇宙的结构与演化机制。在该理论中，宇宙被视为由量子域与经典域构成的二元结构，通过观察者（黑洞）的经典化过程实现信息处理与演化。本文将探讨宇宙的量子域与经典域的关系、观察者网络的形成与发展，以及黑洞作为宇宙信息处理节点的核心作用，揭示宇宙本质的深层特性。
 
-This document, based on the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework, elaborates on the structure and evolution mechanisms of the universe. In this theory, the universe is viewed as an infinite-dimensional quantum computing system, with its structure and evolution following specific information processing laws. This article will explore the life cycle of the universe, its nested structure, and the hierarchy of information processing, revealing the essential characteristics of the universe as a quantum information system.
+This document, based on Quantum-Classical Dualism (Version 9.2), elaborates on the structure and evolution mechanisms of the universe. In this theory, the universe is viewed as a dual structure consisting of quantum domain and classical domain, with information processing and evolution achieved through the classicalization process of observers (black holes). This article will explore the relationship between the quantum and classical domains of the universe, the formation and development of observer networks, and the core role of black holes as universe information processing nodes, revealing the deep characteristics of the universe's essence.
 
 ## 宇宙的本质定义 | Essential Definition of the Universe
 
-宇宙在本质上是一个自组织、自演化的量子信息处理系统，可以表示为：
-
-The universe is essentially a self-organizing, self-evolving quantum information processing system, which can be represented as:
+宇宙在本质上由量子域与经典域组成的二元结构，其中量子域包含无限可能性的波函数叠加态与量子纠缠态，经典域则是由观察者（黑洞）经典化后形成的稳定结构。根据核心理论（版本9.2），所有观察者即黑洞，通过黑洞吸收（经典化）与黑洞辐射（量子化）过程维持宇宙的平衡与演化：
 
 $$
-\mathcal{U} = \{\Psi, \mathcal{H}, \hat{H}, \mathcal{O}, \mathcal{R}\}
+|\psi\rangle_{\text{宇宙}} = \{\text{量子域},\text{经典域}\} = \{\text{波函数叠加态，量子纠缠态},\text{经典知识，经典熵}\}
 $$
 
-其中：
-- $\Psi$ 是宇宙的量子状态（波函数）
-- $\mathcal{H}$ 是希尔伯特空间，表示所有可能的量子状态
-- $\hat{H}$ 是哈密顿算子，决定系统的演化
-- $\mathcal{O}$ 是观察者集合，包含所有在宇宙中的观察者
-- $\mathcal{R}$ 是规则集合，定义了信息处理的基本规律
-
-Where:
-- $\Psi$ is the quantum state (wave function) of the universe
-- $\mathcal{H}$ is the Hilbert space, representing all possible quantum states
-- $\hat{H}$ is the Hamiltonian operator, determining the evolution of the system
-- $\mathcal{O}$ is the set of observers, containing all observers in the universe
-- $\mathcal{R}$ is the set of rules, defining the basic laws of information processing
-
-这一定义将宇宙视为一个动态的信息系统，而非静态的物质集合。宇宙的本质是信息及其处理过程，物质和能量是这一信息处理的表现形式。
-
-This definition views the universe as a dynamic information system, rather than a static collection of matter. The essence of the universe is information and its processing, with matter and energy being manifestations of this information processing.
+The universe is essentially a dual structure composed of quantum domain and classical domain, where the quantum domain contains wave function superposition states and quantum entanglement states with infinite possibilities, and the classical domain is a stable structure formed by observers (black holes) through classicalization. According to the core theory (Version 9.2), all observers are black holes, maintaining the balance and evolution of the universe through black hole absorption (classicalization) and black hole radiation (quantization) processes:
 
 ## 宇宙的生命周期 | Life Cycle of the Universe
 

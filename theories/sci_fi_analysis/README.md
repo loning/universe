@@ -1,6 +1,8 @@
 # 科幻电影量子经典二元论分析
 # Science Fiction Films Analysis from Quantum-Classical Dualism Perspective
 
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
+
 ## 导航 | Navigation
 [中文版](#科幻电影分析简介) | [English Version](#introduction-to-science-fiction-films-analysis)
 

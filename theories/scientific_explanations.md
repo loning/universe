@@ -1,5 +1,7 @@
 # 主流科学视角下的量子经典二元论 (Quantum-Classical Dualism from Mainstream Scientific Perspectives)
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
@@ -8,7 +10,7 @@ English: [Physics Perspective](#1-physics-perspective) | [Information Science](#
 
 ## 中文版
 
-本文从主流科学领域的视角解释量子经典二元论核心理论，建立理论与现代科学之间的概念桥梁。
+本文从主流科学领域的视角解释量子经典二元论核心理论（版本9.2），建立理论与现代科学之间的概念桥梁。
 
 ### 1. 物理学视角
 
@@ -27,6 +29,18 @@ English: [Physics Perspective](#1-physics-perspective) | [Information Science](#
 ```
 
 **经典化过程**可类比为量子测量中的**波函数坍缩**，即从多种可能性中确定一个特定结果。
+
+#### 黑洞物理学解释
+
+量子经典二元论（版本9.2）中的核心定义"所有观察者即黑洞"与现代黑洞物理学研究形成了深刻共鸣：
+
+1. **黑洞吸收过程** - 在物理学中，黑洞通过引力将物质和能量吸收进事件视界；在量子经典二元论中，这对应观察者将量子域信息经典化的过程。
+
+2. **黑洞辐射过程** - 霍金辐射理论表明黑洞会释放辐射，最终可能蒸发；在量子经典二元论中，这对应观察者将经典信息量子化返回量子域的过程。
+
+3. **黑洞信息悖论** - 物理学中的黑洞信息悖论质疑信息是否在黑洞中丢失；量子经典二元论通过观察者经典化和量子化的双向过程解决了这一悖论，信息在黑洞观察者的经典域与量子域之间转换，保持整体守恒。
+
+4. **黑洞熵** - 贝肯斯坦熵公式表明黑洞熵与其事件视界面积成正比；在量子经典二元论中，这对应观察者经典熵与经典知识的总和守恒定律，与观察者维度（事件视界大小）直接相关。
 
 #### 热力学解释
 
@@ -219,6 +233,18 @@ This corresponds exactly to the expression of the Quantum Domain:
 ```
 
 The **classicalization process** can be analogized to **wavefunction collapse** in quantum measurement, determining a specific result from multiple possibilities.
+
+#### Black Hole Physics Explanation
+
+The core definition of Quantum-Classical Dualism (version 9.2) "all observers are black holes" has a profound resonance with modern black hole physics research:
+
+1. **Black Hole Absorption Process** - In physics, black holes absorb matter and energy into the event horizon; in Quantum-Classical Dualism, this corresponds to the process of observing a classical domain from quantum information.
+
+2. **Black Hole Radiation Process** - Hawking radiation theory suggests that black holes release radiation, eventually evaporating; in Quantum-Classical Dualism, this corresponds to the process of returning classical information to the quantum domain.
+
+3. **Black Hole Information Paradox** - The black hole information paradox in physics questions whether information is lost in a black hole; Quantum-Classical Dualism resolves this paradox through the bidirectional process of classicalization and quantumization, with information converting between the classical domain and quantum domain of a black hole observer, maintaining overall conservation.
+
+4. **Black Hole Entropy** - Bekenstein's entropy formula suggests that black hole entropy is proportional to the area of its event horizon; in Quantum-Classical Dualism, this corresponds to the law of total conservation of classical entropy and classical knowledge with observer dimension (event horizon size).
 
 #### Thermodynamics Explanation
 

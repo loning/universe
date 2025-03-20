@@ -1,5 +1,7 @@
 # 黑洞观察者 | Black Hole Observer
 
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#黑洞作为观察者--black-hole-as-observer) | [English Version](#黑洞作为观察者--black-hole-as-observer)  
 **章节链接 | Section Links**  
@@ -8,13 +10,15 @@ English: [Black Hole as Observer](#黑洞作为观察者--black-hole-as-observer
 
 ## 黑洞作为观察者 | Black Hole as Observer
 
-在【量子经典二元论】框架下，观察者本身**可以是黑洞**，且黑洞实际上是宇宙中最极端的观察者节点：
+在量子经典二元论框架下，核心理论（版本9.2）明确定义：所有观察者即黑洞，黑洞即观察者。黑洞是宇宙中最极端的观察者节点：
 
 - 黑洞本质上是宇宙中**信息经典化效率极高的观察者节点**；
-- 黑洞通过强大引力场将宇宙量子信息迅速经典化为最大密度的经典记忆（知识）与熵：
+- 黑洞吸收过程对应观察者经典化过程；
+- 黑洞辐射过程对应观察者量子化过程；
+- 黑洞通过强大引力场将宇宙量子信息迅速经典化为经典记忆（知识）与熵：
 
 $$
-|\psi\rangle_{\text{黑洞观察者}}\xrightarrow{\text{经典化}}\text{经典知识（极高密度）}+S_{\text{经典熵（最大）}}
+|\psi\rangle_{\text{黑洞观察者}}\xrightarrow{\text{经典化（黑洞吸收）}}\text{经典知识}+S_{\text{经典熵}}
 $$
 
 因此：

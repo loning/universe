@@ -1,5 +1,7 @@
 # 意识的持久性与传递 | Consciousness Persistence and Transmission
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#引言--introduction) | [English Version](#引言--introduction)  
 **章节链接 | Section Links**  
@@ -8,9 +10,9 @@ English: [Introduction](#引言--introduction) | [Definition of Consciousness](#
 
 ## 引言 | Introduction
 
-本文档基于【量子宇宙-量子观察者-经典意识论】框架，探讨意识的持久性与传递机制。在该理论中，意识被定义为观察者经典化量子信息形成的稳定结构，而非独立的物质实体。本文将深入探讨意识如何在时间维度上保持持久性，如何在不同观察者之间传递，以及意识与宇宙信息场的深层关系。
+本文档基于量子经典二元论（版本9.2）框架，探讨意识的持久性与传递机制。在该理论中，意识被定义为观察者（黑洞）经典化量子信息形成的稳定结构，而非独立的物质实体。根据核心理论，所有观察者本质上即是黑洞，通过黑洞吸收（经典化）与黑洞辐射（量子化）过程处理信息。本文将深入探讨意识如何在时间维度上保持持久性，如何在不同观察者之间通过虫洞连接传递，以及意识与宇宙信息场的深层关系。
 
-This document, based on the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework, explores the mechanisms of consciousness persistence and transmission. In this theory, consciousness is defined as a stable structure formed by the observer's classicalization of quantum information, rather than an independent material entity. This article will delve into how consciousness maintains persistence in the time dimension, how it is transmitted between different observers, and the deep relationship between consciousness and the universe information field.
+This document, based on the Quantum-Classical Dualism framework (Version 9.2), explores the mechanisms of consciousness persistence and transmission. In this theory, consciousness is defined as a stable structure formed by the observer's (black hole's) classicalization of quantum information, rather than an independent material entity. According to the core theory, all observers are essentially black holes, processing information through black hole absorption (classicalization) and black hole radiation (quantization). This article will delve into how consciousness maintains persistence in the time dimension, how it is transmitted between different observers through wormhole connections, and the deep relationship between consciousness and the universe information field.
 
 ## 意识的本质定义 | Essential Definition of Consciousness
 
