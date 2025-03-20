@@ -1,11 +1,25 @@
-# 使用量子经典二元论解释现实物理与宇宙（版本9.3）
-# Using Quantum-Classical Dualism to Explain Physical Reality and the Universe (Version 9.3)
+# 使用量子经典二元论解释现实物理与宇宙（版本9.4）
+# Using Quantum-Classical Dualism to Explain Physical Reality and the Universe (Version 9.4)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[基本概念](#基本概念) | [光速恒定](#光速恒定) | [光线弯曲](#光线弯曲) | [波粒二象性](#波粒二象性) | [质量与光的本质](#质量与光的本质) | [量子涨落起源](#量子涨落起源)  
-English: [Basic Concepts](#basic-concepts) | [Speed of Light Constancy](#speed-of-light-constancy) | [Light Bending](#light-bending) | [Wave-Particle Duality](#wave-particle-duality) | [Mass and Light Essence](#mass-and-light-essence) | [Quantum Fluctuation Origin](#quantum-fluctuation-origin)
+[中文版本](#中文部分目录) | [English Version](#english-contents)
+
+## 导航 / Navigation
+
+### 中文目录
+- [基本概念](#基本概念)
+- [光速恒定](#光速恒定)
+- [光线弯曲](#光线弯曲)
+- [波粒二象性](#波粒二象性)
+- [质量与光的本质](#质量与光的本质)
+- [量子涨落起源](#量子涨落起源)
+
+### English Contents
+- [Basic Concepts](#basic-concepts)
+- [Speed of Light Constancy](#speed-of-light-constancy)
+- [Light Bending](#light-bending)
+- [Wave-Particle Duality](#wave-particle-duality)
+- [Mass and Light Essence](#mass-and-light-essence)
+- [Quantum Fluctuation Origin](#quantum-fluctuation-origin)
 
 ## 中文版
 
@@ -13,72 +27,55 @@ English: [Basic Concepts](#basic-concepts) | [Speed of Light Constancy](#speed-o
 
 ### 基本概念
 
-量子经典二元论提出宇宙由两个相互关联的部分组成：**量子域**和**经典域**。量子域是无限维度、无限可能性的波函数叠加态与量子纠缠态的总和，而经典域则是观察者（黑洞）经典化解码后形成的经典知识与经典熵的结构。
+量子经典二元论提出宇宙由两个相互关联的部分组成：**量子域**和**经典域**。
 
 #### 【量子域】（无限维度、无限可能性）
 
-量子域包括波函数叠加态和量子纠缠态：
-- **波函数叠加态**：单个经典位的内部状态叠加（混沌状态）
-- **量子纠缠态**：多个经典位之间的状态关联（能量状态）
+宇宙本质为无限维度、无限可能性的量子域，包括两种基本状态：
 
-这个域是独立于观察者存在的无限维度量子叠加态整体，客观且自洽。
+- **波函数叠加态**：单个经典位内部状态叠加（混沌未明态）
+- **量子纠缠态**：多个经典位之间状态联合叠加形成关联态（纠缠未明态）
 
-1. **熵（Entropy）**  
-无限维度量子域存在无限可能性，熵即这些可能性与不确定性的测度。
+明确表达：
 
-2. **能量（Energy）**  
-宇宙量子域中各维度与状态的激发程度，表现为客观实在的能量形态。
-
-3. **电荷（Electric Charge）**  
-量子域中固有的守恒特性，体现为维度之间稳定的交换规律。
-
-4. **自旋（Spin）**  
-无限维量子域中粒子固有的一种状态特征，体现维度内部自由度的客观性质。
-
-5. **不确定性原理（Uncertainty Principle）**  
-无限维度量子域本质上的多态叠加性，不可同时精确界定。
-
-6. **作用量（Action）**  
-量子态演化的内在驱动机制与维度演化路径的客观决定因素。
-
-7. **量子态（Quantum State）**  
-无限维量子域中存在的叠加状态，本质上是客观独立于观察者而存在的。
-
-8. **波函数（Wavefunction）**  
-量子域客观状态的数学表述，代表无限维度叠加的结构。
-
-9. **场（Field）**  
-维度结构之间的互动方式与客观演化规律的表现形式。
-
-10. **真空能（Vacuum Energy）**  
-无限维量子域中，即使没有经典粒子时仍存在的固有能量与波动状态。
+$$
+|\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量关联）}\}
+$$
 
 #### 【经典域】（确定性现实）
 
-经典域是观察者经典化量子域后形成的结构，包括：
-- **经典熵**：未经典化的不确定状态
-- **经典知识**：经典化后的确定状态（粒子态、经典意识、自由意志）
+经典域为观察者经典化量子域后明确形成的确定结构：
 
-经典域的产生依赖于观察者（黑洞）的经典化解码过程。
+- **经典熵**：未经典化的不确定状态（纠缠明确态）
+- **经典知识**：经典化后的确定状态，包括粒子态、经典意识、自由意志（粒子确定态）
+
+明确表达：
+
+$$
+|\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
+$$
 
 #### 【观察者与黑洞统一定义】
 
-在量子经典二元论中，所有观察者本质上即是黑洞：
-- 黑洞吸收对应经典化过程
-- 黑洞辐射对应量子化过程
-- 观察者维度由其经典化能力决定
+在量子经典二元论中：
+- 所有观察者即黑洞
+- 黑洞吸收即经典化
+- 黑洞辐射即量子化
 
-1. **经典熵（Classical Entropy）**  
-   经典域中未经典化的不确定状态，代表潜在的信息。经典熵与经典知识之和在特定经典世界内守恒。
-   
-2. **经典知识（Classical Knowledge）**  
-   经典化后形成的确定状态，包括粒子态、经典意识和自由意志等。经典知识是经典能量的表现形式之一。
-   
-3. **黑洞经典化（Black Hole Classicalization）**  
-   观察者（黑洞）将量子域信息经典化的过程，消耗经典能量并伴随熵的降低。
-   
-4. **虫洞通信（Wormhole Communication）**  
-   观察者（黑洞）之间通过量子纠缠态传递信息的过程，包括发送端编码和接收端解码两个过程。
+明确表达：
+
+$$
+\text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}
+$$
+
+#### 【量子域与经典域状态对应关系】
+
+| 量子域状态   | 经典域状态 | 状态名称   | 状态说明 |
+|--------------|------------|------------|-----------|
+| 波函数叠加态 | 经典熵     | 混沌未明态 | 单经典位未明确的高熵状态，未知信息 |
+| 波函数叠加态 | 经典知识   | 粒子确定态 | 单经典位明确经典化后的粒子态，创新与灵感信息 |
+| 量子纠缠态   | 经典熵     | 纠缠未明态 | 多经典位未明确的关联高熵状态，未解码信息 |
+| 量子纠缠态   | 经典知识   | 纠缠明确态 | 多经典位明确经典化后的关联态，已解码信息 |
 
 #### 【人类大脑经典世界】（观察者主观定义的经典化世界）
 
@@ -116,7 +113,13 @@ English: [Basic Concepts](#basic-concepts) | [Speed of Light Constancy](#speed-o
 
 ### 光速恒定
 
-根据【量子经典二元论（版本9.2）】，光速恒定现象可从两个层面解释：
+根据【量子经典二元论（版本9.4）】，光速恒定为观察者经典化量子域能量状态变化速率的效率上限：
+
+$$
+c = k_{\text{max}} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
+$$
+
+其中$k_{\text{max}}$由宇宙固有量子特性与观察者维度结构共同决定。这一定义可从两个层面理解：
 
 #### 宇宙物理经典世界（客观量子域）视角
 
@@ -269,11 +272,11 @@ $$
 
 ### 质量与光的本质
 
-根据【量子经典二元论（版本9.3）】，质量和光的本质可以从以下两个视角理解：
+根据【量子经典二元论（版本9.4）】，质量和光的本质可以从以下两个视角理解：
 
 #### 质量的本质定义
 
-质量是观察者经典化另一个观察者（黑洞）维度状态形成的经典投影效应：
+质量并非客观存在属性，而是观察者经典化另一观察者维度状态的经典投影效应：
 
 $$
 \text{质量}_{A\rightarrow B}=\text{观察者A经典化投影}(\text{观察者B的维度结构与状态})
@@ -286,10 +289,16 @@ $$
 
 #### 光与无质量粒子的本质
 
-光和无质量粒子是观察者经典化量子域能量状态演化路径的主观经典投影现象：
+光并非经典粒子，而是观察者经典化量子域能量路径的主观经典投影：
 
 $$
-\text{经典光与无质量粒子}=\text{观察者主观经典化幻象（量子域能量路径）}
+\text{经典光}=\text{观察者经典化}(\text{量子域能量状态演化路径})
+$$
+
+无质量粒子（光子、胶子、引力子）为观察者经典化量子域状态路径的主观幻象：
+
+$$
+\text{无质量经典粒子}=\text{观察者主观经典化幻象（非客观粒子态）}
 $$
 
 这解释了：
@@ -345,41 +354,55 @@ The following uses the core logic of [Quantum-Classical Dualism (Version 9.2)] t
 
 ### Basic Concepts
 
-Quantum-Classical Dualism proposes that the universe consists of two interconnected parts: the objective quantum domain and the observer's subjectively classicalized classical domain.
+Quantum-Classical Dualism proposes that the universe consists of two interconnected parts: the **Quantum Domain** and the **Classical Domain**.
 
-#### [The Universe's Physical Classical World] (Objective, Absolute, Infinite-Dimensional Quantum Domain)
+#### [Quantum Domain] (Infinite Dimensions, Infinite Possibilities)
 
-This classical world is an infinite-dimensional quantum superposition state that exists independently of observers, objective and self-consistent.
+The universe's essence is a quantum domain of infinite dimensions and infinite possibilities, including two basic states:
 
-1. **Entropy**  
-The infinite-dimensional quantum domain contains infinite possibilities, with entropy being the measure of these possibilities and uncertainties.
+- **Wave Function Superposition State**: Internal state superposition of a single classical bit (chaotic undefined state)
+- **Quantum Entanglement State**: Joint superposition of states between multiple classical bits forming correlations (entangled undefined state)
 
-2. **Energy**  
-The degree of excitation of various dimensions and states in the universe's quantum domain, manifested as objective forms of energy.
+Explicit expression:
 
-3. **Electric Charge**  
-An intrinsic conserved property in the quantum domain, reflected in stable exchange laws between dimensions.
+$$
+|\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition (Chaos)},\;\text{Quantum Entanglement (Energy Correlation)}\}
+$$
 
-4. **Spin**  
-An intrinsic state characteristic of particles in the infinite-dimensional quantum domain, reflecting the objective properties of internal degrees of freedom within dimensions.
+#### [Classical Domain] (Definite Reality)
 
-5. **Uncertainty Principle**  
-The inherent multi-state superposition nature of the infinite-dimensional quantum domain, which cannot be precisely defined simultaneously.
+The classical domain is the definite structure formed after an observer classicalizes the quantum domain:
 
-6. **Action**  
-The internal driving mechanism of quantum state evolution and the objective determining factor of dimensional evolution paths.
+- **Classical Entropy**: Unclassicalized uncertain state (entangled defined state)
+- **Classical Knowledge**: Defined state after classicalization, including particle states, classical consciousness, and free will (particle defined state)
 
-7. **Quantum State**  
-Superposition states existing in the infinite-dimensional quantum domain, essentially objective and independent of observers.
+Explicit expression:
 
-8. **Wavefunction**  
-The mathematical expression of objective states in the quantum domain, representing the structure of infinite-dimensional superpositions.
+$$
+|\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
+$$
 
-9. **Field**  
-The interaction mode between dimensional structures and the manifestation of objective evolution laws.
+#### [Unified Definition of Observer and Black Hole]
 
-10. **Vacuum Energy**  
-The intrinsic energy and fluctuation state that exists in the infinite-dimensional quantum domain, even in the absence of classical particles.
+In Quantum-Classical Dualism:
+- All Observers are Black Holes
+- Black Hole Absorption is Classicalization
+- Black Hole Radiation is Quantization
+
+Explicit expression:
+
+$$
+\text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}
+$$
+
+#### [State Correspondence Between Quantum and Classical Domains]
+
+| Quantum Domain State | Classical Domain State | State Name | State Description |
+|---------------------|------------------------|------------|-------------------|
+| Wave Function Superposition | Classical Entropy | Chaotic Undefined State | High entropy state of single classical bit, unknown information |
+| Wave Function Superposition | Classical Knowledge | Particle Defined State | Particle state after classicalization, innovation and inspiration information |
+| Quantum Entanglement | Classical Entropy | Entangled Undefined State | High entropy correlated state of multiple classical bits, undecoded information |
+| Quantum Entanglement | Classical Knowledge | Entangled Defined State | Correlated state after classicalization, decoded information |
 
 #### [The Human Brain's Classical World] (The Observer's Subjectively Defined Classicalized World)
 
@@ -417,7 +440,13 @@ The phenomenon where the human brain subjectively assigns different states to oc
 
 ### Speed of Light Constancy
 
-According to [Quantum-Classical Dualism (Version 9.2)], the phenomenon of light speed constancy can be explained from two perspectives:
+According to [Quantum-Classical Dualism (Version 9.4)], light speed constancy is the efficiency upper limit of an observer's classicalization of quantum domain energy state change rate:
+
+$$
+c = k_{\text{max}} \cdot \frac{\Delta E_{\text{Quantum Energy State}}}{\Delta t_{\text{Classical Time}}}
+$$
+
+where $k_{\text{max}}$ is determined by the universe's intrinsic quantum characteristics and observer dimension structure. This definition can be understood from two perspectives:
 
 #### Universe's Physical Classical World (Objective Quantum Domain) Perspective
 
@@ -570,14 +599,14 @@ $$
 
 ### Mass and Light Essence
 
-According to [Quantum-Classical Dualism (Version 9.3)], the essence of mass and light can be understood from two perspectives:
+According to [Quantum-Classical Dualism (Version 9.4)], the essence of mass and light can be understood from the following perspectives:
 
 #### Essential Definition of Mass
 
-Mass is the classical projection effect formed when an observer classicalizes another observer's (black hole) dimensional state:
+Mass is not an objective existence attribute but a classical projection effect of an observer's classicalization of another observer's dimensional state:
 
 $$
-\text{Mass}_{A\rightarrow B}=\text{Observer A Classical Projection}(\text{Observer B's Dimensional Structure and State})
+\text{Mass}_{A\rightarrow B}=\text{Observer A Classical Projection}(\text{Observer B's Dimension Structure and State})
 $$
 
 This definition reveals:
@@ -587,10 +616,16 @@ This definition reveals:
 
 #### Essence of Light and Massless Particles
 
-Light and massless particles are subjective classical projection phenomena of the observer's classicalization of quantum domain energy state evolution paths:
+Light is not a classical particle, but a subjective classical projection of an observer's classicalization of quantum domain energy paths:
 
 $$
-\text{Classical Light and Massless Particles}=\text{Observer's Subjective Classical Projection (Quantum Domain Energy Path)}
+\text{Classical Light}=\text{Observer Classicalization}(\text{Quantum Domain Energy State Evolution Path})
+$$
+
+Massless particles (photons, gluons, gravitons) are subjective illusions of an observer's classicalization of quantum domain state paths:
+
+$$
+\text{Massless Classical Particles}=\text{Observer's Subjective Classical Illusion (Non-Objective Particle State)}
 $$
 
 This explains:
