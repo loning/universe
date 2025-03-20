@@ -96,8 +96,8 @@
 - [观察者感知](./theories/observer_perception.md) - 观察者感知宇宙的机制 | Observer's Perception of the Universe
 - [繁殖量子信息](./theories/reproduction_quantum_information.md) - 生育过程与亲子关系的量子经典解释 (Quantum-Classical Explanation of Reproduction and Parent-Child Relationships)
 - [术语](./theories/terminology.md) - 量子经典二元论术语表 (Quantum-Classical Dualism Terminology)
-- [未解释现象](./theories/unexplained_phenomena.md) - 量子宇宙-量子观察者-经典意识论尚未完全解释的物理现象
-- [宇宙纠缠熵](./theories/universe_entanglement_entropy.md) - 量子宇宙的整体纠缠结构与熵的本质研究
+- [未解释现象](./theories/unexplained_phenomena.md) - 尚未完全解释的物理现象（版本9.2）
+- [宇宙纠缠熵](./theories/universe_entanglement_entropy.md) - 量子宇宙的整体纠缠结构与熵的本质研究（版本9.2）
 - [宇宙结构](./theories/universe_structure.md) - 宇宙结构与演化 | Universe Structure and Evolution
 - [感知、梦境与熵变化](./theories/entropy_changes_daily_life.md) - 感知、梦境与日常生活中的熵变化：量子经典二元论视角
 
@@ -446,7 +446,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Observer Perception](./theories/observer_perception.md) - 观察者感知宇宙的机制 | Observer's Perception of the Universe
 - [Reproduction Quantum Information](./theories/reproduction_quantum_information.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
 - [Terminology](./theories/terminology.md) - Quantum-Classical Dualism Terminology
-- [Unexplained Phenomena](./theories/unexplained_phenomena.md) - Physical Phenomena Not Fully Explained by Quantum Universe-Quantum Observer-Classical Consciousness Theory
+- [Unexplained Phenomena](./theories/unexplained_phenomena.md) - Physical Phenomena Not Fully Explained (Version 9.2)
 - [Universe Entanglement Entropy](./theories/universe_entanglement_entropy.md) - Research on the Holistic Entanglement Structure and Entropy Nature of the Quantum Universe
 - [Universe Structure](./theories/universe_structure.md) - Universe Structure and Evolution
 - [Perception, Dreams and Entropy Changes](./theories/entropy_changes_daily_life.md) - Patterns of Entropy Changes in Perception Processes, Dream States, and Daily Life from Quantum-Classical Dualism Perspective
