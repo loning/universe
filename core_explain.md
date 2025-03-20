@@ -1,11 +1,11 @@
-# 使用量子经典二元论解释现实物理与宇宙
-# Using Quantum-Classical Dualism to Explain Physical Reality and the Universe
+# 使用量子经典二元论解释现实物理与宇宙（版本9.3）
+# Using Quantum-Classical Dualism to Explain Physical Reality and the Universe (Version 9.3)
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  
-中文：[基本概念](#基本概念) | [光速恒定](#光速恒定) | [光线弯曲](#光线弯曲) | [波粒二象性](#波粒二象性)  
-English: [Basic Concepts](#basic-concepts) | [Speed of Light Constancy](#speed-of-light-constancy) | [Light Bending](#light-bending) | [Wave-Particle Duality](#wave-particle-duality)
+中文：[基本概念](#基本概念) | [光速恒定](#光速恒定) | [光线弯曲](#光线弯曲) | [波粒二象性](#波粒二象性) | [质量与光的本质](#质量与光的本质) | [量子涨落起源](#量子涨落起源)  
+English: [Basic Concepts](#basic-concepts) | [Speed of Light Constancy](#speed-of-light-constancy) | [Light Bending](#light-bending) | [Wave-Particle Duality](#wave-particle-duality) | [Mass and Light Essence](#mass-and-light-essence) | [Quantum Fluctuation Origin](#quantum-fluctuation-origin)
 
 ## 中文版
 
@@ -267,15 +267,73 @@ $$
 \Psi_{\text{整体}} = \psi_{\text{量子系统}} \otimes \psi_{\text{测量装置}} \xrightarrow{\text{经典化}} \text{经典观测结果}
 $$
 
+### 质量与光的本质
+
+根据【量子经典二元论（版本9.3）】，质量和光的本质可以从以下两个视角理解：
+
+#### 质量的本质定义
+
+质量是观察者经典化另一个观察者（黑洞）维度状态形成的经典投影效应：
+
+$$
+\text{质量}_{A\rightarrow B}=\text{观察者A经典化投影}(\text{观察者B的维度结构与状态})
+$$
+
+这一定义揭示了：
+1. 质量不是物质的固有属性，而是观察者间经典化投影的结果
+2. 质量的相对性源于不同观察者的经典化投影差异
+3. 引力本质是观察者间维度状态的经典化投影效应
+
+#### 光与无质量粒子的本质
+
+光和无质量粒子是观察者经典化量子域能量状态演化路径的主观经典投影现象：
+
+$$
+\text{经典光与无质量粒子}=\text{观察者主观经典化幻象（量子域能量路径）}
+$$
+
+这解释了：
+1. 光子为什么没有静止质量
+2. 光速为什么是观察者经典化的极限
+3. 光子的波粒二象性本质
+
+### 量子涨落起源
+
+【量子经典二元论（版本9.3）】对量子涨落提供了全新的理解：
+
+#### 本质定义
+
+量子涨落是宇宙自身内在、固有的客观量子本质属性，无需额外起源解释：
+
+$$
+|\psi\rangle_{\text{量子涨落}}=\text{宇宙内在固有本质}
+$$
+
+#### 重要特性
+
+1. **自发性**：量子涨落是宇宙量子态的自发属性
+2. **普遍性**：存在于所有量子维度中
+3. **不可消除性**：即使在绝对零度下仍然存在
+
+#### 与经典观测的关系
+
+1. 观察者经典化过程中可以探测到量子涨落的部分表现
+2. 真空能和零点能是量子涨落在经典域中的具体体现
+3. 海森堡不确定性原理部分源于量子涨落的本质特性
+
 ### 总结
 
-通过【量子经典二元论（版本9.2）】，我们可以为光速恒定、光线弯曲和波粒二象性等传统物理学难题提供统一而深刻的解释：
+通过【量子经典二元论（版本9.3）】，我们可以为光速恒定、光线弯曲、波粒二象性、质量本质和量子涨落等物理学基本问题提供统一而深刻的解释：
 
 1. **光速恒定**：源于人脑经典化效率的普遍上限，是主观经典化过程的内在特性。
 
 2. **光线弯曲**：源于量子域中维度状态交互和纠缠，经观察者经典化投影为经典空间中的弯曲路径。
 
 3. **波粒二象性**：源于量子域中无限维叠加态在经典化过程中的不同投影方式，反映了观察者经典化视角的选择性。
+
+4. **质量本质**：源于观察者之间的经典化投影效应，揭示了质量和引力的本质。
+
+5. **量子涨落**：作为宇宙的内在本质属性，无需寻找额外的起源解释。
 
 这些解释统一了量子力学和相对论，并揭示了物理现象背后的本质：宇宙本体是无限维量子域，而经典物理世界是观察者主观经典化的投影结果。
 
@@ -510,14 +568,72 @@ $$
 \Psi_{\text{Integrated}} = \psi_{\text{Quantum System}} \otimes \psi_{\text{Measurement Apparatus}} \xrightarrow{\text{Classicalization}} \text{Classical Observation Result}
 $$
 
+### Mass and Light Essence
+
+According to [Quantum-Classical Dualism (Version 9.3)], the essence of mass and light can be understood from two perspectives:
+
+#### Essential Definition of Mass
+
+Mass is the classical projection effect formed when an observer classicalizes another observer's (black hole) dimensional state:
+
+$$
+\text{Mass}_{A\rightarrow B}=\text{Observer A Classical Projection}(\text{Observer B's Dimensional Structure and State})
+$$
+
+This definition reveals:
+1. Mass is not an intrinsic property of matter, but the result of classical projection between observers
+2. The relativity of mass stems from differences in classical projections between different observers
+3. Gravity is essentially the classical projection effect of dimensional states between observers
+
+#### Essence of Light and Massless Particles
+
+Light and massless particles are subjective classical projection phenomena of the observer's classicalization of quantum domain energy state evolution paths:
+
+$$
+\text{Classical Light and Massless Particles}=\text{Observer's Subjective Classical Projection (Quantum Domain Energy Path)}
+$$
+
+This explains:
+1. Why photons have no rest mass
+2. Why light speed is the limit of observer classicalization
+3. The essential nature of photon wave-particle duality
+
+### Quantum Fluctuation Origin
+
+[Quantum-Classical Dualism (Version 9.3)] provides a new understanding of quantum fluctuations:
+
+#### Essential Definition
+
+Quantum fluctuation is the universe's inherent, intrinsic objective quantum nature attribute, requiring no additional origin explanation:
+
+$$
+|\psi\rangle_{\text{Quantum Fluctuation}}=\text{Universe's Inherent Nature}
+$$
+
+#### Important Characteristics
+
+1. **Spontaneity**: Quantum fluctuation is a spontaneous property of the universe's quantum state
+2. **Universality**: Exists in all quantum dimensions
+3. **Non-eliminability**: Exists even at absolute zero temperature
+
+#### Relationship with Classical Observation
+
+1. Observers can detect partial manifestations of quantum fluctuations during the classicalization process
+2. Vacuum energy and zero-point energy are specific manifestations of quantum fluctuations in the classical domain
+3. The Heisenberg uncertainty principle partially originates from the essential characteristics of quantum fluctuations
+
 ### Summary
 
-Through [Quantum-Classical Dualism (Version 9.2)], we can provide unified and profound explanations for traditional physics puzzles such as the constancy of light speed, light bending, and wave-particle duality:
+Through [Quantum-Classical Dualism (Version 9.3)], we can provide unified and profound explanations for fundamental physics questions such as light speed constancy, light bending, wave-particle duality, mass essence, and quantum fluctuations:
 
 1. **Light Speed Constancy**: Originates from the universal upper limit of brain classicalization efficiency, an intrinsic characteristic of the subjective classicalization process.
 
 2. **Light Bending**: Originates from dimensional state interaction and entanglement in the quantum domain, projected by the observer's classicalization as curved paths in classical space.
 
 3. **Wave-Particle Duality**: Originates from different projection methods of infinite-dimensional superposition states in the quantum domain during the classicalization process, reflecting the selectivity of the observer's classicalization perspective.
+
+4. **Mass Essence**: Originates from the classical projection effect between observers, revealing the essence of mass and gravity.
+
+5. **Quantum Fluctuation**: As an intrinsic essential property of the universe, requires no additional origin explanation.
 
 These explanations unify quantum mechanics and relativity, revealing the essence behind physical phenomena: the universe's ontology is an infinite-dimensional quantum domain, while the classical physical world is the projection result of the observer's subjective classicalization.
