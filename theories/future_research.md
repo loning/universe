@@ -1,5 +1,7 @@
 # 未来研究方向 | Future Research Directions
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+
 **导航 | Navigation**  
 [中文版](#简介--introduction) | [English Version](#简介--introduction)  
 

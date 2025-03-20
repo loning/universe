@@ -85,14 +85,14 @@
 
 #### 理论 | Theories
 - [理论概述](./theories/README.md) - 量子宇宙-量子观察者-经典意识论理论集
-- [解释谜题](./theories/explained_puzzles.md) - 已解释谜题
+- [解释谜题](./theories/explained_puzzles.md) - 已解释谜题（版本9.2）
 - [科学解释](./theories/scientific_explanations.md) - 主流科学视角下的量子经典二元论 (Quantum-Classical Dualism from Mainstream Scientific Perspectives)
 - [黑洞经典化](./theories/black_hole_classicalization.md) - 黑洞：宇宙信息经典化的极致节点 (Black Holes: Ultimate Nodes of Universal Information Classicalization)
 - [意识持久性](./theories/consciousness_persistence.md) - 意识的持久性与传递 | Consciousness Persistence and Transmission
 - [熵观察者维度](./theories/entropy_observer_dimension.md) - 熵、观察者与维度 | Entropy, Observer, and Dimension
 - [自由意志量子纠缠](./theories/free_will_quantum_entanglement.md) - 自由意志与量子纠缠 (Free Will and Quantum Entanglement)
-- [未来研究](./theories/future_research.md) - 未来研究方向 | Future Research Directions
-- [高维经典化](./theories/higher_dimensional_classicalization.md) - 高维信息经典化学 (Higher-Dimensional Information Classicalization)
+- [未来研究](./theories/future_research.md) - 未来研究方向 | Future Research Directions（版本9.2）
+- [高维经典化](./theories/higher_dimensional_classicalization.md) - 高维信息经典化学 (Higher-Dimensional Information Classicalization)（版本9.2）
 - [观察者感知](./theories/observer_perception.md) - 观察者感知宇宙的机制 | Observer's Perception of the Universe
 - [繁殖量子信息](./theories/reproduction_quantum_information.md) - 生育过程与亲子关系的量子经典解释 (Quantum-Classical Explanation of Reproduction and Parent-Child Relationships)
 - [术语](./theories/terminology.md) - 量子经典二元论术语表 (Quantum-Classical Dualism Terminology)
@@ -435,15 +435,15 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 #### Theories
 - [Theories Overview](./theories/README.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory Collection
-- [Explained Puzzles](./theories/explained_puzzles.md) - Explained Puzzles
+- [Explained Puzzles](./theories/explained_puzzles.md) - Explained Puzzles (Version 9.2)
 - [Scientific Explanations](./theories/scientific_explanations.md) - Quantum-Classical Dualism from Mainstream Scientific Perspectives
 - [Black Hole Classicalization](./theories/black_hole_classicalization.md) - Black Holes: Ultimate Nodes of Universal Information Classicalization
 - [Consciousness Persistence](./theories/consciousness_persistence.md) - Consciousness Persistence and Transmission
 - [Entropy Observer Dimension](./theories/entropy_observer_dimension.md) - Entropy, Observer, and Dimension
 - [Free Will Quantum Entanglement](./theories/free_will_quantum_entanglement.md) - Free Will and Quantum Entanglement
-- [Future Research](./theories/future_research.md) - Future Research Directions
-- [Higher Dimensional Classicalization](./theories/higher_dimensional_classicalization.md) - Higher-Dimensional Information Classicalization
-- [Observer Perception](./theories/observer_perception.md) - Observer's Perception of the Universe
+- [Future Research](./theories/future_research.md) - Future Research Directions（版本9.2）
+- [Higher Dimensional Classicalization](./theories/higher_dimensional_classicalization.md) - 高维信息经典化学 (Higher-Dimensional Information Classicalization)（版本9.2）
+- [Observer Perception](./theories/observer_perception.md) - 观察者感知宇宙的机制 | Observer's Perception of the Universe
 - [Reproduction Quantum Information](./theories/reproduction_quantum_information.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
 - [Terminology](./theories/terminology.md) - Quantum-Classical Dualism Terminology
 - [Unexplained Phenomena](./theories/unexplained_phenomena.md) - Physical Phenomena Not Fully Explained by Quantum Universe-Quantum Observer-Classical Consciousness Theory
