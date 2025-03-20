@@ -110,7 +110,7 @@
 
 ### 量子经典二元论直接相关
 
-57. [量子经典二元论核心理论](core.md). 量子经典二元论的完整理论阐述(版本8.6).
+57. [量子经典二元论核心理论](core.md). 量子经典二元论的完整理论阐述(版本9.2).
 58. [简介](01_introduction.md). 量子经典二元论的简介.
 59. [基本概念](02_basic_concepts.md). 量子经典二元论的基本概念.
 60. [理论框架](03_theoretical_framework.md). 量子经典二元论的理论框架.
@@ -227,7 +227,7 @@ The following are references related to Quantum-Classical Dualism:
 
 ### Directly Related to Quantum-Classical Dualism
 
-57. [Quantum-Classical Dualism Core Theory](core.md). Complete Theoretical Exposition of Quantum-Classical Dualism (Version 8.6).
+57. [Quantum-Classical Dualism Core Theory](core.md). Complete Theoretical Exposition of Quantum-Classical Dualism (Version 9.2).
 58. [Introduction](01_introduction.md). Introduction to Quantum-Classical Dualism.
 59. [Basic Concepts](02_basic_concepts.md). Basic Concepts of Quantum-Classical Dualism.
 60. [Theoretical Framework](03_theoretical_framework.md). Theoretical Framework of Quantum-Classical Dualism.

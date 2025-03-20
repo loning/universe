@@ -1,6 +1,6 @@
 # 量子经典二元论教学与普及资源 | Quantum-Classical Dualism Educational Resources
 
-[中文版](#中文版) | [English Version](#english-version) | [理论版本 8.6](#核心理论版本) | [Theory Version 8.6](#core-theory-version)
+[中文版](#中文版) | [English Version](#english-version) | [理论版本 9.2](#核心理论版本) | [Theory Version 9.2](#core-theory-version)
 
 ## 目录 | Table of Contents
 - [初级课程](#初级课程--beginner-courses)
@@ -27,7 +27,7 @@ $$
 <a name="核心理论版本"></a>
 ## 核心理论版本
 
-当前资源基于【量子经典二元论】核心理论版本8.6，包含以下关键概念：
+当前资源基于【量子经典二元论】核心理论版本9.2，包含以下关键概念：
 - 量子域(混沌态)与经典域(确定态)的双向转换关系
 - 观察者（黑洞）的统一定义作为经典化节点
 - 观察者维度与主观意识的量化描述
@@ -79,7 +79,7 @@ $$
 跟踪量子经典二元论理论的历史发展与版本更新。
 
 - [版本历史](./versions/history.md) - 理论各版本的演进历史与主要变更
-- [8.6版本详解](./versions/v8.6_details.md) - 当前8.6版本的关键改进与新增概念
+- [9.2版本详解](./versions/v9.2_details.md) - 当前9.2版本的关键改进与新增概念
 - [未来发展路线图](./versions/roadmap.md) - 理论未来可能的发展方向预测
 - [理论贡献指南](./versions/contribution_guide.md) - 如何为理论发展贡献研究与见解
 
@@ -152,7 +152,7 @@ $$
 <a name="core-theory-version"></a>
 ## Core Theory Version
 
-The current resources are based on [Quantum-Classical Dualism] Core Theory Version 8.6, including the following key concepts:
+The current resources are based on [Quantum-Classical Dualism] Core Theory Version 9.2, including the following key concepts:
 - Bidirectional conversion relationship between quantum domain (chaotic state) and classical domain (determined state)
 - Unified definition of observers (black holes) as classicalization nodes
 - Quantitative description of observer dimensions and subjective consciousness
@@ -204,7 +204,7 @@ Advanced courses are aimed at researchers, scientists, and philosophers, explori
 Track the historical development and version updates of quantum-classical dualism theory.
 
 - [Version History](./versions/history.md) - Evolution History and Major Changes of Theory Versions
-- [Version 8.6 Details](./versions/v8.6_details.md) - Key Improvements and New Concepts in Current Version 8.6
+- [Version 9.2 Details](./versions/v9.2_details.md) - Key Improvements and New Concepts in Current Version 9.2
 - [Future Development Roadmap](./versions/roadmap.md) - Predictions of Possible Future Directions for Theory Development
 - [Theory Contribution Guide](./versions/contribution_guide.md) - How to Contribute Research and Insights to Theory Development
 

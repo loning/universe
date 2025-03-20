@@ -227,10 +227,6 @@
 - [黑洞观察者研究](./education/blackhole/) - 观察者作为黑洞的特性研究 (Black Hole Observer Studies)
 - [虫洞通信研究](./education/wormhole/) - 量子纠缠态虫洞通信研究 (Wormhole Communication Studies)
 
-#### 其他 | Others
-- [更新历史](./update_history.md) - 更新历史 (Update History)
-- [更新计划](./update_plan.md) - 更新计划 (Update Plan)
-- [标题列表](./titles.md) - 文件标题列表
 
 ### 核心概念简介
 
@@ -577,10 +573,6 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [黑洞观察者研究](./education/blackhole/) - 观察者作为黑洞的特性研究 (Black Hole Observer Studies)
 - [虫洞通信研究](./education/wormhole/) - 量子纠缠态虫洞通信研究 (Wormhole Communication Studies)
 
-#### 其他 | Others
-- [更新历史](./update_history.md) - 更新历史 (Update History)
-- [更新计划](./update_plan.md) - 更新计划 (Update Plan)
-- [标题列表](./titles.md) - 文件标题列表
 
 ### Introduction to Core Concepts
 

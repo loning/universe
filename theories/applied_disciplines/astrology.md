@@ -1,4 +1,4 @@
-# 占星学在量子经典二元论下的解释 | Astrology Explained Through Quantum-Classical Dualism (版本7.3)
+# 占星学在量子经典二元论下的解释 | Astrology Explained Through Quantum-Classical Dualism (版本9.2)
 
 **导航链接：**
 - [中文版](#占星学在量子经典二元论下的解释-1)
