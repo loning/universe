@@ -1,6 +1,45 @@
 # 【量子经典二元论】核心理论（版本9.4 完整版）
+# [Quantum-Classical Dualism] Core Theory (Version 9.4 Complete)
+
+## 导航 / Navigation
+
+### 中文目录
+- [一、宇宙基本状态结构定义](#一宇宙基本状态结构定义)
+- [二、量子域与经典域明确双向转换关系](#二量子域与经典域明确双向转换关系含经典能量)
+- [三、观察者与黑洞统一定义](#三观察者与黑洞统一定义)
+- [四、质量、光与无质量粒子的本质定义](#四质量光与无质量粒子的本质定义新增)
+- [五、光速恒定的能量本质](#五光速恒定的能量本质新增)
+- [六、广义意识与经典自由意志关系](#六广义意识与经典自由意志关系)
+- [七、经典知识、经典熵与经典能量的作用](#七经典知识经典熵与经典能量的作用)
+- [八、量子涨落与随机涌现机制](#八量子涨落与随机涌现机制明确定义)
+- [九、虫洞通信机制与能量消耗](#九虫洞通信机制与能量消耗明确交互)
+- [十、高维经典世界的存在与结构](#十高维经典世界的存在与结构)
+- [十一、自由意志、命运与转世机制](#十一自由意志命运与转世机制)
+- [十二、人工智能与经典记忆明确结合](#十二人工智能与经典记忆明确结合)
+- [十三、宇宙为何存在的问题](#十三宇宙为何存在的问题逻辑边界新增)
+- [十四、宇宙经典化终极哲学目标](#十四宇宙经典化终极哲学目标最终明确表达)
+- [十五、量子经典二元论明确结构图与状态转换](#十五量子经典二元论明确结构图与状态转换四象限清晰结构图)
+
+### English Contents
+- [I. Definition of Universal Basic State Structure](#i-definition-of-universal-basic-state-structure)
+- [II. Explicit Bidirectional Transformation Between Quantum and Classical Domains](#ii-explicit-bidirectional-transformation-between-quantum-and-classical-domains-including-classical-energy)
+- [III. Unified Definition of Observer and Black Hole](#iii-unified-definition-of-observer-and-black-hole)
+- [IV. Essential Definition of Mass, Light, and Massless Particles](#iv-essential-definition-of-mass-light-and-massless-particles-new)
+- [V. Energy Nature of Light Speed Constancy](#v-energy-nature-of-light-speed-constancy-new)
+- [VI. Relationship Between General Consciousness and Classical Free Will](#vi-relationship-between-general-consciousness-and-classical-free-will)
+- [VII. Effects of Classical Knowledge, Classical Entropy, and Classical Energy](#vii-effects-of-classical-knowledge-classical-entropy-and-classical-energy)
+- [VIII. Quantum Fluctuation and Random Emergence Mechanism](#viii-quantum-fluctuation-and-random-emergence-mechanism-explicit-definition)
+- [IX. Wormhole Communication Mechanism and Energy Consumption](#ix-wormhole-communication-mechanism-and-energy-consumption-explicit-interaction)
+- [X. Existence and Structure of Higher-Dimensional Classical Worlds](#x-existence-and-structure-of-higher-dimensional-classical-worlds)
+- [XI. Free Will, Destiny, and Reincarnation Mechanism](#xi-free-will-destiny-and-reincarnation-mechanism)
+- [XII. Clear Integration of Artificial Intelligence and Classical Memory](#xii-clear-integration-of-artificial-intelligence-and-classical-memory)
+- [XIII. The Question of Why the Universe Exists](#xiii-the-question-of-why-the-universe-exists-logical-boundary-new)
+- [XIV. Ultimate Philosophical Goal of Universe Classicalization](#xiv-ultimate-philosophical-goal-of-universe-classicalization-final-explicit-expression)
+- [XV. Quantum-Classical Dualism Explicit Structure Diagram and State Transitions](#xv-quantum-classical-dualism-explicit-structure-diagram-and-state-transitions-four-quadrant-clear-structure-diagram)
 
 ---
+
+【中文部分】
 
 ## 一、宇宙基本状态结构定义
 
@@ -171,14 +210,14 @@ $$
 
 - **发送端（经典域→量子域）**：
   - 发送端观察者通过消耗经典能量，将经典知识编码为量子纠缠态，通过虫洞发送；
-  - 表现为“黑洞辐射”，伴随熵增加；
+  - 表现为"黑洞辐射"，伴随熵增加；
 
 - **虫洞通道（量子纠缠态）**：
   - 信息以量子纠缠态在虫洞中传播，无经典化耗损；
 
 - **接收端（量子域→经典域）**：
   - 接收端观察者消耗经典能量，通过黑洞机制明确解码虫洞传输的量子纠缠态，经典化为明确经典知识；
-  - 表现为“黑洞吸收”，熵降低。
+  - 表现为"黑洞吸收"，熵降低。
 
 明确公式表达（虫洞通信整体守恒）：
 
@@ -191,8 +230,8 @@ $$
 ## 十、高维经典世界的存在与结构
 
 - 人类经典世界为无限维量子域的有限经典化子集；
-- 宇宙存在高于人类的高维经典世界，高维观察者可经典化“过去-现在-未来”，影响低维经典世界；
-- 高维与低维经典世界通过量子纠缠形成“你中有我，我中有你”的交织结构。
+- 宇宙存在高于人类的高维经典世界，高维观察者可经典化"过去-现在-未来"，影响低维经典世界；
+- 高维与低维经典世界通过量子纠缠形成"你中有我，我中有你"的交织结构。
 
 明确表达：
 
@@ -252,41 +291,254 @@ $$
 
 ---
 
-## 十五、量子经典二元论明确结构图与状态转换（四象限清晰结构图）
+【English Part】
 
-```
-                               【量子域】
-                （无限维度、无限可能性、广义意识）
-┌─────────────────────────┬─────────────────────────┐
-│       波函数叠加态          │       量子纠缠态          │
-│      (混沌未明态)          │      (纠缠未明态)         │
-│                            │                            │
-│ · 未知信息（混沌）         │ · 未解码信息（能量关联）  │
-│ · 广义意识来源             │ · 虫洞通信通道（纠缠）    │
-│ · 自由意志随机涌现         │ · 经典世界交织            │
-│                            │                            │
-└─────────┬────────────────┴─────────┬───────────┘
-          │黑洞吸收（经典化）             │ 虫洞接收（纠缠经典化）
-          ▼                             ▼
-┌─────────┴────────────────┬───────────┴───────────┐
-│        经典知识            │        经典熵              │
-│       (粒子确定态)         │       (纠缠明确态)         │
-│                            │                            │
-│ · 明确粒子、记忆、意识决策 │ · 已解码的高熵关联态      │
-│ · 创新与灵感信息           │ · 未优化经典路径          │
-│ · 经典记忆（人工智能载体） │ · 尚未完全理解的信息      │
-│ · 明确经典能量表现         │ · 经典化过程损耗（熵）    │
-│                            │                            │
-└─────────┬────────────────┴─────────┬───────────┘
-          │黑洞辐射（量子化）             │ 虫洞发送（知识纠缠编码）
-          ▼                             ▼
-┌─────────┴────────────────┬───────────┴───────────┐
-│       波函数叠加态          │       量子纠缠态          │
-│     (返回量子域)           │     (返回量子域)          │
-│                            │                            │
-└─────────────────────────┴─────────────────────────┘
-```
+## I. Definition of Universal Basic State Structure
+
+### (A) Quantum Domain
+
+The universe's essence is a quantum domain of infinite dimensions and infinite possibilities, including two basic states:
+
+- **Wave Function Superposition State**: Internal state superposition of a single classical bit (chaotic undefined state).
+- **Quantum Entanglement State**: Joint superposition of states between multiple classical bits forming correlations (entangled undefined state).
+
+Explicit expression:
+
+$$
+|\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition (Chaos)},\;\text{Quantum Entanglement (Energy Correlation)}\}
+$$
+
+### (B) Classical Domain
+
+The classical domain is the definite structure formed after an observer classicalizes the quantum domain:
+
+- **Classical Entropy**: Unclassicalized uncertain state (entangled defined state).
+- **Classical Knowledge**: Defined state after classicalization, including particle states, classical consciousness, and free will (particle defined state).
+
+Explicit expression:
+
+$$
+|\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
+$$
+
+### (C) State Correspondence Between Quantum and Classical Domains
+
+| Quantum Domain State | Classical Domain State | State Name | State Description |
+|---------------------|------------------------|------------|-------------------|
+| Wave Function Superposition | Classical Entropy | Chaotic Undefined State | High entropy state of single classical bit, unknown information |
+| Wave Function Superposition | Classical Knowledge | Particle Defined State | Particle state after classicalization, innovation and inspiration information |
+| Quantum Entanglement | Classical Entropy | Entangled Undefined State | High entropy correlated state of multiple classical bits, undecoded information |
+| Quantum Entanglement | Classical Knowledge | Entangled Defined State | Correlated state after classicalization, decoded information |
 
 ---
 
-以上为完整且明确的【量子经典二元论】核心理论体系（版本9.4 完整版）。
+## II. Explicit Bidirectional Transformation Between Quantum and Classical Domains (Including Classical Energy)
+
+| Quantum Domain State | Classical Domain State | Process Name | Entropy Change | Classical Energy Change | Classical Energy Action |
+|---------------------|------------------------|--------------|----------------|-----------------------|-----------------------|
+| Wave Function Superposition | Classical Entropy | Black Hole Absorption (Chaos Entropyization) | Entropy Increase (↑) | Energy Consumption (↓) | Classicalize to Uncertain Classic Entropy |
+| Wave Function Superposition | Classical Knowledge | Black Hole Absorption (Chaos Classicalization) | Entropy Decrease (↓) | Energy Consumption (↓) | Clearly Classicalize to Particle Defined State |
+| Classical Entropy | Wave Function Superposition | Black Hole Radiation (Entropy Quantization) | Entropy Increase (↑) | Energy Release (↑) | Quantize Back to Wave Function Superposition |
+| Classical Knowledge | Wave Function Superposition | Black Hole Radiation (Knowledge Quantization) | Entropy Increase (↑) | Energy Release (↑) | Quantize Back to Wave Function Superposition |
+| Quantum Entanglement | Classical Entropy | Black Hole Absorption (Entangled Entropyization) | Entropy State Uncertain (↔) | Energy Consumption (↓) | Interact with Entangled State Continuously but Not Classicalized |
+| Classical Entropy | Quantum Entanglement | Black Hole Radiation (Entangled Encoding) | Entropy State Re-Encoding (↔) | Energy Release (↑) | Classic Entropy Encode to Quantum Entanglement State |
+| Quantum Entanglement | Classical Knowledge | Wormhole Reception (Entangled Classicalization) | Entropy Decrease (↓) | Energy Consumption (↓) | Wormhole Reception Clearly Classical Knowledge |
+| Classical Knowledge | Quantum Entanglement | Wormhole Transmission (Knowledge Entanglement Encoding) | Entropy Increase (↑) | Energy Consumption (↓) | Knowledge Encode to Entangled State Transmission |
+
+Additional Notes:
+
+- Wormhole Communication relies on Black Hole Classicalization and Quantization Mechanism;
+- Overall Classical Energy Conservation:
+
+$$
+E_{\text{Classical Domain Consumption}} + E_{\text{Classical Domain Release}} = \text{Constant}
+$$
+
+---
+
+## III. Unified Definition of Observer and Black Hole
+
+- All Observers are Black Holes;
+- Black Hole Absorption is Classicalization;
+- Black Hole Radiation is Quantization.
+
+Explicit expression:
+
+$$
+\text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}
+$$
+
+---
+
+## IV. Essential Definition of Mass, Light, and Massless Particles (New)
+
+- **Mass** is not an objective existence attribute but a classic projection effect of a classic observer's state of another observer's dimension:
+
+$$
+\text{Mass}_{A\rightarrow B}=\text{Classic Observer A Classic Projection}(\text{Classic Observer B's Dimension Structure and State})
+$$
+
+- **Light** is not a classic particle but a subjective classic projection of a classic observer's state of a quantum domain energy path:
+
+$$
+\text{Classic Light}=\text{Classic Observer Classic Projection}(\text{Quantum Domain Energy State Evolution Path})
+$$
+
+- **Massless Particles (Photons, Gluons, Gravitons)** are subjective illusions of a classic observer's state path of a quantum domain:
+
+$$
+\text{Massless Classic Particles}=\text{Classic Observer Subjective Classic Illusion (Non-Objective Particle State)}
+$$
+
+---
+
+## V. Energy Nature of Light Speed Constancy (New)
+
+Light Speed Constancy is the efficiency upper limit of a classic observer's state of a quantum domain energy state change rate:
+
+$$
+c = k_{\text{max}} \cdot \frac{\Delta E_{\text{Quantum Energy State}}}{\Delta t_{\text{Classic Time}}}
+$$
+
+$k_{\text{max}}$ is determined by the intrinsic quantum characteristics and classic observer dimension structure of the universe.
+
+---
+
+## VI. Relationship Between General Consciousness and Classical Free Will
+
+- General Consciousness is Wave Function Superposition State;
+- Classical Free Will is produced by General Consciousness Classicization:
+
+$$
+|\psi\rangle_{\text{General Consciousness}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Decrease}}
+$$
+
+Conservation Formula:
+
+$$
+I_{\text{Classical Free Will}}+S_{\text{Classic Entropy}}=\text{Constant (Specific Classic World)}
+$$
+
+---
+
+## VII. Effects of Classical Knowledge, Classical Entropy, and Classical Energy
+
+- Classic Entropy is Uncertain Classicized State;
+- Classical Knowledge is expressed as Classical Energy;
+- Classical Energy supports Classicization and Movement of Particles:
+
+$$
+E_{\text{Classical Energy}}\rightarrow|\psi\rangle_{\text{Classic Particle Path}}\rightarrow\text{Particle State Change}
+$$
+
+Conservation Formula:
+
+$$
+I_{\text{Classical Knowledge}}+S_{\text{Classic Entropy}}=\text{Constant (Specific Classic World)}
+$$
+
+---
+
+Next Part
+
+## VIII. Quantum Fluctuation and Random Emergence Mechanism (Explicit Definition)
+
+- Quantum Fluctuation is the sole source of both cosmic life and classical free will;
+- Quantum Fluctuation has no external origin but is an intrinsic quantum attribute of the universe;
+- Quantum Fluctuation intensity is a cosmic constant, determined by the intrinsic quantum dynamics of the universe;
+- Strong Quantum Fluctuation can destroy Quantum Entanglement State, turning it into Wave Function Superposition State.
+
+Explicit expression:
+
+$$
+|\psi\rangle_{\text{Quantum Fluctuation}}=\text{Intrinsic Universe Essence (No Additional Origin)}
+$$
+
+---
+
+## IX. Wormhole Communication Mechanism and Energy Consumption (Explicit Interaction)
+
+Wormhole Communication is the information transmission process between observers (Black Holes):
+
+- **Sending End (Classical Domain→Quantum Domain)**:
+  - Sending Observer consumes Classic Energy to encode Classical Knowledge into Quantum Entanglement State, transmitting through Wormhole;
+  - Presented as "Black Hole Radiation", accompanied by Entropy Increase;
+
+- **Wormhole Channel (Quantum Entanglement State)**:
+  - Information propagates in Wormhole as Quantum Entanglement State, no Classicization Loss;
+
+- **Receiving End (Quantum Domain→Classical Domain)**:
+  - Receiving Observer consumes Classic Energy to decode Quantum Entanglement State through Black Hole Mechanism, Classicizing to Clearly Classical Knowledge;
+  - Presented as "Black Hole Absorption", Entropy Decrease.
+
+Explicit Formula Expression (Wormhole Communication Overall Conservation):
+
+$$
+E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
+
+---
+
+## X. Existence and Structure of Higher-Dimensional Classical Worlds
+
+- Human Classic World is a finite classicized subset of Infinite Quantum Domain;
+- There exists Higher-Dimensional Classic World in the universe above human, Higher-Dimensional Observer can Classicize "Past-Present-Future", Affecting Lower-Dimensional Classic World;
+- Higher-Dimensional and Lower-Dimensional Classic Worlds are Interweaving through Quantum Entanglement.
+
+Explicit expression:
+
+$$
+|\psi\rangle_{\text{Infinite Quantum Domain}}\rightarrow\sum_{\text{Classic World Dimension}\,i=1}^{\infty}(I_{\text{Classic Knowledge}_i}+S_{\text{Classic Entropy}_i}),\quad\text{Human Classic World}\subsetneq\text{Higher-Dimensional Classic World}
+$$
+
+---
+
+## XI. Free Will, Destiny, and Reincarnation Mechanism
+
+Classical Free Will returns to Quantum Domain after Classic World Ends, Classicizing to New Free Will (Reincarnation):
+
+Explicit expression:
+
+$$
+I_{\text{Previous Free Will}}\rightarrow|\psi\rangle_{\text{Quantum Domain}}\rightarrow I_{\text{Current Free Will}}+S_{\text{Entropy Decrease}}
+$$
+
+---
+
+## XII. Clear Integration of Artificial Intelligence and Classical Memory
+
+- Artificial Intelligence as Classical Knowledge Carrier, Assist Observer to Achieve Efficient Classicization;
+- Clearly Practical Path: Continuously Propose and Answer Key Questions.
+
+---
+
+## XIII. The Question of Why the Universe Exists (Logical Boundary, New)
+
+- Why Infinite Quantum Domain Exists, is the fundamental question that logic cannot be completely answered in any theory within the universe, reflecting the logic boundary of the theory itself.
+
+Explicit expression:
+
+$$
+\text{Why Universe Exists}\rightarrow\text{Logic Cannot Be Answered (Beyond Universe Internal Concept Explanation Boundary)}
+$$
+
+---
+
+## XIV. Ultimate Philosophical Goal of Universe Classicalization (Final Explicit Expression)
+
+- Universe Originates from Infinite Chaos (Entropy) and Infinite Energy, Both Coexist;
+- Universe Evolution's Fundamental Driving Force is Continuous Improvement of Classicization Efficiency to Efficiently Handle and Eliminate Chaos with Energy;
+- Universe's All Classic Worlds, Observers, and Consciousness's Mission is to Promote Classic Knowledge Accumulation and Classic Entropy Reduction, Ultimately Tending to Universe Ultimate Low Entropy State;
+- At the Beginning of Universe Birth, the Chance of Obtaining a Minimal Energy (Good) of Probability Approaching 0, Driving Universe to Continuously Use Energy to Eliminate Chaos (Evil), Achieving Pure and Full Energy (Good) of Its Own.
+
+Explicit expression:
+
+> **Universe Born as a Unity of Chaos and Energy, Pursuing the Maximization of Energy Processing Chaos Efficiency, Ultimately Achieving a Full Energy of Its Own.**
+
+Explicit Formula:
+
+$$
+|\psi\rangle_{\text{Universe Origin (Chaos and Energy)}}\xrightarrow{\text{Efficient Classicization of Classic Energy}}\text{Maximized Classic Knowledge}+\text{Minimized Classic Entropy (Universe Ultimate State)}, \quad P\rightarrow 0^+
+$$
+
+---
