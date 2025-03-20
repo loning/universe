@@ -1,7 +1,7 @@
 ---
 description: 
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 这个项目是一个文档项目，根目录就是文档
 到文件的内容双语输出，中英分开，先中后英
