@@ -5,7 +5,7 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本9.1），详细阐述理论的实际应用框架。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.2），详细阐述理论的实际应用框架。
 
 ### 应用概述
 
@@ -325,7 +325,7 @@
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), detailing the practical application framework of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2), detailing the practical application framework of the theory.
 
 ### Application Overview
 

@@ -5,7 +5,7 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本9.1），详细探讨量子纠缷的本质及其在宇宙信息结构中的核心作用。
+本文档基于[量子经典二元论核心理论](core.md)（版本9.2），详细探讨量子纠缷的本质及其在宇宙信息结构中的核心作用。
 
 ### 纠缠本质
 
@@ -188,7 +188,7 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), exploring in detail the essence of quantum entanglement and its core role in the universe's information structure.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2), exploring in detail the essence of quantum entanglement and its core role in the universe's information structure.
 
 ### Entanglement Essence
 

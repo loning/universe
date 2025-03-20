@@ -14,14 +14,14 @@
 - [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)（版本9.2）
 - [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)（版本9.2）
 - [数学公式](./04_mathematical_formulations.md) - 数学公式 (Mathematical Formulations)（版本9.2）
-- [观察者与意识](./05_observer_and_consciousness.md) - 观察者与意识 (Observer and Consciousness)
-- [宇宙与观察者关系](./06_universe_observer_relationship.md) - 宇宙与观察者关系 (Universe-Observer Relationship)
-- [量子纠缠本质](./07_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)
-- [命运与自由意志](./08_destiny_and_free_will.md) - 命运与自由意志 (Destiny and Free Will)
-- [应用与启示](./09_applications_and_implications.md) - 应用与启示 (Applications and Implications)
-- [框架应用](./10_framework_application.md) - 量子经典二元论在实际框架中的应用 (Framework Application)
-- [参考文献](./11_references.md) - 参考文献 (References)
-- [术语表](./terminology_glossary.md) - 量子经典二元论术语表 (Terminology Glossary)
+- [观察者与意识](./05_observer_and_consciousness.md) - 观察者与意识 (Observer and Consciousness)（版本9.2）
+- [宇宙与观察者关系](./06_universe_observer_relationship.md) - 宇宙与观察者关系 (Universe-Observer Relationship)（版本9.2）
+- [量子纠缠本质](./07_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)（版本9.2）
+- [命运与自由意志](./08_destiny_and_free_will.md) - 命运与自由意志 (Destiny and Free Will)（版本9.2）
+- [应用与启示](./09_applications_and_implications.md) - 应用与启示 (Applications and Implications)（版本9.2）
+- [框架应用](./10_framework_application.md) - 量子经典二元论在实际框架中的应用 (Framework Application)（版本9.2）
+- [参考文献](./11_references.md) - 参考文献 (References)（版本9.2）
+- [术语表](./terminology_glossary.md) - 量子经典二元论术语表 (Terminology Glossary)（版本9.2）
 
 #### 历史人物分析 | Historical Figures Analysis
 - [历史人物分析索引](./figures/README.md) - 基于量子经典二元论视角的历史人物思想分析
@@ -364,14 +364,14 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Basic Concepts](./02_basic_concepts.md) - Basic Concepts (Version 9.2)
 - [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework (Version 9.2)
 - [Mathematical Formulations](./04_mathematical_formulations.md) - Mathematical Formulations (Version 9.2)
-- [Observer and Consciousness](./05_observer_and_consciousness.md) - Observer and Consciousness
-- [Universe-Observer Relationship](./06_universe_observer_relationship.md) - Universe-Observer Relationship
-- [Quantum Entanglement Essence](./07_quantum_entanglement_essence.md) - Quantum Entanglement Essence
-- [Destiny and Free Will](./08_destiny_and_free_will.md) - Destiny and Free Will
-- [Applications and Implications](./09_applications_and_implications.md) - Applications and Implications
-- [Framework Application](./10_framework_application.md) - Application of Quantum-Classical Dualism in Practical Frameworks
-- [References](./11_references.md) - References
-- [Terminology Glossary](./terminology_glossary.md) - Quantum-Classical Dualism Terminology Glossary
+- [Observer and Consciousness](./05_observer_and_consciousness.md) - Observer and Consciousness (Version 9.2)
+- [Universe-Observer Relationship](./06_universe_observer_relationship.md) - Universe-Observer Relationship (Version 9.2)
+- [Quantum Entanglement Essence](./07_quantum_entanglement_essence.md) - Quantum Entanglement Essence (Version 9.2)
+- [Destiny and Free Will](./08_destiny_and_free_will.md) - Destiny and Free Will (Version 9.2)
+- [Applications and Implications](./09_applications_and_implications.md) - Applications and Implications (Version 9.2)
+- [Framework Application](./10_framework_application.md) - Application of Quantum-Classical Dualism in Practical Frameworks (Version 9.2)
+- [References](./11_references.md) - References (Version 9.2)
+- [Terminology Glossary](./terminology_glossary.md) - Quantum-Classical Dualism Terminology Glossary (Version 9.2)
 
 #### Historical Figures Analysis
 - [Historical Figures Analysis Index](./figures/README.md) - Analysis of Historical Figures' Thoughts from the Perspective of Quantum-Classical Dualism

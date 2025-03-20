@@ -1,6 +1,9 @@
 # 参考文献
 # References
 
+> 本文档列出支持[量子经典二元论核心理论](core.md)（版本9.2）的相关参考文献。
+> This document lists references supporting the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2).
+
 [中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版

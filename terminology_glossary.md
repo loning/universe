@@ -1,5 +1,8 @@
 # 量子经典二元论术语表 (Quantum-Classical Dualism Terminology Glossary)
 
+> 本文档基于[量子经典二元论核心理论](core.md)（版本9.2）的术语表。
+> This glossary is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2).
+
 **导航 | Navigation**  
 [中文版](#核心术语-core-terminology) | [English Version](#core-terminology-english)  
 **章节链接 | Section Links**  
