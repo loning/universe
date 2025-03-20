@@ -725,19 +725,27 @@ $$
 
 1. **观测前**：总系统处于分离状态
    
-   $$|\Psi_{\text{前}}\rangle = |\psi\rangle_S \otimes |o_0\rangle_O$$
+   $$
+   |\Psi_{\text{前}}\rangle = |\psi\rangle_S \otimes |o_0\rangle_O
+   $$
    
    此时系统和观测者均为纯态，有 $S(\rho_S) = S(\rho_O) = 0$
 
 2. **观测后**：系统与观测者成为纠缠状态
    
-   $$|\Psi_{\text{后}}\rangle = \sum_i c_i |s_i\rangle_S \otimes |o_i\rangle_O$$
+   $$
+   |\Psi_{\text{后}}\rangle = \sum_i c_i |s_i\rangle_S \otimes |o_i\rangle_O
+   $$
    
    此时总系统仍为纯态，$S(\rho_{S+O}) = 0$，但子系统变为混合态：
    
-   $$\rho_S = \text{Tr}_O(|\Psi_{\text{后}}\rangle\langle\Psi_{\text{后}}|) = \sum_i |c_i|^2 |s_i\rangle\langle s_i|_S$$
+   $$
+   \rho_S = \text{Tr}_O(|\Psi_{\text{后}}\rangle\langle\Psi_{\text{后}}|) = \sum_i |c_i|^2 |s_i\rangle\langle s_i|_S
+   $$
    
-   $$\rho_O = \text{Tr}_S(|\Psi_{\text{后}}\rangle\langle\Psi_{\text{后}}|) = \sum_i |c_i|^2 |o_i\rangle\langle o_i|_O$$
+   $$
+   \rho_O = \text{Tr}_S(|\Psi_{\text{后}}\rangle\langle\Psi_{\text{后}}|) = \sum_i |c_i|^2 |o_i\rangle\langle o_i|_O
+   $$
    
    子系统熵增加：$S(\rho_S), S(\rho_O) > 0$
 
@@ -785,28 +793,36 @@ $$
 1. **定义**：
    对于量子纯态 $|\psi\rangle$（假设已归一化：$\langle\psi|\psi\rangle = 1$），其密度矩阵为：
    
-   $$\rho_{\text{pure}} = |\psi\rangle\langle\psi|$$
+   $$
+   \rho_{\text{pure}} = |\psi\rangle\langle\psi|
+   $$
    
    这是一个投影算符，而非标量或单位矩阵。
 
 2. **迹(Trace)等于1**：
    密度矩阵的迹满足：
    
-   $$\text{Tr}(\rho_{\text{pure}}) = \text{Tr}(|\psi\rangle\langle\psi|) = \langle\psi|\psi\rangle = 1$$
+   $$
+   \text{Tr}(\rho_{\text{pure}}) = \text{Tr}(|\psi\rangle\langle\psi|) = \langle\psi|\psi\rangle = 1
+   $$
    
    所有物理可行的量子态（纯态或混合态）的密度矩阵都必须满足迹等于1，这反映了概率守恒原理。
 
 3. **幂等性**：
    纯态密度矩阵的独特性质是其幂等性：
    
-   $$\rho_{\text{pure}}^2 = (|\psi\rangle\langle\psi|)(|\psi\rangle\langle\psi|) = |\psi\rangle\langle\psi|\langle\psi|\psi\rangle = |\psi\rangle\langle\psi| = \rho_{\text{pure}}$$
+   $$
+   \rho_{\text{pure}}^2 = (|\psi\rangle\langle\psi|)(|\psi\rangle\langle\psi|) = |\psi\rangle\langle\psi|\langle\psi|\psi\rangle = |\psi\rangle\langle\psi| = \rho_{\text{pure}}
+   $$
    
    这意味着 $\rho_{\text{pure}}^2 = \rho_{\text{pure}}$，而混合态则不满足这一性质。
 
 4. **秩(Rank)等于1**：
    纯态密度矩阵的秩为1，即它只有一个非零特征值，且该特征值等于1。这意味着：
    
-   $$\text{特征值谱}(\rho_{\text{pure}}) = \{1, 0, 0, ..., 0\}$$
+   $$
+   \text{特征值谱}(\rho_{\text{pure}}) = \{1, 0, 0, ..., 0\}
+   $$
 
 ##### 纯态与混合态的区分
 
@@ -836,16 +852,24 @@ $$
 
 1. **经典系统熵的可加性**：
    - 经典系统中，若系统A和B相互独立，则：
-     $$S(A,B) = S(A) + S(B)$$
+     $$
+     S(A,B) = S(A) + S(B)
+     $$
    - 若有关联，则满足次可加性：
-     $$S(A,B) \leq S(A) + S(B)$$
+     $$
+     S(A,B) \leq S(A) + S(B)
+     $$
    - 这符合我们的直觉：整体的不确定性不应超过部分之和
 
 2. **量子系统的熵悖论**：
    - 对于量子纠缠系统，可能出现：
-     $$S(\rho_{A}) + S(\rho_{B}) > S(\rho_{AB})$$
+     $$
+     S(\rho_{A}) + S(\rho_{B}) > S(\rho_{AB})
+     $$
    - 极端情况下，纯态纠缠系统满足：
-     $$S(\rho_{AB}) = 0 \quad \text{而} \quad S(\rho_A), S(\rho_B) > 0$$
+     $$
+     S(\rho_{AB}) = 0 \quad \text{而} \quad S(\rho_A), S(\rho_B) > 0
+     $$
    - 这看似违反信息守恒，实际揭示了量子信息的非局域特性(量子纠缠态的本质)
 
 ##### 数学证明与分析
@@ -854,15 +878,23 @@ $$
    - 考虑Bell态：$|\Psi\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$
    - 总系统密度矩阵：$\rho_{AB} = |\Psi\rangle\langle\Psi|$（纯态，熵为0）
    - 部分迹得子系统：
-     $$\rho_A = \text{Tr}_B(|\Psi\rangle\langle\Psi|) = \frac{1}{2}|0\rangle\langle 0| + \frac{1}{2}|1\rangle\langle 1|$$
-     $$\rho_B = \text{Tr}_A(|\Psi\rangle\langle\Psi|) = \frac{1}{2}|0\rangle\langle 0| + \frac{1}{2}|1\rangle\langle 1|$$
+     $$
+     \rho_A = \text{Tr}_B(|\Psi\rangle\langle\Psi|) = \frac{1}{2}|0\rangle\langle 0| + \frac{1}{2}|1\rangle\langle 1|
+     $$
+     $$
+     \rho_B = \text{Tr}_A(|\Psi\rangle\langle\Psi|) = \frac{1}{2}|0\rangle\langle 0| + \frac{1}{2}|1\rangle\langle 1|
+     $$
    - 子系统熵计算：
-     $$S(\rho_A) = S(\rho_B) = -\frac{1}{2}\log_2\frac{1}{2} - \frac{1}{2}\log_2\frac{1}{2} = 1 \text{ 比特}$$
+     $$
+     S(\rho_A) = S(\rho_B) = -\frac{1}{2}\log_2\frac{1}{2} - \frac{1}{2}\log_2\frac{1}{2} = 1 \text{ 比特}
+     $$
    - 熵关系：$S(\rho_A) + S(\rho_B) = 2 > 0 = S(\rho_{AB})$
 
 2. **Schmidt分解视角**：
    - 任何双粒子纯态可写为Schmidt形式：
-     $$|\Psi\rangle = \sum_i \sqrt{\lambda_i} |i_A\rangle \otimes |i_B\rangle$$
+     $$
+     |\Psi\rangle = \sum_i \sqrt{\lambda_i} |i_A\rangle \otimes |i_B\rangle
+     $$
    - 子系统密度矩阵特征值均为 $\lambda_i$
    - 子系统熵均为 $S(\rho_{A/B}) = -\sum_i \lambda_i \log \lambda_i$
    - 最大纠缠时，$\lambda_i = 1/d$（等概率），熵达到最大：$\log d$
@@ -871,7 +903,9 @@ $$
    - 量子条件熵：$S(A|B) = S(A,B) - S(B)$
    - 经典条件熵恒正，量子条件熵可为负
    - 负条件熵正是子系统熵之和超过总系统熵的直接体现：
-     $$S(A|B) < 0 \Leftrightarrow S(A) + S(B) > S(A,B)$$
+     $$
+     S(A|B) < 0 \Leftrightarrow S(A) + S(B) > S(A,B)
+     $$
 
 ##### 物理意义与解释
 
