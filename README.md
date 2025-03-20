@@ -125,6 +125,7 @@
 - [建筑空间解释](./theories/applied_disciplines/architecture_space_explanations.md) - 建筑学与空间设计解释 (Architecture and Spatial Design Explanations)
 - [艺术美学解释](./theories/applied_disciplines/art_aesthetics_explanations.md) - 艺术与美学问题解释 | Art and Aesthetics Explanations
 - [艺术解释](./theories/applied_disciplines/art_explanation.md) - 艺术视角下的量子经典二元论 (Quantum-Classical Dualism from Art Perspective)
+- [占星学解释](./theories/applied_disciplines/astrology_explanations.md) - 占星学视角下的量子经典二元论 (Quantum-Classical Dualism from Astrological Perspective)
 - [烹饪食物解释](./theories/applied_disciplines/cooking_food_explanations.md) - 烹饪与食物文化解释 (Cooking and Food Culture Explanations)
 - [梦境睡眠解释](./theories/applied_disciplines/dream_sleep_explanations.md) - 梦境与睡眠科学解释 (Dream and Sleep Science Explanations)
 - [教育学习解释](./theories/applied_disciplines/education_learning_explanations.md) - 教育与学习理论解释 (Education and Learning Theory Explanations)
@@ -474,6 +475,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Architecture Space Explanations](./theories/applied_disciplines/architecture_space_explanations.md) - Architecture and Spatial Design Explanations
 - [Art Aesthetics Explanations](./theories/applied_disciplines/art_aesthetics_explanations.md) - Art and Aesthetics Explanations
 - [Art Explanation](./theories/applied_disciplines/art_explanation.md) - Quantum-Classical Dualism from Art Perspective
+- [Astrology Explanations](./theories/applied_disciplines/astrology_explanations.md) - Quantum-Classical Dualism from Astrological Perspective
 - [Cooking Food Explanations](./theories/applied_disciplines/cooking_food_explanations.md) - Cooking and Food Culture Explanations
 - [Dream Sleep Explanations](./theories/applied_disciplines/dream_sleep_explanations.md) - Dream and Sleep Science Explanations
 - [Education Learning Explanations](./theories/applied_disciplines/education_learning_explanations.md) - Education and Learning Theory Explanations
