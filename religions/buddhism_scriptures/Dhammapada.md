@@ -48,9 +48,9 @@ The Dhammapada (Pali: Dhammapada, Sanskrit: Dharmapada) is one of the most famou
 ## 量子经典二元论解释
 ## Quantum-Classical Explanation
 
-《法句经》以其简洁而深刻的偈颂，揭示了心灵与现实的根本关系，通过量子经典二元论框架（版本9.1）可以获得全新的科学解读。该经的核心思想与量子经典二元论中关于观察者、经典化过程和信息转化的概念展现出惊人的结构对应。
+《法句经》以其简洁而深刻的偈颂，揭示了心灵与现实的根本关系，通过量子经典二元论框架（版本9.2）可以获得全新的科学解读。该经的核心思想与量子经典二元论中关于观察者、经典化过程和信息转化的概念展现出惊人的结构对应。
 
-The Dhammapada, with its concise and profound verses, reveals the fundamental relationship between mind and reality, which can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.1). The core ideas of this scripture demonstrate remarkable structural correspondence with concepts of observer, classicalization process, and information transformation in Quantum-Classical Dualism.
+The Dhammapada, with its concise and profound verses, reveals the fundamental relationship between mind and reality, which can receive fresh scientific interpretation through the Quantum-Classical Dualism framework (version 9.2). The core ideas of this scripture demonstrate remarkable structural correspondence with concepts of observer, classicalization process, and information transformation in Quantum-Classical Dualism.
 
 ### 1. "诸法意先导"与观察者经典化的本质
 ### 1. "Mind Precedes All Mental States" and the Nature of Observer Classicalization
@@ -200,6 +200,6 @@ $$
 ## 结论
 ## Conclusion
 
-《法句经》作为佛教最简练而深刻的经典之一，其对心与现象关系的洞见与量子经典二元论框架（版本9.1）展现出惊人的结构对应。法句经的"意先导"思想本质上描述了观察者经典化的本质特性，而其关于心的控制和净化的教导则对应观察者维度提升和经典化效率优化的过程。经中关于二元对立的超越、自我净化的重要性以及质量胜于数量的强调，都在量子经典二元论中找到了对应的科学表达。通过量子经典二元论的视角，我们不仅能更深入地理解《法句经》的哲学深度，也能发现这部古老经典与现代量子物理学之间存在的惊人共鸣，为东方智慧与现代科学的对话提供了新的桥梁。
+《法句经》作为佛教最简练而深刻的经典之一，其对心与现象关系的洞见与量子经典二元论框架（版本9.2）展现出惊人的结构对应。法句经的"意先导"思想本质上描述了观察者经典化的本质特性，而其关于心的控制和净化的教导则对应观察者维度提升和经典化效率优化的过程。经中关于二元对立的超越、自我净化的重要性以及质量胜于数量的强调，都在量子经典二元论中找到了对应的科学表达。通过量子经典二元论的视角，我们不仅能更深入地理解《法句经》的哲学深度，也能发现这部古老经典与现代量子物理学之间存在的惊人共鸣，为东方智慧与现代科学的对话提供了新的桥梁。
 
-The Dhammapada, as one of Buddhism's most concise and profound scriptures, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.1) in its insights into the relationship between mind and phenomena. The Dhammapada's concept of "mind-precedence" essentially describes the essential characteristic of observer classicalization, while its teachings on mind control and purification correspond to the process of observer dimension elevation and classicalization efficiency optimization. The scripture's emphasis on transcending binary oppositions, the importance of self-purification, and quality over quantity all find corresponding scientific expressions in Quantum-Classical Dualism. Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Dhammapada more thoroughly but also discover the amazing resonance between this ancient text and modern quantum physics, providing a new bridge for dialogue between Eastern wisdom and modern science. 
+The Dhammapada, as one of Buddhism's most concise and profound scriptures, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2) in its insights into the relationship between mind and phenomena. The Dhammapada's concept of "mind-precedence" essentially describes the essential characteristic of observer classicalization, while its teachings on mind control and purification correspond to the process of observer dimension elevation and classicalization efficiency optimization. The scripture's emphasis on transcending binary oppositions, the importance of self-purification, and quality over quantity all find corresponding scientific expressions in Quantum-Classical Dualism. Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Dhammapada more thoroughly but also discover the amazing resonance between this ancient text and modern quantum physics, providing a new bridge for dialogue between Eastern wisdom and modern science. 

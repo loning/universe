@@ -8,9 +8,9 @@ English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [
 
 ## 概述 (Overview)
 
-增支部是巴利三藏中最重要的经典之一，按照数字顺序组织经文，从一到十一，主要探讨修行方法、道德规范和智慧开发。在量子经典二元论框架（版本9.1）下，这些经文展示了量子域与经典域的渐进关系。
+增支部是巴利三藏中最重要的经典之一，按照数字顺序组织经文，从一到十一，主要探讨修行方法、道德规范和智慧开发。在量子经典二元论框架（版本9.2）下，这些经文展示了量子域与经典域的渐进关系。
 
-The Anguttara Nikaya is one of the most important texts in the Pali Canon, organizing discourses numerically from one to eleven, primarily exploring cultivation methods, moral precepts, and wisdom development. Under the Quantum-Classical Dualism framework (Version 9.1), these sutras reveal the progressive relationship between quantum and classical domains.
+The Anguttara Nikaya is one of the most important texts in the Pali Canon, organizing discourses numerically from one to eleven, primarily exploring cultivation methods, moral precepts, and wisdom development. Under the Quantum-Classical Dualism framework (Version 9.2), these sutras reveal the progressive relationship between quantum and classical domains.
 
 ## 核心经文 (Key Texts)
 
@@ -71,6 +71,6 @@ $$
 
 ## 结论 (Conclusion)
 
-增支部通过量子经典二元论框架（版本9.1）的解析，展示了佛教修行方法与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应佛教的七觉支和四念处，经典域中的观察者训练对应佛教的八正道。这种对应关系不仅加深了我们对佛教修行方法的理解，也为现代物理学提供了新的实践维度。
+增支部通过量子经典二元论框架（版本9.2）的解析，展示了佛教修行方法与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应佛教的七觉支和四念处，经典域中的观察者训练对应佛教的八正道。这种对应关系不仅加深了我们对佛教修行方法的理解，也为现代物理学提供了新的实践维度。
 
-The Anguttara Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.1), reveals the profound connection between Buddhist cultivation methods and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of seven factors of enlightenment and four foundations of mindfulness, while observer training in the classical domain corresponds to Buddhist eightfold path. This correspondence not only deepens our understanding of Buddhist cultivation methods but also provides new practical dimensions for modern physics to explore. 
+The Anguttara Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist cultivation methods and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of seven factors of enlightenment and four foundations of mindfulness, while observer training in the classical domain corresponds to Buddhist eightfold path. This correspondence not only deepens our understanding of Buddhist cultivation methods but also provides new practical dimensions for modern physics to explore. 
