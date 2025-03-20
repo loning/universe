@@ -31,7 +31,7 @@ $$
 \mathcal{H}_{\text{universe}} = \mathcal{H}_O \otimes \mathcal{H}_S,
 $$
 
-其中 $\mathcal{H}_O$ 是观测者的希尔伯特空间，$\mathcal{H}_S$ 是被观测系统的希尔伯特空间。
+其中 $\mathcal{H}_O$ 是观测者的希尔伯特空间， $\mathcal{H}_S$ 是被观测系统的希尔伯特空间。
 
 宇宙波函数可以写作观测者与被观测者的纠缠态：
 
