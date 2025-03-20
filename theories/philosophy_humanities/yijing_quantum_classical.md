@@ -1,4 +1,4 @@
-# 易经与量子经典二元论：宇宙观对照与解释（量子经典二元论核心理论版本9.1）
+# 易经与量子经典二元论：宇宙观对照与解释（量子经典二元论核心理论版本9.2）
 # I Ching and Quantum-Classical Dualism: Cosmological Correspondence and Explanation (Quantum-Classical Dualism Core Theory Version 9.1)
 
 ## 总述 | Overview

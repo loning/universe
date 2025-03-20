@@ -1,14 +1,28 @@
-# 儒家经典文献 (Confucian Scriptures)
+# 儒家经典解读
 
-**导航 | Navigation**  
-[中文版](#儒家经典列表-list-of-confucian-scriptures) | [English Version](#儒家经典列表-list-of-confucian-scriptures)  
-**章节链接 | Section Links**  
-中文：[儒家经典列表](#儒家经典列表-list-of-confucian-scriptures) | [经典分类](#经典分类-scripture-classifications)  
-English: [Confucian Scriptures List](#儒家经典列表-list-of-confucian-scriptures) | [Scripture Classifications](#经典分类-scripture-classifications)
+本目录包含儒家主要经典的解释，基于量子经典二元论框架（版本9.2）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与儒家思想相融合。
+
+## 主要经典
+
+- [论语](Analects.md) - 记录孔子及其弟子言行的经典
+- [中庸](Doctrine_of_the_Mean.md) - 阐述"中和"之道的经典
+- [大学](Great_Learning.md) - 论述修身齐家治国平天下的经典
+- [孟子](Mencius.md) - 记录孟子思想的经典
+
+# Confucian Scripture Interpretations
+
+This directory contains interpretations of major Confucian scriptures based on the Quantum-Classical Dualism framework (Version 9.2). Each scripture is explained in a separate file, demonstrating how Quantum-Classical Dualism integrates with Confucian thought.
+
+## Major Scriptures
+
+- [Analects](Analects.md) - Records of Confucius and his disciples
+- [Doctrine of the Mean](Doctrine_of_the_Mean.md) - Classic on the Way of Mean and Harmony
+- [Great Learning](Great_Learning.md) - Classic on personal cultivation and governance
+- [Mencius](Mencius.md) - Records of Mencius' thought
 
 ## 儒家经典列表 (List of Confucian Scriptures)
 
-本目录包含儒家主要经典的解释，基于量子经典二元论框架（版本9.1）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与儒家思想相融合。
+本目录包含儒家主要经典的解释，基于量子经典二元论框架（版本9.2）。每部经典都在独立文件中进行解释，展示了量子经典二元论如何与儒家思想相融合。
 
 This directory contains explanations of major Confucian scriptures based on the Quantum-Classical Dualism framework (Version 9.1). Each scripture is explained in its own file, showing how Quantum-Classical Dualism integrates with Confucian thought.
 
