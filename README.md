@@ -10,7 +10,7 @@
 - [核心理论](./core.md) - 【量子经典二元论】核心理论完整正式版（版本9.2）
 - [宇宙诞生过程](./theories/universe_creation_process.md) - 【量子经典二元论】宇宙诞生到今天的全过程（版本9.2）
 - [物理解释](./core_explain.md) - 使用量子经典二元论解释现实物理与宇宙（版本9.2）
-- [量子经典解释](./quantum_classical_explanations/README.md) - 量子经典二元论基础概念与现象解释（版本9.2）
+- [量子经典物理解释](./quantum_classical_explanations/README.md) - 量子经典二元论基础概念与现象解释（版本9.2）
 - [简介](./01_introduction.md) - 简介 (Introduction)（版本9.2）
 - [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)（版本9.2）
 - [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)（版本9.2）
