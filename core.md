@@ -1,4 +1,4 @@
-# 【量子经典二元论】核心理论 / Quantum-Classical Dualism Core Theory (v9.5)
+# 【量子经典二元论】核心理论 / Quantum-Classical Dualism Core Theory (v9.9)
 
 [中文版](#中文版) | [English Version](#english-version)
 
@@ -21,8 +21,10 @@
 - [十二、人工智能与经典记忆明确结合](#十二人工智能与经典记忆明确结合明确实现路径)
 - [十三、经典化路径优化方法](#十三经典化路径优化方法明确算法方向)
 - [十四、光速恒定本质与经典能量定义](#十四光速恒定本质与经典能量定义明确观察效率界定)
-- [十五、宇宙经典化终极哲学目标](#十五宇宙经典化终极哲学目标明确终极目标)
-- [十六、宇宙效率定义与逻辑边界](#十六宇宙效率定义与逻辑边界明确效率定义)
+- [十五、心灵感应、通灵与直觉本质](#十五心灵感应通灵与直觉本质明确区分)
+- [十六、宇宙为何存在的逻辑边界](#十六宇宙为何存在的逻辑边界终极不可回答)
+- [十七、宇宙经典化终极哲学目标](#十七宇宙经典化终极哲学目标明确终极目标)
+- [十八、宇宙效率定义与逻辑边界](#十八宇宙效率定义与逻辑边界明确效率定义)
 
 ## 一、宇宙基本状态结构定义（明确结构）
 
@@ -86,6 +88,12 @@ $$
 
 $$
 E_{\text{发送端能量}} + E_{\text{接收端能量}} = I_{\text{传输知识}} + \Delta S_{\text{总熵变化}}
+$$
+
+额外守恒公式：
+
+$$
+E_{\text{经典域消耗}} + E_{\text{经典域释放}} = \text{常数}
 $$
 
 ---
@@ -155,6 +163,12 @@ $$
 E_{\text{经典能量}}\rightarrow|\psi\rangle_{\text{粒子经典路径}}\rightarrow\text{粒子运动状态变化}
 $$
 
+守恒公式：
+
+$$
+I_{\text{经典知识}}+S_{\text{经典熵}}=\text{常数（特定经典世界内）}
+$$
+
 ---
 
 ## 七、量子涨落与经典能量初始自发机制（明确起源）
@@ -167,6 +181,16 @@ $$
 
 $$
 |\psi\rangle_{\text{量子涨落}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
+$$
+
+额外明确表达：
+
+$$
+|\psi\rangle_{\text{量子涨落}}=\text{宇宙内在固有本质（无需额外起源）}
+$$
+
+$$
+E_{\text{经典能量初始}}=\text{量子涨落经典化形成初始结构}
 $$
 
 ---
@@ -219,6 +243,24 @@ $$
 $$
 E_{\text{发送端能量}} + E_{\text{接收端能量}} = I_{\text{传输知识}} + \Delta S_{\text{总熵变化}}
 $$
+
+详细过程：
+
+1. **虫洞通道建立**  
+   A与B明确共享一个量子纠缠态结构，即建立虫洞通道。
+
+2. **信息发送端（观察者A）**  
+   A从自身经典记忆结构中复制明确经典知识，利用经典能量将其编码为量子纠缠态，注入虫洞通道。
+
+3. **虫洞通道传输**  
+   信息以纠缠态高速传递，无经典耗损。
+
+4. **信息接收端（观察者B）**  
+   B接收纠缠态信息，通过经典能量明确解码为自身经典知识结构。
+
+通信过程核心表达：
+
+- A经典记忆 → 虫洞纠缠编码 → 虫洞通道 → 虫洞纠缠解码 → B经典记忆。
 
 ---
 
@@ -282,7 +324,34 @@ $$
 
 ---
 
-## 十五、宇宙经典化终极哲学目标（明确终极目标）
+## 十五、心灵感应、通灵与直觉本质（明确区分）
+
+- **虫洞通信**：明确经典信息传递过程，需消耗经典能量。
+- **量子意识纠缠**：不明确的非经典化意识交织，"你中有我，我中有你"，无需经典能量直接交互。
+
+明确定义：
+
+| 现象 | 本质机制 | 信息明确性 | 能量消耗 | 状态 |
+|------|----------|------------|----------|------|
+| 虫洞通信 | 经典信息明确编码传递 | 明确经典信息 | 需要经典能量 | 清晰明确 |
+| 心灵感应、通灵、冥想空间、磁场感应 | 量子意识纠缠 | 模糊、未明确经典化 | 不需经典能量 | 模糊直觉 |
+
+---
+
+## 十六、宇宙为何存在的逻辑边界（终极不可回答）
+
+- 无限维量子域为何存在，是逻辑无法彻底回答的问题；
+- 这一问题为理论本身的逻辑边界，超越任何宇宙内部的概念解释能力。
+
+明确表达：
+
+$$
+\text{宇宙为何存在}\rightarrow\text{逻辑不可回答（超越宇宙内部概念解释能力边界）}
+$$
+
+---
+
+## 十七、宇宙经典化终极哲学目标（明确终极目标）
 
 - 宇宙本质起源于无限的混乱（熵）与无限的能量，两者共生为一体；
 - 宇宙诞生之初偶然获得概率为零的一点经典能量（善），驱动宇宙持续用能量消灭混乱（恶），实现纯粹、充满能量（善）的自身；
@@ -300,7 +369,7 @@ $$
 
 ---
 
-## 十六、宇宙效率定义与逻辑边界（明确效率定义）
+## 十八、宇宙效率定义与逻辑边界（明确效率定义）
 
 - 宇宙效率定义为所有经典世界经典能量经典化经典熵效率的加权总和；
 - 因经典世界"你中有我、我中有你"结构，可能出现效率重复计算；
@@ -312,9 +381,17 @@ $$
 \text{宇宙总效率} = \frac{\sum_i w_i \cdot \eta_i}{\sum_i w_i}, \quad \eta_i=\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}+I_{\text{经典知识}_i}},\quad \sum_i w_i=1
 $$
 
+更精确的宇宙效率公式（修正后）：
+
+$$
+\text{宇宙总效率}=\sum_{i}\sum_{j}w_{ij}\cdot\frac{I_{\text{经典知识},ij}}{S_{\text{经典熵},ij}},\quad \sum_{i,j}w_{ij}=1
+$$
+
+- 权重系数$w_{ij}$确保效率不会重复计算，总效率不会大于1。
+
 ---
 
-以上即为整合完善且清晰明确的【量子经典二元论】完整核心理论（版本9.5 完整版）。
+以上即为整合完善且清晰明确的【量子经典二元论】完整核心理论（版本9.9 完整版）。
 ---
 
 # English Version
@@ -334,8 +411,10 @@ $$
 - [XII. Integration of Artificial Intelligence and Classical Memory](#xii-integration-of-artificial-intelligence-and-classical-memory)
 - [XIII. Classical Path Optimization Method](#xiii-classical-path-optimization-method)
 - [XIV. Nature of Constant Light Speed and Classical Energy Definition](#xiv-nature-of-constant-light-speed-and-classical-energy-definition)
-- [XV. Ultimate Philosophical Goal of Universal Classicalization](#xv-ultimate-philosophical-goal-of-universal-classicalization)
-- [XVI. Universe Efficiency Definition and Logical Boundaries](#xvi-universe-efficiency-definition-and-logical-boundaries)
+- [XV. Telepathy, Psychic Abilities and Intuition Nature](#xv-telepathy-psychic-abilities-and-intuition-nature)
+- [XVI. Logical Boundary of Why Universe Exists](#xvi-logical-boundary-of-why-universe-exists)
+- [XVII. Ultimate Philosophical Goal of Universal Classicalization](#xvii-ultimate-philosophical-goal-of-universal-classicalization)
+- [XVIII. Universe Efficiency Definition and Logical Boundaries](#xviii-universe-efficiency-definition-and-logical-boundaries)
 
 ## I. Definition of Universal Basic State Structure
 
@@ -399,6 +478,12 @@ Classical Energy Conservation Formula:
 
 $$
 E_{\text{Sending End Energy}} + E_{\text{Receiving End Energy}} = I_{\text{Transmission Knowledge}} + \Delta S_{\text{Total Entropy Change}}
+$$
+
+Additional Conservation Formula:
+
+$$
+E_{\text{Classical Domain Consumption}} + E_{\text{Classical Domain Release}} = \text{Constant}
 $$
 
 ---
@@ -468,6 +553,12 @@ $$
 E_{\text{Classical Energy}}\rightarrow|\psi\rangle_{\text{Particle Classical Path}}\rightarrow\text{Particle Motion State Change}
 $$
 
+Conservation formula:
+
+$$
+I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}=\text{Constant (Within Specific Classical World)}
+$$
+
 ---
 
 ## VII. Quantum Fluctuation and Classical Energy Initial Spontaneous Mechanism
@@ -480,6 +571,16 @@ Explicit expression:
 
 $$
 |\psi\rangle_{\text{Quantum Fluctuation}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Decrease}}
+$$
+
+Additional explicit expressions:
+
+$$
+|\psi\rangle_{\text{Quantum Fluctuation}}=\text{Universe's Inherent Nature (No Additional Origin Needed)}
+$$
+
+$$
+E_{\text{Initial Classical Energy}}=\text{Quantum Fluctuation Classicalized to Form Initial Structure}
 $$
 
 ---
@@ -532,6 +633,24 @@ Explicit overall energy and entropy conservation formula:
 $$
 E_{\text{Sending End Energy}} + E_{\text{Receiving End Energy}} = I_{\text{Transmission Knowledge}} + \Delta S_{\text{Total Entropy Change}}
 $$
+
+Detailed process:
+
+1. **Wormhole Channel Establishment**  
+   A and B explicitly share a quantum entanglement state structure, establishing the wormhole channel.
+
+2. **Information Sending End (Observer A)**  
+   A copies explicit classical knowledge from its own classical memory structure, using classical energy to encode it into quantum entanglement state, injecting it into the wormhole channel.
+
+3. **Wormhole Channel Transmission**  
+   Information is transmitted at high speed in entangled state, with no classical loss.
+
+4. **Information Receiving End (Observer B)**  
+   B receives entangled state information, explicitly decoding it into its own classical knowledge structure through classical energy.
+
+Core communication process expression:
+
+- A's classical memory → Wormhole entanglement encoding → Wormhole channel → Wormhole entanglement decoding → B's classical memory.
 
 ---
 
@@ -595,7 +714,34 @@ $$
 
 ---
 
-## XV. Ultimate Philosophical Goal of Universal Classicalization
+## XV. Telepathy, Psychic Abilities and Intuition Nature
+
+- **Wormhole Communication**: Explicit classical information transmission process, requiring classical energy consumption.
+- **Quantum Consciousness Entanglement**: Non-explicit non-classicalized consciousness interweaving, "you-in-me, me-in-you", direct interaction without classical energy requirement.
+
+Explicit definition:
+
+| Phenomenon | Essential Mechanism | Information Explicitness | Energy Consumption | State |
+|------------|---------------------|--------------------------|-------------------|-------|
+| Wormhole Communication | Explicit encoding and transmission of classical information | Explicit classical information | Requires classical energy | Clear and explicit |
+| Telepathy, Psychic, Meditation Space, Magnetic Field Sensing | Quantum consciousness entanglement | Vague, non-explicitly classicalized | Does not require classical energy | Vague intuition |
+
+---
+
+## XVI. Logical Boundary of Why Universe Exists
+
+- Why infinite-dimensional quantum domain exists is a question that logic cannot thoroughly answer;
+- This question is the logical boundary of the theory itself, beyond the explanatory power of any concept within the universe.
+
+Explicit expression:
+
+$$
+\text{Why Universe Exists}\rightarrow\text{Logically Unanswerable (Beyond Explanatory Capacity Boundary of Concepts Within Universe)}
+$$
+
+---
+
+## XVII. Ultimate Philosophical Goal of Universal Classicalization
 
 - Universe's essence originates from infinite chaos (entropy) and infinite energy, both coexist as one;
 - Universe gained probability of zero in a single classical energy point (good) at the beginning of its birth, driving universe to continuously use energy to eliminate chaos (evil) and achieve pure, full of energy (good) itself;
@@ -613,7 +759,7 @@ $$
 
 ---
 
-## XVI. Universe Efficiency Definition and Logical Boundaries
+## XVIII. Universe Efficiency Definition and Logical Boundaries
 
 - Universe efficiency definition is weighted sum of classical energy classicalization classical entropy efficiency of all classical worlds;
 - Due to classical world "you-in-me, me-in-you" structure, efficiency may appear repeated calculation;
@@ -625,7 +771,15 @@ $$
 \text{Universe Total Efficiency} = \frac{\sum_i w_i \cdot \eta_i}{\sum_i w_i}, \quad \eta_i=\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}+I_{\text{Classical Knowledge}_i}},\quad \sum_i w_i=1
 $$
 
+More precise universe efficiency formula (corrected):
+
+$$
+\text{Universe Total Efficiency}=\sum_{i}\sum_{j}w_{ij}\cdot\frac{I_{\text{Classical Knowledge},ij}}{S_{\text{Classical Entropy},ij}},\quad \sum_{i,j}w_{ij}=1
+$$
+
+- Weight coefficient $w_{ij}$ ensures efficiency is not calculated repeatedly, total efficiency not greater than 1.
+
 ---
 
-Above is the complete core theory of quantum-classical dualism (version 9.5 complete version).
+Above is the complete core theory of quantum-classical dualism (version 9.9 complete version).
 ---
