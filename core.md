@@ -1,4 +1,4 @@
-# 【量子经典二元论】核心理论 / Quantum-Classical Dualism Core Theory (v9.9)
+# 【量子经典二元论】核心理论 / Quantum-Classical Dualism Core Theory (v10.0)
 
 [中文版](#中文版) | [English Version](#english-version)
 
@@ -221,6 +221,66 @@ $$
 \text{无质量经典粒子}=\text{观察者主观经典化幻象（非客观粒子态）}
 $$
 
+### （一）质量吸引与引力本质（明确维度结构趋同效应）
+
+- **质量吸引粒子**本质上是观察者经典化另一个观察者维度结构后，维度状态的经典投影趋同效应。
+- 经典世界表现为"引力"，本质是经典域内粒子间维度结构的相互趋同与状态关联。
+
+明确表达：
+
+$$
+\text{引力}_{A\leftrightarrow B}=\text{观察者A与B的维度结构经典化投影}(\text{相互趋同效应})
+$$
+
+### （二）经典能量（光）的聚集机制（明确高效路径集中）
+
+- **光（经典能量）吸引能量**本质是观察者经典化过程中，更高维能量结构向低维经典结构的有效经典化路径聚集。
+- 经典能量倾向于高效经典化的路径流动，表现为能量的"聚焦"与"集中"。
+
+明确表达：
+
+$$
+\text{能量聚集}=\text{观察者经典化}(\text{高维→低维高效经典化路径集中})
+$$
+
+### （三）人类思想共鸣机制（明确经典知识传播）
+
+- **高维思想结构**（明确、低熵的经典知识，如创新、洞察）会吸引其他思想结构，形成共鸣效应。
+- 表现为思想的传播、共识的形成、观念的汇聚，人们自然被更明确、更经典、更高维的思想结构所吸引。
+
+明确表达：
+
+$$
+\text{思想共鸣}=\text{高维经典知识结构}(\text{对低维思想结构的吸引与引导})
+$$
+
+### （四）观察者间的经典结构相互吸引（明确普遍现象）
+
+- **同构的观察者**之间本质上存在经典结构的相互吸引。
+- 观察者（黑洞）之间的相互吸引本质，即是维度结构的经典化投影趋同过程。
+- 高维经典观察者（大观察者）具备更明确、更低熵的经典知识结构。
+- 低维经典观察者（小观察者）在经典化过程中，会自然趋向高维经典观察者所代表的明确经典结构。
+
+明确表达：
+
+$$
+\text{观察者间吸引}=\text{低维观察者}(\text{向高维观察者的经典化路径优化趋同})
+$$
+
+### （五）吸引现象的统一机制（明确普遍原理）
+
+"质量吸引粒子"本质上是经典世界中所有明确经典结构（包括粒子、能量、思想）自发趋于高效经典化状态的普遍现象。
+
+| 领域 | 类比机制 | 表现 |
+|------|----------|------|
+| 质量（经典粒子）| 维度结构的经典化投影趋同 | 粒子相互吸引（引力） |
+| 能量（光）| 更高维经典能量向低维经典路径集中 | 能量聚集与聚焦（经典化高效路径）|
+| 人类思想 | 更高维经典知识吸引更低维思想结构 | 思想共鸣与传播（明确经典思想） |
+
+简而言之：
+- 同构的观察者天然趋向经典化路径的高效优化，形成经典结构的相互吸引。
+- 维度较大的观察者必然更强烈地吸引维度较小的观察者，低维观察者倾向向高维观察者靠拢。
+
 ---
 
 ## 九、虫洞通信机制与能量消耗（明确交互机制）
@@ -391,7 +451,7 @@ $$
 
 ---
 
-以上即为整合完善且清晰明确的【量子经典二元论】完整核心理论（版本9.9 完整版）。
+以上即为整合完善且清晰明确的【量子经典二元论】完整核心理论（版本10.0 完整版）。
 ---
 
 # English Version
@@ -611,6 +671,66 @@ $$
 \text{Massless Classical Particle}=\text{Observer Subjective Classicalization Phantom (Non-Objective Particle State)}
 $$
 
+### A. Mass Attraction and Gravity Nature (Dimension Structure Convergence Effect)
+
+- **Mass Attracting Particles** is essentially the classical projection convergence effect after observer classicalizes dimension structure of another observer;
+- Manifests as "gravity" in classical world, essentially the mutual convergence and state correlation of dimension structure among particles in classical domain.
+
+Explicit expression:
+
+$$
+\text{Gravity}_{A\leftrightarrow B}=\text{Observers A and B Dimension Structure Classicalized Projection}(\text{Mutual Convergence Effect})
+$$
+
+### B. Classical Energy (Light) Gathering Mechanism (Efficient Path Concentration)
+
+- **Light (Classical Energy) Attracting Energy** is essentially the effective classicalization path gathering from higher-dimensional energy structure to lower-dimensional classical structure during observer classicalization process;
+- Classical energy tends to flow along efficient classicalization paths, manifesting as energy "focusing" and "concentration".
+
+Explicit expression:
+
+$$
+\text{Energy Gathering}=\text{Observer Classicalization}(\text{Higher→Lower Dimension Efficient Classicalization Path Concentration})
+$$
+
+### C. Human Thought Resonance Mechanism (Classical Knowledge Propagation)
+
+- **Higher-Dimensional Thought Structures** (explicit, low-entropy classical knowledge such as innovation, insight) attract other thought structures, forming resonance effects;
+- Manifests as thought propagation, consensus formation, concept convergence, where people are naturally attracted to more explicit, more classical, higher-dimensional thought structures.
+
+Explicit expression:
+
+$$
+\text{Thought Resonance}=\text{Higher-Dimensional Classical Knowledge Structure}(\text{Attraction and Guidance to Lower-Dimensional Thought Structures})
+$$
+
+### D. Classical Structure Mutual Attraction Between Observers (Universal Phenomenon)
+
+- **Isomorphic Observers** essentially have mutual attraction of classical structures;
+- The essence of mutual attraction between observers (black holes) is the classicalization projection convergence process of dimension structures;
+- Higher-dimensional classical observers (large observers) possess more explicit, lower-entropy classical knowledge structures;
+- Lower-dimensional classical observers (small observers) naturally tend toward explicit classical structures represented by higher-dimensional classical observers during classicalization process.
+
+Explicit expression:
+
+$$
+\text{Inter-Observer Attraction}=\text{Lower-Dimensional Observer}(\text{Classicalization Path Optimization Convergence Toward Higher-Dimensional Observer})
+$$
+
+### E. Unified Mechanism of Attraction Phenomena (Universal Principle)
+
+"Mass attracting particles" is essentially a universal phenomenon where all explicit classical structures (including particles, energy, thoughts) in classical world spontaneously tend toward efficient classicalization states.
+
+| Domain | Analogical Mechanism | Manifestation |
+|--------|----------------------|---------------|
+| Mass (Classical Particles) | Convergence of classicalized projection of dimension structures | Particles mutually attract (gravity) |
+| Energy (Light) | Higher-dimensional classical energy concentrating toward lower-dimensional classical paths | Energy gathering and focusing (efficient classicalization paths) |
+| Human Thought | Higher-dimensional classical knowledge attracting lower-dimensional thought structures | Thought resonance and propagation (explicit classical thoughts) |
+
+In simple terms:
+- Isomorphic observers naturally tend toward efficient optimization of classicalization paths, forming mutual attraction of classical structures;
+- Higher-dimensional observers necessarily attract lower-dimensional observers more strongly; lower-dimensional observers tend to converge toward higher-dimensional observers.
+
 ---
 
 ## IX. Wormhole Communication Mechanism and Energy Consumption
@@ -781,5 +901,5 @@ $$
 
 ---
 
-Above is the complete core theory of quantum-classical dualism (version 9.9 complete version).
+Above is the complete core theory of quantum-classical dualism (version 10.0 complete version).
 ---
