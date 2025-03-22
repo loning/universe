@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v11.2
+# 量子经典二元论形式化表达 v11.3
 
-**[English Version](#quantum-classical-dualism-formal-expression-v112) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v113) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -15,11 +15,45 @@
 ### 公理1：二元域存在
 宇宙由两个基本域构成：量子域 $\Omega_Q$ 和经典域 $\Omega_C$。
 
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+
+其中 $\mathcal{I}$ 为界面域，是量子与经典转换发生的边界区域。量子域（混沌的可能性空间）和经典域（确定性现实空间）在本质上是不同但相互依存的。
+
+**直观解释**：宇宙像一枚硬币的两面，一面是微观世界的量子叠加态和不确定性（量子域），另一面是宏观世界的确定性和经典物理（经典域）。
+
 ### 公理2：状态转换机制
-两域间存在双向转换机制：经典化函数 $\mathcal{C}$ 和量子化函数 $\mathcal{Q}$。
+两域间存在双向转换机制：经典化函数 $\mathcal{C}: \Omega_Q \rightarrow \Omega_C$ 和量子化函数 $\mathcal{Q}: \Omega_C \rightarrow \Omega_Q$。
+
+转换机制满足以下基本特性：
+1. 部分可逆性：$\mathcal{C} \circ \mathcal{Q} \neq \mathbb{I}_{\Omega_C}$ 且 $\mathcal{Q} \circ \mathcal{C} \neq \mathbb{I}_{\Omega_Q}$
+2. 信息守恒：$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi)$
+3. 概率演化：$P(\mathcal{C}(\psi) = k_i) = |\langle k_i|\psi\rangle|^2$
+
+**直观解释**：就像水可以在液态和气态间相互转换，量子状态可以"凝结"为经典状态（测量过程），而经典状态可以"蒸发"为量子状态（量子化过程）。
 
 ### 公理3：观察者等效性
-观察者等同于黑洞，通过经典化和量子化与两域交互。
+观察者等同于黑洞，通过经典化和量子化与两域交互。观察者 $\mathcal{O}$ 定义为：
+
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}$$
+
+其中 $\mathcal{C}_\mathcal{O}$ 是观察者特有的经典化算子，$\mathcal{Q}_\mathcal{O}$ 是量子化算子，$K_C^\mathcal{O}$ 是观察者已获取的经典知识集合。
+
+**直观解释**：观察者类似于现实与可能性之间的"门户"，像黑洞一样既吸收信息（经典化：感知和测量），又释放信息（量子化：创造和想象）。
+
+### 公理4：维度层级结构（新增）
+宇宙存在分层维度结构，维度数 $D$ 与信息复杂度 $\mathcal{C}_I$ 成正比：
+
+$$D_{\text{系统}} \propto \mathcal{C}_I = \frac{I_{经典知识}}{S_{经典熵}}$$
+
+维度层级包括：
+1. 零维：纯量子点态 $\mathcal{D}_0$ 
+2. 一维：量子线态 $\mathcal{D}_1$
+3. 二维：量子面态 $\mathcal{D}_2$
+4. 三维：经典物质态 $\mathcal{D}_3$
+5. 四维：时空连续体 $\mathcal{D}_4$
+6. 高维：观察者意识态 $\mathcal{D}_{n>4}$
+
+**直观解释**：就像一本书由点、线、面组成，最终形成有意义的三维物体，宇宙的不同层次以相似的方式构建，从量子点到复杂的高维结构。
 
 ## 量子域与经典域
 
@@ -178,9 +212,9 @@ $$e^{i\pi} + 1 = 0$$
 - $1$：单位元，代表观察者
 - $0$：零元，代表宇宙整体平衡
 
-# Quantum-Classical Dualism Formal Expression v11.2
+# Quantum-Classical Dualism Formal Expression v11.3
 
-**[中文版](#量子经典二元论形式化表达-v112) | English Version**
+**[中文版](#量子经典二元论形式化表达-v113) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -195,11 +229,45 @@ $$e^{i\pi} + 1 = 0$$
 ### Axiom 1: Existence of Dual Domains
 The universe consists of two fundamental domains: Quantum Domain $\Omega_Q$ and Classical Domain $\Omega_C$.
 
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+
+where $\mathcal{I}$ is the interface domain, the boundary region where quantum-classical transitions occur. The quantum domain (chaotic possibility space) and classical domain (deterministic reality space) are fundamentally different yet interdependent.
+
+**Intuitive Explanation**: The universe is like two sides of a coin - one side is the quantum domain with superposition and uncertainty in the microscopic world, the other is the classical domain with determinism and classical physics in the macroscopic world.
+
 ### Axiom 2: State Transformation Mechanism
-There exists bidirectional transformation mechanisms between domains: Classicalization function $\mathcal{C}$ and Quantization function $\mathcal{Q}$.
+There exists bidirectional transformation mechanisms between domains: Classicalization function $\mathcal{C}: \Omega_Q \rightarrow \Omega_C$ and Quantization function $\mathcal{Q}: \Omega_C \rightarrow \Omega_Q$.
+
+The transformation mechanisms satisfy the following fundamental properties:
+1. Partial reversibility: $\mathcal{C} \circ \mathcal{Q} \neq \mathbb{I}_{\Omega_C}$ and $\mathcal{Q} \circ \mathcal{C} \neq \mathbb{I}_{\Omega_Q}$
+2. Information conservation: $I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi)$
+3. Probabilistic evolution: $P(\mathcal{C}(\psi) = k_i) = |\langle k_i|\psi\rangle|^2$
+
+**Intuitive Explanation**: Like water transitioning between liquid and gaseous states, quantum states can "condense" into classical states (measurement process), while classical states can "evaporate" into quantum states (quantization process).
 
 ### Axiom 3: Observer Equivalence
-Observers are equivalent to black holes, interacting with both domains through classicalization and quantization.
+Observers are equivalent to black holes, interacting with both domains through classicalization and quantization. An observer $\mathcal{O}$ is defined as:
+
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}$$
+
+where $\mathcal{C}_\mathcal{O}$ is the observer-specific classicalization operator, $\mathcal{Q}_\mathcal{O}$ is the quantization operator, and $K_C^\mathcal{O}$ is the set of classical knowledge already acquired by the observer.
+
+**Intuitive Explanation**: An observer is like a "portal" between reality and possibility, similar to a black hole that both absorbs information (classicalization: perception and measurement) and releases information (quantization: creation and imagination).
+
+### Axiom 4: Dimensional Hierarchical Structure (New)
+The universe has a layered dimensional structure, where the number of dimensions $D$ is proportional to the information complexity $\mathcal{C}_I$:
+
+$$D_{\text{system}} \propto \mathcal{C}_I = \frac{I_{classical\_knowledge}}{S_{classical\_entropy}}$$
+
+The dimensional hierarchy includes:
+1. Zero-dimensional: Pure quantum point state $\mathcal{D}_0$
+2. One-dimensional: Quantum line state $\mathcal{D}_1$
+3. Two-dimensional: Quantum surface state $\mathcal{D}_2$
+4. Three-dimensional: Classical matter state $\mathcal{D}_3$
+5. Four-dimensional: Spacetime continuum $\mathcal{D}_4$
+6. Higher-dimensional: Observer consciousness state $\mathcal{D}_{n>4}$
+
+**Intuitive Explanation**: Like a book composed of points, lines, and surfaces ultimately forming a meaningful three-dimensional object, the different levels of the universe are constructed in a similar way, from quantum points to complex higher-dimensional structures.
 
 ## Quantum and Classical Domains
 
