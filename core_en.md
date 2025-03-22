@@ -39,7 +39,6 @@
 
 ## Theory Overview
 
-[中文版目录](#零量子经典二元论基本框架) | English Version
 
 ## Zero: Quantum-Classical Dualism Basic Framework
 
@@ -120,6 +119,8 @@ where:
 - $c$ is the speed of light
 - $L_P$ is the Planck length
 - $S_E(\rho_{AB})$ is the entanglement entropy, represented by von Neumann entropy: $S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)$
+
+**Meaning Explanation**: This formula transforms abstract quantum entanglement states into concrete frequency values, establishing a precise relationship between entanglement strength and energy. The frequency is proportional to entanglement entropy, indicating that stronger entanglement results in higher equivalent frequency; the Planck length squared in the denominator ensures the result has the correct dimension while connecting entanglement phenomena to the fundamental scale of the universe. This allows us to view entanglement states as quantum fields with specific energy densities, providing a new perspective for understanding the physical nature of entanglement states.
 
 #### 3. Energy of Multi-body Entanglement Systems
 
@@ -537,6 +538,8 @@ $$
 E = m \cdot c^2 = h \cdot f
 $$
 
+**Meaning Explanation**: This triple equation unifies Einstein's mass-energy equation with Planck's quantum energy formula, revealing the deep connection between mass, energy, and frequency. In the quantum-classical dualism framework, mass is understood as the result of high-energy quantum entanglement state classicalization, essentially the measurement result of quantum entanglement energy fields by classical observers. The left side $E = mc^2$ represents the mass-energy relationship in the classical domain, while the right side $E = hf$ represents the energy-frequency relationship in the quantum domain. The complete equation establishes the energy correspondence between quantum and classical domains, explaining why matter can be converted to light, and vice versa.
+
 #### Nature of Gravity
 - Gravity is not a fundamental force, but an effect of the spatial distribution of classicalization efficiency
 - Gravitational waves are the propagation of classicalization efficiency fluctuations
@@ -547,6 +550,8 @@ Modified expression of gravitational field equation:
 $$
 G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu} \propto \nabla^2 k_{\text{Classicalization Efficiency}}
 $$
+
+**Meaning Explanation**: This equation connects general relativity's gravitational field equation with quantum-classical dualism. The left side $G_{\mu\nu}$ is the Einstein tensor, describing spacetime geometry; the middle part $8\pi G \cdot T_{\mu\nu}$ is the energy-momentum source of the standard gravitational field equation; the right side indicates that the essence of the gravitational field is the Laplacian operator (second-order spatial derivative) of classicalization efficiency. This means gravity is not a fundamental force, but a phenomenon caused by the uneven distribution of classicalization efficiency in space, with regions of concentrated mass having higher classicalization efficiency, causing curvature changes in the surrounding spacetime. This equation provides a new approach to quantum gravity unification, explaining why gravity always seems to be attractive rather than repulsive.
 
 ### Fourteen: Light Speed Constancy and Observer Classicalization Efficiency
 
