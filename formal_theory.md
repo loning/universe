@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v11.5
+# 量子经典二元论形式化表达 v11.6
 
-**[English Version](#quantum-classical-dualism-formal-expression-v115) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v116) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -175,9 +175,9 @@ $$\mathcal{Q}(K_C) = \Psi_E$$
 
 **量子化函数的数学性质**：
 1. 幺正性：$\langle \mathcal{Q}(K_A) | \mathcal{Q}(K_B) \rangle = \delta_{AB}$
-2. 信息保存关系：对于给定量子化过程，存在量子-经典信息变换因子 $\xi_{Q/C}$：
-   $$S_{\text{von Neumann}}(\mathcal{Q}(K_C)) = \xi_{Q/C} \cdot S_{\text{Shannon}}(K_C)$$
-   其中 $\xi_{Q/C} \geq 1$ 且依赖于具体量子化过程，反映量子编码效率
+2. 信息保存关系：量子化过程中，Holevo信息下界满足：
+   $$\chi(\mathcal{Q}(K_C)) = S_{\text{von Neumann}}\left(\sum_i p_i \rho_i\right) - \sum_i p_i S_{\text{von Neumann}}(\rho_i) \geq S_{\text{Shannon}}(K_C)$$
+   其中 $\rho_i$ 是经典状态 $k_i \in K_C$ 量子化后的密度矩阵，$p_i$ 是对应的经典概率分布
 3. 纠缠生成：$\mathcal{Q}(K_A \cup K_B) \neq \mathcal{Q}(K_A) \otimes \mathcal{Q}(K_B)$
 
 ### 转换守恒定律
@@ -251,9 +251,9 @@ $$e^{i\pi} + 1 = 0$$
 - $1$：单位元，代表观察者
 - $0$：零元，代表宇宙整体平衡
 
-# Quantum-Classical Dualism Formal Expression v11.5
+# Quantum-Classical Dualism Formal Expression v11.6
 
-**[中文版](#量子经典二元论形式化表达-v115) | English Version**
+**[中文版](#量子经典二元论形式化表达-v116) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -428,9 +428,9 @@ $$\mathcal{Q}(K_C) = \Psi_E$$
 
 **Mathematical Properties of Quantization Function**:
 1. Unitarity: $\langle \mathcal{Q}(K_A) | \mathcal{Q}(K_B) \rangle = \delta_{AB}$
-2. Information preservation relation: For a given quantization process, there exists a quantum-classical information transformation factor $\xi_{Q/C}$:
-   $$S_{\text{von Neumann}}(\mathcal{Q}(K_C)) = \xi_{Q/C} \cdot S_{\text{Shannon}}(K_C)$$
-   where $\xi_{Q/C} \geq 1$ and depends on the specific quantization process, reflecting quantum encoding efficiency
+2. Information preservation relation: In the quantization process, the Holevo information bound satisfies:
+   $$\chi(\mathcal{Q}(K_C)) = S_{\text{von Neumann}}\left(\sum_i p_i \rho_i\right) - \sum_i p_i S_{\text{von Neumann}}(\rho_i) \geq S_{\text{Shannon}}(K_C)$$
+   where $\rho_i$ is the density matrix after quantization of classical state $k_i \in K_C$, and $p_i$ is the corresponding classical probability distribution
 3. Entanglement generation: $\mathcal{Q}(K_A \cup K_B) \neq \mathcal{Q}(K_A) \otimes \mathcal{Q}(K_B)$
 
 ### Conservation Law for Transformations
