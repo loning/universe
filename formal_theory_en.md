@@ -1,4 +1,4 @@
-# Quantum-Classical Dualism Formal Theory v25.0
+# Quantum-Classical Dualism Formal Theory v25.1
 
 **English Version | [中文版](formal_theory.md)**
 
@@ -25,6 +25,7 @@
 - [Topological Information Protection Theory](formal_theory_topology_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
 - [Quantum Artificial Intelligence and Machine Learning](formal_theory_quantum_ai_en.md)
+- [Quantum-Classical Information Security Theory](formal_theory_quantum_security_en.md)
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -48,8 +49,9 @@
 - [Multiscale Dualism and Application Layer Extensions](#multiscale-dualism-and-application-layer-extensions)
 - [Topological Information Protection Mechanism](#topological-information-protection-mechanism)
 - [Quantum Artificial Intelligence and Machine Learning Theory](#quantum-artificial-intelligence-and-machine-learning-theory)
+- [Quantum-Classical Information Security Theory](#quantum-classical-information-security-theory)
 
-> This theory is based on [Core Theory](core_en.md) v25.0
+> This theory is based on [Core Theory](core_en.md) v11.1
 
 ## Basic Definitions and Axioms
 
@@ -1204,4 +1206,175 @@ where:
 - $\mathcal{R}_{\text{symbolic}}$ is a symbolic rule system
 - $\mathcal{I}_{\text{conversion}}$ is a neural→symbolic and symbolic→neural conversion interface
 
-This structure combines the parallelism of quantum computing with the interpretability of symbolic systems, providing a theoretical foundation for next-generation explainable AI. 
+This structure combines the parallelism of quantum computing with the interpretability of symbolic systems, providing a theoretical foundation for next-generation explainable AI.
+
+## Quantum-Classical Information Security Theory
+
+Quantum-Classical Dualism provides a novel theoretical framework for information security, unifying classical cryptography and quantum cryptography while revealing the deep connections between them.
+
+### Dual Security Principles
+
+Quantum-Classical information security is based on the following core principles:
+
+$$\mathcal{S}_{total} = \mathcal{S}_Q \oplus \mathcal{S}_C \oplus \mathcal{S}_{Q-C}$$
+
+where:
+- $\mathcal{S}_Q$ represents quantum domain security, based on quantum uncertainty and the no-cloning principle
+- $\mathcal{S}_C$ represents classical domain security, based on computational complexity and mathematical problems
+- $\mathcal{S}_{Q-C}$ represents interface security, focusing on information protection during quantum-classical conversion processes
+
+This unified framework reveals the essence of information security: security stems from the irreversibility and complexity of information conversion between quantum and classical domains.
+
+### Quantum-Classical Hybrid Cryptosystems
+
+Dual hybrid cryptosystems integrate quantum and classical encryption methods:
+
+$$\mathcal{E}_{hybrid}(m) = \mathcal{E}_C(\mathcal{E}_Q(m), k_C)$$
+
+where:
+- $\mathcal{E}_Q$ is the quantum encryption operation, utilizing quantum state superposition and entanglement
+- $\mathcal{E}_C$ is the classical encryption operation, based on traditional algorithms
+- $k_C$ is the classical key
+
+The decryption process is correspondingly represented as:
+
+$$\mathcal{D}_{hybrid}(c) = \mathcal{D}_Q(\mathcal{D}_C(c, k_C))$$
+
+The security of the hybrid system satisfies:
+
+$$\mathcal{S}_{hybrid} \geq \max(\mathcal{S}_Q, \mathcal{S}_C)$$
+
+With appropriate design, hybrid cryptosystems can resist both pure quantum attacks and pure classical attacks, providing more comprehensive security protection.
+
+### Quantum-Classical Key Distribution
+
+Dual key distribution protocols leverage the complementary advantages of quantum and classical channels:
+
+$$K_{shared} = f_C(K_Q) \oplus f_Q(K_C)$$
+
+where:
+- $K_Q$ is key material distributed through the quantum channel
+- $K_C$ is key material distributed through the classical channel
+- $f_C$ and $f_Q$ are classical and quantum processing functions, respectively
+- $\oplus$ represents the key combination operation
+
+The key advantage of this scheme is that even if either the quantum channel or the classical channel is completely compromised, the system still maintains partial security. Security is quantified as:
+
+$$P_{breach} \leq P_{breach\_classical} \cdot P_{breach\_quantum}$$
+
+### Interface Security Vulnerabilities
+
+The quantum-classical interface is a critical vulnerability in modern information systems, manifesting as information leakage during measurement and conversion processes:
+
+$$I_{leaked} = I_{original} - I_{post-conversion} = I(\rho_{quantum}:E) + H(X_{classical}|X_{ideal})$$
+
+where:
+- $I(\rho_{quantum}:E)$ quantifies the mutual information between the quantum state and the environment
+- $H(X_{classical}|X_{ideal})$ is the conditional entropy of the classical output relative to the ideal output
+
+The severity of interface security vulnerabilities correlates with the effectiveness of the classicalization process:
+
+$$V_{vulnerability} \propto (1 - \eta_{\mathcal{C}}) \cdot I_{total}$$
+
+where $\eta_{\mathcal{C}}$ is the classicalization efficiency.
+
+### Dualistic Perspective on Post-Quantum Cryptography
+
+Traditional post-quantum cryptography can be reinterpreted as classical domain defense against quantum domain attacks:
+
+$$\mathcal{S}_{post-quantum} = \max_{k \in \mathcal{K}_C} \min_{A_Q \in \mathcal{A}_Q} \mathcal{D}(A_Q(E_k(m)), m)$$
+
+where:
+- $\mathcal{K}_C$ is the classical key space
+- $\mathcal{A}_Q$ is the set of quantum attack algorithms
+- $\mathcal{D}$ is an information distance metric
+
+From a dualistic perspective, the essence of post-quantum cryptography is designing classical structures with "quantum resistance." This viewpoint inspires design principles for new quantum-resistant algorithms:
+
+1. **Information Domain Separation**: Distributing sensitive information across quantum and classical domains
+2. **Interface Complexification**: Increasing the computational complexity of quantum-classical conversion
+3. **Dynamic Equivalence**: Ensuring the cryptosystem has equivalent security strength in both quantum and classical computational models
+
+### Quantum-Classical Side-Channel Defense
+
+Dualism provides a unified framework for side-channel attack defense:
+
+$$I_{side-channel} = I_Q(physical\ leakage) + I_C(algorithmic\ leakage) + I_{Q-C}(conversion\ leakage)$$
+
+Comprehensive defense strategies include:
+
+1. **Quantum Masking**: Using quantum noise to mask physical characteristics
+   $$\rho_{masked} = (1-p)\rho_{original} + p\rho_{noise}$$
+
+2. **Classical Obfuscation**: Using classically computation-invariant forms
+   $$f_{obfuscated}(x, r) = f(x) \;\forall r \in R$$
+
+3. **Interface Isolation**: Adding buffers at quantum-classical conversion points
+   $$\mathcal{B}(\mathcal{C}(\rho)) \approx \mathcal{C}(\mathcal{B}(\rho))$$
+
+This multi-domain defense strategy can resist both traditional and quantum side-channel attacks, protecting the security of future cryptographic systems.
+
+### Quantum Zero-Knowledge Proofs with Classical Verification
+
+In the dualistic framework, zero-knowledge proofs are divided into quantum preparation and classical verification parts:
+
+$$\mathcal{P}_Q \times \mathcal{V}_C \rightarrow \{accept,reject\}$$
+
+The prover uses quantum superposition to prepare the proof:
+
+$$|\psi_{proof}\rangle = \sum_w \sqrt{p_w} |w, f(w)\rangle$$
+
+The verifier checks the proof through classical measurement and verification processes:
+
+$$\mathcal{V}_C(x, \mathcal{M}(|\psi_{proof}\rangle)) \in \{accept,reject\}$$
+
+This combination of quantum preparation and classical verification achieves a balance of efficiency and security beyond pure quantum or pure classical methods. Completeness and soundness are quantified respectively as:
+
+$$P_{completeness} \geq 1 - |\langle \psi_{ideal}|\psi_{actual}\rangle|^2$$
+
+$$P_{soundness} \leq 2^{-n} + \max_{\mathcal{A}} P(\mathcal{A}(x) = w)$$
+
+### Information-Theoretic Security Boundaries
+
+Dualism establishes unified information-theoretic boundaries for quantum and classical information security:
+
+$$H(K|E) \geq H(K) - \min(I_Q, I_C, I_{Q-C})$$
+
+where:
+- $H(K|E)$ is the conditional entropy of the key after an eavesdropper obtains environmental information
+- $I_Q$ is quantum domain information leakage
+- $I_C$ is classical domain information leakage
+- $I_{Q-C}$ is interface information leakage
+
+This boundary reveals the essence of quantum-enhanced secrecy: utilizing information asymmetry at the quantum-classical interface to create encryption systems with information-theoretic security.
+
+### Quantum Blockchain and Trust Networks
+
+Quantum blockchain is based on a quantum-classical dual verification mechanism:
+
+$$\mathcal{BC}_{Q-C} = \{B_i = (D_i, H_i^Q, H_i^C)\}_{i=1}^n$$
+
+where:
+- $D_i$ is the block data
+- $H_i^Q$ is the quantum hash, based on quantum entanglement
+- $H_i^C$ is the classical hash, based on traditional algorithms
+
+The verification process checks both types of hashes simultaneously:
+
+$$V(B_i) = V_Q(H_i^Q) \land V_C(H_i^C)$$
+
+This dual verification provides a balance between "quantum security" and "classical verifiability," maintaining system security even if quantum computers can break classical hashing.
+
+### Experimental Validation and Technical Applications
+
+The quantum-classical information security theory predicts several phenomena that can be experimentally validated in the near term:
+
+1. **Quantum-Classical Hybrid Key Correlation**:
+   $$I(K_Q:K_C|E) < I(K_Q:K_C)$$
+   indicating that hybrid keys maintain partial correlation even when the environment is completely exposed.
+
+2. **Quantitative Relationship of Interface Vulnerabilities**:
+   $$I_{leakage} \propto T^{-\alpha} \cdot (N_Q \cdot N_C)^{\beta}$$
+   where $T$ is the system temperature, and $N_Q$ and $N_C$ are the number of quantum and classical degrees of freedom, respectively.
+
+These predictions can be validated through quantum-classical hybrid key distribution experiments, laying the foundation for next-generation secure communication systems. 
