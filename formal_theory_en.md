@@ -1,4 +1,4 @@
-# Quantum-Classical Dualism Formal Expression v19.0
+# Quantum-Classical Dualism Formal Expression v20.0
 
 **[中文版](formal_theory.md) | English Version**
 
@@ -10,6 +10,7 @@
 - [Observer Theory](formal_theory_observer_en.md)
 - [Mathematical Appendix](formal_theory_mathematical_appendix_en.md)
 - [Experimental Predictions](formal_theory_experimental_en.md)
+- [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 
 ## Table of Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)

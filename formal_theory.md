@@ -1,4 +1,4 @@
-# 量子经典二元论形式化表达 v19.0
+# 量子经典二元论形式化表达 v20.0
 
 **[English Version](formal_theory_en.md) | 中文版**
 
@@ -10,6 +10,7 @@
 - [观察者理论](formal_theory_observer.md)
 - [数学附录](formal_theory_mathematical_appendix.md)
 - [实验预测](formal_theory_experimental.md)
+- [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
