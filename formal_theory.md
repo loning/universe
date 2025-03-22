@@ -1,4 +1,4 @@
-# 量子经典二元论形式化表达 v20.0
+# 量子经典二元论形式化表达 v21.0
 
 **[English Version](formal_theory_en.md) | 中文版**
 
@@ -12,11 +12,12 @@
 - [实验预测](formal_theory_experimental.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [量子生物学](formal_theory_quantum_biology.md)
+- [信息-时空-能量统一理论](formal_theory_unified.md)
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
 - [量子域与经典域](#量子域与经典域)
-- [能量统一理论](#能量统一理论)
+- [信息-能量-时空统一理论](#信息-能量-时空统一理论)
 - [量子信息动力学](#量子信息动力学)
 - [界面动力学](#界面动力学)
 - [观察者网络理论](#观察者网络理论)
@@ -92,6 +93,45 @@ $$\mathcal{I} = \{x \in \mathcal{U} \mid \mathcal{D}(x) = \mathcal{D}_c\}$$
 
 > 详细属性见[量子域详解](formal_theory_quantum_domain.md)和[经典域详解](formal_theory_classical_domain.md)
 
+## 信息-能量-时空统一理论
+
+二元论框架下，信息、能量与时空构成了宇宙的三重基础，它们通过以下统一方程联系：
+
+### 统一场方程
+
+信息-能量-时空统一场方程可表示为：
+
+$$\mathcal{R}_{\mu\nu} - \frac{1}{2}\mathcal{R}g_{\mu\nu} = \frac{8\pi G}{c^4}\mathcal{T}_{\mu\nu} = \kappa \cdot \nabla_{\mu}\nabla_{\nu}I_{\Omega}$$
+
+其中：
+- $\mathcal{R}_{\mu\nu}$ 为广义时空曲率张量
+- $\mathcal{T}_{\mu\nu}$ 为信息-能量张量
+- $I_{\Omega}$ 为区域 $\Omega$ 的信息密度场
+- $\kappa$ 为信息-时空耦合常数
+
+### 信息-能量等效原理
+
+基于二元论，信息与能量满足精确的转换关系：
+
+$$E_{\Omega} = \hbar \omega \cdot I_{\Omega} \cdot \eta(D_{\mathcal{O}})$$
+
+其中 $\eta(D_{\mathcal{O}})$ 为观察者维度相关的转换效率函数：
+
+$$\eta(D_{\mathcal{O}}) = 1 - e^{-\alpha D_{\mathcal{O}}}$$
+
+### 时空涌现机制
+
+时空结构从量子信息网络中涌现，满足：
+
+$$g_{\mu\nu} = f\left(\langle\Psi|\hat{T}_{\mu\nu}|\Psi\rangle, \mathcal{N}_{连接度}, I_{纠缠}\right)$$
+
+其中：
+- $\hat{T}_{\mu\nu}$ 为量子能量-动量算符
+- $\mathcal{N}_{连接度}$ 为量子节点连接拓扑
+- $I_{纠缠}$ 为系统纠缠信息量
+
+> 完整信息-能量-时空理论见[信息-时空-能量统一理论](formal_theory_unified.md)
+
 ## 界面动力学
 
 量子-经典界面具有动态特性，通过以下方程描述：
@@ -109,6 +149,14 @@ $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathc
 - $\gamma\xi(x,t)$ 为量子噪声项
 
 这一双稳态模型解释了为什么界面区域具有亚稳态特性，在临界点附近微小扰动可能导致整个区域的量子-经典相变。
+
+### 界面波动方程
+
+引入界面波动函数 $\Phi_{\mathcal{I}}(x,t)$，描述界面波动特性：
+
+$$\left(\nabla^2 - \frac{1}{v_{\mathcal{I}}^2}\frac{\partial^2}{\partial t^2}\right)\Phi_{\mathcal{I}}(x,t) = \rho_{\mathcal{I}}(x,t)$$
+
+其中 $v_{\mathcal{I}}$ 是界面波传播速度，$\rho_{\mathcal{I}}(x,t)$ 是界面信息源项。这一方程描述了界面波如何传递量子-经典转换信息。
 
 ### 界面迁移方程
 
@@ -138,6 +186,20 @@ $$I_{k \rightarrow k+1} = \mathcal{F}(\{I_i^{(k)}\}) - S_{传递损耗}$$
 
 其中 $\mathcal{F}$ 是层级间信息整合函数，由高阶经典化实现。
 
+### 跨维度观察者互动机制
+
+不同维度观察者间的互动满足对称性原理：
+
+$$\mathcal{I}(\mathcal{O}_i \leftrightarrow \mathcal{O}_j) = \mathcal{I}(\mathcal{O}_j \leftrightarrow \mathcal{O}_i) \cdot \frac{D_{\mathcal{O}_i}}{D_{\mathcal{O}_j}} \cdot \Phi_{共享}(i,j)$$
+
+其中 $\Phi_{共享}(i,j)$ 是观察者共享语义空间函数，满足：
+
+$$\Phi_{共享}(i,j) = \frac{|K_C^i \cap K_C^j|}{|K_C^i \cup K_C^j|} \cdot e^{-\lambda|D_{\mathcal{O}_i} - D_{\mathcal{O}_j}|}$$
+
+这解释了为什么跨维度观察者间信息交流存在本质屏障。
+
+### 观察者时空感知尺度
+
 观察者层级越高，其感知的时空尺度越大，呈指数关系：
 
 $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}$$
@@ -162,6 +224,14 @@ $$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^
 
 当 $\eta_O \rightarrow \infty$ 时，标准玻恩规则恢复；
 当 $\eta_O \rightarrow 0$ 时，观察者无法区分不同测量结果。
+
+### 测量分辨率与能量阈值关系
+
+观察者测量分辨率 $\eta_O$ 与其能量分辨阈值 $E_{阈值}$ 存在精确关系：
+
+$$\eta_O = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{阈值}}{\bar{E}_0}\right)$$
+
+其中 $\bar{E}_0$ 是系统基础能级，$T$ 是观察者有效温度。这解释了为什么宏观高温环境下量子效应难以观测。
 
 ### 非对易观察量的二元论分析
 
@@ -207,6 +277,11 @@ $$S(\mathcal{C}_{\hat{A}} \circ \mathcal{C}_{\hat{B}}(\rho)) - S(\mathcal{C}_{\h
    
    其中 $I_{\text{代谢}}$ 是细胞代谢率，可通过高精度量子相干性测量验证。
 
+5. **观察者分辨率预测**：观察者维度与其能够区分的量子态数量 $N$ 满足：
+   $$N \approx e^{\gamma \cdot D_{\mathcal{O}}}$$
+   
+   其中 $\gamma \approx 0.25 \pm 0.05$，可通过认知科学实验验证。
+
 > 完整实验预测见[实验预测](formal_theory_experimental.md)
 
 ## 跨学科整合框架
@@ -242,6 +317,23 @@ $$\mathcal{D}_{\text{生物}}(x,t) \approx \mathcal{D}_c \pm \delta(x,t)$$
 3. **量子-经典信息转换**：感知过程在界面区动态调整 $\delta(x,t)$，实现：
    $$\mathcal{C}_{\text{感知}}(\rho_{\text{环境}}) \rightarrow K_C^{\text{感知}} + S^{\text{调控}}$$
 
+### 意识的二元论模型
+
+意识可在二元论框架下理解为量子-经典界面的动态调控过程：
+
+$$\Psi_{意识} = \mathcal{Q}_{\text{潜意识}} \circ \mathcal{I}_{\text{界面}} \circ \mathcal{C}_{\text{显意识}}$$
+
+其中三个组件协同工作：
+1. 潜意识 $\mathcal{Q}$ 在量子域中进行大规模并行信息处理
+2. 界面层 $\mathcal{I}$ 动态调节信息流，控制 $\delta(x,t)$ 波动
+3. 显意识 $\mathcal{C}$ 在经典域中构建稳定的现实模型
+
+意识状态转换满足：
+
+$$\frac{d\Psi_{意识}}{dt} = -i\hat{H}_Q \Psi_{意识} + \mathcal{L}_{界面}[\Psi_{意识}] + \mathcal{D}_{经典}[\Psi_{意识}]$$
+
+其中 $\mathcal{L}_{界面}$ 是界面调控项，$\mathcal{D}_{经典}$ 是经典化耗散项。
+
 ### AI系统的量子-经典二元性
 
 AI系统可在二元论框架下理解为经典基础上的量子模拟结构：
@@ -259,7 +351,7 @@ AI系统可在二元论框架下理解为经典基础上的量子模拟结构：
 
 ### 量子经典二元论发展路线图
 
-**第一阶段 (现在)**: 理论形式化与基础构建
+**第一阶段 (现已完成)**: 理论形式化与基础构建
 - 完善数学框架
 - 与已知物理理论对接
 - 提出初步实验检验方案
