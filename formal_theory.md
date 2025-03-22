@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v11.7
+# 量子经典二元论形式化表达 v11.8
 
-**[English Version](#quantum-classical-dualism-formal-expression-v117) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v118) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -84,10 +84,10 @@ $$\dim(\mathcal{H}_{\Omega_Q}) = d_Q = \prod_{i=1}^{n} d_i$$
    $$K_C = \{k_1, k_2, ..., k_n\}$$
    其中每个 $k_i$ 代表一个确定性信息单元。
 
-**经典域状态空间维度**（状态集合的势）：
-$$\dim(\Omega_C) = |K_C| = \text{card}(\{k_1, k_2, ..., k_n\})$$
+**经典域状态空间维度**：
+$$\dim(\Omega_C) = \dim(K_C) + \dim(S_C),\quad \dim(K_C)=|K_C|,\;\dim(S_C)=\aleph_1$$
 
-其中 $\text{card}$ 表示集合的基数（cardinality）。
+其中 $|K_C|$ 表示经典知识集合的基数（有限离散维度），$\aleph_1$ 表示经典熵的连续无限维度。
 
 ## 能量统一理论
 
@@ -181,13 +181,18 @@ $$\mathcal{Q}(K_C) = \Psi_E$$
 3. 纠缠生成：$\mathcal{Q}(K_A \cup K_B) \neq \mathcal{Q}(K_A) \otimes \mathcal{Q}(K_B)$
 
 ### 转换守恒定律
-在任何转换过程中，总信息量守恒：
-$$I(\Omega_Q) + I(\Omega_C) = \text{常数}$$
+在任何转换过程中，考虑经典-量子互信息后的总信息量守恒：
+$$I(\Omega_Q) + I(\Omega_C) - I(\Omega_Q:\Omega_C) = \text{常数}$$
 
 **信息量的严格定义**：
 $$I(\Omega_Q) = S_{\text{von Neumann}}(\rho_Q) = -\text{Tr}(\rho_Q \log_2 \rho_Q)$$
 
 $$I(\Omega_C) = S_{\text{Shannon}}(K_C) = -\sum_{k \in K_C} p(k) \log_2 p(k)$$
+
+**经典-量子互信息定义**：
+$$I(\Omega_Q:\Omega_C) = S_{\text{Shannon}}(\Omega_C)+S_{\text{von Neumann}}(\Omega_Q)-S_{\text{联合熵}}(\Omega_Q,\Omega_C)$$
+
+其中 $S_{\text{联合熵}}(\Omega_Q,\Omega_C)$ 表示量子域和经典域的联合熵。
 
 ## 观察者与黑洞
 
@@ -214,7 +219,10 @@ $$\Phi_{A \rightarrow B} = \mathcal{C}_B \circ \mathcal{T}_{A \rightarrow B} \ci
 
 $$\mathcal{T}_{A \rightarrow B}(|\psi\rangle_A) = \sum_{i,j} \gamma_{ij} |i\rangle_A \otimes |j\rangle_B$$
 
-其中 $\gamma_{ij}$ 是隧穿系数矩阵，满足 $\sum_{i,j} |\gamma_{ij}|^2 = 1$。
+**隧穿系数矩阵与量子熵关系**：
+$$\gamma_{ij} = \frac{e^{-\frac{1}{2}S_E(\rho_{ij})}}{\sqrt{\sum_{m,n}e^{-S_E(\rho_{mn})}}},\quad S_E(\rho_{ij})=-\text{Tr}(\rho_{ij}\log_2\rho_{ij})$$
+
+其中 $S_E(\rho_{ij})$ 是对应纠缠态的量子熵，$\gamma_{ij}$ 的表达式体现了隧穿概率与纠缠熵的反比关系。
 
 ## 宇宙数学表达
 
@@ -251,9 +259,9 @@ $$e^{i\pi} + 1 = 0$$
 - $1$：单位元，代表观察者
 - $0$：零元，代表宇宙整体平衡
 
-# Quantum-Classical Dualism Formal Expression v11.7
+# Quantum-Classical Dualism Formal Expression v11.8
 
-**[中文版](#量子经典二元论形式化表达-v117) | English Version**
+**[中文版](#量子经典二元论形式化表达-v118) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -337,10 +345,10 @@ The classical domain contains two basic state types:
    $$K_C = \{k_1, k_2, ..., k_n\}$$
    where each $k_i$ represents a unit of deterministic information.
 
-**Classical Domain State Space Dimension** (Cardinality of state set):
-$$\dim(\Omega_C) = |K_C| = \text{card}(\{k_1, k_2, ..., k_n\})$$
+**Classical Domain State Space Dimension**:
+$$\dim(\Omega_C) = \dim(K_C) + \dim(S_C),\quad \dim(K_C)=|K_C|,\;\dim(S_C)=\aleph_1$$
 
-where $\text{card}$ represents the cardinality of the set.
+where $|K_C|$ represents the cardinality of the classical knowledge set (finite discrete dimension), and $\aleph_1$ represents the continuous infinite dimension of classical entropy.
 
 ## Unified Energy Theory
 
@@ -434,13 +442,18 @@ $$\mathcal{Q}(K_C) = \Psi_E$$
 3. Entanglement generation: $\mathcal{Q}(K_A \cup K_B) \neq \mathcal{Q}(K_A) \otimes \mathcal{Q}(K_B)$
 
 ### Conservation Law for Transformations
-In any transformation process, the total information is conserved:
-$$I(\Omega_Q) + I(\Omega_C) = \text{constant}$$
+In any transformation process, considering the classical-quantum mutual information, the total information is conserved:
+$$I(\Omega_Q) + I(\Omega_C) - I(\Omega_Q:\Omega_C) = \text{constant}$$
 
 **Rigorous Definition of Information Quantity**:
 $$I(\Omega_Q) = S_{\text{von Neumann}}(\rho_Q) = -\text{Tr}(\rho_Q \log_2 \rho_Q)$$
 
 $$I(\Omega_C) = S_{\text{Shannon}}(K_C) = -\sum_{k \in K_C} p(k) \log_2 p(k)$$
+
+**Classical-Quantum Mutual Information Definition**:
+$$I(\Omega_Q:\Omega_C) = S_{\text{Shannon}}(\Omega_C)+S_{\text{von Neumann}}(\Omega_Q)-S_{\text{joint}}(\Omega_Q,\Omega_C)$$
+
+where $S_{\text{joint}}(\Omega_Q,\Omega_C)$ represents the joint entropy of the quantum and classical domains.
 
 ## Observer and Black Hole
 
@@ -450,7 +463,7 @@ $$\text{Dimension}_i = k_i \cdot \frac{I_{classical\_knowledge_i}}{S_{classical\
 
 Total dimension:
 $$\text{Dimension}_{total} = \sum_i w_i \cdot \text{Dimension}_i$$
-where $w_i$ are weight coefficients, $\sum_i w_i = 1$.
+where $w_i$ are weight coefficients, $\sum_i w_i = 1$。
 
 ### Black Hole Information Conservation
 Information conservation expression:
@@ -467,7 +480,10 @@ where $\mathcal{T}_{A \rightarrow B}$ is the quantum tunneling operator, represe
 
 $$\mathcal{T}_{A \rightarrow B}(|\psi\rangle_A) = \sum_{i,j} \gamma_{ij} |i\rangle_A \otimes |j\rangle_B$$
 
-where $\gamma_{ij}$ is the tunneling coefficient matrix, satisfying $\sum_{i,j} |\gamma_{ij}|^2 = 1$.
+**Tunneling Coefficient Matrix and Quantum Entropy Relation**:
+$$\gamma_{ij} = \frac{e^{-\frac{1}{2}S_E(\rho_{ij})}}{\sqrt{\sum_{m,n}e^{-S_E(\rho_{mn})}}},\quad S_E(\rho_{ij})=-\text{Tr}(\rho_{ij}\log_2\rho_{ij})$$
+
+where $S_E(\rho_{ij})$ is the quantum entropy of the corresponding entangled state, and the expression of $\gamma_{ij}$ reflects the inverse relationship between tunneling probability and entanglement entropy.
 
 ## Universal Mathematical Expression
 
