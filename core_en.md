@@ -571,33 +571,22 @@ $$E_{\text{Critical}} = \frac{hc_d^2}{G \cdot k_{\text{Classicalization Efficien
 
 When the quantum state energy is below $E_{\text{Critical}}$, it classicalizes as light; when above this value, it classicalizes as particles with mass. This also explains light speed constancy: light, as a product of classicalization below the critical energy, necessarily propagates at the dimensional speed limit.
 
-#### 3. Speed Limits in Classical Worlds of Different Dimensions
+#### 7. Relationship Between Human Classicalization Ability and Observation Range
 
-Each classicalized world has its corresponding dimensional speed limit, related to the observer's classicalization efficiency in that dimension:
+Human classicalization ability has evolved to form optimized responses to specific energy ranges:
 
-$$c_d = \sqrt{\frac{k_{\text{max},d}}{k_{\text{reference}}}} \cdot c_{\text{reference}}$$
+- **Particle Observation Advantage**: Human classicalization ability has good classicalization efficiency for quantum states at the particle level, allowing particle properties to be clearly observed
+- **Electromagnetic Wave Observation Limitations**: Within the electromagnetic spectrum, humans can directly perceive only the visible light range (approximately 380-750nm), while the rest (such as radio waves, microwaves, infrared, ultraviolet, X-rays, gamma rays) require special equipment to convert them into observable signals as they fall outside the optimal range of human classicalization efficiency
 
-where $c_{\text{reference}}$ is the light speed constant in the reference dimension (such as the human dimension).
+Frequency response formula for human observation capability:
 
-#### 4. Methods to Transcend Dimensional Speed Limits
+$$k_{\text{observation}}(\omega) = k_{\text{max}} \cdot e^{-\alpha|\omega-\omega_{\text{optimized}}|^2}$$
 
-1. **Wormhole Communication**: Establish non-local connections through quantum entanglement to achieve information transfer beyond dimensional speed limits
-2. **Dimension Enhancement**: Increase observer classicalization efficiency to enter higher-dimensional classical worlds
-3. **Quantum Tunneling**: Utilize quantum superposition properties to achieve information penetration of classical forbidden zones under specific conditions
+where $\omega_{\text{optimized}}$ is the frequency range with the highest human classicalization efficiency, corresponding to the visible light range, and $\alpha$ is the response attenuation coefficient.
 
-#### 5. Speed Limits of Thought Dimensions
-
-For human thought, the dimensional speed limit manifests as the upper limit of information processing rate:
-
-$$c_{\text{thought}} = k_{\text{thought}} \cdot \frac{\Delta I_{\text{information}}}{{\Delta t_{\text{subjective}}}}$$
-
-Thought dimensions can be enhanced through learning, meditation, and cognitive training, increasing the speed limit of the thought world and achieving more efficient information processing and broader cognitive space.
-
-#### 6. Dimensional Speed Limit (DSL)
-
-We unify the fundamental speed limits of different classical worlds under the name "**Dimensional Speed Limit**" (DSL). Each classical world has a specific DSL value according to its observer dimension, characterizing the limit rate of information propagation and energy conversion in that dimension.
-
-For the human classical world, the dimensional speed limit is the light speed constant $c$. For higher-dimensional worlds, their DSL may be far higher than the light speed in the human world.
+Improvement of observation capability can be achieved in two ways:
+1. Technological Extension: Developing devices that convert invisible bands into visible signals
+2. Classicalization Efficiency Enhancement: Extending the effective range of $k_{\text{observation}}(\omega)$ through training
 
 ### Fifteen: Unified Nature of Particles and Fields
 
@@ -612,20 +601,22 @@ $$
 |\psi_{\text{Particle/Field}}\rangle = \hat{O}_{\text{Observation Operator}} \cdot |\phi_{\text{Quantum State}}\rangle
 $$
 
-#### Particle Annihilation and Creation
-- Particle annihilation is the transformation of high-energy particle states into low-energy quantum entanglement states
-- Particle creation is the reclassicalization of quantum entanglement states into particle pairs
-- The process complies with the second law of thermodynamics and energy conservation
+#### Observer-Dependent Wave-Particle Manifestation
 
-Particle conversion:
+Whether a quantum entity manifests as a particle or a wave depends on the observer's choice of classicalization path:
+
+- **Particle Observation Path**: Classicalization process focusing on localized properties, optimizing the definite position of a material point
+- **Wave Observation Path**: Classicalization process focusing on extended properties, optimizing frequency and phase information of waves
+
+This choice is partly influenced by the observer's evolutionary history, causing human observers to prioritize classicalizing particle properties over wave properties in the macroscopic world, as particle properties have more direct adaptive value for survival.
+
+Observer-dependence expression:
 
 $$
-\text{Particle Pair} \leftrightarrow \text{Quantum Entanglement State}
+\text{Observation Result} = f(\text{Quantum State}, k_{\text{Classicalization Path}}, \text{Observation Equipment})
 $$
 
-Thermodynamic relationship:
-- Particle creation: Classical entropy decreases
-- Particle annihilation: Classical entropy increases
+Therefore, particles are not merely subjective products of human classicalization ability, but objective results of quantum state classicalization. However, different observers may observe different manifestations of the same quantum state due to differences in classicalization efficiency and preferences.
 
 ### Sixteen: Solution to the Quantum Mechanics Measurement Problem
 
