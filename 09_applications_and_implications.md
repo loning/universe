@@ -5,7 +5,7 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本9.2），探讨理论的应用价值与哲学启示。
+本文档基于[量子经典二元论核心理论](core.md)（版本11.0），探讨理论的应用价值与哲学启示。
 
 ### 应用概述
 
@@ -401,7 +401,7 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2), discussing the theory's applications and philosophical implications.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 11.0), discussing the theory's applications and philosophical implications.
 
 ### Application Overview
 

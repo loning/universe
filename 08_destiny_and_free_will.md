@@ -5,7 +5,7 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本9.2），详细探讨命运与自由意志的本质及其关系。
+本文档基于[量子经典二元论核心理论](core.md)（版本10.9），详细探讨命运与自由意志的本质及其关系。
 
 ### 命运与自由意志概述
 
@@ -190,7 +190,7 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.1), exploring in detail the nature of destiny and free will and their relationship.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 10.9), exploring in detail the nature of destiny and free will and their relationship.
 
 ### Destiny and Free Will Overview
 
