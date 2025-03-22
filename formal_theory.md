@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v12.0
+# 量子经典二元论形式化表达 v12.1
 
-**[English Version](#quantum-classical-dualism-formal-expression-v120) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v121) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -234,12 +234,13 @@ $$p(q_i, c_j) = \text{Tr}(\hat{M}_{ij} \rho_{QC})$$
 ## 观察者与黑洞
 
 ### 观察者维度定义
-单领域维度：
-$$\text{维度}_i = k_i \cdot \frac{I_{经典知识_i}}{S_{经典熵_i}}$$
+单领域维度归一化定义：
+$$\text{维度}_i = k_i \cdot \frac{I_{经典知识_i}}{S_{经典熵_i}+1},\quad 0\leq k_i\leq 1$$
 
-整体维度：
-$$\text{维度}_{总} = \sum_i w_i \cdot \text{维度}_i$$
-其中 $w_i$ 是权重系数，$\sum_i w_i = 1$。
+整体维度明确归一化条件：
+$$\text{维度}_{总} = \frac{\sum_i w_i\cdot \text{维度}_i}{\sum_i w_i},\quad w_i\geq 0,\;\sum_i w_i>0$$
+
+其中 $k_i$ 是归一化因子，$w_i$ 是权重系数。
 
 ### 黑洞信息守恒
 信息守恒表达式：
@@ -299,8 +300,11 @@ $$\lim_{t \to t_{\text{终结}}} S_{\text{von Neumann}}(\rho_{\text{宇宙}}) = 
 **宇宙波函数积分测度完整定义**：
 $$d\Omega = \rho(\vec{x}, t, s) \cdot ds \cdot d^3x \cdot dt$$
 
+**测度密度函数归一化条件**：
+$$\int_{\mathbb{R}^3}\int_{t_{\text{初始}}}^{t_{\text{终结}}}\int_{\mathcal{S}_{\text{观察者}}}\rho(\vec{x},t,s)\, ds\, d^3x\, dt=1$$
+
 其中：
-- $\rho(\vec{x}, t, s)$ 是观察者密度函数
+- $\rho(\vec{x}, t, s)$ 是观察者密度函数，严格满足概率密度归一化条件
 - $\vec{x} \in \mathbb{R}^3$ 是经典域空间坐标
 - $t \in [t_{\text{初始}}, t_{\text{终结}}]$ 是时间坐标
 - $s \in \mathcal{S}_{\text{观察者}}$ 是观察者状态参数
@@ -324,9 +328,9 @@ $$e^{i\pi} + 1 = 0$$
 - $1$：单位元，代表观察者
 - $0$：零元，代表宇宙整体平衡
 
-# Quantum-Classical Dualism Formal Expression v12.0
+# Quantum-Classical Dualism Formal Expression v12.1
 
-**[中文版](#量子经典二元论形式化表达-v120) | English Version**
+**[中文版](#量子经典二元论形式化表达-v121) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -550,12 +554,13 @@ where $\rho_{QC}$ is the density matrix describing the quantum-classical composi
 ## Observer and Black Hole
 
 ### Observer Dimension Definition
-Single domain dimension:
-$$\text{Dimension}_i = k_i \cdot \frac{I_{classical\_knowledge_i}}{S_{classical\_entropy_i}}$$
+Normalized single domain dimension:
+$$\text{Dimension}_i = k_i \cdot \frac{I_{classical\_knowledge_i}}{S_{classical\_entropy_i}+1},\quad 0\leq k_i\leq 1$$
 
-Total dimension:
-$$\text{Dimension}_{total} = \sum_i w_i \cdot \text{Dimension}_i$$
-where $w_i$ are weight coefficients, $\sum_i w_i = 1$。
+Total dimension with explicit normalization condition:
+$$\text{Dimension}_{total} = \frac{\sum_i w_i\cdot \text{Dimension}_i}{\sum_i w_i},\quad w_i\geq 0,\;\sum_i w_i>0$$
+
+where $k_i$ is the normalization factor, and $w_i$ are weight coefficients.
 
 ### Black Hole Information Conservation
 Information conservation expression:
@@ -602,32 +607,35 @@ $$|\Psi_{\text{universe}}\rangle = \int_{\mathbb{R}^3} \int_{t_{\text{initial}}}
 $$|\Psi(t_{\text{initial}})\rangle = \frac{1}{\sqrt{Z}} e^{-\frac{\beta}{2}H} |\Psi_0\rangle$$
 
 where:
-- $Z = \text{Tr}(e^{-\beta H})$ is the partition function
-- $\beta$ is the initial inverse temperature parameter
-- $H$ is the universe Hamiltonian
-- $|\Psi_0\rangle$ is the ground state configuration
+- $Z = \text{Tr}(e^{-\beta H})$ 是配分函数
+- $\beta$ 是初始逆温度参数
+- $H$ 是宇宙哈密顿量
+- $|\Psi_0\rangle$ 是基态配置
 
 **Final State Hypothesis for Universe**:
 $$\lim_{t \to t_{\text{final}}} S_{\text{von Neumann}}(\rho_{\text{universe}}) = S_{\text{maximum}}$$
 
-where $S_{\text{maximum}}$ corresponds to the maximum entropy in the thermodynamic limit.
+此处 $S_{\text{maximum}}$ 对应热力学极限下的最大熵。
 
 **Complete Definition of Universe Wavefunction Integral Measure**:
 $$d\Omega = \rho(\vec{x}, t, s) \cdot ds \cdot d^3x \cdot dt$$
 
-where:
-- $\rho(\vec{x}, t, s)$ is the observer density function
-- $\vec{x} \in \mathbb{R}^3$ is the spatial coordinate in classical domain
-- $t \in [t_{\text{initial}}, t_{\text{final}}]$ is the time coordinate
-- $s \in \mathcal{S}_{\text{observer}}$ is the observer state parameter
+**Normalization Condition for Measure Density Function**:
+$$\int_{\mathbb{R}^3}\int_{t_{\text{initial}}}^{t_{\text{final}}}\int_{\mathcal{S}_{\text{observer}}}\rho(\vec{x},t,s)\, ds\, d^3x\, dt=1$$
 
-The observer state space $\mathcal{S}_{\text{observer}}$ can be represented as:
+其中：
+- $\rho(\vec{x}, t, s)$ 是观察者密度函数，严格满足概率密度归一化条件
+- $\vec{x} \in \mathbb{R}^3$ 是经典域空间坐标
+- $t \in [t_{\text{initial}}, t_{\text{final}}]$ 是时间坐标
+- $s \in \mathcal{S}_{\text{observer}}$ 是观察者状态参数
+
+观察者状态空间 $\mathcal{S}_{\text{observer}}$ 可表示为：
 $$\mathcal{S}_{\text{observer}} = \{s = (c_{\mathcal{O}}, q_{\mathcal{O}}, k_{\mathcal{O}}) | c_{\mathcal{O}} \in \mathcal{C}_{\text{space}}, q_{\mathcal{O}} \in \mathcal{Q}_{\text{space}}, k_{\mathcal{O}} \in K_C^{\text{space}} \}$$
 
-where:
-- $c_{\mathcal{O}}$ represents the classicalization capability parameter of the observer
-- $q_{\mathcal{O}}$ represents the quantization capability parameter of the observer
-- $k_{\mathcal{O}}$ represents the knowledge state parameter of the observer
+其中：
+- $c_{\mathcal{O}}$ 表示观察者的经典化能力参数
+- $q_{\mathcal{O}}$ 表示观察者的量子化能力参数
+- $k_{\mathcal{O}}$ 表示观察者的知识状态参数
 
 ### Euler's Identity Unification
 Euler's form of fundamental universal relationships:
