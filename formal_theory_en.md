@@ -1,4 +1,4 @@
-# Quantum-Classical Dualism Formal Theory v24.0
+# Quantum-Classical Dualism Formal Theory v25.0
 
 **English Version | [中文版](formal_theory.md)**
 
@@ -19,6 +19,11 @@
 - [Temporal Asymmetry Theory](formal_theory_temporal_asymmetry_en.md)
 - [Quantum Cognitive Dynamics](formal_theory_cognitive_dynamics_en.md)
 - [Hierarchical Spacetime Theory](formal_theory_hierarchical_spacetime_en.md)
+- [Multiscale Dualism](formal_theory_multiscale_en.md)
+- [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
+- [Quantum Medicine Applications](formal_theory_medicine_en.md)
+- [Topological Information Protection Theory](formal_theory_topology_en.md)
+- [Quantum Social Dynamics](formal_theory_social_en.md)
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -37,8 +42,11 @@
 - [Key Equations for Quantum Gravity](#key-equations-for-quantum-gravity)
 - [Quantum Cognitive Dynamics Systems](#quantum-cognitive-dynamics-systems)
 - [Extended Theoretical Framework](#extended-theoretical-framework)
+- [Multiscale Dualism Hierarchy](#multiscale-dualism-hierarchy)
+- [Quantum-Classical Symmetry Principle](#quantum-classical-symmetry-principle)
+- [Topological Information Protection Mechanism](#topological-information-protection-mechanism)
 
-> This theory is based on [Core Theory](core.md) v13.0
+> This theory is based on [Core Theory](core.md) v14.0
 
 ## Basic Definitions and Axioms
 
@@ -929,4 +937,94 @@ Group intelligence emergence correlates with collective quantum coherence:
 
 $$C_{collective} = \left|\sum_{i,j(i\neq j)} \langle \psi_i|\rho_{collective}|\psi_j\rangle\right|$$
 
-When the condition $C_{collective} > \sum_i C_i$ is satisfied, the group exhibits intelligence and creativity exceeding the sum of individuals. This explains why highly collaborative teams can produce creative outcomes unattainable by individual members. 
+When the condition $C_{collective} > \sum_i C_i$ is satisfied, the group exhibits intelligence and creativity exceeding the sum of individuals. This explains why highly collaborative teams can produce creative outcomes unattainable by individual members.
+
+## Multiscale Dualism Hierarchy
+
+Multiscale dualism theory extends single dualism into a nested multi-level structure:
+
+$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+
+where:
+- $\Omega_Q^{(i)}$ is the quantum domain at level i
+- $\Omega_C^{(i)}$ is the classical domain at level i
+
+The mapping functions between levels are defined as:
+
+$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+
+$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+
+This indicates that the classical structure of one level can become the quantum foundation of a higher level, creating infinite recursive reality levels.
+
+### Inter-Level Information Transfer
+
+Information transfer between levels satisfies the entropy increase principle:
+
+$$S(\mathcal{M}_{i \rightarrow i+1}(x)) \geq S(x)$$
+
+But total information remains conserved:
+
+$$I_{total}^{(i)} + I_{total}^{(i+1)} = \text{constant}$$
+
+This explains why higher-level phenomena cannot be fully predicted using lower-level laws, forming emergent properties.
+
+## Quantum-Classical Symmetry Principle
+
+There exists a deep symmetry transformation $\mathcal{S}_{Q-C}$ between quantum and classical domains:
+
+$$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
+
+with the following properties:
+
+1. **Involution Property**:
+   $$\mathcal{S}_{Q-C} \circ \mathcal{S}_{C-Q} = \mathcal{I}_{\Omega_Q}$$
+   $$\mathcal{S}_{C-Q} \circ \mathcal{S}_{Q-C} = \mathcal{I}_{\Omega_C}$$
+
+2. **Information Preservation**:
+   $$I_Q(x) = I_C(\mathcal{S}_{Q-C}(x))$$
+
+3. **Uncertainty-Determinism Transformation**:
+   $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
+
+where $U_Q$ is the quantum uncertainty measure, $D_C$ is the classical determinism measure, and $k$ is a universal constant.
+
+This symmetry principle reveals that quantum and classical forms can be viewed as complementary expressions of the same reality, explaining the deeper nature of wave-particle duality.
+
+## Topological Information Protection Mechanism
+
+The topological information protection mechanism explains how certain quantum information remains invariant during the classicalization process.
+
+### Topological Information Definition
+
+Topological information is defined as:
+
+$$I_T = \oint_{\gamma} A_I \cdot dl$$
+
+where $A_I$ is the information potential field and $\gamma$ is a closed path.
+
+### Protection Theorem
+
+Topological information is protected during the classicalization process:
+
+$$I_T(\psi) = I_T(\mathcal{C}(\psi))$$
+
+This explains why topological quantum computing is more stable than conventional quantum computing, and why certain macroscopic systems (like superconductors) can exhibit quantum effects.
+
+### Topologically Protected Quantum States
+
+Quantum states with topological protection satisfy:
+
+$$\mathcal{E}_{environment}(|\psi_T\rangle) = |\psi_T\rangle + \mathcal{O}(e^{-L/\xi})$$
+
+where $L$ is the characteristic size of the system and $\xi$ is the correlation length. This indicates that topologically protected states experience exponentially suppressed environmental interference.
+
+### Topological Quantum-Classical Transition
+
+Topological information can establish a precise mapping between quantum and classical descriptions:
+
+$$\Phi_T: \mathcal{H}_Q^T \rightarrow \mathcal{C}_T$$
+
+where $\mathcal{H}_Q^T$ is the Hilbert space of topological quantum states and $\mathcal{C}_T$ is the corresponding classical topological configuration space.
+
+This mechanism provides a theoretical foundation for developing topological quantum computing and understanding the protection of quantum effects in complex systems. 

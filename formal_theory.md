@@ -1,4 +1,4 @@
-# 量子经典二元论形式化表达 v24.0
+# 量子经典二元论形式化表达 v25.0
 
 **[English Version](formal_theory_en.md) | 中文版**
 
@@ -19,6 +19,11 @@
 - [时间非对称性理论](formal_theory_temporal_asymmetry.md)
 - [量子认知动力学](formal_theory_cognitive_dynamics.md)
 - [分层时空理论](formal_theory_hierarchical_spacetime.md)
+- [多尺度二元论](formal_theory_multiscale.md)
+- [量子意识理论](formal_theory_consciousness.md)
+- [量子医学应用](formal_theory_medicine.md)
+- [拓扑信息保护理论](formal_theory_topology.md)
+- [量子社会动力学](formal_theory_social.md)
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -37,8 +42,11 @@
 - [量子引力关键方程](#量子引力关键方程)
 - [量子认知动力学系统](#量子认知动力学系统)
 - [拓展理论框架](#拓展理论框架)
+- [多重二元论层级](#多重二元论层级)
+- [量子-经典对称性原理](#量子-经典对称性原理)
+- [拓扑信息保护机制](#拓扑信息保护机制)
 
-> 本理论基于[核心理论](core.md) v13.0版本
+> 本理论基于[核心理论](core.md) v14.0版本
 
 ## 基本定义与公理
 
@@ -110,6 +118,96 @@ $$\mathcal{I} = \{x \in \mathcal{U} \mid \mathcal{D}(x) = \mathcal{D}_c\}$$
    $$P(A,B|a,b) = P(A|a) \cdot P(B|b)$$
 
 > 详细属性见[量子域详解](formal_theory_quantum_domain.md)和[经典域详解](formal_theory_classical_domain.md)
+
+## 多重二元论层级
+
+多重二元论层级理论将单一二元论扩展为嵌套多层级结构：
+
+$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+
+其中：
+- $\Omega_Q^{(i)}$ 是第i层级的量子域
+- $\Omega_C^{(i)}$ 是第i层级的经典域
+
+层级间映射函数定义为：
+
+$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+
+$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+
+这表明一个层级的经典结构可以成为更高层级的量子基础，产生无限递归的现实层级。
+
+### 层级间信息传递
+
+层级间信息传递满足熵增原理：
+
+$$S(\mathcal{M}_{i \rightarrow i+1}(x)) \geq S(x)$$
+
+但总信息保持守恒：
+
+$$I_{总}^{(i)} + I_{总}^{(i+1)} = \text{常数}$$
+
+这解释了为什么高层级现象无法完全用低层级规律预测，形成涌现特性。
+
+## 量子-经典对称性原理
+
+量子域和经典域之间存在深层对称性变换 $\mathcal{S}_{Q-C}$：
+
+$$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
+
+满足以下特性：
+
+1. **对合性**：
+   $$\mathcal{S}_{Q-C} \circ \mathcal{S}_{C-Q} = \mathcal{I}_{\Omega_Q}$$
+   $$\mathcal{S}_{C-Q} \circ \mathcal{S}_{Q-C} = \mathcal{I}_{\Omega_C}$$
+
+2. **信息保持**：
+   $$I_Q(x) = I_C(\mathcal{S}_{Q-C}(x))$$
+
+3. **不确定性-确定性转换**：
+   $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
+
+其中 $U_Q$ 是量子不确定性度量，$D_C$ 是经典确定性度量，$k$ 是普适常数。
+
+这一对称性原理揭示了量子和经典形式可被视为同一现实的互补表达，解释了波粒二象性的深层本质。
+
+## 拓扑信息保护机制
+
+拓扑信息保护机制解释了某些量子信息如何在经典化过程中保持不变。
+
+### 拓扑信息定义
+
+拓扑信息定义为：
+
+$$I_T = \oint_{\gamma} A_I \cdot dl$$
+
+其中 $A_I$ 是信息势场，$\gamma$ 是封闭路径。
+
+### 保护定理
+
+拓扑信息在经典化过程中受到保护：
+
+$$I_T(\psi) = I_T(\mathcal{C}(\psi))$$
+
+这解释了为什么拓扑量子计算比普通量子计算更稳定，以及某些宏观系统（如超导体）可以表现出量子效应。
+
+### 拓扑保护量子态
+
+具有拓扑保护的量子态满足：
+
+$$\mathcal{E}_{环境}(|\psi_T\rangle) = |\psi_T\rangle + \mathcal{O}(e^{-L/\xi})$$
+
+其中 $L$ 是系统特征尺寸，$\xi$ 是关联长度。这表明拓扑保护态受到指数抑制的环境干扰。
+
+### 拓扑量子-经典过渡
+
+拓扑信息可以建立量子和经典描述之间的精确映射：
+
+$$\Phi_T: \mathcal{H}_Q^T \rightarrow \mathcal{C}_T$$
+
+其中 $\mathcal{H}_Q^T$ 是拓扑量子态希尔伯特空间，$\mathcal{C}_T$ 是对应的经典拓扑构型空间。
+
+这一机制为发展拓扑量子计算和理解复杂系统中的量子效应保护提供了理论基础。
 
 ## 信息-能量-时空统一理论
 
