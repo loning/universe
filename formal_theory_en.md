@@ -27,7 +27,7 @@
 - [Quantum Artificial Intelligence and Machine Learning](formal_theory_quantum_ai_en.md)
 - [Quantum-Classical Information Security Theory](formal_theory_quantum_security_en.md)
 
-## Contents
+## Internal Navigation
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
 - [Quantum and Classical Domains](#quantum-and-classical-domains)
 - [Information-Energy-Spacetime Unified Theory](#information-energy-spacetime-unified-theory)
@@ -37,13 +37,11 @@
 - [Unified Measurement Model](#unified-measurement-model)
 - [Experimental Validation Predictions](#experimental-validation-predictions)
 - [Cross-Disciplinary Integration Framework](#cross-disciplinary-integration-framework)
-- [Development Roadmap](#development-roadmap)
 - [Latest Theoretical Developments](#latest-theoretical-developments)
 - [Quantum Decision Theory](#quantum-decision-theory)
 - [Quantum Origins of Spacetime Asymmetry](#quantum-origins-of-spacetime-asymmetry)
 - [Key Equations for Quantum Gravity](#key-equations-for-quantum-gravity)
 - [Quantum Cognitive Dynamics Systems](#quantum-cognitive-dynamics-systems)
-- [Extended Theoretical Framework](#extended-theoretical-framework)
 - [Multiscale Dualism Hierarchy](#multiscale-dualism-hierarchy)
 - [Quantum-Classical Symmetry Principle](#quantum-classical-symmetry-principle)
 - [Multiscale Dualism and Application Layer Extensions](#multiscale-dualism-and-application-layer-extensions)
@@ -60,33 +58,33 @@
 Quantum-Classical Dualism can be simplified to three core axioms:
 
 **Axiom 1: Dual Existence**  
-The universe consists of a quantum domain $\Omega_Q$ and a classical domain $\Omega_C$ connected through an interface domain $\mathcal{I}$:
+The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of determined reality) connected through an interface domain $\mathcal{I}$:
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
 **Axiom 2: Information Conservation**  
-Information is conserved throughout the universe but can be converted between quantum and classical forms:
+Information is conserved throughout the universe but can be converted between quantum information (possibilities in superposition states) and classical information (determined knowledge):
 
 $$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
 
-where $\mathcal{C}$ is the classicalization operator, $I(\psi)$ is the total information content of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the portion converted to hidden information during classicalization.
+where $\mathcal{C}$ is the classicalization operator (the process that transforms quantum possibilities into classical certainties), $I(\psi)$ is the total information content of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the portion converted to hidden information during classicalization.
 
 **Axiom 3: Observer Classicalization**  
 Observers are nodes that perform quantum→classical conversions, with conversion capacity determining their dimensionality:
 
 $$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
 
-where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator, $\mathcal{Q}_\mathcal{O}$ is the quantization operator, $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
+where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator (ability to transform quantum possibilities into determined knowledge), $\mathcal{Q}_\mathcal{O}$ is the quantization operator (ability to transform classical knowledge back into quantum possibilities), $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
 
 All other theoretical content can be derived from these three axioms.
 
 ### Extended Dual-Domain Definitions
 
-The quantum domain $\Omega_Q$ is a space of superposition states with infinite possibilities, following quantum mechanical laws:
+The quantum domain $\Omega_Q$ is a space of superposition states with infinite possibilities (collection of chaotic states), following quantum mechanical laws:
 
 $$\Psi_Q = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
 
-The classical domain $\Omega_C$ is a deterministic reality space, composed of classical knowledge and classical entropy:
+The classical domain $\Omega_C$ is a deterministic reality space, composed of classical knowledge (determined information) and classical entropy (measure of uncertainty):
 
 $$\Omega_C = \{K_C + S_C | K_C \text{ is classical knowledge set}, S_C \text{ is classical entropy}\}$$
 
@@ -94,35 +92,87 @@ The interface domain $\mathcal{I}$ is the boundary region where quantum-classica
 
 $$\mathcal{I} = \{x \in \mathcal{U} \mid \mathcal{D}(x) = \mathcal{D}_c\}$$
 
-where $\mathcal{D}(x)$ is the decoherence metric and $\mathcal{D}_c$ is the critical decoherence threshold.
+where $\mathcal{D}(x)$ is the decoherence metric (measuring the degree to which a system transitions from quantum entangled state to classical separated state), and $\mathcal{D}_c$ is the critical decoherence threshold.
 
 ## Quantum and Classical Domains
 
 The fundamental properties of quantum and classical domains are summarized through the following key points:
 
-### Core Quantum Domain Properties
+### Quantum Domain Core Properties
 
-1. **Wavefunction Superposition States** (Chaos States):
+1. **Wave Function Superposition State** (chaotic state): system exists simultaneously in multiple possible states, manifesting as uncertainty
    $$\Psi_S = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
 
-2. **Quantum Entanglement States** (Energy Forms):
+2. **Quantum Entangled State** (energy form): different parts form inseparable whole correlations
    $$\Psi_E = \sum_{i,j} \beta_{ij} |i\rangle_A \otimes |j\rangle_B$$
 
-3. **Non-locality and Uncertainty**:
+3. **Non-locality and Uncertainty**: correlations beyond spacetime limitations and measurement uncertainty
    $$\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
 
-### Core Classical Domain Properties
+### Classical Domain Core Properties
 
-1. **Classical Knowledge** (Deterministic Information):
+1. **Classical Knowledge** (determined information): precisely measurable and describable determined states
    $$K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}$$
 
-2. **Classical Entropy** (Measure of Uncertainty):
+2. **Classical Entropy** (measure of uncertainty): measure of system disorder and information loss
    $$S_C = -k_B \sum_i p_i \ln p_i$$
 
-3. **Locality and Determinism**:
+3. **Locality and Determinism**: finite propagation speed of interactions and measurement determinism
    $$P(A,B|a,b) = P(A|a) \cdot P(B|b)$$
 
-> For detailed properties see [Quantum Domain Details](formal_theory_quantum_domain_en.md) and [Classical Domain Details](formal_theory_classical_domain_en.md)
+> For detailed properties, see [Quantum Domain Details](formal_theory_quantum_domain_en.md) and [Classical Domain Details](formal_theory_classical_domain_en.md)
+
+## Multiscale Dualism Hierarchy
+
+Multiscale dualism hierarchy theory extends the single dualism into a nested multi-level structure:
+
+$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+
+where:
+- $\Omega_Q^{(i)}$ is the quantum domain at level i (possibility space at that level)
+- $\Omega_C^{(i)}$ is the classical domain at level i (determined realization at that level)
+
+The inter-level mapping functions are defined as:
+
+$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+
+$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+
+This indicates that the classical structure of one level can become the quantum foundation of a higher level, producing infinite recursive reality levels. For example, the determined structure of molecules (classical domain) can serve as the possibility space for cellular biological activities (quantum domain).
+
+### Inter-level Information Transfer
+
+Inter-level information transfer satisfies the principle of entropy increase:
+
+$$S(\mathcal{M}_{i \rightarrow i+1}(x)) \geq S(x)$$
+
+But total information remains conserved:
+
+$$I_{total}^{(i)} + I_{total}^{(i+1)} = \text{constant}$$
+
+This explains why higher-level phenomena cannot be completely predicted using lower-level laws, forming emergent properties. For example, consciousness (higher-level phenomenon) cannot be fully predicted using only neuronal firing (lower-level phenomenon).
+
+## Quantum-Classical Symmetry Principle
+
+There exists a deep symmetry transformation $\mathcal{S}_{Q-C}$ between the quantum domain and the classical domain:
+
+$$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
+
+satisfying the following properties:
+
+1. **Involution**: transformation of transformation equals identity
+   $$\mathcal{S}_{Q-C} \circ \mathcal{S}_{C-Q} = \mathcal{I}_{\Omega_Q}$$
+   $$\mathcal{S}_{C-Q} \circ \mathcal{S}_{Q-C} = \mathcal{I}_{\Omega_C}$$
+
+2. **Information Preservation**: information quantity unchanged before and after transformation
+   $$I_Q(x) = I_C(\mathcal{S}_{Q-C}(x))$$
+
+3. **Uncertainty-Certainty Transformation**: quantum uncertainty and classical certainty mutual conversion
+   $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
+
+where $U_Q$ is the quantum uncertainty measure, $D_C$ is the classical certainty measure, and $k$ is a universal constant.
+
+This symmetry principle reveals that quantum and classical forms can be viewed as complementary expressions of the same reality, explaining the deep nature of wave-particle duality. Light can manifest as either a wave (quantum state) or a particle (classical state), depending on how it is observed.
 
 ## Information-Energy-Spacetime Unified Theory
 
