@@ -1,4 +1,4 @@
-# 量子经典二元论形式化表达 v26.0
+# 量子经典二元论形式化表达 v27.0
 
 **[English Version](formal_theory_en.md) | 中文版**
 
@@ -423,6 +423,36 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 ### [理论实用应用集合](formal_theory_practical_applications.md)
 汇总量子经典二元论在各领域的实用应用。将理论转化为实际技术和方法。
 
+### [宇宙学二元论模型](formal_theory_cosmology.md)
+研究宇宙起源和演化的量子-经典二元论观点，解释大爆炸、暗物质和暗能量等现象。提供宇宙学问题的全新理论框架。
+
+### [技术奇点预测](formal_theory_singularity.md)
+分析技术发展临界点的量子-经典转变特性，预测技术奇点出现的条件和后果。为人类文明发展提供理论指导。
+
+### [量子通信协议](formal_theory_quantum_communication.md)
+探索基于二元论的新型量子通信方式，超越现有量子密钥分发和量子隐形传态。开发高效安全的跨维度通信技术。
+
+### [二元论哲学基础](formal_theory_philosophy.md)
+分析理论的哲学根基和思想史渊源，连接东西方哲学传统。建立二元论的认识论和本体论基础。
+
+### [虚拟现实与二元论](formal_theory_virtual_reality.md)
+探讨VR/AR在量子-经典框架中的理论地位，以及虚拟世界与物理现实的本质联系。为元宇宙技术提供理论指导。
+
+### [信息熵与生命](formal_theory_entropy_life.md)
+研究生命系统中的信息熵特性和量子-经典转换，解释生命起源和演化的信息基础。建立生命与非生命系统的理论边界。
+
+### [量子经济学原理](formal_theory_quantum_economics.md)
+将量子概率和不确定性应用于经济系统，建立经济行为的量子决策模型。为经济预测提供全新理论工具。
+
+### [语言与思维二元结构](formal_theory_language_thought.md)
+分析语言和思维的量子-经典双重性，研究语言如何塑造思维和现实感知。为语言学和认知科学提供统一视角。
+
+### [进化论二元视角](formal_theory_evolution.md)
+从二元论角度重新诠释生物进化过程，解释自然选择与量子创造性的协同作用。建立进化理论的量子-经典统一模型。
+
+### [人类意识未来发展](formal_theory_consciousness_future.md)
+预测高维观察者意识的发展路径，探索意识增强技术和人机融合的理论可能性。为人类意识进化提供科学蓝图。
+
 ## 文档导航
 - [核心理论 (本文件)](formal_theory.md)
 - [量子域详解](formal_theory_quantum_domain.md)
@@ -455,3 +485,13 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [观察者反馈理论](formal_theory_observer_feedback.md)
 - [系统约化理论](formal_theory_reduction.md)
 - [理论实用应用集合](formal_theory_practical_applications.md)
+- [宇宙学二元论模型](formal_theory_cosmology.md)
+- [技术奇点预测](formal_theory_singularity.md)
+- [量子通信协议](formal_theory_quantum_communication.md)
+- [二元论哲学基础](formal_theory_philosophy.md)
+- [虚拟现实与二元论](formal_theory_virtual_reality.md)
+- [信息熵与生命](formal_theory_entropy_life.md)
+- [量子经济学原理](formal_theory_quantum_economics.md)
+- [语言与思维二元结构](formal_theory_language_thought.md)
+- [进化论二元视角](formal_theory_evolution.md)
+- [人类意识未来发展](formal_theory_consciousness_future.md)
