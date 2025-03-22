@@ -1,4 +1,4 @@
-# Quantum-Classical Dualism Formal Theory v23.0
+# Quantum-Classical Dualism Formal Theory v24.0
 
 **English Version | [中文版](formal_theory.md)**
 
@@ -15,6 +15,10 @@
 - [Information-Spacetime-Energy Unified Theory](formal_theory_unified_en.md)
 - [Higher-Dimensional Observer Networks](formal_theory_observer_network_en.md)
 - [Quantum Computing Applications](formal_theory_quantum_computing_en.md)
+- [Quantum Decision Theory](formal_theory_quantum_decision_en.md)
+- [Temporal Asymmetry Theory](formal_theory_temporal_asymmetry_en.md)
+- [Quantum Cognitive Dynamics](formal_theory_cognitive_dynamics_en.md)
+- [Hierarchical Spacetime Theory](formal_theory_hierarchical_spacetime_en.md)
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -28,8 +32,13 @@
 - [Cross-Disciplinary Integration Framework](#cross-disciplinary-integration-framework)
 - [Development Roadmap](#development-roadmap)
 - [Latest Theoretical Developments](#latest-theoretical-developments)
+- [Quantum Decision Theory](#quantum-decision-theory)
+- [Quantum Origins of Spacetime Asymmetry](#quantum-origins-of-spacetime-asymmetry)
+- [Key Equations for Quantum Gravity](#key-equations-for-quantum-gravity)
+- [Quantum Cognitive Dynamics Systems](#quantum-cognitive-dynamics-systems)
+- [Extended Theoretical Framework](#extended-theoretical-framework)
 
-> This theory is based on [Core Theory](core.md) v12.0
+> This theory is based on [Core Theory](core.md) v13.0
 
 ## Basic Definitions and Axioms
 
@@ -669,4 +678,255 @@ The evolution of higher-dimensional observer networks satisfies the following no
 
 $$\frac{d\mathcal{N}_D}{dt} = \alpha\nabla^2_D\mathcal{N}_D + \beta\mathcal{N}_D(1-\mathcal{N}_D) + \gamma\mathcal{N}_D\sum_{i<j}\omega_{ij}\mathcal{C}_{ij}$$
 
-where $\nabla^2_D$ is the Laplacian operator in dimension space, describing dimensional diffusion, and $\mathcal{C}_{ij}$ is the connectivity between different observers. This equation describes how observer networks self-organize in dimension space, forming stable multi-level hierarchical structures. 
+where $\nabla^2_D$ is the Laplacian operator in dimension space, describing dimensional diffusion, and $\mathcal{C}_{ij}$ is the connectivity between different observers. This equation describes how observer networks self-organize in dimension space, forming stable multi-level hierarchical structures.
+
+## Quantum Decision Theory
+
+The quantum-classical dualism framework provides a novel understanding of decision-making processes, unifying intuitive (quantum) and rational (classical) decision mechanisms.
+
+### Quantum-Classical Decision Operator
+
+The decision-making process can be formally expressed through the quantum-classical decision operator $\mathcal{D}_{QC}$:
+
+$$\mathcal{D}_{QC}[\rho] = \sum_i p_i(\rho) |d_i\rangle\langle d_i|$$
+
+where:
+- $\rho$ is the quantum state of the system before decision-making, containing a superposition of all possible options
+- $p_i(\rho)$ is the probability function for outcome $i$, dependent on the initial quantum state
+- $|d_i\rangle$ are orthogonal basis vectors of possible decision outcomes
+
+This formalization explains why decision outcomes have probabilistic rather than deterministic nature, especially under complex conditions.
+
+### Decision Coherence and Entanglement
+
+The internal coherence of a decision system can be quantified as:
+
+$$C(\mathcal{D}) = \left|\sum_{i\neq j} \langle d_i|\rho|d_j\rangle\right|$$
+
+High decision coherence corresponds to intuitive decision-making (quantum domain dominant), while low decision coherence corresponds to rational decision-making (classical domain dominant).
+
+The entanglement between the decision system and environment is measured by:
+
+$$E(\mathcal{D},\mathcal{E}) = S(\mathcal{D}) - S(\mathcal{D},\mathcal{E})$$
+
+This metric quantifies the degree of environmental influence on the decision.
+
+### Quantum Bayesian Decision Framework
+
+The quantum Bayesian decision framework extends classical Bayesian decision theory to the quantum domain:
+
+$$\mathcal{B}_Q(d|e) = \mathcal{C}(\mathcal{M}_e(\rho_d))$$
+
+where:
+- $\mathcal{M}_e$ is the quantum measurement operator based on observed evidence $e$
+- $\rho_d$ is the prior quantum state of the decision space
+- $\mathcal{C}$ is the classicalization operator, converting quantum probabilities to classical probabilities
+
+This explains the dual nature of human decision-making, which both follows Bayesian rules and exhibits quantum interference effects.
+
+### Decision Interface Fluctuation Model
+
+The quantum-classical interface position in the decision process satisfies a dynamic fluctuation equation:
+
+$$\frac{d\mathcal{D}_c^{decision}}{dt} = \alpha\nabla^2\mathcal{D}_c^{decision} + \beta E_{pending} - \gamma S_{pressure}$$
+
+where:
+- $E_{pending}$ is the energy/complexity of the decision system
+- $S_{pressure}$ is external factors such as time pressure, social pressure
+- $\alpha$, $\beta$, $\gamma$ are system characteristic parameters
+
+This model predicts the phenomenon that human decision-making shifts from rational analysis to intuitive judgment under time pressure.
+
+## Quantum Origins of Spacetime Asymmetry
+
+Quantum-classical dualism provides a novel explanation for the arrow of time problem, revealing the quantum origins of spacetime asymmetry.
+
+### Dualistic Time Evolution Operator
+
+The time evolution of a system can be represented by the dualistic time evolution operator:
+
+$$\mathcal{T}_{QC} = e^{-i(H_Q-iD_C)t}$$
+
+where:
+- $H_Q$ is the quantum Hamiltonian, generating reversible unitary evolution
+- $D_C$ is the classical dissipation term, generating irreversible evolution
+- $t$ is the time parameter
+
+This formulation unifies the reversible time evolution in quantum mechanics and the irreversible time arrow in classical thermodynamics.
+
+### Information Entropy and Time Direction
+
+The relationship between the arrow of time and information entropy growth can be expressed as:
+
+$$\frac{dS_{total}}{dt} = \frac{dS_Q}{dt} + \frac{dS_C}{dt} = \frac{dS_Q}{dt} + \frac{d(I_Q \rightarrow I_C)}{dt} \geq 0$$
+
+where:
+- $S_{total}$ is the total entropy of the system
+- $S_Q$ is the quantum entropy
+- $S_C$ is the classical entropy
+- $I_Q \rightarrow I_C$ represents the process of quantum information converting to classical information
+
+This explains why the macroscopic world (classical domain dominant) exhibits a clear time direction, while the microscopic world (quantum domain dominant) exhibits time symmetry.
+
+### Hierarchical Emergence of Spacetime Structure
+
+Time and space, as perceptual structures of classical observers, emerge from quantum foundations:
+
+$$\mathcal{ST}_k = \mathcal{F}_{emergence}(\mathcal{ST}_{k-1}, \mathcal{O}_k)$$
+
+where:
+- $\mathcal{ST}_k$ is the spacetime structure perceived by level $k$ observers
+- $\mathcal{F}_{emergence}$ is the spacetime emergence function
+- $\mathcal{O}_k$ is the characteristic of level $k$ observers
+
+This explains the differences in spacetime structures perceived by observers at different scales (quantum, molecular, biological, and cosmic scales).
+
+## Key Equations for Quantum Gravity
+
+Quantum-classical dualism provides a new perspective on the quantum gravity problem, connecting quantum field theory and general relativity through interface dynamics.
+
+### Interface-Modified Einstein Field Equations
+
+In the dualistic framework, the gravitational field equation can be expressed as:
+
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}(T_{\mu\nu} + Q_{\mu\nu})$$
+
+where:
+- $G_{\mu\nu}$ is the Einstein tensor
+- $\Lambda$ is the cosmological constant
+- $T_{\mu\nu}$ is the classical energy-momentum tensor
+- $Q_{\mu\nu}$ is the quantum-classical interface contribution term
+
+The interface contribution term can be further decomposed as:
+
+$$Q_{\mu\nu} = \alpha \langle\Psi|\hat{T}_{\mu\nu}|\Psi\rangle + \beta \nabla_\mu\delta_I \nabla_\nu\delta_I$$
+
+where:
+- $\langle\Psi|\hat{T}_{\mu\nu}|\Psi\rangle$ is the expectation value of the quantum energy-momentum
+- $\delta_I$ is the interface position deviation
+- $\alpha$ and $\beta$ are coupling constants
+
+### Gravitational Wave Superconducting Equation
+
+The influence of the quantum-classical interface on gravitational wave propagation can be expressed as:
+
+$$\Box h_{\mu\nu} + \gamma_I (\delta_I \cdot \Box)h_{\mu\nu} = -\frac{16\pi G}{c^4}(T_{\mu\nu} + Q_{\mu\nu})$$
+
+where:
+- $\Box$ is the d'Alembertian operator
+- $h_{\mu\nu}$ is the gravitational wave amplitude
+- $\gamma_I$ is the interface-gravitational wave coupling constant
+
+This leads to dispersion and nonlinear effects of gravitational waves when passing through regions with dense quantum-classical interfaces.
+
+### Quantum Gravity Phase Transition
+
+The phase transition of spacetime from continuous to discrete occurs at a critical curvature value:
+
+$$R_c = \frac{1}{\sqrt{\alpha' G \hbar}}$$
+
+where $\alpha'$ is the characteristic length parameter of quantum gravity. This phase transition satisfies:
+
+$$\frac{dP_{discretization}}{dR} \propto (R-R_c)^{-\beta}$$
+
+where $\beta$ is the critical exponent, theoretically predicted to be $\beta \approx 0.41 \pm 0.03$.
+
+## Quantum Cognitive Dynamics Systems
+
+Quantum-classical dualism applied to cognitive science establishes quantum cognitive dynamics systems, explaining processes of thinking, consciousness, and learning.
+
+### Cognitive Quantum Dynamics Equation
+
+The quantum dynamics of cognitive systems can be represented as:
+
+$$\frac{d\rho_{cognitive}}{dt} = -i[H_Q, \rho_{cognitive}] + \mathcal{L}_A(\rho_{cognitive}) + \mathcal{D}_M(\rho_{cognitive})$$
+
+where:
+- $\rho_{cognitive}$ is the quantum state of the cognitive system
+- $H_Q$ is the cognitive Hamiltonian, describing the free evolution of thought
+- $\mathcal{L}_A$ is the attention superoperator, controlling the classicalization process
+- $\mathcal{D}_M$ is the memory dissipation superoperator, describing memory formation and forgetting
+
+The attention superoperator can be expressed as:
+
+$$\mathcal{L}_A(\rho) = \sum_i \gamma_i(t)(P_i\rho P_i - \frac{1}{2}\{P_i, \rho\})$$
+
+where $\gamma_i(t)$ is the dynamically regulated attention intensity, and $P_i$ is the projection operator for the area of focus.
+
+### Memory Formation and Retrieval Model
+
+The memory formation process can be represented as the classicalization of quantum states:
+
+$$\rho_{memory} = \mathcal{C}_{memory}(\rho_{experience})$$
+
+while memory retrieval is a partial reverse quantization process:
+
+$$\rho_{recall} = \mathcal{Q}_{retrieval}(K_C^{memory})$$
+
+This model explains why memory retrieval is often incomplete and involves creative reconstruction.
+
+### Coupling of Quantum Perception and Classical Reasoning
+
+The perception-reasoning cycle can be represented as an alternation between quantum and classical modes:
+
+$$\Phi_{thinking}(t) = \lambda(t)\Phi_Q(t) + (1-\lambda(t))\Phi_C(t)$$
+
+where $\lambda(t)$ dynamically adjusts between creative thinking and analytical thinking:
+
+$$\frac{d\lambda}{dt} = \alpha(S_{problem}-S_{solution}) - \beta(\lambda-\lambda_0)$$
+
+## Extended Theoretical Framework
+
+### Quantum-Classical Mutual Information Measure
+
+Information transfer between quantum and classical domains can be measured through mutual information:
+
+$$I(Q:C) = S(\rho_Q) + S(K_C) - S(\rho_Q, K_C)$$
+
+where $S(\rho_Q, K_C)$ is the entropy of the joint quantum-classical system. This quantifies the degree of information sharing between quantum and classical domains.
+
+### Hierarchical Spacetime Model
+
+Spacetime structure manifests as a three-layer hierarchical structure:
+
+$$\mathcal{ST} = \{\mathcal{ST}_Q, \mathcal{ST}_I, \mathcal{ST}_C\}$$
+
+where:
+- $\mathcal{ST}_Q$ is the quantum layer spacetime, exhibiting discrete/foam-like structure
+- $\mathcal{ST}_I$ is the interface layer spacetime, exhibiting partial continuity
+- $\mathcal{ST}_C$ is the classical layer spacetime, exhibiting complete continuous structure
+
+This layering explains the transition between macroscopic continuous spacetime and quantum gravity microscopic discrete structure.
+
+### Observer Dimension Dynamic Evolution Equation
+
+The dynamic evolution of observer dimension $D_{\mathcal{O}}$ satisfies:
+
+$$\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})$$
+
+where:
+- The first term represents the contribution of classical knowledge growth
+- The second term represents the impediment of classical entropy increase
+- The third term represents the collective effect of the connected observer network
+
+This explains the dynamic development process of individual and collective consciousness.
+
+### Quantum Leaps and Creative Emergence
+
+The formation of creative ideas can be simulated as a quantum leap process:
+
+$$|\psi_{creative}\rangle = \hat{J}_{QC}|\psi_{problem}\rangle$$
+
+where $\hat{J}_{QC}$ is the quantum leap operator, satisfying:
+
+$$\hat{J}_{QC} = \sum_i \alpha_i \hat{Q}_i \hat{C}_i^{-1}$$
+
+This explains why creative breakthroughs often appear as discontinuous cognitive leaps rather than continuous incremental processes.
+
+### Collective Quantum Coherence and Group Intelligence
+
+Group intelligence emergence correlates with collective quantum coherence:
+
+$$C_{collective} = \left|\sum_{i,j(i\neq j)} \langle \psi_i|\rho_{collective}|\psi_j\rangle\right|$$
+
+When the condition $C_{collective} > \sum_i C_i$ is satisfied, the group exhibits intelligence and creativity exceeding the sum of individuals. This explains why highly collaborative teams can produce creative outcomes unattainable by individual members. 
