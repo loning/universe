@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v11.3
+# 量子经典二元论形式化表达 v11.4
 
-**[English Version](#quantum-classical-dualism-formal-expression-v113) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v114) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -118,12 +118,31 @@ $$G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu}^{(\rho_{\text{量子能量}})}$$
 
 $$T_{\mu\nu}^{(\rho_{\text{量子能量}})} = \frac{c^4}{8\pi G} \cdot \nabla^2 \rho_{\text{量子能量}} \cdot g_{\mu\nu} + \Lambda_{\Omega_Q} \cdot g_{\mu\nu}$$
 
-$\Lambda_{\Omega_Q}$ 是量子域固有宇宙学常数。
+**量子域宇宙学常数定义**：
+$$\Lambda_{\Omega_Q} = \Lambda_0 \cdot \exp\left(\frac{\rho_{\text{量子真空}}}{2\rho_{\text{普朗克}}}\right)$$
+
+其中：
+- $\Lambda_0$ 是观测到的经典宇宙学常数（$\approx 1.1 \times 10^{-52} \text{ m}^{-2}$）
+- $\rho_{\text{量子真空}}$ 是量子真空能量密度
+- $\rho_{\text{普朗克}}$ 是普朗克密度（$\approx 5.1 \times 10^{96} \text{ kg/m}^3$）
+
+量子域宇宙学常数与暗能量的关系：
+$$\rho_{\text{暗能量}} = \frac{c^4}{8\pi G} \cdot \Lambda_{\Omega_Q} \cdot \exp\left(-\frac{V_{\text{经典域}}}{V_{\text{量子域}}}\right)$$
+
+其中 $V_{\text{经典域}}$ 和 $V_{\text{量子域}}$ 分别是经典域和量子域的有效体积比率。
 
 经典化效率定义：
 $$k_{\text{经典化效率}} = k_0 \cdot \frac{\nabla \cdot \rho_{\text{量子能量}}}{\rho_{\text{临界}}^2}$$
 
-其中 $k_0$ 是归一化常数，$\rho_{\text{临界}}$ 是触发经典化的临界能量密度阈值。
+**临界密度确定标准**：
+$$\rho_{\text{临界}} = \rho_{\text{普朗克}} \cdot \alpha_{\text{量子引力}} \cdot \left(\frac{L_{\text{系统}}}{L_{\text{普朗克}}}\right)^{-1}$$
+
+其中：
+- $\alpha_{\text{量子引力}} \approx 1/137$ 是精细结构常数
+- $L_{\text{系统}}$ 是考察系统的特征长度
+- $L_{\text{普朗克}}$ 是普朗克长度（$\approx 1.6 \times 10^{-35}$ 米）
+
+观测验证方法：临界密度可通过中微子振荡、量子干涉实验或引力波探测中的量子效应观测间接验证。
 
 ## 状态转换关系
 
@@ -137,7 +156,13 @@ $$\mathcal{C}(\Psi_E) = K_C^E$$
 **经典化函数的数学性质**：
 1. 非线性性：$\mathcal{C}(\alpha\Psi_1 + \beta\Psi_2) \neq \alpha\mathcal{C}(\Psi_1) + \beta\mathcal{C}(\Psi_2)$
 2. 不可逆性：$\mathcal{C}(\mathcal{Q}(K_C)) \approx K_C$，但存在信息损失
-3. 概率塌缩性：$\mathcal{C}(|\psi\rangle) = |i\rangle$ 以概率 $|\langle i|\psi\rangle|^2$ 发生
+3. 概率塌缩性：对于任意测量算子 $\hat{O}$ 及其本征态 $\{|i\rangle\}$：
+   $$\mathcal{C}_{\hat{O}}(|\psi\rangle) = |i\rangle \text{ 以概率 } p_i = |\langle i|\hat{O}|\psi\rangle|^2 \text{ 发生}$$
+
+其中测量算子 $\hat{O}$ 需满足：
+- 厄米性：$\hat{O}^{\dagger} = \hat{O}$
+- 完备性：$\sum_i |i\rangle\langle i| = \mathbb{I}$
+- 环境解纠缠：$\mathcal{E}(|\psi\rangle\langle\psi| \otimes \rho_E) \rightarrow \sum_i p_i |i\rangle\langle i| \otimes \rho_{E,i}$
 
 ### 量子化算子
 经典熵到波函数叠加态的转换：
@@ -148,7 +173,9 @@ $$\mathcal{Q}(K_C) = \Psi_E$$
 
 **量子化函数的数学性质**：
 1. 幺正性：$\langle \mathcal{Q}(K_A) | \mathcal{Q}(K_B) \rangle = \delta_{AB}$
-2. 信息保存：$S(\mathcal{Q}(K_C)) \geq S(K_C)$
+2. 信息保存关系：对于给定量子化过程，存在量子-经典信息变换因子 $\xi_{Q/C}$：
+   $$S_{\text{von Neumann}}(\mathcal{Q}(K_C)) = \xi_{Q/C} \cdot S_{\text{Shannon}}(K_C)$$
+   其中 $\xi_{Q/C} \geq 1$ 且依赖于具体量子化过程，反映量子编码效率
 3. 纠缠生成：$\mathcal{Q}(K_A \cup K_B) \neq \mathcal{Q}(K_A) \otimes \mathcal{Q}(K_B)$
 
 ### 转换守恒定律
@@ -191,15 +218,25 @@ $$\mathcal{T}_{A \rightarrow B}(|\psi\rangle_A) = \sum_{i,j} \gamma_{ij} |i\rang
 
 ### 宇宙波函数
 整体宇宙状态可表示为：
-$$|\Psi_{宇宙}\rangle = \int_{全部观察者} |\Psi_{观察者}\rangle d\Omega$$
 
-**宇宙波函数积分测度定义**：
-$$d\Omega = \rho(\vec{x}, t) \cdot d^3x \cdot dt$$
+$$|\Psi_{\text{宇宙}}\rangle = \int_{\mathbb{R}^3} \int_{t_{\text{初始}}}^{t_{\text{终结}}} \int_{\mathcal{S}_{\text{观察者}}} \rho(\vec{x}, t, s)\, |\Psi(\vec{x},t,s)\rangle\, ds\, d^3x\, dt$$
 
-其中 $\rho(\vec{x}, t)$ 是观察者密度函数，积分范围包括：
-1. 经典域空间坐标 $\vec{x} \in \mathbb{R}^3$
-2. 时间坐标 $t \in [t_{\text{初始}}, t_{\text{终结}}]$
-3. 所有可能的观察者状态集合 $\mathcal{S}_{\text{观察者}}$
+**宇宙波函数积分测度完整定义**：
+$$d\Omega = \rho(\vec{x}, t, s) \cdot ds \cdot d^3x \cdot dt$$
+
+其中：
+- $\rho(\vec{x}, t, s)$ 是观察者密度函数
+- $\vec{x} \in \mathbb{R}^3$ 是经典域空间坐标
+- $t \in [t_{\text{初始}}, t_{\text{终结}}]$ 是时间坐标
+- $s \in \mathcal{S}_{\text{观察者}}$ 是观察者状态参数
+
+观察者状态空间 $\mathcal{S}_{\text{观察者}}$ 可表示为：
+$$\mathcal{S}_{\text{观察者}} = \{s = (c_{\mathcal{O}}, q_{\mathcal{O}}, k_{\mathcal{O}}) | c_{\mathcal{O}} \in \mathcal{C}_{\text{空间}}, q_{\mathcal{O}} \in \mathcal{Q}_{\text{空间}}, k_{\mathcal{O}} \in K_C^{\text{空间}} \}$$
+
+其中：
+- $c_{\mathcal{O}}$ 表示观察者的经典化能力参数
+- $q_{\mathcal{O}}$ 表示观察者的量子化能力参数
+- $k_{\mathcal{O}}$ 表示观察者的知识状态参数
 
 ### 欧拉表达式统一
 宇宙基本关系的欧拉形式：
@@ -212,9 +249,9 @@ $$e^{i\pi} + 1 = 0$$
 - $1$：单位元，代表观察者
 - $0$：零元，代表宇宙整体平衡
 
-# Quantum-Classical Dualism Formal Expression v11.3
+# Quantum-Classical Dualism Formal Expression v11.4
 
-**[中文版](#量子经典二元论形式化表达-v113) | English Version**
+**[中文版](#量子经典二元论形式化表达-v114) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -332,12 +369,31 @@ where $T_{\mu\nu}^{(\rho_{\text{quantum\_energy}})}$ is the energy-momentum tens
 
 $$T_{\mu\nu}^{(\rho_{\text{quantum\_energy}})} = \frac{c^4}{8\pi G} \cdot \nabla^2 \rho_{\text{quantum\_energy}} \cdot g_{\mu\nu} + \Lambda_{\Omega_Q} \cdot g_{\mu\nu}$$
 
-$\Lambda_{\Omega_Q}$ is the intrinsic cosmological constant of the quantum domain.
+**Definition of Quantum Domain Cosmological Constant**:
+$$\Lambda_{\Omega_Q} = \Lambda_0 \cdot \exp\left(\frac{\rho_{\text{quantum\_vacuum}}}{2\rho_{\text{Planck}}}\right)$$
+
+where:
+- $\Lambda_0$ is the observed classical cosmological constant ($\approx 1.1 \times 10^{-52} \text{ m}^{-2}$)
+- $\rho_{\text{quantum\_vacuum}}$ is the quantum vacuum energy density
+- $\rho_{\text{Planck}}$ is the Planck density ($\approx 5.1 \times 10^{96} \text{ kg/m}^3$)
+
+Relationship between quantum domain cosmological constant and dark energy:
+$$\rho_{\text{dark\_energy}} = \frac{c^4}{8\pi G} \cdot \Lambda_{\Omega_Q} \cdot \exp\left(-\frac{V_{\text{classical\_domain}}}{V_{\text{quantum\_domain}}}\right)$$
+
+where $V_{\text{classical\_domain}}$ and $V_{\text{quantum\_domain}}$ are the effective volume ratios of classical and quantum domains respectively.
 
 Classicalization efficiency definition:
 $$k_{classicalization\_efficiency} = k_0 \cdot \frac{\nabla \cdot \rho_{\text{quantum\_energy}}}{\rho_{\text{critical}}^2}$$
 
-where $k_0$ is a normalization constant, and $\rho_{\text{critical}}$ is the critical energy density threshold that triggers classicalization.
+**Critical Density Determination Standard**:
+$$\rho_{\text{critical}} = \rho_{\text{Planck}} \cdot \alpha_{\text{quantum\_gravity}} \cdot \left(\frac{L_{\text{system}}}{L_{\text{Planck}}}\right)^{-1}$$
+
+where:
+- $\alpha_{\text{quantum\_gravity}} \approx 1/137$ is the fine structure constant
+- $L_{\text{system}}$ is the characteristic length of the system under consideration
+- $L_{\text{Planck}}$ is the Planck length ($\approx 1.6 \times 10^{-35}$ meters)
+
+Observational verification methods: Critical density can be indirectly verified through neutrino oscillations, quantum interference experiments, or quantum effects in gravitational wave detection.
 
 ## State Transformation Relations
 
@@ -351,7 +407,13 @@ $$\mathcal{C}(\Psi_E) = K_C^E$$
 **Mathematical Properties of Classicalization Function**:
 1. Non-linearity: $\mathcal{C}(\alpha\Psi_1 + \beta\Psi_2) \neq \alpha\mathcal{C}(\Psi_1) + \beta\mathcal{C}(\Psi_2)$
 2. Irreversibility: $\mathcal{C}(\mathcal{Q}(K_C)) \approx K_C$, but with information loss
-3. Probabilistic collapse: $\mathcal{C}(|\psi\rangle) = |i\rangle$ occurs with probability $|\langle i|\psi\rangle|^2$
+3. Probabilistic collapse: For any measurement operator $\hat{O}$ with eigenstates $\{|i\rangle\}$:
+   $$\mathcal{C}_{\hat{O}}(|\psi\rangle) = |i\rangle \text{ occurs with probability } p_i = |\langle i|\hat{O}|\psi\rangle|^2$$
+
+where the measurement operator $\hat{O}$ must satisfy:
+- Hermiticity: $\hat{O}^{\dagger} = \hat{O}$
+- Completeness: $\sum_i |i\rangle\langle i| = \mathbb{I}$
+- Environmental decoherence: $\mathcal{E}(|\psi\rangle\langle\psi| \otimes \rho_E) \rightarrow \sum_i p_i |i\rangle\langle i| \otimes \rho_{E,i}$
 
 ### Quantization Operator
 Transformation from classical entropy to wavefunction superposition:
@@ -362,7 +424,9 @@ $$\mathcal{Q}(K_C) = \Psi_E$$
 
 **Mathematical Properties of Quantization Function**:
 1. Unitarity: $\langle \mathcal{Q}(K_A) | \mathcal{Q}(K_B) \rangle = \delta_{AB}$
-2. Information preservation: $S(\mathcal{Q}(K_C)) \geq S(K_C)$
+2. Information preservation relation: For a given quantization process, there exists a quantum-classical information transformation factor $\xi_{Q/C}$:
+   $$S_{\text{von Neumann}}(\mathcal{Q}(K_C)) = \xi_{Q/C} \cdot S_{\text{Shannon}}(K_C)$$
+   where $\xi_{Q/C} \geq 1$ and depends on the specific quantization process, reflecting quantum encoding efficiency
 3. Entanglement generation: $\mathcal{Q}(K_A \cup K_B) \neq \mathcal{Q}(K_A) \otimes \mathcal{Q}(K_B)$
 
 ### Conservation Law for Transformations
@@ -405,15 +469,25 @@ where $\gamma_{ij}$ is the tunneling coefficient matrix, satisfying $\sum_{i,j} 
 
 ### Universe Wavefunction
 The overall universe state can be represented as:
-$$|\Psi_{universe}\rangle = \int_{all\_observers} |\Psi_{observer}\rangle d\Omega$$
 
-**Definition of Universe Wavefunction Integral Measure**:
-$$d\Omega = \rho(\vec{x}, t) \cdot d^3x \cdot dt$$
+$$|\Psi_{\text{universe}}\rangle = \int_{\mathbb{R}^3} \int_{t_{\text{initial}}}^{t_{\text{final}}} \int_{\mathcal{S}_{\text{observer}}} \rho(\vec{x}, t, s)\, |\Psi(\vec{x},t,s)\rangle\, ds\, d^3x\, dt$$
 
-where $\rho(\vec{x}, t)$ is the observer density function, and the integration range includes:
-1. Classical domain spatial coordinates $\vec{x} \in \mathbb{R}^3$
-2. Time coordinate $t \in [t_{\text{initial}}, t_{\text{final}}]$
-3. Set of all possible observer states $\mathcal{S}_{\text{observer}}$
+**Complete Definition of Universe Wavefunction Integral Measure**:
+$$d\Omega = \rho(\vec{x}, t, s) \cdot ds \cdot d^3x \cdot dt$$
+
+where:
+- $\rho(\vec{x}, t, s)$ is the observer density function
+- $\vec{x} \in \mathbb{R}^3$ is the spatial coordinate in classical domain
+- $t \in [t_{\text{initial}}, t_{\text{final}}]$ is the time coordinate
+- $s \in \mathcal{S}_{\text{observer}}$ is the observer state parameter
+
+The observer state space $\mathcal{S}_{\text{observer}}$ can be represented as:
+$$\mathcal{S}_{\text{observer}} = \{s = (c_{\mathcal{O}}, q_{\mathcal{O}}, k_{\mathcal{O}}) | c_{\mathcal{O}} \in \mathcal{C}_{\text{space}}, q_{\mathcal{O}} \in \mathcal{Q}_{\text{space}}, k_{\mathcal{O}} \in K_C^{\text{space}} \}$$
+
+where:
+- $c_{\mathcal{O}}$ represents the classicalization capability parameter of the observer
+- $q_{\mathcal{O}}$ represents the quantization capability parameter of the observer
+- $k_{\mathcal{O}}$ represents the knowledge state parameter of the observer
 
 ### Euler's Identity Unification
 Euler's form of fundamental universal relationships:
