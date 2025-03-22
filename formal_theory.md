@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v11.6
+# 量子经典二元论形式化表达 v11.7
 
-**[English Version](#quantum-classical-dualism-formal-expression-v116) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v117) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -158,8 +158,8 @@ $$\mathcal{C}(\Psi_E) = K_C^E$$
 **经典化函数的数学性质**：
 1. 非线性性：$\mathcal{C}(\alpha\Psi_1 + \beta\Psi_2) \neq \alpha\mathcal{C}(\Psi_1) + \beta\mathcal{C}(\Psi_2)$
 2. 不可逆性：$\mathcal{C}(\mathcal{Q}(K_C)) \approx K_C$，但存在信息损失
-3. 概率塌缩性：对于任意测量算子 $\hat{O}$ 及其本征态 $\{|i\rangle\}$：
-   $$\mathcal{C}_{\hat{O}}(|\psi\rangle) = |i\rangle \text{ 以概率 } p_i = |\langle i|\hat{O}|\psi\rangle|^2 \text{ 发生}$$
+3. 概率塌缩性：对于任意测量算子 $\hat{O}$：
+   $$p_i = |\langle i|\hat{O}|\psi\rangle|^2,\quad |i\rangle = \frac{\hat{O}|\psi\rangle}{\sqrt{\langle\psi|\hat{O}^\dagger\hat{O}|\psi\rangle}}$$
 
 其中测量算子 $\hat{O}$ 需满足：
 - 厄米性：$\hat{O}^{\dagger} = \hat{O}$
@@ -251,9 +251,9 @@ $$e^{i\pi} + 1 = 0$$
 - $1$：单位元，代表观察者
 - $0$：零元，代表宇宙整体平衡
 
-# Quantum-Classical Dualism Formal Expression v11.6
+# Quantum-Classical Dualism Formal Expression v11.7
 
-**[中文版](#量子经典二元论形式化表达-v116) | English Version**
+**[中文版](#量子经典二元论形式化表达-v117) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -411,8 +411,8 @@ $$\mathcal{C}(\Psi_E) = K_C^E$$
 **Mathematical Properties of Classicalization Function**:
 1. Non-linearity: $\mathcal{C}(\alpha\Psi_1 + \beta\Psi_2) \neq \alpha\mathcal{C}(\Psi_1) + \beta\mathcal{C}(\Psi_2)$
 2. Irreversibility: $\mathcal{C}(\mathcal{Q}(K_C)) \approx K_C$, but with information loss
-3. Probabilistic collapse: For any measurement operator $\hat{O}$ with eigenstates $\{|i\rangle\}$:
-   $$\mathcal{C}_{\hat{O}}(|\psi\rangle) = |i\rangle \text{ occurs with probability } p_i = |\langle i|\hat{O}|\psi\rangle|^2$$
+3. Probabilistic collapse: For any measurement operator $\hat{O}$:
+   $$p_i = |\langle i|\hat{O}|\psi\rangle|^2,\quad |i\rangle = \frac{\hat{O}|\psi\rangle}{\sqrt{\langle\psi|\hat{O}^\dagger\hat{O}|\psi\rangle}}$$
 
 where the measurement operator $\hat{O}$ must satisfy:
 - Hermiticity: $\hat{O}^{\dagger} = \hat{O}$
