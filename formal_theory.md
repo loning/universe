@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v11.4
+# 量子经典二元论形式化表达 v11.5
 
-**[English Version](#quantum-classical-dualism-formal-expression-v114) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v115) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -118,29 +118,31 @@ $$G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu}^{(\rho_{\text{量子能量}})}$$
 
 $$T_{\mu\nu}^{(\rho_{\text{量子能量}})} = \frac{c^4}{8\pi G} \cdot \nabla^2 \rho_{\text{量子能量}} \cdot g_{\mu\nu} + \Lambda_{\Omega_Q} \cdot g_{\mu\nu}$$
 
-**量子域宇宙学常数定义**：
-$$\Lambda_{\Omega_Q} = \Lambda_0 \cdot \exp\left(\frac{\rho_{\text{量子真空}}}{2\rho_{\text{普朗克}}}\right)$$
+**量子域宇宙学常数修正定义**：
+$$\Lambda_{\Omega_Q} = \frac{8\pi G}{c^4}\rho_{\Lambda} = \frac{8\pi G}{c^4}\rho_P e^{-S_{\text{von Neumann}}(\rho_Q)}$$
 
 其中：
-- $\Lambda_0$ 是观测到的经典宇宙学常数（$\approx 1.1 \times 10^{-52} \text{ m}^{-2}$）
-- $\rho_{\text{量子真空}}$ 是量子真空能量密度
-- $\rho_{\text{普朗克}}$ 是普朗克密度（$\approx 5.1 \times 10^{96} \text{ kg/m}^3$）
+- $\rho_{\Lambda}$ 是与暗能量关联的量子真空能量密度
+- $\rho_P$ 是普朗克密度 ($\rho_{\text{Planck}} = \frac{c^7}{\hbar G^2} \approx 5.1 \times 10^{96} \text{ kg/m}^3$)
+- $S_{\text{von Neumann}}(\rho_Q)$ 是量子域的冯诺依曼熵
 
 量子域宇宙学常数与暗能量的关系：
-$$\rho_{\text{暗能量}} = \frac{c^4}{8\pi G} \cdot \Lambda_{\Omega_Q} \cdot \exp\left(-\frac{V_{\text{经典域}}}{V_{\text{量子域}}}\right)$$
+$$\rho_{\text{暗能量}} = \rho_P e^{-S_{\text{von Neumann}}(\rho_Q)} \cdot \exp\left(-\frac{V_{\text{经典域}}}{V_{\text{量子域}}}\right)$$
 
 其中 $V_{\text{经典域}}$ 和 $V_{\text{量子域}}$ 分别是经典域和量子域的有效体积比率。
 
 经典化效率定义：
 $$k_{\text{经典化效率}} = k_0 \cdot \frac{\nabla \cdot \rho_{\text{量子能量}}}{\rho_{\text{临界}}^2}$$
 
-**临界密度确定标准**：
-$$\rho_{\text{临界}} = \rho_{\text{普朗克}} \cdot \alpha_{\text{量子引力}} \cdot \left(\frac{L_{\text{系统}}}{L_{\text{普朗克}}}\right)^{-1}$$
+**临界密度确定标准修正**：
+$$\rho_{\text{临界}} = \rho_{\text{Planck}} \cdot e^{-S_E(\rho_{AB})}$$
 
 其中：
-- $\alpha_{\text{量子引力}} \approx 1/137$ 是精细结构常数
-- $L_{\text{系统}}$ 是考察系统的特征长度
-- $L_{\text{普朗克}}$ 是普朗克长度（$\approx 1.6 \times 10^{-35}$ 米）
+- $\rho_{\text{Planck}} = \frac{c^7}{\hbar G^2}$ 是普朗克密度
+- $S_E(\rho_{AB})$ 是量子纠缠态的熵
+
+因此，经典化效率完整表达式为：
+$$k_{\text{经典化效率}} = k_0 \cdot \frac{\nabla \cdot \rho_{\text{量子能量}}}{\rho_{\text{Planck}}^2 e^{-2 S_E(\rho_{AB})}}$$
 
 观测验证方法：临界密度可通过中微子振荡、量子干涉实验或引力波探测中的量子效应观测间接验证。
 
@@ -249,9 +251,9 @@ $$e^{i\pi} + 1 = 0$$
 - $1$：单位元，代表观察者
 - $0$：零元，代表宇宙整体平衡
 
-# Quantum-Classical Dualism Formal Expression v11.4
+# Quantum-Classical Dualism Formal Expression v11.5
 
-**[中文版](#量子经典二元论形式化表达-v114) | English Version**
+**[中文版](#量子经典二元论形式化表达-v115) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -369,29 +371,31 @@ where $T_{\mu\nu}^{(\rho_{\text{quantum\_energy}})}$ is the energy-momentum tens
 
 $$T_{\mu\nu}^{(\rho_{\text{quantum\_energy}})} = \frac{c^4}{8\pi G} \cdot \nabla^2 \rho_{\text{quantum\_energy}} \cdot g_{\mu\nu} + \Lambda_{\Omega_Q} \cdot g_{\mu\nu}$$
 
-**Definition of Quantum Domain Cosmological Constant**:
-$$\Lambda_{\Omega_Q} = \Lambda_0 \cdot \exp\left(\frac{\rho_{\text{quantum\_vacuum}}}{2\rho_{\text{Planck}}}\right)$$
+**Revised Definition of Quantum Domain Cosmological Constant**:
+$$\Lambda_{\Omega_Q} = \frac{8\pi G}{c^4}\rho_{\Lambda} = \frac{8\pi G}{c^4}\rho_P e^{-S_{\text{von Neumann}}(\rho_Q)}$$
 
 where:
-- $\Lambda_0$ is the observed classical cosmological constant ($\approx 1.1 \times 10^{-52} \text{ m}^{-2}$)
-- $\rho_{\text{quantum\_vacuum}}$ is the quantum vacuum energy density
-- $\rho_{\text{Planck}}$ is the Planck density ($\approx 5.1 \times 10^{96} \text{ kg/m}^3$)
+- $\rho_{\Lambda}$ is the quantum vacuum energy density associated with dark energy
+- $\rho_P$ is the Planck density ($\rho_{\text{Planck}} = \frac{c^7}{\hbar G^2} \approx 5.1 \times 10^{96} \text{ kg/m}^3$)
+- $S_{\text{von Neumann}}(\rho_Q)$ is the von Neumann entropy of the quantum domain
 
 Relationship between quantum domain cosmological constant and dark energy:
-$$\rho_{\text{dark\_energy}} = \frac{c^4}{8\pi G} \cdot \Lambda_{\Omega_Q} \cdot \exp\left(-\frac{V_{\text{classical\_domain}}}{V_{\text{quantum\_domain}}}\right)$$
+$$\rho_{\text{dark\_energy}} = \rho_P e^{-S_{\text{von Neumann}}(\rho_Q)} \cdot \exp\left(-\frac{V_{\text{classical\_domain}}}{V_{\text{quantum\_domain}}}\right)$$
 
 where $V_{\text{classical\_domain}}$ and $V_{\text{quantum\_domain}}$ are the effective volume ratios of classical and quantum domains respectively.
 
 Classicalization efficiency definition:
 $$k_{classicalization\_efficiency} = k_0 \cdot \frac{\nabla \cdot \rho_{\text{quantum\_energy}}}{\rho_{\text{critical}}^2}$$
 
-**Critical Density Determination Standard**:
-$$\rho_{\text{critical}} = \rho_{\text{Planck}} \cdot \alpha_{\text{quantum\_gravity}} \cdot \left(\frac{L_{\text{system}}}{L_{\text{Planck}}}\right)^{-1}$$
+**Revised Critical Density Determination Standard**:
+$$\rho_{\text{critical}} = \rho_{\text{Planck}} \cdot e^{-S_E(\rho_{AB})}$$
 
 where:
-- $\alpha_{\text{quantum\_gravity}} \approx 1/137$ is the fine structure constant
-- $L_{\text{system}}$ is the characteristic length of the system under consideration
-- $L_{\text{Planck}}$ is the Planck length ($\approx 1.6 \times 10^{-35}$ meters)
+- $\rho_{\text{Planck}} = \frac{c^7}{\hbar G^2}$ is the Planck density
+- $S_E(\rho_{AB})$ is the entropy of quantum entangled states
+
+Therefore, the complete expression for classicalization efficiency is:
+$$k_{classicalization\_efficiency} = k_0 \cdot \frac{\nabla \cdot \rho_{\text{quantum\_energy}}}{\rho_{\text{Planck}}^2 e^{-2 S_E(\rho_{AB})}}$$
 
 Observational verification methods: Critical density can be indirectly verified through neutrino oscillations, quantum interference experiments, or quantum effects in gravitational wave detection.
 
