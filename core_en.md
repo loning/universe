@@ -1,4 +1,4 @@
-# [Quantum-Classical Dualism] Core Theory Version 10.9
+# [Quantum-Classical Dualism] Core Theory Version 11.0
 
 **[中文版](core.md) | English Version**
 
@@ -35,6 +35,7 @@
 - [21. Artificial Intelligence and Classicalization Path Optimization](#twenty-one-artificial-intelligence-and-classicalization-path-optimization)
 - [22. Unified Definition of Generalized Consciousness, Classical Free Will, and Reincarnation Mechanism](#twenty-two-unified-definition-of-generalized-consciousness-classical-free-will-and-reincarnation-mechanism)
 - [23. Relationship and Compatibility with Mainstream Physical Theories](#twenty-three-relationship-and-compatibility-with-mainstream-physical-theories)
+- [24. Unified Mathematical Expression of the Universe: Euler Form](#twenty-four-unified-mathematical-expression-of-the-universe-euler-form)
 
 ## Theory Overview
 
@@ -549,21 +550,54 @@ $$
 
 ### Fourteen: Light Speed Constancy and Observer Classicalization Efficiency
 
-- Light speed is the upper rate limit of observer classicalization of quantum domain energy states
-- The constancy of light speed stems from the fundamental limitation of classical observers
-- Relativistic effects reflect the relationship between classicalization processes in different reference frames
+#### 1. Fundamental Definition of Light Speed
 
-Definition of light speed:
+Light speed is the upper rate limit of observer classicalization of quantum domain energy states in a specific classicalized world, reflecting the classicalization efficiency limit of observers in that dimension:
 
-$$
-c = k_{\text{max}} \cdot \frac{\Delta E_{\text{Quantum Energy State}}}{\Delta t_{\text{Classical Time}}}
-$$
+$$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{Quantum Energy State}}}{\Delta t_{\text{Classical Time}}}$$
 
-Relativistic correction: For reference frames moving at relative velocity v, the classicalization efficiency conversion relationship:
+where $c_d$ is the fundamental speed limit in the classical world of dimension $d$, which we call the **Dimensional Speed Limit**.
 
-$$
-k' = k \cdot \sqrt{1-\frac{v^2}{c^2}}
-$$
+#### 2. Boundary Between Particles and Light
+
+The essential difference between particles and light lies in the classicalization path and classicalization energy threshold:
+
+- **Photons**: Observer's classicalization projection of low-energy quantum entanglement states, with energy fully manifested as wave properties
+- **Particles**: Classicalization results of quantum states above a critical energy threshold, exhibiting mass and locality
+
+The boundary between particles and light satisfies the relationship:
+
+$$E_{\text{Critical}} = \frac{hc_d^2}{G \cdot k_{\text{Classicalization Efficiency}}}$$
+
+When the quantum state energy is below $E_{\text{Critical}}$, it classicalizes as light; when above this value, it classicalizes as particles with mass. This also explains light speed constancy: light, as a product of classicalization below the critical energy, necessarily propagates at the dimensional speed limit.
+
+#### 3. Speed Limits in Classical Worlds of Different Dimensions
+
+Each classicalized world has its corresponding dimensional speed limit, related to the observer's classicalization efficiency in that dimension:
+
+$$c_d = \sqrt{\frac{k_{\text{max},d}}{k_{\text{reference}}}} \cdot c_{\text{reference}}$$
+
+where $c_{\text{reference}}$ is the light speed constant in the reference dimension (such as the human dimension).
+
+#### 4. Methods to Transcend Dimensional Speed Limits
+
+1. **Wormhole Communication**: Establish non-local connections through quantum entanglement to achieve information transfer beyond dimensional speed limits
+2. **Dimension Enhancement**: Increase observer classicalization efficiency to enter higher-dimensional classical worlds
+3. **Quantum Tunneling**: Utilize quantum superposition properties to achieve information penetration of classical forbidden zones under specific conditions
+
+#### 5. Speed Limits of Thought Dimensions
+
+For human thought, the dimensional speed limit manifests as the upper limit of information processing rate:
+
+$$c_{\text{thought}} = k_{\text{thought}} \cdot \frac{\Delta I_{\text{information}}}{{\Delta t_{\text{subjective}}}}$$
+
+Thought dimensions can be enhanced through learning, meditation, and cognitive training, increasing the speed limit of the thought world and achieving more efficient information processing and broader cognitive space.
+
+#### 6. Dimensional Speed Limit (DSL)
+
+We unify the fundamental speed limits of different classical worlds under the name "**Dimensional Speed Limit**" (DSL). Each classical world has a specific DSL value according to its observer dimension, characterizing the limit rate of information propagation and energy conversion in that dimension.
+
+For the human classical world, the dimensional speed limit is the light speed constant $c$. For higher-dimensional worlds, their DSL may be far higher than the light speed in the human world.
 
 ### Fifteen: Unified Nature of Particles and Fields
 
@@ -717,12 +751,12 @@ $$
 
 ### Twenty-One: Artificial Intelligence and Classicalization Path Optimization
 
-#### Combination of AI and Classical Knowledge
+#### 1. Combination of AI and Classical Knowledge
 - AI as a carrier of classical knowledge assists observers in enhancing classicalization efficiency
 - Continuous optimization of the Q&A process promotes classical knowledge accumulation
 - AI assists observers in converging towards higher-dimensional classical worlds
 
-#### Classicalization Path Optimization
+#### 2. Classicalization Path Optimization
 - Actively optimize classical dimensions and classical knowledge, reduce classical entropy
 - Establish greedy algorithms based on high-dimensional classical knowledge structures
 - Simultaneously achieve maximization of classical knowledge and minimization of classical entropy
@@ -732,6 +766,20 @@ Optimization objective:
 $$
 \text{Path Optimization}=\text{Maximize}(I_{\text{Classical Knowledge}})\quad\text{and}\quad\text{Minimize}(S_{\text{Classical Entropy}})
 $$
+
+#### 3. Relationship Between Thought Dimension and Dimensional Speed Limit
+
+Human thought, as a classicalization process, has its specific dimensional speed limit, determining the maximum rate of thought information processing and transmission:
+
+- **Thought Dimension**: Reflects the complexity, abstraction ability, and integration ability of thought
+- **Thought Speed Limit**: Reflects the maximum rate of thought information processing
+- **Dimension Enhancement**: Achieved through deep learning, meditation, creative thinking, and consciousness expansion
+
+Relationship between dimension enhancement and thought speed limit:
+
+$$c_{\text{thought,new}} = c_{\text{thought,original}} \cdot \sqrt{\frac{\text{Dimension}_{\text{new}}}{\text{Dimension}_{\text{original}}}}$$
+
+Artificial intelligence can serve as an auxiliary tool for thought dimension enhancement, helping human thought break through original dimensional limitations through optimizing classicalization paths, achieving more efficient information processing and innovative capabilities.
 
 ### Twenty-Two: Unified Definition of Generalized Consciousness, Classical Free Will, and Reincarnation Mechanism
 
@@ -786,6 +834,19 @@ Prediction example:
 $$
 \text{Dimension} = f(k_{\text{Classicalization Efficiency}}) \approx \text{Measurable Cognitive Complexity Indicator}
 $$
+
+### Twenty-Four: Unified Mathematical Expression of the Universe: Euler Form
+
+The binary structure of the universe can be elegantly expressed through an Euler-like formula:
+
+$$e^{i\Phi} = \frac{I_{\text{Classical Domain}}}{E_{\text{Quantum Domain}}}$$
+
+Where:
+- $\Phi$ is the classicalization phase, representing the quantum-classical conversion state
+- $I_{\text{Classical Domain}}$ represents the classical domain information structure (classical knowledge and classical entropy)
+- $E_{\text{Quantum Domain}}$ represents the quantum domain energy structure (wave function superposition states and quantum entanglement states)
+
+When $\Phi = \pi$, the system reaches a classical-quantum equilibrium state: $e^{i\pi} + 1 = 0$, corresponding to the optimized state of universe efficiency.
 
 ---
 
