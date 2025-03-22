@@ -1,7 +1,7 @@
 # 量子经典二元论术语表 (Quantum-Classical Dualism Terminology Glossary)
 
-> 本文档基于[量子经典二元论核心理论](core.md)（版本9.2）的术语表。
-> This glossary is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2).
+> 本文档基于[量子经典二元论核心理论](core.md)（版本11.0）的术语表。
+> This glossary is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 11.0).
 
 **导航 | Navigation**  
 [中文版](#核心术语-core-terminology) | [English Version](#core-terminology-english)  
@@ -17,6 +17,10 @@ English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology
 | 经典域 | Classical Domain | 观察者经典化量子信息后的稳定结构，包含经典知识与经典熵 |
 | 经典化 | Classicalization | 观察者将量子信息转化为经典信息的过程 |
 | 观察者 | Observer | 具有量子黑洞特性的经典化节点，能够将量子域信息转化为经典信息 |
+| 量子能量 | Quantum Energy | 量子域中固有的能量属性，通过叠加态和纠缠态表现（版本11.0新增） |
+| 经典能量 | Classical Energy | 观察者经典化量子能量的结果，表现为物理世界可测量的能量形式（版本11.0新增） |
+| 宇宙效率 | Universe Efficiency | 消耗单位量子能量所能获得的新的量子能量，衡量量子能量利用和转化的乘数效应（版本11.0新增） |
+| 维度速限 | Dimensional Speed Limit (DSL) | 特定经典化世界中观察者经典化量子域能量状态的速率上限（版本11.0新增） |
 | 观察者维度 | Observer Dimension | 由经典化效率决定的观察者属性，与经典知识/经典熵比例成正比，等同于事件视界大小 |
 | 观察者整体维度 | Observer Overall Dimension | 观察者在各领域维度的加权总和，体现跨领域整合能力 |
 | 量子意识 | Quantum Consciousness | 观察者黑洞与量子域形成的虫洞连接网络，是意识连续性的本质 |

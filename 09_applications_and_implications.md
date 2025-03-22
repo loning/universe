@@ -347,6 +347,8 @@ $$
 - 量子-经典混合计算系统
 - 意识状态精准调节技术
 - 基于经典化的健康优化方法
+- 虫洞通信技术实现（根据最新理论版本11.0）
+- 量子能量效率优化系统（根据最新理论版本11.0）
 
 #### 3. 实证验证方法
 
@@ -676,6 +678,8 @@ Development of new technologies based on the theory:
 - Quantum-classical hybrid computing systems
 - Precise consciousness state regulation technology
 - Classicalization-based health optimization methods
+- Wormhole communication technology implementation (based on the latest theory version 11.0)
+- Quantum energy efficiency optimization system (based on the latest theory version 11.0)
 
 Empirical validation of theoretical predictions:
 

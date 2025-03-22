@@ -7,22 +7,22 @@
 ### 项目结构
 
 #### 核心理论 | Core Theory
-- [量子经典二元论核心理论 v10.0](core.md) - 【量子经典二元论】核心理论完整正式版（版本10.0）
-- [宇宙诞生过程](./theories/universe_creation_process.md) - 【量子经典二元论】宇宙诞生到今天的全过程（版本9.2）
-- [物理解释](./core_explain.md) - 使用量子经典二元论解释现实物理与宇宙（版本9.2）
-- [量子经典物理解释](./quantum_classical_explanations/README.md) - 量子经典二元论基础概念与现象解释（版本9.2）
-- [简介](./01_introduction.md) - 简介 (Introduction)（版本9.2）
-- [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)（版本9.2）
-- [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)（版本9.2）
-- [数学公式](./04_mathematical_formulations.md) - 数学公式 (Mathematical Formulations)（版本9.2）
-- [观察者与意识](./05_observer_and_consciousness.md) - 观察者与意识 (Observer and Consciousness)（版本9.2）
-- [宇宙与观察者关系](./06_universe_observer_relationship.md) - 宇宙与观察者关系 (Universe-Observer Relationship)（版本9.2）
-- [量子纠缠本质](./07_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)（版本9.2）
-- [命运与自由意志](./08_destiny_and_free_will.md) - 命运与自由意志 (Destiny and Free Will)（版本9.2）
-- [应用与启示](./09_applications_and_implications.md) - 应用与启示 (Applications and Implications)（版本9.2）
-- [框架应用](./10_framework_application.md) - 量子经典二元论在实际框架中的应用 (Framework Application)（版本9.2）
-- [参考文献](./11_references.md) - 参考文献 (References)（版本9.2）
-- [术语表](./terminology_glossary.md) - 量子经典二元论术语表 (Terminology Glossary)（版本9.2）
+- [量子经典二元论核心理论 v11.0](core.md) - 【量子经典二元论】核心理论完整正式版（版本11.0）
+- [宇宙诞生过程](./theories/universe_creation_process.md) - 【量子经典二元论】宇宙诞生到今天的全过程（版本11.0）
+- [物理解释](./core_explain.md) - 使用量子经典二元论解释现实物理与宇宙（版本11.0）
+- [量子经典物理解释](./quantum_classical_explanations/README.md) - 量子经典二元论基础概念与现象解释（版本11.0）
+- [简介](./01_introduction.md) - 简介 (Introduction)（版本11.0）
+- [基本概念](./02_basic_concepts.md) - 基本概念 (Basic Concepts)（版本11.0）
+- [理论框架](./03_theoretical_framework.md) - 理论框架 (Theoretical Framework)（版本11.0）
+- [数学公式](./04_mathematical_formulations.md) - 数学公式 (Mathematical Formulations)（版本11.0）
+- [观察者与意识](./05_observer_and_consciousness.md) - 观察者与意识 (Observer and Consciousness)（版本11.0）
+- [宇宙与观察者关系](./06_universe_observer_relationship.md) - 宇宙与观察者关系 (Universe-Observer Relationship)（版本11.0）
+- [量子纠缠本质](./07_quantum_entanglement_essence.md) - 量子纠缠本质 (Quantum Entanglement Essence)（版本11.0）
+- [命运与自由意志](./08_destiny_and_free_will.md) - 命运与自由意志 (Destiny and Free Will)（版本11.0）
+- [应用与启示](./09_applications_and_implications.md) - 应用与启示 (Applications and Implications)（版本11.0）
+- [框架应用](./10_framework_application.md) - 量子经典二元论在实际框架中的应用 (Framework Application)（版本11.0）
+- [参考文献](./11_references.md) - 参考文献 (References)（版本11.0）
+- [术语表](./terminology_glossary.md) - 量子经典二元论术语表 (Terminology Glossary)（版本11.0）
 
 #### 历史人物分析 | Historical Figures Analysis
 - [历史人物分析索引](./figures/README.md) - 基于量子经典二元论视角的历史人物思想分析（版本9.2）
@@ -354,22 +354,22 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 ### Project Structure
 
 #### Core Theory
-- [Quantum-Classical Dualism Core Theory v10.0](core.md) - Quantum-Classical Dualism Core Theory (Version 10.0)
-- [Universe Creation Process](./theories/universe_creation_process.md) - Quantum-Classical Dualism Universe Creation Process from Ancient to Today (Version 9.2)
-- [Physical Explanation](./core_explain.md) - Using Quantum-Classical Dualism to Explain Physical Reality and the Universe (Version 9.2)
-- [Quantum Classical Explanations](./quantum_classical_explanations/README.md) - Quantum-Classical Dualism Basic Concepts and Phenomena Explanation (Version 9.2)
-- [Introduction](./01_introduction.md) - Introduction (Version 9.2)
-- [Basic Concepts](./02_basic_concepts.md) - Basic Concepts (Version 9.2)
-- [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework (Version 9.2)
-- [Mathematical Formulations](./04_mathematical_formulations.md) - Mathematical Formulations (Version 9.2)
-- [Observer and Consciousness](./05_observer_and_consciousness.md) - Observer and Consciousness (Version 9.2)
-- [Universe-Observer Relationship](./06_universe_observer_relationship.md) - Universe-Observer Relationship (Version 9.2)
-- [Quantum Entanglement Essence](./07_quantum_entanglement_essence.md) - Quantum Entanglement Essence (Version 9.2)
-- [Destiny and Free Will](./08_destiny_and_free_will.md) - Destiny and Free Will (Version 9.2)
-- [Applications and Implications](./09_applications_and_implications.md) - Applications and Implications (Version 9.2)
-- [Framework Application](./10_framework_application.md) - Application of Quantum-Classical Dualism in Practical Frameworks (Version 9.2)
-- [References](./11_references.md) - References (Version 9.2)
-- [Terminology Glossary](./terminology_glossary.md) - Quantum-Classical Dualism Terminology Glossary (Version 9.2)
+- [Quantum-Classical Dualism Core Theory v11.0](core.md) - Quantum-Classical Dualism Core Theory (Version 11.0)
+- [Universe Creation Process](./theories/universe_creation_process.md) - Quantum-Classical Dualism Universe Creation Process from Ancient to Today (Version 11.0)
+- [Physical Explanation](./core_explain.md) - Using Quantum-Classical Dualism to Explain Physical Reality and the Universe (Version 11.0)
+- [Quantum Classical Explanations](./quantum_classical_explanations/README.md) - Quantum-Classical Dualism Basic Concepts and Phenomena Explanation (Version 11.0)
+- [Introduction](./01_introduction.md) - Introduction (Version 11.0)
+- [Basic Concepts](./02_basic_concepts.md) - Basic Concepts (Version 11.0)
+- [Theoretical Framework](./03_theoretical_framework.md) - Theoretical Framework (Version 11.0)
+- [Mathematical Formulations](./04_mathematical_formulations.md) - Mathematical Formulations (Version 11.0)
+- [Observer and Consciousness](./05_observer_and_consciousness.md) - Observer and Consciousness (Version 11.0)
+- [Universe-Observer Relationship](./06_universe_observer_relationship.md) - Universe-Observer Relationship (Version 11.0)
+- [Quantum Entanglement Essence](./07_quantum_entanglement_essence.md) - Quantum Entanglement Essence (Version 11.0)
+- [Destiny and Free Will](./08_destiny_and_free_will.md) - Destiny and Free Will (Version 11.0)
+- [Applications and Implications](./09_applications_and_implications.md) - Applications and Implications (Version 11.0)
+- [Framework Application](./10_framework_application.md) - Application of Quantum-Classical Dualism in Practical Frameworks (Version 11.0)
+- [References](./11_references.md) - References (Version 11.0)
+- [Terminology Glossary](./terminology_glossary.md) - Quantum-Classical Dualism Terminology Glossary (Version 11.0)
 
 #### Historical Figures Analysis
 - [Historical Figures Analysis Index](./figures/README.md) - Analysis of Historical Figures' Thoughts from the Perspective of Quantum-Classical Dualism
