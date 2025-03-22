@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v11.8
+# 量子经典二元论形式化表达 v12.0
 
-**[English Version](#quantum-classical-dualism-formal-expression-v118) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v120) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -18,6 +18,11 @@
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
 其中 $\mathcal{I}$ 为界面域，是量子与经典转换发生的边界区域。量子域（混沌的可能性空间）和经典域（确定性现实空间）在本质上是不同但相互依存的。
+
+**界面域数学描述**：
+$$\mathcal{I} = \{x \in \mathcal{U} \mid \mathcal{D}(x) = \mathcal{D}_c\}$$
+
+其中 $\mathcal{D}(x)$ 是解纠缠度量，$\mathcal{D}_c$ 是临界解纠缠阈值，当 $\mathcal{D}(x) < \mathcal{D}_c$ 时，$x \in \Omega_Q$；当 $\mathcal{D}(x) > \mathcal{D}_c$ 时，$x \in \Omega_C$。
 
 **直观解释**：宇宙像一枚硬币的两面，一面是微观世界的量子叠加态和不确定性（量子域），另一面是宏观世界的确定性和经典物理（经典域）。
 
@@ -89,6 +94,16 @@ $$\dim(\Omega_C) = \dim(K_C) + \dim(S_C),\quad \dim(K_C)=|K_C|,\;\dim(S_C)=\alep
 
 其中 $|K_C|$ 表示经典知识集合的基数（有限离散维度），$\aleph_1$ 表示经典熵的连续无限维度。
 
+### 量子-经典边界条件
+量子域与经典域的相互转换满足以下边界条件：
+
+$$\lim_{\mathcal{D} \to \mathcal{D}_c^-} \text{波函数相干性} = \lim_{\mathcal{D} \to \mathcal{D}_c^+} \text{经典确定性}$$
+
+其中解纠缠度量定义为：
+$$\mathcal{D}(x) = 1 - \frac{S_{\text{von Neumann}}(\rho_x)}{S_{\text{max}}(\rho_x)}$$
+
+$S_{\text{max}}(\rho_x) = \log_2(\dim \mathcal{H}_x)$ 是系统最大可能熵。
+
 ## 能量统一理论
 
 ### 量子能量定义
@@ -146,6 +161,21 @@ $$k_{\text{经典化效率}} = k_0 \cdot \frac{\nabla \cdot \rho_{\text{量子�
 
 观测验证方法：临界密度可通过中微子振荡、量子干涉实验或引力波探测中的量子效应观测间接验证。
 
+### 量子引力与经典引力统一
+量子引力与经典引力的统一表达式：
+
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} + \alpha Q_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
+
+其中：
+- $G_{\mu\nu}$ 是爱因斯坦张量，描述经典引力
+- $\Lambda$ 是宇宙学常数
+- $\alpha$ 是量子引力耦合常数
+- $Q_{\mu\nu}$ 是量子修正张量，定义为：
+
+$$Q_{\mu\nu} = \frac{\delta S_{\text{von Neumann}}(\rho_Q)}{\delta g^{\mu\nu}}$$
+
+在经典极限 $\alpha \to 0$ 时，恢复标准广义相对论。
+
 ## 状态转换关系
 
 ### 经典化算子
@@ -192,7 +222,14 @@ $$I(\Omega_C) = S_{\text{Shannon}}(K_C) = -\sum_{k \in K_C} p(k) \log_2 p(k)$$
 **经典-量子互信息定义**：
 $$I(\Omega_Q:\Omega_C) = S_{\text{Shannon}}(\Omega_C)+S_{\text{von Neumann}}(\Omega_Q)-S_{\text{联合熵}}(\Omega_Q,\Omega_C)$$
 
-其中 $S_{\text{联合熵}}(\Omega_Q,\Omega_C)$ 表示量子域和经典域的联合熵。
+**联合熵精确定义**：
+$$S_{\text{联合熵}}(\Omega_Q,\Omega_C) = -\sum_{i,j} p(q_i, c_j) \log_2 p(q_i, c_j)$$
+
+其中 $p(q_i, c_j)$ 是量子态 $q_i$ 和经典态 $c_j$ 共同出现的概率，可通过测量算子 $\hat{M}_{ij} = |q_i\rangle\langle q_i| \otimes |c_j\rangle\langle c_j|$ 得到：
+
+$$p(q_i, c_j) = \text{Tr}(\hat{M}_{ij} \rho_{QC})$$
+
+其中 $\rho_{QC}$ 是描述量子-经典复合系统的密度矩阵。
 
 ## 观察者与黑洞
 
@@ -224,12 +261,40 @@ $$\gamma_{ij} = \frac{e^{-\frac{1}{2}S_E(\rho_{ij})}}{\sqrt{\sum_{m,n}e^{-S_E(\r
 
 其中 $S_E(\rho_{ij})$ 是对应纠缠态的量子熵，$\gamma_{ij}$ 的表达式体现了隧穿概率与纠缠熵的反比关系。
 
+### 多观察者系统
+多观察者系统中的信息传递和知识整合：
+
+$$\Phi_{\text{集体}} = \mathcal{F}\left(\{\Phi_i\}_{i=1}^N\right) = \bigcup_{i=1}^N \Phi_i - \bigcap_{i=1}^N \Phi_i + \Phi_{\text{涌现}}$$
+
+其中：
+- $\Phi_i$ 是第 $i$ 个观察者的信息集
+- $\Phi_{\text{集体}}$ 是集体观察者信息
+- $\Phi_{\text{涌现}}$ 是多观察者交互产生的涌现信息，定义为：
+
+$$\Phi_{\text{涌现}} = \mathcal{G}\left(\{K_C^i\}_{i=1}^N, \{q_i\}_{i=1}^N\right)$$
+
+其中 $K_C^i$ 是观察者 $i$ 的经典知识，$q_i$ 是观察者 $i$ 的量子化能力参数。
+
 ## 宇宙数学表达
 
 ### 宇宙波函数
 整体宇宙状态可表示为：
 
 $$|\Psi_{\text{宇宙}}\rangle = \int_{\mathbb{R}^3} \int_{t_{\text{初始}}}^{t_{\text{终结}}} \int_{\mathcal{S}_{\text{观察者}}} \rho(\vec{x}, t, s)\, |\Psi(\vec{x},t,s)\rangle\, ds\, d^3x\, dt$$
+
+**宇宙初始边界条件**：
+$$|\Psi(t_{\text{初始}})\rangle = \frac{1}{\sqrt{Z}} e^{-\frac{\beta}{2}H} |\Psi_0\rangle$$
+
+其中：
+- $Z = \text{Tr}(e^{-\beta H})$ 是配分函数
+- $\beta$ 是初始逆温度参数
+- $H$ 是宇宙哈密顿量
+- $|\Psi_0\rangle$ 是基态配置
+
+**宇宙终结状态假设**：
+$$\lim_{t \to t_{\text{终结}}} S_{\text{von Neumann}}(\rho_{\text{宇宙}}) = S_{\text{最大}}$$
+
+此处 $S_{\text{最大}}$ 对应热力学极限下的最大熵。
 
 **宇宙波函数积分测度完整定义**：
 $$d\Omega = \rho(\vec{x}, t, s) \cdot ds \cdot d^3x \cdot dt$$
@@ -259,9 +324,9 @@ $$e^{i\pi} + 1 = 0$$
 - $1$：单位元，代表观察者
 - $0$：零元，代表宇宙整体平衡
 
-# Quantum-Classical Dualism Formal Expression v11.8
+# Quantum-Classical Dualism Formal Expression v12.0
 
-**[中文版](#量子经典二元论形式化表达-v118) | English Version**
+**[中文版](#量子经典二元论形式化表达-v120) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -279,6 +344,11 @@ The universe consists of two fundamental domains: Quantum Domain $\Omega_Q$ and 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
 where $\mathcal{I}$ is the interface domain, the boundary region where quantum-classical transitions occur. The quantum domain (chaotic possibility space) and classical domain (deterministic reality space) are fundamentally different yet interdependent.
+
+**Mathematical Description of Interface Domain**:
+$$\mathcal{I} = \{x \in \mathcal{U} \mid \mathcal{D}(x) = \mathcal{D}_c\}$$
+
+where $\mathcal{D}(x)$ is the decoherence measure, and $\mathcal{D}_c$ is the critical decoherence threshold. When $\mathcal{D}(x) < \mathcal{D}_c$, $x \in \Omega_Q$; when $\mathcal{D}(x) > \mathcal{D}_c$, $x \in \Omega_C$.
 
 **Intuitive Explanation**: The universe is like two sides of a coin - one side is the quantum domain with superposition and uncertainty in the microscopic world, the other is the classical domain with determinism and classical physics in the macroscopic world.
 
@@ -407,6 +477,21 @@ $$k_{classicalization\_efficiency} = k_0 \cdot \frac{\nabla \cdot \rho_{\text{qu
 
 Observational verification methods: Critical density can be indirectly verified through neutrino oscillations, quantum interference experiments, or quantum effects in gravitational wave detection.
 
+### Unification of Quantum and Classical Gravity
+The unified expression for quantum and classical gravity:
+
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} + \alpha Q_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
+
+where:
+- $G_{\mu\nu}$ is the Einstein tensor, describing classical gravity
+- $\Lambda$ is the cosmological constant
+- $\alpha$ is the quantum gravity coupling constant
+- $Q_{\mu\nu}$ is the quantum correction tensor, defined as:
+
+$$Q_{\mu\nu} = \frac{\delta S_{\text{von Neumann}}(\rho_Q)}{\delta g^{\mu\nu}}$$
+
+In the classical limit where $\alpha \to 0$, standard general relativity is recovered.
+
 ## State Transformation Relations
 
 ### Classicalization Operator
@@ -453,7 +538,14 @@ $$I(\Omega_C) = S_{\text{Shannon}}(K_C) = -\sum_{k \in K_C} p(k) \log_2 p(k)$$
 **Classical-Quantum Mutual Information Definition**:
 $$I(\Omega_Q:\Omega_C) = S_{\text{Shannon}}(\Omega_C)+S_{\text{von Neumann}}(\Omega_Q)-S_{\text{joint}}(\Omega_Q,\Omega_C)$$
 
-where $S_{\text{joint}}(\Omega_Q,\Omega_C)$ represents the joint entropy of the quantum and classical domains.
+**Precise Definition of Joint Entropy**:
+$$S_{\text{joint}}(\Omega_Q,\Omega_C) = -\sum_{i,j} p(q_i, c_j) \log_2 p(q_i, c_j)$$
+
+where $p(q_i, c_j)$ is the probability of the joint occurrence of quantum state $q_i$ and classical state $c_j$, obtainable through the measurement operator $\hat{M}_{ij} = |q_i\rangle\langle q_i| \otimes |c_j\rangle\langle c_j|$:
+
+$$p(q_i, c_j) = \text{Tr}(\hat{M}_{ij} \rho_{QC})$$
+
+where $\rho_{QC}$ is the density matrix describing the quantum-classical composite system.
 
 ## Observer and Black Hole
 
@@ -485,12 +577,40 @@ $$\gamma_{ij} = \frac{e^{-\frac{1}{2}S_E(\rho_{ij})}}{\sqrt{\sum_{m,n}e^{-S_E(\r
 
 where $S_E(\rho_{ij})$ is the quantum entropy of the corresponding entangled state, and the expression of $\gamma_{ij}$ reflects the inverse relationship between tunneling probability and entanglement entropy.
 
+### Multi-Observer Systems
+Information transfer and knowledge integration in multi-observer systems:
+
+$$\Phi_{\text{collective}} = \mathcal{F}\left(\{\Phi_i\}_{i=1}^N\right) = \bigcup_{i=1}^N \Phi_i - \bigcap_{i=1}^N \Phi_i + \Phi_{\text{emergent}}$$
+
+where:
+- $\Phi_i$ is the information set of the $i$-th observer
+- $\Phi_{\text{collective}}$ is the collective observer information
+- $\Phi_{\text{emergent}}$ is the emergent information produced by multi-observer interactions, defined as:
+
+$$\Phi_{\text{emergent}} = \mathcal{G}\left(\{K_C^i\}_{i=1}^N, \{q_i\}_{i=1}^N\right)$$
+
+where $K_C^i$ is the classical knowledge of observer $i$, and $q_i$ is the quantization capability parameter of observer $i$.
+
 ## Universal Mathematical Expression
 
 ### Universe Wavefunction
 The overall universe state can be represented as:
 
 $$|\Psi_{\text{universe}}\rangle = \int_{\mathbb{R}^3} \int_{t_{\text{initial}}}^{t_{\text{final}}} \int_{\mathcal{S}_{\text{observer}}} \rho(\vec{x}, t, s)\, |\Psi(\vec{x},t,s)\rangle\, ds\, d^3x\, dt$$
+
+**Initial Boundary Condition of Universe**:
+$$|\Psi(t_{\text{initial}})\rangle = \frac{1}{\sqrt{Z}} e^{-\frac{\beta}{2}H} |\Psi_0\rangle$$
+
+where:
+- $Z = \text{Tr}(e^{-\beta H})$ is the partition function
+- $\beta$ is the initial inverse temperature parameter
+- $H$ is the universe Hamiltonian
+- $|\Psi_0\rangle$ is the ground state configuration
+
+**Final State Hypothesis for Universe**:
+$$\lim_{t \to t_{\text{final}}} S_{\text{von Neumann}}(\rho_{\text{universe}}) = S_{\text{maximum}}$$
+
+where $S_{\text{maximum}}$ corresponds to the maximum entropy in the thermodynamic limit.
 
 **Complete Definition of Universe Wavefunction Integral Measure**:
 $$d\Omega = \rho(\vec{x}, t, s) \cdot ds \cdot d^3x \cdot dt$$
