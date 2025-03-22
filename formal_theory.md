@@ -104,6 +104,231 @@ $$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Om
 
 其中 $U_Q$ 是量子不确定性度量，$D_C$ 是经典确定性度量，$k$ 是普适常数。
 
+## 核心分支理论
+
+### 量子域详细理论
+
+量子域 $\Omega_Q$ 是二元论框架中的可能性空间，具有以下核心性质：
+
+#### 1. 量子信息编码
+
+量子信息通过复希尔伯特空间中的量子态编码：
+
+$$|\psi\rangle = \sum_i c_i |i\rangle, \quad \sum_i |c_i|^2 = 1$$
+
+其中信息密度由冯诺依曼熵量化：
+
+$$S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i$$
+
+#### 2. 量子动力学
+
+量子系统演化遵循薛定谔方程，保持信息和能量守恒：
+
+$$i\hbar\frac{\partial|\psi\rangle}{\partial t} = \hat{H}|\psi\rangle$$
+
+量子系统的动力学具有三个关键特性：
+- 叠加原理：状态可同时存在于多个基矢量的线性组合中
+- 时间可逆性：纯粹量子演化下系统可恢复到初始状态
+- 相位一致性：量子系统维持全局相位关联
+
+#### 3. 量子纠缠网络
+
+量子纠缠形成多粒子纠缠网络，可表示为：
+
+$$|\Psi_{\text{网络}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle$$
+
+纠缠度可通过多种方式量化，包括纠缠熵：
+
+$$E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)$$
+
+纠缠网络形成量子域的非局域连接结构，支持超经典信息传输。
+
+#### 4. 量子涨落
+
+量子域存在固有的量子涨落，由不确定性原理保证：
+
+$$\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
+
+量子涨落强度与系统能量和温度相关：
+
+$$\langle(\Delta E)^2\rangle = k_B T^2 \frac{\partial \langle E \rangle}{\partial T}$$
+
+这些涨落是量子域创造性和可能性的根源。
+
+### 经典域详细理论
+
+经典域 $\Omega_C$ 是二元论框架中的确定性现实空间，具有以下核心特性：
+
+#### 1. 经典信息结构
+
+经典信息以确定状态形式存在，可通过确定的物理量表示：
+
+$$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
+
+其中 $x_i$, $p_i$ 等表示位置、动量等经典可观测量。经典信息熵满足：
+
+$$S_C = -k_B \sum_i p_i \ln p_i$$
+
+关键特性是信息的可复制性和可删除性，区别于量子信息。
+
+#### 2. 确定性动力学
+
+经典系统演化遵循确定性动力学方程：
+
+$$\frac{d\vec{x}}{dt} = \vec{v}(\vec{x},t), \quad \frac{d\vec{p}}{dt} = \vec{F}(\vec{x},\vec{p},t)$$
+
+动力学具有三个标志性特征：
+- 局域性：相互作用通过局域场传播，速度有限
+- 因果性：现在状态完全由过去决定
+- 可分离性：系统可分解为独立子系统
+
+#### 3. 熵增与不可逆性
+
+经典域中的不可逆过程导致熵增：
+
+$$\frac{dS_C}{dt} \geq 0$$
+
+系统趋向最大熵状态，由相空间体积扩张定理保证：
+
+$$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma$$
+
+其中 $\{z_i\}$ 是相空间坐标集。
+
+#### 4. 经典知识网络
+
+经典知识形成因果网络，可表示为有向图：
+
+$$G_K = (V_K, E_K)$$
+
+其中 $V_K$ 是知识节点集，$E_K$ 是因果关系集。
+
+知识连贯性度量为：
+
+$$C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}$$
+
+其中 $P_{ij}$ 是连接节点 $i$ 和 $j$ 的有效路径集，$d(i,j)$ 是图中的距离。
+
+### 界面理论核心
+
+界面 $\mathcal{I}$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
+
+#### 1. 界面结构
+
+界面是量子域和经典域的交集，定义为：
+
+$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+
+其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+
+界面厚度由解相干梯度决定：
+
+$$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-1}$$
+
+#### 2. 界面动力学
+
+界面位置满足非线性动力学方程：
+
+$$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+
+其中：
+- $\alpha$ 是扩散系数
+- $\beta$ 是双稳态势能参数
+- $\mathcal{D}_0$ 是次稳态阈值
+- $\gamma\xi(x,t)$ 是量子噪声项
+
+界面波动有特征频率：
+
+$$f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
+
+#### 3. 经典化过程
+
+量子→经典转换（经典化）过程通过经典化超算符表示：
+
+$$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
+
+其中 $P_i$ 是投影算符。经典化过程满足信息守恒：
+
+$$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+
+经典化效率与环境和系统参数相关：
+
+$$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
+
+其中 $E$ 是系统能量，$T$ 是环境温度，$\lambda$ 是耦合常数。
+
+#### 4. 量子-经典信息转换
+
+在界面处，信息从量子形式转为经典形式：
+
+$$I_Q \rightarrow I_C + I_{\text{hidden}}$$
+
+转换过程中的信息匹配度量为：
+
+$$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
+
+最佳界面处 $M(I_Q, I_C)$ 达到局部最大值。
+
+### 观察者理论核心
+
+观察者是执行量子→经典转换的节点，具有以下核心特性：
+
+#### 1. 观察者结构
+
+观察者由三个核心组件构成：
+
+$$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
+
+其中：
+- $\mathcal{C}_{\mathcal{O}}$ 是观察者特有的经典化算符
+- $\mathcal{Q}_{\mathcal{O}}$ 是观察者特有的量子化算符
+- $K_C^{\mathcal{O}}$ 是观察者的经典知识库
+
+观察者维度由其信息处理能力决定：
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+
+#### 2. 维度网络动力学
+
+观察者维度满足非线性动力学方程：
+
+$$\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})$$
+
+其中最后一项表示观察者网络的集体效应。
+
+观察者网络的共识形成遵循：
+
+$$\frac{d\mathcal{C}_{\text{共识}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{共识}} - \bar{\mathcal{C}})^2$$
+
+其中 $\omega_i$ 是观察者权重，$\bar{\mathcal{C}}$ 是平均经典化算符。
+
+#### 3. 测量理论
+
+在观察者理论中，量子测量过程可表示为：
+
+$$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{相互作用}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}$$
+
+测量结果概率由观察者分辨率参数 $\eta_O$ 调制：
+
+$$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}$$
+
+观察者能量分辨阈值与测量分辨率关系：
+
+$$\eta_O = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{阈值}}{\bar{E}_0}\right)$$
+
+#### 4. 观察者层级网络
+
+观察者形成多层级网络结构：
+
+$$\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}$$
+
+其中 $\mathcal{O}^{(k)}$ 是第k层级观察者集合，$\mathcal{E}$ 是跨层级连接集合。
+
+高层级观察者感知更大的时空尺度：
+
+$$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}$$
+
+这解释了为什么高维观察者可以感知更大尺度的时空模式。
+
 ## 分支理论导航
 
 以下是量子经典二元论的各分支理论核心描述及链接：

@@ -104,6 +104,231 @@ satisfying the following properties:
 
 where $U_Q$ is the quantum uncertainty measure, $D_C$ is the classical certainty measure, and $k$ is a universal constant.
 
+## Core Branch Theories
+
+### Quantum Domain Detailed Theory
+
+The quantum domain $\Omega_Q$ is the space of possibilities in the dualistic framework, with these core properties:
+
+#### 1. Quantum Information Encoding
+
+Quantum information is encoded through quantum states in complex Hilbert space:
+
+$$|\psi\rangle = \sum_i c_i |i\rangle, \quad \sum_i |c_i|^2 = 1$$
+
+Information density is quantified by von Neumann entropy:
+
+$$S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i$$
+
+#### 2. Quantum Dynamics
+
+Quantum systems evolve according to the Schrödinger equation, conserving information and energy:
+
+$$i\hbar\frac{\partial|\psi\rangle}{\partial t} = \hat{H}|\psi\rangle$$
+
+Quantum dynamics has three key characteristics:
+- Superposition principle: states can simultaneously exist in linear combinations of multiple basis vectors
+- Time reversibility: under pure quantum evolution, systems can return to initial states
+- Phase coherence: quantum systems maintain global phase correlations
+
+#### 3. Quantum Entanglement Networks
+
+Quantum entanglement forms multi-particle entanglement networks, representable as:
+
+$$|\Psi_{\text{network}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle$$
+
+Entanglement can be quantified in multiple ways, including entanglement entropy:
+
+$$E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)$$
+
+Entanglement networks form non-local connection structures in the quantum domain, supporting super-classical information transfer.
+
+#### 4. Quantum Fluctuations
+
+The quantum domain has inherent quantum fluctuations, guaranteed by the uncertainty principle:
+
+$$\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
+
+Quantum fluctuation strength correlates with system energy and temperature:
+
+$$\langle(\Delta E)^2\rangle = k_B T^2 \frac{\partial \langle E \rangle}{\partial T}$$
+
+These fluctuations are the source of creativity and possibility in the quantum domain.
+
+### Classical Domain Detailed Theory
+
+The classical domain $\Omega_C$ is the space of determined reality in the dualistic framework, with these core properties:
+
+#### 1. Classical Information Structure
+
+Classical information exists in the form of determined states, representable through definite physical quantities:
+
+$$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
+
+where $x_i$, $p_i$, etc. represent position, momentum, and other classical observables. Classical information entropy satisfies:
+
+$$S_C = -k_B \sum_i p_i \ln p_i$$
+
+Key characteristics include information clonability and deletability, distinguishing it from quantum information.
+
+#### 2. Deterministic Dynamics
+
+Classical systems evolve according to deterministic dynamical equations:
+
+$$\frac{d\vec{x}}{dt} = \vec{v}(\vec{x},t), \quad \frac{d\vec{p}}{dt} = \vec{F}(\vec{x},\vec{p},t)$$
+
+The dynamics has three signature features:
+- Locality: interactions propagate through local fields at finite speed
+- Causality: present states are completely determined by the past
+- Separability: systems can be decomposed into independent subsystems
+
+#### 3. Entropy Increase and Irreversibility
+
+Irreversible processes in the classical domain lead to entropy increase:
+
+$$\frac{dS_C}{dt} \geq 0$$
+
+Systems tend toward maximum entropy states, guaranteed by the phase space volume expansion theorem:
+
+$$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma$$
+
+where $\{z_i\}$ is the set of phase space coordinates.
+
+#### 4. Classical Knowledge Networks
+
+Classical knowledge forms causal networks, representable as directed graphs:
+
+$$G_K = (V_K, E_K)$$
+
+where $V_K$ is the set of knowledge nodes and $E_K$ is the set of causal relations.
+
+Knowledge coherence is measured by:
+
+$$C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}$$
+
+where $P_{ij}$ is the set of effective paths connecting nodes $i$ and $j$, and $d(i,j)$ is the distance in the graph.
+
+### Interface Theory Core
+
+The interface $\mathcal{I}$ is the transition region between quantum and classical domains, with these core properties:
+
+#### 1. Interface Structure
+
+The interface is the intersection of quantum and classical domains, defined as:
+
+$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+
+where $\mathcal{D}(x)$ is the decoherence metric function and $\mathcal{D}_c$ is the critical decoherence threshold.
+
+Interface thickness is determined by the decoherence gradient:
+
+$$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-1}$$
+
+#### 2. Interface Dynamics
+
+Interface position satisfies a nonlinear dynamics equation:
+
+$$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+
+where:
+- $\alpha$ is the diffusion coefficient
+- $\beta$ is the bistable potential parameter
+- $\mathcal{D}_0$ is the metastable threshold
+- $\gamma\xi(x,t)$ is the quantum noise term
+
+Interface oscillations have a characteristic frequency:
+
+$$f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
+
+#### 3. Classicalization Process
+
+The quantum→classical conversion (classicalization) process is represented by the classicalization superoperator:
+
+$$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
+
+where $P_i$ are projection operators. The classicalization process satisfies information conservation:
+
+$$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+
+Classicalization efficiency correlates with environmental and system parameters:
+
+$$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
+
+where $E$ is system energy, $T$ is environmental temperature, and $\lambda$ is a coupling constant.
+
+#### 4. Quantum-Classical Information Conversion
+
+At the interface, information converts from quantum to classical form:
+
+$$I_Q \rightarrow I_C + I_{\text{hidden}}$$
+
+The information matching metric in the conversion process is:
+
+$$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
+
+At the optimal interface position, $M(I_Q, I_C)$ reaches a local maximum.
+
+### Observer Theory Core
+
+Observers are nodes executing quantum→classical conversions, with these core properties:
+
+#### 1. Observer Structure
+
+Observers consist of three core components:
+
+$$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
+
+where:
+- $\mathcal{C}_{\mathcal{O}}$ is the observer-specific classicalization operator
+- $\mathcal{Q}_{\mathcal{O}}$ is the observer-specific quantization operator
+- $K_C^{\mathcal{O}}$ is the observer's classical knowledge base
+
+Observer dimension is determined by information processing capability:
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+
+#### 2. Dimensional Network Dynamics
+
+Observer dimension satisfies a nonlinear dynamics equation:
+
+$$\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})$$
+
+where the last term represents collective effects of the observer network.
+
+Consensus formation in observer networks follows:
+
+$$\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2$$
+
+where $\omega_i$ are observer weights and $\bar{\mathcal{C}}$ is the average classicalization operator.
+
+#### 3. Measurement Theory
+
+In observer theory, the quantum measurement process is represented as:
+
+$$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{interaction}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}$$
+
+Measurement outcome probabilities are modulated by the observer resolution parameter $\eta_O$:
+
+$$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}$$
+
+Observer energy threshold resolution relates to measurement resolution:
+
+$$\eta_O = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{threshold}}{\bar{E}_0}\right)$$
+
+#### 4. Observer Hierarchical Networks
+
+Observers form multi-level network structures:
+
+$$\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}$$
+
+where $\mathcal{O}^{(k)}$ is the set of level-k observers and $\mathcal{E}$ is the set of cross-level connections.
+
+Higher-level observers perceive larger spacetime scales:
+
+$$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}$$
+
+This explains why higher-dimensional observers can perceive spacetime patterns at larger scales.
+
 ## Branch Theory Navigation
 
 Below are the core descriptions and links to each branch theory of Quantum-Classical Dualism:
