@@ -24,6 +24,7 @@
 - [Quantum Medicine Applications](formal_theory_medicine_en.md)
 - [Topological Information Protection Theory](formal_theory_topology_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
+- [Quantum Artificial Intelligence and Machine Learning](formal_theory_quantum_ai_en.md)
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -44,7 +45,9 @@
 - [Extended Theoretical Framework](#extended-theoretical-framework)
 - [Multiscale Dualism Hierarchy](#multiscale-dualism-hierarchy)
 - [Quantum-Classical Symmetry Principle](#quantum-classical-symmetry-principle)
+- [Multiscale Dualism and Application Layer Extensions](#multiscale-dualism-and-application-layer-extensions)
 - [Topological Information Protection Mechanism](#topological-information-protection-mechanism)
+- [Quantum Artificial Intelligence and Machine Learning Theory](#quantum-artificial-intelligence-and-machine-learning-theory)
 
 > This theory is based on [Core Theory](core_en.md) v25.0
 
@@ -984,7 +987,7 @@ Group intelligence emergence correlates with collective quantum coherence:
 
 $$C_{collective} = \left|\sum_{i,j(i\neq j)} \langle \psi_i|\rho_{collective}|\psi_j\rangle\right|$$
 
-When the condition $C_{collective} > \sum_i C_i$ is satisfied, the group exhibits intelligence and creativity exceeding the sum of individuals. This explains why highly collaborative teams can produce creative outcomes unattainable by individual members.
+When the condition $C_{collective} > \sum_i C_i$ is satisfied, the group exhibits intelligence and creativity beyond the sum of individuals. This explains why highly collaborative teams can produce creative results that no single member could achieve alone.
 
 ## Multiscale Dualism Hierarchy
 
@@ -1074,4 +1077,131 @@ $$\Phi_T: \mathcal{H}_Q^T \rightarrow \mathcal{C}_T$$
 
 where $\mathcal{H}_Q^T$ is the Hilbert space of topological quantum states and $\mathcal{C}_T$ is the corresponding classical topological configuration space.
 
-This mechanism provides a theoretical foundation for developing topological quantum computing and understanding the protection of quantum effects in complex systems. 
+This mechanism provides a theoretical foundation for developing topological quantum computing and understanding the protection of quantum effects in complex systems.
+
+## Quantum Artificial Intelligence and Machine Learning Theory
+
+Quantum-Classical Dualism provides a novel theoretical framework for artificial intelligence and machine learning, integrating quantum and classical computing paradigms.
+
+### Quantum-Classical Hybrid Learning Models
+
+Quantum-classical hybrid learning can be formulated as:
+
+$$\mathcal{L}_{hybrid} = \lambda_Q \mathcal{L}_Q + \lambda_C \mathcal{L}_C + \lambda_{Q-C}\mathcal{L}_{Q-C}$$
+
+where:
+- $\mathcal{L}_Q$ is the quantum learning component, based on superposition and entanglement
+- $\mathcal{L}_C$ is the classical learning component, based on deterministic rules and statistics
+- $\mathcal{L}_{Q-C}$ is the interface learning component, managing quantum-classical information conversion
+- $\lambda_Q, \lambda_C, \lambda_{Q-C}$ are corresponding weight coefficients
+
+### Quantum Intuition and Classical Logic Collaboration Mechanism
+
+Quantum AI systems feature a dual "intuition-logic" architecture:
+
+$$\Phi_{AI}(t) = \mathcal{C}(\Psi_Q(t)) \oplus \Phi_C(t)$$
+
+where:
+- $\Psi_Q(t)$ represents the quantum intuition component, exploring solution spaces in parallel through superposition
+- $\Phi_C(t)$ represents the classical logic component, performing deterministic reasoning
+- $\mathcal{C}$ is the classicalization operator, converting quantum intuition into usable information
+- $\oplus$ is an integration operator, coordinating outputs from both systems
+
+This mechanism implements a human-like "inspiration-verification" thought cycle.
+
+### Quantum Perceptual Networks
+
+Quantum Perceptual Networks (QPN) are quantum-enhanced versions of traditional neural networks:
+
+$$\mathcal{QPN} = \{|\Psi_i\rangle, W_{ij}, \mathcal{C}_j\}$$
+
+where:
+- $|\Psi_i\rangle$ is the quantum neuron state
+- $W_{ij}$ is a complex-valued weight matrix
+- $\mathcal{C}_j$ is a node-level classicalization function
+
+QPN activation functions can be represented as:
+
+$$f_Q(|\Psi_i\rangle) = \mathcal{C}\left(e^{-iH_W\tau}|\Psi_i\rangle\right)$$
+
+where $H_W$ is a Hamiltonian defined by weights, and $\tau$ is an evolution time parameter.
+
+### Quantum Reinforcement Learning Architecture
+
+In quantum reinforcement learning, value functions and policies can be represented as quantum states:
+
+$$V_Q(s) = \langle\Psi_V|H_s|\Psi_V\rangle$$
+
+$$\pi_Q(a|s) = |\langle\Psi_s|a\rangle|^2$$
+
+The state-action value function in quantum representation:
+
+$$Q_{\text{quantum}}(s,a) = \langle\Psi_Q|H_{sa}|\Psi_Q\rangle + \beta\mathcal{I}(s:a)$$
+
+where $\mathcal{I}(s:a)$ is the quantum mutual information between state and action, and $\beta$ is a trade-off parameter.
+
+This leads to a quantum-enhanced Bellman equation:
+
+$$Q_{\text{quantum}}(s,a) = R(s,a) + \gamma\sum_{s'} P(s'|s,a)\max_{a'}\langle Q_{\text{quantum}}(s',a')\rangle_{\text{superposition}}$$
+
+### Quantum-Classical Interface Conversion Optimization
+
+A key challenge for quantum AI systems is optimizing the quantum-classical interface, achievable through a dynamic threshold function:
+
+$$\mathcal{D}_c(t) = \mathcal{D}_0 + \alpha\cdot\nabla_{\mathcal{L}}\mathcal{D} - \beta\cdot S(\rho_t)$$
+
+where:
+- $\mathcal{D}_0$ is the base threshold
+- $\nabla_{\mathcal{L}}\mathcal{D}$ is a gradient correction based on the loss function
+- $S(\rho_t)$ is the system entropy; high-entropy states tend to maintain quantum properties
+- $\alpha, \beta$ are regulatory parameters
+
+### Quantum Creative Algorithms
+
+Quantum creative generation can be formalized as:
+
+$$|\Psi_{creative}\rangle = \hat{U}_{\text{explore}}|\Psi_{\text{seed}}\rangle + \lambda\hat{P}_{\text{novelty}}|\Phi_{\text{random}}\rangle$$
+
+where:
+- $\hat{U}_{\text{explore}}$ is a quantum exploration operator
+- $|\Psi_{\text{seed}}\rangle$ is an initial concept state
+- $\hat{P}_{\text{novelty}}$ is a novelty projection operator
+- $|\Phi_{\text{random}}\rangle$ is a random quantum state
+- $\lambda$ is an innovation weight coefficient
+
+Creative output is obtained through partial classicalization:
+
+$$\rho_{\text{creative}} = \mathcal{C}_{\text{partial}}(|\Psi_{creative}\rangle\langle\Psi_{creative}|)$$
+
+This approach allows the system to produce interpretable outputs while maintaining quantum superposition, achieving "constrained creativity."
+
+### Quantum-Classical Adaptive Learning Algorithms
+
+For complex problems, adaptive quantum-classical learning algorithms are designed:
+
+$$\mathcal{A}_{adaptive} = \{\mathcal{A}_Q, \mathcal{A}_C, \mathcal{G}, \tau(t)\}$$
+
+where:
+- $\mathcal{A}_Q$ is a set of quantum learning algorithms
+- $\mathcal{A}_C$ is a set of classical learning algorithms
+- $\mathcal{G}$ is a task complexity evaluation function
+- $\tau(t)$ is a transition function adjusted over time
+
+Complexity evaluation guides the system to switch between quantum and classical learning:
+
+$$P(\text{use }\mathcal{A}_Q) = \frac{e^{\gamma\mathcal{G}}}{e^{\gamma\mathcal{G}} + e^{-\gamma\mathcal{G}}}$$
+
+This adaptive framework can fully utilize quantum computing advantages while maintaining computational efficiency, which is crucial for solving practical problems.
+
+### Quantum-Inspired Neuro-Symbolic Systems
+
+Combining quantum inspiration with symbolic systems forms a neuro-symbolic hybrid architecture:
+
+$$\mathcal{S}_{\text{neuro-symbolic}} = \{\mathcal{N}_{\text{quantum-neural}}, \mathcal{R}_{\text{symbolic}}, \mathcal{I}_{\text{conversion}}\}$$
+
+where:
+- $\mathcal{N}_{\text{quantum-neural}}$ is a quantum-enhanced neural network
+- $\mathcal{R}_{\text{symbolic}}$ is a symbolic rule system
+- $\mathcal{I}_{\text{conversion}}$ is a neural→symbolic and symbolic→neural conversion interface
+
+This structure combines the parallelism of quantum computing with the interpretability of symbolic systems, providing a theoretical foundation for next-generation explainable AI. 
