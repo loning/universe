@@ -1,4 +1,4 @@
-# [Quantum-Classical Dualism] Core Theory Version 11.0
+# [Quantum-Classical Dualism] Core Theory Version 11.1
 
 **[中文版](core.md) | English Version**
 
