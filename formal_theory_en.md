@@ -1,4 +1,4 @@
-# Quantum-Classical Dualism Formal Theory v25.1
+# Quantum-Classical Dualism Formal Theory v26.0
 
 **English Version | [中文版](formal_theory.md)**
 
@@ -26,6 +26,14 @@
 - [Quantum Social Dynamics](formal_theory_social_en.md)
 - [Quantum Artificial Intelligence and Machine Learning](formal_theory_quantum_ai_en.md)
 - [Quantum-Classical Information Security Theory](formal_theory_quantum_security_en.md)
+- [Quantum-Classical Resonance Theory](formal_theory_resonance_en.md)
+- [Information Phase Transition Theory](formal_theory_phase_transition_en.md)
+- [Self-Reference Loop Theory](formal_theory_self_reference_en.md)
+- [Quantum-Classical Non-Equilibrium Theory](formal_theory_nonequilibrium_en.md)
+- [Dualism Computational Complexity Theory](formal_theory_computation_en.md)
+- [Observer Feedback Theory](formal_theory_observer_feedback_en.md)
+- [System Reduction Theory](formal_theory_reduction_en.md)
+- [Practical Applications Collection](formal_theory_practical_applications_en.md)
 
 ## Internal Navigation
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -55,7 +63,7 @@
 
 ### Simplified Core Axiom System
 
-Quantum-Classical Dualism can be simplified to three core axioms:
+Quantum-Classical Dualism can be simplified to four core axioms:
 
 **Axiom 1: Dual Existence**  
 The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of determined reality) connected through an interface domain $\mathcal{I}$:
@@ -76,7 +84,16 @@ $$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal
 
 where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator (ability to transform quantum possibilities into determined knowledge), $\mathcal{Q}_\mathcal{O}$ is the quantization operator (ability to transform classical knowledge back into quantum possibilities), $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
 
-All other theoretical content can be derived from these three axioms.
+**Axiom 4: Dimension Emergence**  
+Observer dimension is a function of classicalization and quantization capabilities, while the classical domain of higher-dimensional observers can form the quantum domain basis for lower-dimensional observers:
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+
+This indicates that reality consists of multiple nested quantum-classical domains, with observers at each level perceiving and interacting based on their capability range within specific dimensions.
+
+All other theoretical content can be derived from these four axioms.
 
 ### Extended Dual-Domain Definitions
 
@@ -93,6 +110,25 @@ The interface domain $\mathcal{I}$ is the boundary region where quantum-classica
 $$\mathcal{I} = \{x \in \mathcal{U} \mid \mathcal{D}(x) = \mathcal{D}_c\}$$
 
 where $\mathcal{D}(x)$ is the decoherence metric (measuring the degree to which a system transitions from quantum entangled state to classical separated state), and $\mathcal{D}_c$ is the critical decoherence threshold.
+
+### Dualism Unified Measurement System
+
+To systematically quantify key concepts in quantum-classical dualism, we propose the following unified measurement system:
+
+| Measure Name | Definition | Application Area | Quantification Range |
+|-------------|------------|-----------------|---------------------|
+| Quantum-Classical Ratio | $R_{QC} = \frac{I_Q}{I_C}$ | System Type Classification | $[0,\infty)$ |
+| Interface Thickness | $\Delta_I = \int_{\Omega} |\nabla \mathcal{D}(x)|^2 dx$ | Interface Characteristics | $(0,\infty)$ |
+| Observer Dimension | $D_{\mathcal{O}} = \log\left(\frac{I_{C}^{\mathcal{O}}}{S_C + \epsilon}\right)$ | Observer Classification | $[0,\infty)$ |
+| Classicalization Efficiency | $\eta_C = \frac{I_C}{I_Q + I_C}$ | Conversion Process | $[0,1]$ |
+| Quantum Coherence | $C_Q = |\sum_{i\neq j} \rho_{ij}|$ | Quantum Characteristics | $[0,1]$ |
+| Entanglement Strength | $E = S(\rho_A) = S(\rho_B)$ | Quantum Correlation | $[0,\log d]$ |
+| Classical Knowledge Density | $K_D = \frac{|K_C|}{\text{Vol}(\Omega_C)}$ | Knowledge Distribution | $[0,\infty)$ |
+| Interface Oscillation Frequency | $f_I = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$ | Interface Dynamics | $(0,\infty)$ |
+| Observer Response Time | $\tau_O = \frac{\hbar}{k_B T \cdot D_{\mathcal{O}}}$ | Observation Response | $(0,\infty)$ |
+| Dual Complexity | $C_{QC} = H_Q + H_C - I(Q:C)$ | System Complexity | $[0,\infty)$ |
+
+These measurement standards allow us to characterize quantum-classical system properties in a consistent and precise manner, providing a unified comparison baseline across different experiments and theoretical studies.
 
 ## Quantum and Classical Domains
 
@@ -151,6 +187,20 @@ But total information remains conserved:
 $$I_{total}^{(i)} + I_{total}^{(i+1)} = \text{constant}$$
 
 This explains why higher-level phenomena cannot be completely predicted using lower-level laws, forming emergent properties. For example, consciousness (higher-level phenomenon) cannot be fully predicted using only neuronal firing (lower-level phenomenon).
+
+### Scale Coupling Dynamics
+
+The quantum-classical coupling between different levels forms a complex dynamical system, described by the following equation:
+
+$$\frac{d\Phi_{i,i+1}}{dt} = \alpha_i \nabla^2\Phi_{i,i+1} + \beta_i (\Phi_{i,i+1} - \Phi_c)(\Phi_c - \Phi_{i,i+1}) - \gamma_i \sum_j |\Phi_{i,i+1} - \Phi_{j,j+1}|$$
+
+where $\Phi_{i,i+1}$ is the coupling strength between level i and level i+1, $\Phi_c$ is the critical coupling threshold, and $\alpha_i$, $\beta_i$, and $\gamma_i$ are level-specific parameters.
+
+This dynamic equation reveals that inter-level coupling has bistable characteristics, with the system potentially switching between strongly coupled and weakly coupled states. Additionally, different level pairs influence each other through the $\gamma_i$ term, causing the entire multi-level system to form a complex network structure.
+
+When $\Phi_{i,i+1} > \Phi_c$, information flows freely between two levels, and higher-level phenomena are closely related to lower-level phenomena; when $\Phi_{i,i+1} < \Phi_c$, the levels are partially decoupled, and higher-level systems gain autonomy relative to lower levels.
+
+This dynamics explains why certain microscopic quantum effects can sometimes manifest at macroscopic levels (such as superconductivity), while at other times they are completely screened.
 
 ## Quantum-Classical Symmetry Principle
 
@@ -1070,6 +1120,20 @@ But total information remains conserved:
 $$I_{total}^{(i)} + I_{total}^{(i+1)} = \text{constant}$$
 
 This explains why higher-level phenomena cannot be fully predicted using lower-level laws, forming emergent properties.
+
+### Scale Coupling Dynamics
+
+The quantum-classical coupling between different levels forms a complex dynamical system, described by the following equation:
+
+$$\frac{d\Phi_{i,i+1}}{dt} = \alpha_i \nabla^2\Phi_{i,i+1} + \beta_i (\Phi_{i,i+1} - \Phi_c)(\Phi_c - \Phi_{i,i+1}) - \gamma_i \sum_j |\Phi_{i,i+1} - \Phi_{j,j+1}|$$
+
+where $\Phi_{i,i+1}$ is the coupling strength between level i and level i+1, $\Phi_c$ is the critical coupling threshold, and $\alpha_i$, $\beta_i$, and $\gamma_i$ are level-specific parameters.
+
+This dynamic equation reveals that inter-level coupling has bistable characteristics, with the system potentially switching between strongly coupled and weakly coupled states. Additionally, different level pairs influence each other through the $\gamma_i$ term, causing the entire multi-level system to form a complex network structure.
+
+When $\Phi_{i,i+1} > \Phi_c$, information flows freely between two levels, and higher-level phenomena are closely related to lower-level phenomena; when $\Phi_{i,i+1} < \Phi_c$, the levels are partially decoupled, and higher-level systems gain autonomy relative to lower levels.
+
+This dynamics explains why certain microscopic quantum effects can sometimes manifest at macroscopic levels (such as superconductivity), while at other times they are completely screened.
 
 ## Quantum-Classical Symmetry Principle
 

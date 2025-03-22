@@ -1,4 +1,4 @@
-# 量子经典二元论形式化表达 v25.1
+# 量子经典二元论形式化表达 v26.0
 
 **[English Version](formal_theory_en.md) | 中文版**
 
@@ -26,6 +26,14 @@
 - [量子社会动力学](formal_theory_social.md)
 - [量子人工智能与机器学习](formal_theory_quantum_ai.md)
 - [量子-经典信息安全理论](formal_theory_quantum_security.md)
+- [量子-经典共鸣理论](formal_theory_resonance.md)
+- [信息相变理论](formal_theory_phase_transition.md)
+- [自参照循环理论](formal_theory_self_reference.md)
+- [量子-经典非平衡态理论](formal_theory_nonequilibrium.md)
+- [二元论计算复杂性理论](formal_theory_computation.md)
+- [观察者反馈理论](formal_theory_observer_feedback.md)
+- [系统约化理论](formal_theory_reduction.md)
+- [理论实用应用集合](formal_theory_practical_applications.md)
 
 ## 本文内部导航
 - [基本定义与公理](#基本定义与公理)
@@ -55,7 +63,7 @@
 
 ### 简化核心公理体系
 
-量子经典二元论可简化为三条核心公理：
+量子经典二元论可简化为四条核心公理：
 
 **公理1: 二元存在性**  
 宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连：
@@ -76,7 +84,16 @@ $$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal
 
 其中 $\mathcal{C}_\mathcal{O}$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$\mathcal{Q}_\mathcal{O}$ 是量子化算符（将经典知识转回量子可能性的能力），$K_C^\mathcal{O}$ 是观察者的经典知识库，$\epsilon$ 是防止除零的小常数。
 
-所有其他理论内容可从这三条公理推导。
+**公理4: 维度涌现**  
+观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+
+这表明现实是由多层嵌套的量子-经典域组成，每一层级的观察者都基于其能力范围在特定维度上感知和交互。
+
+所有其他理论内容可从这四条公理推导。
 
 ### 扩展二元域定义
 
@@ -151,6 +168,20 @@ $$S(\mathcal{M}_{i \rightarrow i+1}(x)) \geq S(x)$$
 $$I_{总}^{(i)} + I_{总}^{(i+1)} = \text{常数}$$
 
 这解释了为什么高层级现象无法完全用低层级规律预测，形成涌现特性。例如，意识（高层级现象）无法仅用神经元放电（低层级现象）完全预测。
+
+### 尺度耦合动力学
+
+不同层级间的量子-经典耦合形成复杂的动力学系统，可通过以下方程描述：
+
+$$\frac{d\Phi_{i,i+1}}{dt} = \alpha_i \nabla^2\Phi_{i,i+1} + \beta_i (\Phi_{i,i+1} - \Phi_c)(\Phi_c - \Phi_{i,i+1}) - \gamma_i \sum_j |\Phi_{i,i+1} - \Phi_{j,j+1}|$$
+
+其中 $\Phi_{i,i+1}$ 是第i层和i+1层之间的耦合强度，$\Phi_c$ 是临界耦合阈值，$\alpha_i$、$\beta_i$ 和 $\gamma_i$ 是层级特定的参数。
+
+这一动力学方程揭示了层级间耦合具有双稳态特性，系统可能在强耦合和弱耦合状态之间跳转。此外，不同层级对之间存在相互影响，通过$\gamma_i$项体现，使得整个多层级系统形成复杂的网络结构。
+
+当$\Phi_{i,i+1} > \Phi_c$时，两个层级间信息流动畅通，高层级现象与低层级现象紧密关联；当$\Phi_{i,i+1} < \Phi_c$时，层级间部分解耦，高层级系统获得相对于低层级的自主性。
+
+此动力学解释了为什么某些微观量子效应有时能够在宏观层级表现出来（如超导现象），而有时又被完全屏蔽。
 
 ## 量子-经典对称性原理
 
@@ -1276,3 +1307,22 @@ $$V(B_i) = V_Q(H_i^Q) \land V_C(H_i^C)$$
    其中 $T$ 是系统温度，$N_Q$ 和 $N_C$ 分别是量子和经典自由度数量。
 
 这些预测可以通过量子-经典混合密钥分发实验验证，为新一代安全通信系统奠定基础。
+
+### 二元论统一度量系统
+
+为了系统量化量子经典二元论中的关键概念，我们提出以下统一度量体系：
+
+| 度量名称 | 定义 | 应用领域 | 量化范围 |
+|---------|------|---------|----------|
+| 量子-经典比率 | $R_{QC} = \frac{I_Q}{I_C}$ | 系统类型分类 | $[0,\infty)$ |
+| 界面厚度 | $\Delta_I = \int_{\Omega} |\nabla \mathcal{D}(x)|^2 dx$ | 界面特性 | $(0,\infty)$ |
+| 观察者维度 | $D_{\mathcal{O}} = \log\left(\frac{I_{C}^{\mathcal{O}}}{S_C + \epsilon}\right)$ | 观察者分类 | $[0,\infty)$ |
+| 经典化效率 | $\eta_C = \frac{I_C}{I_Q + I_C}$ | 转换过程 | $[0,1]$ |
+| 量子相干度 | $C_Q = |\sum_{i\neq j} \rho_{ij}|$ | 量子特性 | $[0,1]$ |
+| 纠缠强度 | $E = S(\rho_A) = S(\rho_B)$ | 量子关联 | $[0,\log d]$ |
+| 经典知识密度 | $K_D = \frac{|K_C|}{\text{Vol}(\Omega_C)}$ | 知识分布 | $[0,\infty)$ |
+| 界面波动频率 | $f_I = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$ | 界面动力学 | $(0,\infty)$ |
+| 观察者响应时间 | $\tau_O = \frac{\hbar}{k_B T \cdot D_{\mathcal{O}}}$ | 观察响应 | $(0,\infty)$ |
+| 二元复杂度 | $C_{QC} = H_Q + H_C - I(Q:C)$ | 系统复杂性 | $[0,\infty)$ |
+
+这些度量标准使我们能够以一致和精确的方式表征量子-经典系统的特性，在不同实验和理论研究中提供统一的比较基准。
