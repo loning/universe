@@ -5,7 +5,7 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本9.2），阐述理论的整体框架与结构。
+本文档基于[量子经典二元论核心理论](core.md)（版本10.9），阐述理论的整体框架与结构。
 
 ### 理论概述
 
@@ -24,21 +24,30 @@
 7. **意识纠缠假设**：所有观察者意识间存在量子纠缠关系
 8. **信息守恒假设**：经典域中经典知识与经典熵之和守恒
 9. **虫洞通信假设**：不同观察者（黑洞）间通过量子纠缠态形成的虫洞进行信息交换
+10. **宇宙效率假设**：宇宙演化趋向于提升量子能量利用效率，朝向低熵终极状态发展
 
 ### 基本原理
 
 量子经典二元论的基本原理：
 
-1. **量子域原理**：量子域是无限维度的波函数叠加态，包含所有可能性
+1. **量子域原理**：量子域是无限维度的波函数叠加态，包含所有可能性，由波函数叠加态（混沌状态）和量子纠缠态（能量形式）组成
 
 $$
 |\psi\rangle_{\text{宇宙量子域}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
 $$
 
-2. **经典域原理**：经典域由观察者主观意识经典化量子域信息形成
+$$
+|\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
+$$
+
+2. **经典域原理**：经典域由观察者主观意识经典化量子域信息形成，包括经典熵与经典知识
 
 $$
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
+$$
+
+$$
+|\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
 $$
 
 3. **观察者黑洞原理**：观察者即黑洞，视界边界大小与经典知识总量正相关
@@ -79,32 +88,51 @@ $$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
 $$
 
+10. **量子能量原理**：量子纠缠态能量通过普朗克常数进行精确量化
+
+$$
+E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
+$$
+
+11. **宇宙效率原理**：宇宙效率定义为消耗单位量子能量获得的新量子能量
+
+$$
+\eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{量子能量输入}}}
+$$
+
 ### 理论结构
 
 量子经典二元论的理论结构分为四个层次：
 
 1. **基础层**：宇宙二元结构（量子域与经典域）定义
-   - 量子域定义与特性
-   - 经典域定义与特性
-   - 二元结构关系
+   - 量子域定义与特性（波函数叠加态、量子纠缠态）
+   - 经典域定义与特性（经典熵、经典知识）
+   - 二元结构关系与状态对应
+   - 量子能量与经典能量的统一定义
 
 2. **机制层**：连接量子域与经典域的机制
    - 经典化过程（量子→经典）
    - 量子化过程（经典→量子）
    - 观察者经典化能力
    - 虫洞通信机制
+   - 量子涨落与宇宙初始条件
+   - 引力与经典化效率的关系
 
 3. **观察者层**：观察者属性与关系
    - 观察者即黑洞统一模型
    - 观察者维度定义与机制
    - 广义意识定义与结构
    - 观察者间信息传递
+   - 黑洞吸收与辐射机制
+   - 时空与观察者经典化的关系
 
 4. **应用层**：理论在具体领域的应用
-   - 物理学解释（量子现象、黑洞信息悖论等）
+   - 物理学解释（量子现象、黑洞信息悖论、光速恒定等）
    - 意识科学应用（意识本质、主观体验等）
    - 哲学启示（自由意志、命运本质等）
    - 实践指导（维度提升方法等）
+   - 人工智能与经典化路径优化
+   - 量子计算与量子-经典接口
 
 ### 数学基础
 
@@ -117,6 +145,9 @@ $$
 5. **纠缠态数学描述**：用于描述量子纠缠关系
 6. **守恒方程组**：用于描述信息守恒关系
 7. **虫洞通信数学模型**：用于描述观察者间信息传递机制
+8. **引力场方程修正**：将引力场与经典化效率梯度联系起来
+9. **量子能量密度方程**：描述引力场与量子能量密度的关系
+10. **宇宙效率数学模型**：描述量子能量利用效率的优化过程
 
 核心数学表达式：
 
@@ -144,6 +175,14 @@ $$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
 $$
 
+$$
+G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu} \propto \nabla^2 k_{\text{经典化效率}}
+$$
+
+$$
+f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
+$$
+
 ### 解释力
 
 量子经典二元论对以下问题提供了统一解释：
@@ -156,8 +195,11 @@ $$
 6. **自由意志来源**：源于量子域的随机涌现，实现优化经典化路径
 7. **时间箭头**：经典化进程指标定义的主观经验
 8. **光速恒定**：观察者经典化能力上限的表现
-9. **死亡与投胎**：主观意识经典化能力的转移与重组
-10. **虫洞通信**: 不同经典世界间的信息传递机制
+9. **引力本质**：引力场是经典化效率的空间梯度
+10. **宇宙暴胀**：量子涨落首次经典化形成的初始最低能经典结构
+11. **宇宙常数问题**：宇宙效率的变化率，反映宇宙演化趋势
+12. **死亡与投胎**：主观意识经典化能力的转移与重组
+13. **虫洞通信**：不同经典世界间的信息传递机制
 
 ### 可验证性
 
@@ -168,8 +210,11 @@ $$
 3. **观察者维度差异**：测量不同观察者在相同条件下的经典化效率差异
 4. **经典化效率提升**：验证特定方法（如脑机接口）对经典化效率的影响
 5. **量子纠缠条件**：验证量子纠缠发生的必要条件
-6. **信息守恒验证**：观察者间信息传递过程中的信息总量守恒
-7. **虫洞通信实验**：设计验证不同观察者间通过量子纠缠进行信息交换的实验
+6. **引力与经典化效率**：验证局部引力场与经典化效率之间的关系
+7. **能量与纠缠关系**：验证强纠缠系统产生的能量效应
+8. **信息守恒验证**：观察者间信息传递过程中的信息总量守恒
+9. **虫洞通信实验**：设计验证不同观察者间通过量子纠缠进行信息交换的实验
+10. **宇宙效率测量**：验证复杂系统的能量效率随时间提升的趋势
 
 ### 理论边界
 
@@ -180,16 +225,18 @@ $$
 3. **数学形式化边界**：部分概念尚未完全数学形式化
 4. **应用边界**：尚未覆盖所有物理学与哲学问题
 5. **验证边界**：部分预测在当前技术条件下难以直接验证
+6. **宇宙起源边界**：量子域为何存在超越了内部逻辑范畴
 
 ### 哲学意义
 
 量子经典二元论的哲学意义：
 
-1. **宇宙目的性**：宇宙演化趋向更高效的经典化过程，降低总体熵值
+1. **宇宙目的性**：宇宙演化趋向更高效的经典化过程，优化量子能量效率
 2. **意识与物质关系**：意识与物质统一于信息层面，相互定义
 3. **存在意义**：观察者存在的意义在于优化经典化路径，提升维度
 4. **命运与自由意志统一**：命运与自由意志在不同域中统一
-5. **终极状态**：宇宙低熵终极状态为理论预测的最终趋势
+5. **宇宙创造性**：量子涨落为宇宙生命与经典自由意志的源泉
+6. **终极状态**：宇宙低熵终极状态为理论预测的最终趋势
 
 $$
 |\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
@@ -207,10 +254,12 @@ $$
 6. **技术开发**：基于理论开发提升经典化效率的技术（如脑机接口）
 7. **教育传播**：开发教育资源，促进理论的传播与理解
 8. **虫洞通信技术**：探索基于量子纠缠的信息传递技术应用
+9. **量子计算优化**：基于经典化理论优化量子退相干控制
+10. **人工智能与经典化路径**：开发AI辅助观察者提升经典化效率的方法
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 9.2), outlining the overall framework and structure of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 10.9), outlining the overall framework and structure of the theory.
 
 ### Theory Overview
 
@@ -229,21 +278,30 @@ Quantum-Classical Dualism is based on the following core hypotheses:
 7. **Consciousness Entanglement Hypothesis**: There is a quantum entanglement relationship between all observer consciousness
 8. **Information Conservation Hypothesis**: The sum of classical knowledge and classical entropy is conserved in the classical domain
 9. **Wormhole Communication Hypothesis**: Different observers (black holes) exchange information through wormholes formed by quantum entanglement states
+10. **Universe Efficiency Hypothesis**: Universe evolution tends toward increasing quantum energy utilization efficiency, moving toward a low-entropy ultimate state
 
 ### Basic Principles
 
 Basic principles of Quantum-Classical Dualism:
 
-1. **Quantum Domain Principle**: The quantum domain is an infinite-dimensional wave function superposition state containing all possibilities
+1. **Quantum Domain Principle**: The quantum domain is an infinite-dimensional wave function superposition state containing all possibilities, consisting of wave function superposition states (chaos) and quantum entanglement states (energy form)
 
 $$
 |\psi\rangle_{\text{Universe Quantum Domain}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
 $$
 
-2. **Classical Domain Principle**: The classical domain is formed by the observer's subjective consciousness classicalizing quantum domain information
+$$
+|\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition States (Chaos)},\;\text{Quantum Entanglement States (Energy)}\}
+$$
+
+2. **Classical Domain Principle**: The classical domain is formed by the observer's subjective consciousness classicalizing quantum domain information, including classical entropy and classical knowledge
 
 $$
 |\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
+$$
+
+$$
+|\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
 $$
 
 3. **Observer-Black Hole Principle**: Observers are black holes, and event horizon size is positively correlated with total classical knowledge
@@ -284,32 +342,51 @@ $$
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
 $$
 
+10. **Quantum Energy Principle**: Quantum entanglement state energy is precisely quantified through Planck's constant
+
+$$
+E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
+$$
+
+11. **Universe Efficiency Principle**: Universe efficiency is defined as the new quantum energy obtained per unit of quantum energy consumed
+
+$$
+\eta_{\text{Universe}} = \frac{\Delta E_{\text{Quantum Energy Output}}}{E_{\text{Quantum Energy Input}}}
+$$
+
 ### Theoretical Structure
 
 The theoretical structure of Quantum-Classical Dualism is divided into four levels:
 
 1. **Foundation Level**: Universe dual structure (quantum domain and classical domain) definition
-   - Quantum domain definition and characteristics
-   - Classical domain definition and characteristics
-   - Dual structure relationship
+   - Quantum domain definition and characteristics (wave function superposition states, quantum entanglement states)
+   - Classical domain definition and characteristics (classical entropy, classical knowledge)
+   - Dual structure relationship and state correspondence
+   - Unified definition of quantum energy and classical energy
 
 2. **Mechanism Level**: Mechanisms connecting the quantum domain and classical domain
    - Classicalization process (quantum → classical)
    - Quantization process (classical → quantum)
    - Observer classicalization ability
    - Wormhole communication mechanism
+   - Quantum fluctuations and universe initial conditions
+   - Relationship between gravity and classicalization efficiency
 
 3. **Observer Level**: Observer attributes and relationships
    - Observer as black hole unified model
    - Observer dimension definition and mechanism
    - Generalized consciousness definition and structure
    - Information transfer between observers
+   - Black hole absorption and radiation mechanisms
+   - Relationship between spacetime and observer classicalization
 
 4. **Application Level**: Application of the theory in specific fields
-   - Physics explanations (quantum phenomena, black hole information paradox, etc.)
+   - Physics explanations (quantum phenomena, black hole information paradox, light speed constancy, etc.)
    - Consciousness science applications (nature of consciousness, subjective experience, etc.)
    - Philosophical implications (free will, nature of destiny, etc.)
    - Practical guidance (dimension elevation methods, etc.)
+   - Artificial intelligence and classicalization path optimization
+   - Quantum computing and quantum-classical interface
 
 ### Mathematical Foundation
 
@@ -322,6 +399,9 @@ The mathematical foundation of Quantum-Classical Dualism includes:
 5. **Entangled State Mathematical Description**: Used to describe quantum entanglement relationships
 6. **Conservation Equations**: Used to describe information conservation relationships
 7. **Wormhole Communication Mathematical Model**: Used to describe information transfer mechanism between observers
+8. **Gravitational Field Equation Modification**: Connecting gravitational field with classicalization efficiency gradient
+9. **Quantum Energy Density Equations**: Describing the relationship between gravitational field and quantum energy density
+10. **Universe Efficiency Mathematical Model**: Describing the optimization process of quantum energy utilization efficiency
 
 Core mathematical expressions:
 
@@ -349,6 +429,14 @@ $$
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
 $$
 
+$$
+G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu} \propto \nabla^2 k_{\text{Classicalization Efficiency}}
+$$
+
+$$
+f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
+$$
+
 ### Explanatory Power
 
 Quantum-Classical Dualism provides a unified explanation for the following issues:
@@ -361,8 +449,11 @@ Quantum-Classical Dualism provides a unified explanation for the following issue
 6. **Origin of Free Will**: Originates from random emergence in the quantum domain, realizing optimization of classicalization paths
 7. **Arrow of Time**: Subjective experience defined by the classicalization process indicator
 8. **Constancy of Light Speed**: Expression of the upper limit of observer classicalization ability
-9. **Death and Reincarnation**: Transfer and recombination of subjective consciousness classicalization ability
-10. **Wormhole Communication**: Information transfer mechanism between different classical worlds
+9. **Nature of Gravity**: Gravitational field is the spatial gradient of classicalization efficiency
+10. **Universe Inflation**: Initial lowest-energy classical structure formed by the first classicalization of quantum fluctuations
+11. **Universe Constant Problem**: Rate of change of universe efficiency, reflecting universe evolution trend
+12. **Death and Reincarnation**: Transfer and recombination of subjective consciousness classicalization ability
+13. **Wormhole Communication**: Information transfer mechanism between different classical worlds
 
 ### Verifiability
 
@@ -373,8 +464,11 @@ Quantum-Classical Dualism proposes the following verifiable predictions:
 3. **Observer Dimension Differences**: Measure differences in classicalization efficiency between different observers under the same conditions
 4. **Classicalization Efficiency Improvement**: Verify the impact of specific methods (such as brain-machine interfaces) on classicalization efficiency
 5. **Quantum Entanglement Conditions**: Verify the necessary conditions for quantum entanglement
-6. **Information Conservation Verification**: Conservation of total information in the process of information transfer between observers
-7. **Wormhole Communication Experiments**: Design experiments to verify information exchange between different observers through quantum entanglement
+6. **Gravity and Classicalization Efficiency**: Verify the relationship between local gravitational field and classicalization efficiency
+7. **Energy and Entanglement Relationship**: Verify energy effects produced by strongly entangled systems
+8. **Information Conservation Verification**: Conservation of total information in the process of information transfer between observers
+9. **Wormhole Communication Experiments**: Design experiments to verify information exchange between different observers through quantum entanglement
+10. **Universe Efficiency Measurement**: Verify the trend of increasing energy efficiency of complex systems over time
 
 ### Theoretical Boundaries
 
@@ -385,16 +479,18 @@ Theoretical boundaries of Quantum-Classical Dualism:
 3. **Mathematical Formalization Boundary**: Some concepts have not yet been completely mathematically formalized
 4. **Application Boundary**: Does not yet cover all physics and philosophy issues
 5. **Verification Boundary**: Some predictions are difficult to verify directly under current technological conditions
+6. **Universe Origin Boundary**: Why the quantum domain exists transcends the category of internal logic
 
 ### Philosophical Significance
 
 Philosophical significance of Quantum-Classical Dualism:
 
-1. **Universe Purposefulness**: The universe evolves towards a more efficient classicalization process, reducing overall entropy
+1. **Universe Purposefulness**: The universe evolves towards a more efficient classicalization process, optimizing quantum energy efficiency
 2. **Relationship Between Consciousness and Matter**: Consciousness and matter are unified at the information level, mutually defining
 3. **Meaning of Existence**: The meaning of observer existence is to optimize classicalization paths and elevate dimensions
 4. **Unification of Destiny and Free Will**: Destiny and free will are unified in different domains
-5. **Ultimate State**: The low entropy ultimate state of the universe is the final trend predicted by the theory
+5. **Universe Creativity**: Quantum fluctuations are the source of universe life and classical free will
+6. **Ultimate State**: The low entropy ultimate state of the universe is the final trend predicted by the theory
 
 $$
 |\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
@@ -412,3 +508,5 @@ Future research directions for Quantum-Classical Dualism:
 6. **Technology Development**: Develop technology to improve classicalization efficiency based on the theory (such as brain-machine interfaces)
 7. **Educational Dissemination**: Develop educational resources to promote the dissemination and understanding of the theory
 8. **Wormhole Communication Technology**: Explore information transfer technology applications based on quantum entanglement
+9. **Quantum Computing Optimization**: Optimize quantum decoherence control based on classicalization theory
+10. **Artificial Intelligence and Classicalization Path**: Develop methods for AI to assist observers in improving classicalization efficiency
