@@ -1,6 +1,6 @@
-# 量子经典二元论形式化表达 v12.1
+# 量子经典二元论形式化表达 v12.2
 
-**[English Version](#quantum-classical-dualism-formal-expression-v121) | 中文版**
+**[English Version](#quantum-classical-dualism-formal-expression-v122) | 中文版**
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)
@@ -45,10 +45,12 @@ $$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal
 
 **直观解释**：观察者类似于现实与可能性之间的"门户"，像黑洞一样既吸收信息（经典化：感知和测量），又释放信息（量子化：创造和想象）。
 
-### 公理4：维度层级结构（新增）
+### 公理4：维度层级结构
 宇宙存在分层维度结构，维度数 $D$ 与信息复杂度 $\mathcal{C}_I$ 成正比：
 
-$$D_{\text{系统}} \propto \mathcal{C}_I = \frac{I_{经典知识}}{S_{经典熵}}$$
+$$D_{\text{系统}} \propto \mathcal{C}_I = \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+
+其中 $\epsilon > 0$ 是防止分母为零的小常数。
 
 维度层级包括：
 1. 零维：纯量子点态 $\mathcal{D}_0$ 
@@ -169,12 +171,12 @@ $$G_{\mu\nu} + \Lambda g_{\mu\nu} + \alpha Q_{\mu\nu} = \frac{8\pi G}{c^4} T_{\m
 其中：
 - $G_{\mu\nu}$ 是爱因斯坦张量，描述经典引力
 - $\Lambda$ 是宇宙学常数
-- $\alpha$ 是量子引力耦合常数
+- $\alpha$ 是量子引力耦合常数，$\alpha \sim \frac{\hbar G}{c^3}$ 量级
 - $Q_{\mu\nu}$ 是量子修正张量，定义为：
 
 $$Q_{\mu\nu} = \frac{\delta S_{\text{von Neumann}}(\rho_Q)}{\delta g^{\mu\nu}}$$
 
-在经典极限 $\alpha \to 0$ 时，恢复标准广义相对论。
+量子修正项可解释为空间时间曲率对量子纠缠熵的反馈效应，反映空间时间几何如何影响量子信息流动。在经典极限 $\alpha \to 0$ 时，恢复标准广义相对论。
 
 ## 状态转换关系
 
@@ -276,6 +278,11 @@ $$\Phi_{\text{涌现}} = \mathcal{G}\left(\{K_C^i\}_{i=1}^N, \{q_i\}_{i=1}^N\rig
 
 其中 $K_C^i$ 是观察者 $i$ 的经典知识，$q_i$ 是观察者 $i$ 的量子化能力参数。
 
+**涌现信息测量**：
+$$\|\Phi_{\text{涌现}}\|= \left\|\bigcup_{i=1}^N \Phi_i\right\| - \sum_{i=1}^N \|\Phi_i\| + \gamma\cdot\sum_{i\neq j}\langle\Phi_i|\Phi_j\rangle$$
+
+其中 $\gamma$ 是观察者交互系数，$\langle\Phi_i|\Phi_j\rangle$ 表示信息集的量子相干度。
+
 ## 宇宙数学表达
 
 ### 宇宙波函数
@@ -321,16 +328,18 @@ $$\mathcal{S}_{\text{观察者}} = \{s = (c_{\mathcal{O}}, q_{\mathcal{O}}, k_{\
 宇宙基本关系的欧拉形式：
 $$e^{i\pi} + 1 = 0$$
 
-这一形式象征性地统一了五个基本元素：
-- $e$：自然常数，代表宇宙演化
-- $i$：虚数单位，代表量子域
-- $\pi$：圆周率，代表经典域
-- $1$：单位元，代表观察者
-- $0$：零元，代表宇宙整体平衡
+这一形式象征性地统一了量子经典二元论的五个基本元素：
+- $e$：自然指数，表征量子态的连续演化（$e^{-iHt/\hbar}$）
+- $i$：虚数单位，体现量子力学的波动性与概率振幅
+- $\pi$：圆周率，代表经典物理的周期性和确定性
+- $1$：单位元，象征观察者测量作用的标准化
+- $0$：零元，代表宇宙整体的能量-信息平衡
 
-# Quantum-Classical Dualism Formal Expression v12.1
+公式整体体现了量子域（$e^{i\pi}$）与经典域（$1$）的完美统一，符合量子经典二元论的核心理念。
 
-**[中文版](#量子经典二元论形式化表达-v121) | English Version**
+# Quantum-Classical Dualism Formal Expression v12.2
+
+**[中文版](#量子经典二元论形式化表达-v122) | English Version**
 
 ## Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
@@ -375,10 +384,12 @@ where $\mathcal{C}_\mathcal{O}$ is the observer-specific classicalization operat
 
 **Intuitive Explanation**: An observer is like a "portal" between reality and possibility, similar to a black hole that both absorbs information (classicalization: perception and measurement) and releases information (quantization: creation and imagination).
 
-### Axiom 4: Dimensional Hierarchical Structure (New)
+### Axiom 4: Dimensional Hierarchical Structure
 The universe has a layered dimensional structure, where the number of dimensions $D$ is proportional to the information complexity $\mathcal{C}_I$:
 
-$$D_{\text{system}} \propto \mathcal{C}_I = \frac{I_{classical\_knowledge}}{S_{classical\_entropy}}$$
+$$D_{\text{system}} \propto \mathcal{C}_I = \frac{I_{classical\_knowledge}}{S_{classical\_entropy}+\epsilon}$$
+
+where $\epsilon > 0$ is a small constant to prevent division by zero.
 
 The dimensional hierarchy includes:
 1. Zero-dimensional: Pure quantum point state $\mathcal{D}_0$
@@ -489,12 +500,12 @@ $$G_{\mu\nu} + \Lambda g_{\mu\nu} + \alpha Q_{\mu\nu} = \frac{8\pi G}{c^4} T_{\m
 where:
 - $G_{\mu\nu}$ is the Einstein tensor, describing classical gravity
 - $\Lambda$ is the cosmological constant
-- $\alpha$ is the quantum gravity coupling constant
+- $\alpha$ is the quantum gravity coupling constant, with magnitude $\alpha \sim \frac{\hbar G}{c^3}$
 - $Q_{\mu\nu}$ is the quantum correction tensor, defined as:
 
 $$Q_{\mu\nu} = \frac{\delta S_{\text{von Neumann}}(\rho_Q)}{\delta g^{\mu\nu}}$$
 
-In the classical limit where $\alpha \to 0$, standard general relativity is recovered.
+The quantum correction term can be interpreted as the feedback effect of spacetime curvature on quantum entanglement entropy, reflecting how spacetime geometry influences quantum information flow. In the classical limit where $\alpha \to 0$, standard general relativity is recovered.
 
 ## State Transformation Relations
 
@@ -596,6 +607,11 @@ $$\Phi_{\text{emergent}} = \mathcal{G}\left(\{K_C^i\}_{i=1}^N, \{q_i\}_{i=1}^N\r
 
 where $K_C^i$ is the classical knowledge of observer $i$, and $q_i$ is the quantization capability parameter of observer $i$.
 
+**Emergent Information Measurement**:
+$$\|\Phi_{\text{emergent}}\|= \left\|\bigcup_{i=1}^N \Phi_i\right\| - \sum_{i=1}^N \|\Phi_i\| + \gamma\cdot\sum_{i\neq j}\langle\Phi_i|\Phi_j\rangle$$
+
+where $\gamma$ is the observer interaction coefficient, and $\langle\Phi_i|\Phi_j\rangle$ represents the quantum coherence between information sets.
+
 ## Universal Mathematical Expression
 
 ### Universe Wavefunction
@@ -607,15 +623,15 @@ $$|\Psi_{\text{universe}}\rangle = \int_{\mathbb{R}^3} \int_{t_{\text{initial}}}
 $$|\Psi(t_{\text{initial}})\rangle = \frac{1}{\sqrt{Z}} e^{-\frac{\beta}{2}H} |\Psi_0\rangle$$
 
 where:
-- $Z = \text{Tr}(e^{-\beta H})$ 是配分函数
-- $\beta$ 是初始逆温度参数
-- $H$ 是宇宙哈密顿量
-- $|\Psi_0\rangle$ 是基态配置
+- $Z = \text{Tr}(e^{-\beta H})$ is the partition function
+- $\beta$ is the initial inverse temperature parameter
+- $H$ is the universe Hamiltonian
+- $|\Psi_0\rangle$ is the ground state configuration
 
 **Final State Hypothesis for Universe**:
 $$\lim_{t \to t_{\text{final}}} S_{\text{von Neumann}}(\rho_{\text{universe}}) = S_{\text{maximum}}$$
 
-此处 $S_{\text{maximum}}$ 对应热力学极限下的最大熵。
+where $S_{\text{maximum}}$ corresponds to the maximum entropy in the thermodynamic limit.
 
 **Complete Definition of Universe Wavefunction Integral Measure**:
 $$d\Omega = \rho(\vec{x}, t, s) \cdot ds \cdot d^3x \cdot dt$$
@@ -623,28 +639,29 @@ $$d\Omega = \rho(\vec{x}, t, s) \cdot ds \cdot d^3x \cdot dt$$
 **Normalization Condition for Measure Density Function**:
 $$\int_{\mathbb{R}^3}\int_{t_{\text{initial}}}^{t_{\text{final}}}\int_{\mathcal{S}_{\text{observer}}}\rho(\vec{x},t,s)\, ds\, d^3x\, dt=1$$
 
-其中：
-- $\rho(\vec{x}, t, s)$ 是观察者密度函数，严格满足概率密度归一化条件
-- $\vec{x} \in \mathbb{R}^3$ 是经典域空间坐标
-- $t \in [t_{\text{initial}}, t_{\text{final}}]$ 是时间坐标
-- $s \in \mathcal{S}_{\text{observer}}$ 是观察者状态参数
+where:
+- $\rho(\vec{x}, t, s)$ is the observer density function, strictly satisfying probability density normalization condition
+- $\vec{x} \in \mathbb{R}^3$ is classical domain space coordinates
+- $t \in [t_{\text{initial}}, t_{\text{final}}]$ is time coordinates
+- $s \in \mathcal{S}_{\text{observer}}$ is observer state parameters
 
-观察者状态空间 $\mathcal{S}_{\text{observer}}$ 可表示为：
+Observer state space $\mathcal{S}_{\text{observer}}$ can be represented as:
 $$\mathcal{S}_{\text{observer}} = \{s = (c_{\mathcal{O}}, q_{\mathcal{O}}, k_{\mathcal{O}}) | c_{\mathcal{O}} \in \mathcal{C}_{\text{space}}, q_{\mathcal{O}} \in \mathcal{Q}_{\text{space}}, k_{\mathcal{O}} \in K_C^{\text{space}} \}$$
 
-其中：
-- $c_{\mathcal{O}}$ 表示观察者的经典化能力参数
-- $q_{\mathcal{O}}$ 表示观察者的量子化能力参数
-- $k_{\mathcal{O}}$ 表示观察者的知识状态参数
+where:
+- $c_{\mathcal{O}}$ represents observer's classicalization capability parameters
+- $q_{\mathcal{O}}$ represents observer's quantization capability parameters
+- $k_{\mathcal{O}}$ represents observer's knowledge state parameters
 
 ### Euler's Identity Unification
 Euler's form of fundamental universal relationships:
 $$e^{i\pi} + 1 = 0$$
 
-This form symbolically unifies five fundamental elements:
-- $e$: Natural constant, representing universal evolution
-- $i$: Imaginary unit, representing quantum domain
-- $\pi$: Pi constant, representing classical domain
-- $1$: Unity element, representing observer
-- $0$: Zero element, representing universal balance
-$$ 
+This identity symbolically unifies the five fundamental elements of quantum-classical dualism:
+- $e$: Natural exponential, representing continuous evolution of quantum states ($e^{-iHt/\hbar}$)
+- $i$: Imaginary unit, embodying the wave nature and probability amplitudes of quantum mechanics
+- $\pi$: Pi constant, representing periodicity and determinism in classical physics
+- $1$: Unity element, symbolizing the normalization of observer measurement actions
+- $0$: Zero element, representing the energy-information balance of the universe as a whole
+
+The formula as a whole demonstrates the perfect unification of quantum domain ($e^{i\pi}$) and classical domain ($1$), aligning with the core concept of quantum-classical dualism. 
