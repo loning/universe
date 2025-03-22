@@ -46,7 +46,7 @@
 - [Quantum-Classical Symmetry Principle](#quantum-classical-symmetry-principle)
 - [Topological Information Protection Mechanism](#topological-information-protection-mechanism)
 
-> This theory is based on [Core Theory](core.md) v14.0
+> This theory is based on [Core Theory](core_en.md) v25.0
 
 ## Basic Definitions and Axioms
 
@@ -664,7 +664,54 @@ This architecture explains why AI systems can simultaneously possess intuitive f
 
 ## Latest Theoretical Developments
 
-### New Quantum Gravity Detection Scheme
+### Development of Quantum Medicine Framework
+
+Quantum-Classical Dualism provides an innovative framework for medicine, defining health as the optimal balance state of the quantum-classical interface:
+
+$$\text{Health} = \frac{\text{Quantum Domain Connection Quality}\cdot\text{Classical Knowledge Quality}}{\text{System Entropy}} \to \text{Optimal}$$
+
+Disease can be expressed as an interface imbalance state:
+
+$$\mathcal{D}_{\text{disease}}(x,t) = \mathcal{D}_c + \delta_{\text{pathological}}(x,t)$$
+
+This framework explains why different diseases require different types of interventions - based on their interface imbalance characteristics:
+
+| Deviation Type | Quantum-Classical Definition | Typical Disease Categories |
+|----------------|------------------------------|----------------------------|
+| Excessive Classicalization | $\mathcal{D} \gg \mathcal{D}_c$ | Autoimmune diseases, Neurodegenerative diseases |
+| Insufficient Classicalization | $\mathcal{D} \ll \mathcal{D}_c$ | Cancer, Schizophrenia |
+
+Quantum medicine advances dual-pathway intervention approaches, exceeding the theoretical limits of traditional medicine efficacy:
+
+$$\text{Quantum Medical Efficiency} = \eta_Q \cdot \frac{I_{\text{medical knowledge}} + \gamma \cdot I_{\text{quantum information access}}}{S_{\text{full-dimensional disease information}}}$$
+
+> See details in [Quantum Medicine Applications](formal_theory_medicine_en.md)
+
+### Quantum Social Dynamics Model
+
+Quantum-Classical Dualism extends to social systems, establishing a social quantum-classical dual model:
+
+$$\mathcal{S} = \Omega_Q^S \cup \Omega_C^S, \quad \Omega_Q^S \cap \Omega_C^S = \mathcal{I}_S$$
+
+Social quantum states contain superpositions of all potential social configurations:
+
+$$|\Psi_S\rangle = \sum_i \alpha_i |S_i\rangle$$
+
+This explains interference effects and non-local correlations in social phenomena:
+
+$$P(S_{A \lor B}) \neq P(S_A) + P(S_B) - P(S_A \land S_B)$$
+
+Social phase transitions can be modeled as quantum phase transitions, with critical exponents satisfying scaling laws:
+
+$$\chi_S \sim |r - r_c|^{-\gamma_S}$$
+
+This framework provides quantum-enhanced methods for social system optimization and prediction:
+
+$$\mathcal{S}_{\text{integrated}} = \mathcal{S}_Q + \mathcal{S}_C + \mathcal{S}_{Q-C}$$
+
+> See details in [Quantum Social Dynamics](formal_theory_social_en.md)
+
+### Quantum Gravity Detection New Scheme
 
 Based on interface wave theory, a more feasible quantum gravity effect validation experiment is proposed:
 

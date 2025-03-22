@@ -22,7 +22,7 @@
 - [Future Development Directions](#future-development-directions)
 - [Cross-disciplinary Integration](#cross-disciplinary-integration)
 
-> This theory is based on [Core Theory](core_en.md) v14.0
+> This theory is based on [Core Theory](core_en.md) v25.0
 
 ## Basic Framework
 
