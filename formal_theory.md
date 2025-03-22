@@ -11,6 +11,7 @@
 - [数学附录](formal_theory_mathematical_appendix.md)
 - [实验预测](formal_theory_experimental.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
+- [量子生物学](formal_theory_quantum_biology.md)
 
 ## 目录
 - [基本定义与公理](#基本定义与公理)

@@ -11,6 +11,7 @@
 - [Mathematical Appendix](formal_theory_mathematical_appendix_en.md)
 - [Experimental Predictions](formal_theory_experimental_en.md)
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
+- [Quantum Biology](formal_theory_quantum_biology_en.md)
 
 ## Table of Contents
 - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
