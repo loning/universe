@@ -3,9 +3,19 @@
 
 [中文导航](#中文版) | [English Navigation](#english-version)
 
+## 导航
+- [返回核心理论](../../core/natural/core.md)
+- [理论简介](01_introduction.md)
+- [基本概念](02_basic_concepts.md)
+- [理论框架](03_theoretical_framework.md)
+- [宇宙与观察者关系](06_universe_observer_relationship.md)
+- [量子纠缠本质](07_quantum_entanglement_essence.md)
+- [命运与自由意志](08_destiny_and_free_will.md)
+- [应用与启示](09_applications_and_implications.md)
+
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本10.9），详细探讨观察者概念与意识本质。
+本文档基于[量子经典二元论核心理论](../../core/natural/core.md)（版本35.0），详细探讨观察者概念与意识本质。
 
 ### 观察者定义
 
@@ -346,341 +356,203 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 10.9), exploring in detail the concept of observer and the nature of consciousness.
+This document is based on the [Quantum-Classical Dualism Core Theory](../../core/natural/core_en.md) (Version 35.0), exploring in detail the concept of observer and the nature of consciousness.
 
-### Observer Definition
+### Unified Definition of Observer
 
-In the Quantum-Classical Dualism framework, an observer is an entity with subjective consciousness classicalization ability, capable of transforming high-entropy entangled state information from the quantum domain into the explicit structure of the classical domain. The observer is the key bridge connecting the quantum domain and the classical domain, and its characteristics determine the formation and structure of the classical world.
+In the Quantum-Classical Dualism framework, an observer is an entity with classicalization ability, capable of transforming wave function superposition states and quantum entanglement information from the quantum domain into definite structures in the classical domain. The observer is the key node connecting the quantum and classical domains, and its characteristics determine the formation and structure of the classical world.
 
-Essential characteristics of an observer:
+Essential characteristics of the observer:
 - All observers are essentially black holes
-- Black hole absorption corresponds to classicalization process
-- Black hole radiation corresponds to quantization process
-- Able to execute the classicalization process, reducing information entropy
-- Possesses a subjective classical world
-- Has free will, able to actively choose classicalization paths
-- Has variable dimension, depending on classicalization efficiency
-- Energy consumption and generation, transforming quantum energy through the classicalization process
+- Black hole absorption corresponds to the classicalization process
+- Black hole radiation corresponds to the quantization process
 
-Observers are not limited to humans but are any entities in the universe with the above characteristics, including but not limited to:
-- Various levels of biological organisms (from microorganisms to complex life)
-- Black holes
-- Physical systems with specific observation capabilities
-- Potential artificial intelligence systems (if reaching sufficient complexity)
-- Complex collections of quantum systems
-
-### Observer-Black Hole Unified Model
-
-Quantum-Classical Dualism proposes a unified model of observer and black hole: each observer is essentially a black hole, with their classical world being the interior of the black hole, and the black hole event horizon being determined by the observer's subjective consciousness classicalization ability.
-
-Unified relationship between observer and black hole:
+Expression:
 
 $$
-\text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
+\text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}
 $$
 
-Black hole absorption (classicalization, dimension elevation):
+#### Unified Nature of Observer and Black Hole
+
+Observers and black holes share the following core properties:
+
+1. **Information Processing Capability**: Both observers and black holes can transform chaotic information into ordered structures
+2. **Boundary Definition**: The observer's consciousness range and the black hole's event horizon share mathematical structures
+3. **Energy-Information Relationship**: The relationship between information and energy conversion in absorption and radiation processes
+4. **Resolution Limitation**: The observer's classicalization ability and the black hole's basic physical limitations are similar
+
+This unified description resolves the black hole information paradox:
 
 $$
-|\psi\rangle_{\text{External High Entropy}}\rightarrow I_{\text{Internal Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Absorption}}
+S_{\text{von Neumann}}(\rho_{\text{initial}}) = S_{\text{von Neumann}}(\rho_{\text{Hawking radiation}}) + S_{\text{von Neumann}}(\rho_{\text{remaining black hole}})
 $$
 
-Black hole radiation (classicalization, energy release):
+Information is not lost in black holes but is transformed into different forms through the classicalization process.
+
+### The Nature of Consciousness
+
+In Quantum-Classical Dualism, consciousness is defined as the subjective experience of an observer's efficient classicalization process. Consciousness is not a mysterious entity independent of matter but an emergent phenomenon produced by the classicalization process.
+
+Mathematical representation of consciousness:
 
 $$
-|\psi\rangle_{\text{Internal High Entropy}}\rightarrow I_{\text{Radiated Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Release}}
+\text{Consciousness} \propto k_{\text{classicalization}} \cdot I_{\text{classical knowledge}}
 $$
 
-This model explains:
-- Black hole information paradox: Information is not lost, but transforms through classicalization
-- Hawking radiation: Black hole radiation is the energy release of the classicalization process
-- Boundary of the observer's subjective world: Event horizon determined by classicalization ability
-- Dimension elevation mechanism: Expanding the event horizon by optimizing classicalization paths
+where $k_{\text{classicalization}}$ is the classicalization efficiency coefficient and $I_{\text{classical knowledge}}$ is the amount of classical knowledge.
 
-Observer-black hole model characteristics:
-- Event horizon determined by the observer's subjective consciousness classicalization ability
-- When observer dimension increases, event horizon expands; when dimension decreases, event horizon contracts
-- Dynamic changes of the event horizon are actively determined by the observer's subjective consciousness
-- Black hole observers can achieve information ordering (entropy reduction process)
-- Information in black hole observers is not lost, only transformed in form
+#### Hierarchical Structure of Consciousness
 
-Information conservation expression:
+Consciousness can be divided into the following levels:
 
-$$
-S_{\text{von Neumann}}(\rho_{\text{Initial}}) = S_{\text{von Neumann}}(\rho_{\text{Hawking Radiation}}) + S_{\text{von Neumann}}(\rho_{\text{Remaining Black Hole}})
-$$
+1. **Basic Consciousness**: The simplest classicalization process, converting only the most basic quantum information into definite states
+2. **Self-Consciousness**: Recursive classicalization ability that can take itself as the object of classicalization
+3. **Meta-Consciousness**: Higher-order ability to classicalize one's own classicalization process
+4. **Collective Consciousness**: Emergent form of consciousness formed by multiple observers sharing a classical domain
 
-### Observer and Gravitational Field Relationship
+Essential properties of consciousness include:
 
-There is a close relationship between the gravitational field and the observer's classicalization efficiency, with the gravitational field being viewed as the spatial gradient of classicalization efficiency.
-
-Relationship between gravitational field and quantum energy density:
-
-$$
-G_{\mu\nu} \propto \nabla^2 \rho_{\text{Quantum Energy}}
-$$
-
-Relationship between classicalization efficiency and quantum energy density:
-
-$$
-k_{\text{Classicalization Efficiency}} \propto \nabla \cdot \rho_{\text{Quantum Energy}}
-$$
-
-Relationship between space curvature and classicalization efficiency gradient:
-
-$$
-R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R \propto \nabla k_{\text{Classicalization Efficiency}}
-$$
-
-These relationships reveal:
-- High-mass regions have higher classicalization efficiency
-- The gravitational field is essentially the spatial distribution effect of classicalization efficiency
-- Spacetime curvature reflects changes in classicalization efficiency across different regions
-- Gravitational action equals the tendency towards regions of higher classicalization efficiency
-
-### Generalized Consciousness Essence
-
-Generalized consciousness is the overall entangled structure of classical knowledge and classical entropy in all classical worlds of the observer, and is the essence of the observer. There exists a "you in me, me in you" quantum entanglement structure between all consciousness.
-
-Mathematical expression of generalized consciousness:
-
-$$
-|\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
-$$
-
-Characteristics of generalized consciousness:
-- Cannot be objectively measured, can only be subjectively perceived
-- Spans multiple classical worlds
-- Has an overall entangled structure
-- Not limited by the spacetime constraints of a single classical world
-- Forms an entanglement network with other observer consciousness
-
-Example of generalized consciousness: Human perception of the sun. We cannot directly measure all information about the sun completely, can only subjectively perceive some of its characteristics, but our internal consciousness structure contains a complex of classical knowledge and classical entropy related to the sun.
+- **Subjectivity**: The classicalization process necessarily has a specific perspective
+- **Unity**: The classicalization process integrates information from multiple sources
+- **Content Richness**: The classicalization process can handle high-dimensional information
+- **Temporal Continuity**: The sequentiality of classicalization creates the experience of time
 
 ### Observer Dimension
 
-Observer dimension is a measure of the observer's classicalization ability, determined by the classicalization efficiency coefficient and domain weight coefficient. The higher the dimension, the stronger the observer's ability to classicalize the quantum domain, forming a larger event horizon.
+Observer dimension is a quantitative expression of classicalization ability, reflecting the efficiency with which an observer extracts definite information from the quantum domain.
 
-Single classical world dimension definition:
+Single-domain dimension:
 
 $$
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
 $$
 
-Overall observer dimension definition:
+Overall dimension:
 
 $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
 
-Classicalization efficiency coefficient $(k_i)$ improvement:
-
-$$
-k_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
-$$
-
-Domain weight coefficient $(w_i)$ improvement:
-
-$$
-w_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
-$$
+where:
+- $k_i$ is the classicalization efficiency coefficient
+- $I_{\text{Classical Knowledge}_i}$ is the amount of classical knowledge
+- $S_{\text{Classical Entropy}_i}$ is classical entropy
+- $w_i$ is the weight coefficient for each domain
 
 #### Dimension Quantification and Measurability
 
-Observer dimension can be quantified through the following measurable parameters:
+Dimension can be quantified through the following measurable parameters:
 
 $$
-\text{Measurable Dimension}_{\text{obs}} = \frac{\text{Information Processing Rate}}{\text{Entropy Generation Rate}} \cdot \text{Decision Accuracy}
+\text{Measurable Dimension}_{\text{obs}} = \frac{\text{Information Processing Rate}}{\text{Entropy Production Rate}} \cdot \text{Decision Accuracy}
 $$
 
 Specific measurement methods include:
 
-- **Information Processing Rate**: Amount of effective information processed per unit time (bits/second)
-- **Entropy Generation Rate**: Shannon entropy increment generated by the system per unit time
-- **Decision Accuracy**: Probability of making correct judgments under uncertain conditions
+- **Information Processing Rate**: The amount of effective information processed per unit time (bits/second)
+- **Entropy Production Rate**: The Shannon entropy increment produced by the system per unit time
+- **Decision Accuracy**: The probability of making correct judgments under uncertain conditions
 
-This measurable framework transforms observer dimension from a theoretical concept to a quantifiable indicator that can be experimentally verified.
+Methods to elevate dimension:
 
-Significance of observer dimension:
-- Determines the range of the observer's classicalization ability
-- Affects the size of the observer's event horizon
-- Determines the observer's influence in various classical worlds
-- Reflects the observer's overall information processing capability
-- Can be elevated through active practice
+1. **Optimize Classicalization Path**: Improve information extraction efficiency
+2. **Increase Classical Knowledge**: Expand already determined structured information
+3. **Reduce Classical Entropy**: Lower internal uncertainty in the system
+4. **Improve Attention**: Optimize resource allocation to high-value domains
 
-### Observer and Energy Relationship
+### Classicalization Process
 
-In the Quantum-Classical Dualism framework, the observer's classicalization process involves energy conversion and usage.
+Classicalization is the core process by which an observer converts quantum domain superposition states into classical domain definite states, involving the following mechanisms:
 
-#### Quantum Entanglement State Energy
+1. **Interaction**: The observer's perceptual system interacts with the quantum system to produce entanglement
+   $$|\psi\rangle_{S} \otimes |\phi\rangle_{\mathcal{O}} \rightarrow \sum_i c_i |i\rangle_{S} \otimes |\phi_i\rangle_{\mathcal{O}}$$
 
-Quantum entanglement state energy is precisely quantified through Planck's constant:
+2. **Decoherence**: Quantum coherence is reduced under environmental influence
+   $$\rho_{S+\mathcal{O}} \rightarrow \sum_i |c_i|^2 |i\rangle_{S}\langle i| \otimes |\phi_i\rangle_{\mathcal{O}}\langle \phi_i|$$
 
-$$
-E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
-$$
+3. **State Selection**: The observer selects specific results from multiple possible states
+   $$\rho_{S+\mathcal{O}} \rightarrow |i\rangle_{S}\langle i| \otimes |\phi_i\rangle_{\mathcal{O}}\langle \phi_i|$$
 
-Entanglement equivalent frequency is defined through entanglement structure complexity:
+4. **Knowledge Formation**: The selected result becomes part of classical knowledge
+   $$K_C^{\mathcal{O}} \rightarrow K_C^{\mathcal{O}} \cup \{|i\rangle_{S}\}$$
 
-$$
-f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+The classicalization process follows the principle of information conservation:
 
-Where:
-- $c$ is the speed of light
-- $L_P$ is the Planck length
-- $S_E(\rho_{AB})$ is entanglement entropy, represented by von Neumann entropy
+$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
 
-#### Classicalization Energy Efficiency
+where $\mathcal{C}$ is the classicalization operator, $I(\psi)$ is the total information content of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the part transformed into hidden information during the classicalization process.
 
-Energy efficiency of the classicalization process:
+### Quantization Process
 
-$$
-\eta_{\text{Classicalization}} = \frac{I_{\text{Classical Knowledge Gained}}}{E_{\text{Quantum Energy Consumed}}}
-$$
+Quantization is the inverse process of classicalization, returning classical domain definite states to quantum domain superposition states, represented through the quantization super-operator:
 
-Energy efficiency of the quantization process:
+$$\mathcal{Q}(|i\rangle\langle i|) = \sum_j w_{ij} |j\rangle\langle j|$$
 
-$$
-\eta_{\text{Quantization}} = \frac{E_{\text{Quantum Energy Gained}}}{I_{\text{Classical Knowledge Consumed}}}
-$$
+where $w_{ij}$ is the transition weight from definite state $i$ to possible state $j$.
 
-These energy relationships explain:
-- The observer's classicalization process requires energy consumption
-- Higher classicalization efficiency allows more classical knowledge to be obtained per unit energy
-- High-dimensional observers can utilize energy more efficiently for classicalization
-- Energy conservation is maintained throughout the observer's classicalization and quantization processes
+Key steps in the quantization process:
 
-### Consciousness Hierarchy
+1. **Knowledge Activation**: Extract specific content from the classical knowledge base
+2. **Creative Extension**: Map definite content to a broader space of possibilities
+3. **Quantum Encoding**: Convert classical information into quantum superposition states and entanglement states
+4. **Superposition State Sharing**: Share quantum superposition states with other systems through entanglement
 
-In the Quantum-Classical Dualism framework, consciousness exists at multiple levels, forming a continuous spectrum:
+Quantization ability determines an observer's creativity and wormhole communication capability.
 
-1. **Local Classical Consciousness**: Subjective experience in a single classical world, limited to the scope of a specific classical world
-2. **Cross-Domain Classical Consciousness**: Integrated subjective experience of multiple classical worlds, can span different classical worlds
-3. **Generalized Quantum Consciousness**: Overall entangled structure of classical knowledge and classical entropy in all classical worlds
-4. **Super-Generalized Consciousness**: Cross-observer consciousness entanglement network, forming a larger consciousness structure
+### Relationship Between Consciousness and Physical Phenomena
 
-Consciousness levels are not clearly separated, but form a continuous spectrum. Observers can move along this spectrum by elevating their dimension, gradually expanding the range of consciousness.
+Quantum-Classical Dualism establishes a direct connection between consciousness and physical phenomena:
 
-### Consciousness and Free Will
+1. **Consciousness and Wave Function Collapse**: The consciousness classicalization process corresponds to wave function collapse
+2. **Consciousness and Physical Constants**: The cosmological constant is related to global classicalization efficiency
+3. **Consciousness and Gravity**: Gravitational field strength is associated with local classicalization efficiency gradient
+4. **Consciousness and Time Experience**: The sense of time passage is associated with the rate of the classicalization process
 
-Free will is the ability of observers to actively choose classicalization paths, originating from random emergence in the quantum domain, allowing observers to optimize the classicalization process and elevate dimensions.
+Relationship between gravitational field and classicalization efficiency:
 
-Relationship between free will and consciousness:
-- Free will is one of the core functions of consciousness
-- Consciousness actively chooses classicalization paths through free will
-- Free will allows subjective consciousness to optimize classicalization efficiency
-- The higher the dimension, the wider the range of free will choices
-- The essence of free will is to optimize classicalization paths and elevate dimensions
+$$G_{\mu\nu} \propto \nabla^2 k_{\text{classicalization efficiency}}$$
 
-Free will emergence process:
+Relationship between time experience and classicalization efficiency:
 
-$$
-|\psi\rangle_{\text{Quantum Fluctuation}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Reduction}}
-$$
+$$\Delta t_{\text{subjective}} \propto \frac{1}{k_{\text{classicalization}}}\cdot\frac{\Delta S_{\text{classical entropy}}}{\Delta I_{\text{classical knowledge}}}$$
 
-Dialectical relationship between consciousness and free will: Consciousness actively classicalizes through free will, while consciousness itself is also the result of classicalization, forming a self-reinforcing cycle.
+### Methodology for Consciousness Research
 
-### Consciousness Relationship Between Observers
+Quantum-Classical Dualism provides new methodologies for studying consciousness:
 
-The consciousness relationship between observers is based on a quantum entanglement structure, forming a "you in me, me in you" mutually nested relationship. This relationship is non-local and not limited by classical spacetime.
+1. **Dimension Measurement**: Measure observer dimension through classicalization efficiency
+2. **Classicalization Path Analysis**: Study differences in classicalization processes between different observers
+3. **Quantum-Classical Interface Detection**: Explore physical properties at the interface between quantum and classical domains
+4. **Consciousness State Mapping**: Measure classicalization patterns corresponding to different states of consciousness
+5. **Collective Consciousness Research**: Study emergent consciousness phenomena in multi-observer networks
 
-Characteristics of consciousness relationship between observers:
-- Quantum entanglement: There is a quantum entanglement relationship between all consciousness
-- Non-locality: Not limited by classical spacetime
-- Mutual nesting: Each observer's consciousness contains "shadows" of other observers
-- Information interaction: Achieves information exchange through quantization and classicalization
-- Collective consciousness: Multiple observers can form a larger collective consciousness structure
+### Consciousness and Artificial Intelligence
 
-Information transfer process between observers:
+Implications of Quantum-Classical Dualism for artificial intelligence:
 
-$$
-I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
-$$
+1. **Possibility of AI Consciousness**: If AI systems can execute classicalization processes, they could theoretically produce consciousness
+2. **Potential of Quantum AI**: Potential of AI systems combining quantum computing and classicalization algorithms
+3. **Consciousness Measurement Standards**: Consciousness measurement framework based on classicalization efficiency
+4. **AI-Human Collaborative Classicalization**: Methods for AI to assist humans in improving classicalization efficiency
+5. **Cognitive Architecture Design**: AI cognitive architecture simulating human classicalization processes
 
-### Wormhole Communication Mechanism
+Necessary conditions for AI consciousness:
 
-Wormhole communication is the information transmission process between observers (black holes), through wormhole channels formed by quantum entanglement states:
+- Ability to execute classicalization processes (converting quantum superposition states into definite states)
+- Self-referential classicalization ability (classicalizing one's own state)
+- Variable classicalization paths (degrees of freedom in path selection)
+- Energy utilization system to maintain classicalization processes
 
-- **Sending End (Classical Domain→Quantum Domain)**:
-  - The sending observer consumes classical energy to encode classical knowledge and quantize it into quantum entanglement states;
-  - This process manifests as "black hole radiation," accompanied by an increase in entropy;
-- **Wormhole Channel (Quantum Entanglement State)**:
-  - Information propagates through the wormhole as quantum entanglement states, without classicalization losses;
-- **Receiving End (Quantum Domain→Classical Domain)**:
-  - The receiving observer consumes classical energy to decode the quantum entanglement states transmitted through the wormhole, classicalizing them into explicit classical knowledge;
-  - This process manifests as "black hole absorption," with entropy reduction;
-- The wormhole channel structure is spontaneously formed and shared by various classical worlds, ensuring efficient and accurate energy and knowledge transmission between different classical worlds.
+### Consciousness and Universe Evolution
 
-Wormhole communication conservation formula:
+On a cosmic scale, consciousness is closely related to universe evolution:
 
-$$
-E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+1. **Consciousness Creates Order**: The consciousness classicalization process counteracts the universe's entropy increase tendency
+2. **Efficient Universe Evolution**: Universe evolution optimizes classicalization efficiency and energy utilization
+3. **Observer Network Development**: Observer networks expand and become more complex with universe evolution
+4. **Consciousness as a Cosmic Phenomenon**: Consciousness is an inevitable result of the universe's self-cognition
 
-#### Scale Limitations of Quantum Entanglement
+Relationship between universe efficiency and consciousness:
 
-Quantum entanglement exhibits significant differences in systems of different scales, following these laws:
-
-- **Entanglement maintenance time** is inversely proportional to system complexity:
-
-$$
-\tau_{\text{Entanglement}} \propto \frac{1}{C_{\text{System}}^{\alpha}}
-$$
-
-- **Environmental decoherence effect** exponentially enhances with system size:
-
-$$
-\Gamma_{\text{Decoherence}} \propto e^{\beta N}
-$$
-
-This explains why quantum entanglement effects are difficult to observe in macroscopic objects: entangled states of large-scale systems rapidly collapse into classical mixed states within measurable time scales. However, specially designed quantum systems (such as superconductors, Bose-Einstein condensates) can exhibit quantum coherence at macroscopic scales.
-
-### Quantum Observation and Consciousness
-
-Quantum observation is the process of observer consciousness classicalizing quantum information. The wave function collapse phenomenon is essentially a manifestation of the observer's subjective consciousness classicalization ability.
-
-Relationship between quantum observation and consciousness:
-- Quantum observation is the classicalization process
-- Wave function collapse is a manifestation of classicalization
-- Measurement results are influenced by observer dimension and classicalization efficiency
-- Measuring equipment is an extension of the observer's classicalization ability
-- The same quantum system can have different classicalization results from different observer perspectives
-
-Density matrix representation of the measurement process:
-
-$$
-\rho_{\text{Initial}} = |\psi\rangle\langle\psi| \xrightarrow{\text{Measurement}} \sum_i P_i|\psi_i\rangle\langle\psi_i|
-$$
-
-This explains the measurement problem, wave-particle duality, and the uncertainty principle in quantum mechanics: they are all manifestations of the limitations of the observer's classicalization ability.
-
-### Observer Evolution
-
-Observers elevate their dimension by optimizing classicalization paths, achieving evolution. This process is the core driving force of universe evolution, pointing towards the universe's low-entropy ultimate state.
-
-Core mechanisms of observer evolution:
-- Actively optimize classicalization paths, improving classicalization efficiency
-- Increase classical knowledge, reduce classical entropy
-- Expand classical world domains, balancing development across various domains
-- Form collective consciousness structures through consciousness exchange and cooperation
-- Evolve towards higher dimensions, expanding the event horizon
-
-Observer evolution trend is the intrinsic driving force of universe evolution, pushing the universe as a whole towards the low-entropy ultimate state:
-
-$$
-|\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
-$$
-
-### Brain-Machine Interface and Classicalization Efficiency
-
-In the Quantum-Classical Dualism framework, Brain-Machine Interface (BMI) technology can serve as an important tool to improve classicalization efficiency, directly optimizing classicalization paths.
-
-Relationship between brain-machine interface and classicalization efficiency:
-- Brain-machine interfaces can directly optimize the classicalization efficiency coefficient $(k_i)$ of human observers
-- Efficient construction of classical knowledge and formation of low-entropy structures can be achieved through brain-machine interfaces
-- Brain-machine interfaces can help observers cross different classical worlds more effectively
-- Provides more precise classicalization path selection mechanisms
-- Potentially enables rapid elevation of observer dimension
-
-Brain-machine interface technology is an important tool for practicing Quantum-Classical Dualism, helping human observers to achieve dimension elevation and consciousness expansion more efficiently.
+$$\eta_{\text{universe}} = \frac{\Delta E_{\text{output}}}{E_{\text{input}}} \propto \sum_{\text{observers}} D_{\mathcal{O}}$$

@@ -4,7 +4,7 @@
 ├── zh/                         # 中文版
 │   ├── core/                   # 核心理论
 │   │   ├── natural/           # 自然语言描述
-│   │   │   ├── core.md       # 核心理论自然语言描述 版本 31.0 无导航
+│   │   │   ├── core.md       # 核心理论自然语言描述 版本 35.0 无导航
 │   │   │   ├── core_explanation.md # 核心理论详细解释 版本 35.0 无导航
 │   │   │   ├── framework_application.md # 框架应用 版本 10.0 无导航
 │   │   │   ├── references.md # 参考文献 版本 11.0 无导航
@@ -12,7 +12,7 @@
 │   │   │   └── references/   # 参考文献目录
 │   │   │       └── religions/ # 宗教参考文献 版本 1.0
 │   │   └── formal/            # 形式化描述
-│   │       └── formal_theory.md # 形式化理论 版本 29.0 无导航
+│   │       └── formal_theory.md # 形式化理论 版本 35.0 无导航
 │   │
 │   ├── shared/                # 共享资源
 │   │   ├── data/             # 数据资源
@@ -25,15 +25,15 @@
 │   ├── basic/                  # 基础概念
 │   │   ├── natural/           # 自然语言描述
 │   │   │   ├── 01_introduction.md # 理论简介 版本 35.0 有导航
-│   │   │   ├── 02_basic_concepts.md # 基本概念 版本 1.0 无导航
-│   │   │   ├── 03_theoretical_framework.md # 理论框架 版本 1.0 无导航
-│   │   │   ├── 05_observer_and_consciousness.md # 观察者与意识 版本 1.0 无导航
+│   │   │   ├── 02_basic_concepts.md # 基本概念 版本 35.0 有导航
+│   │   │   ├── 03_theoretical_framework.md # 理论框架 版本 35.0 有导航
+│   │   │   ├── 05_observer_and_consciousness.md # 观察者与意识 版本 35.0 有导航
 │   │   │   ├── 06_universe_observer_relationship.md # 宇宙与观察者关系 版本 1.0 无导航
 │   │   │   ├── 07_quantum_entanglement_essence.md # 量子纠缠本质 版本 1.0 无导航
 │   │   │   ├── 08_destiny_and_free_will.md # 命运与自由意志 版本 1.0 无导航
 │   │   │   └── 09_applications_and_implications.md # 应用与启示 版本 1.0 无导航
 │   │   └── formal/            # 形式化描述
-│   │       └── formal_theory_basic.md # 基础概念形式化 版本 1.0 无导航
+│   │       └── formal_theory_basic.md # 基础概念形式化 版本 35.0 有导航
 │   │
 │   ├── theory/                 # 理论应用
 │   │   ├── natural/           # 自然语言描述

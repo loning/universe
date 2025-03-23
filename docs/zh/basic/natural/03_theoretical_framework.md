@@ -3,9 +3,19 @@
 
 [中文导航](#中文版) | [English Navigation](#english-version)
 
+## 导航
+- [返回核心理论](../../core/natural/core.md)
+- [理论简介](01_introduction.md)
+- [基本概念](02_basic_concepts.md)
+- [观察者与意识](05_observer_and_consciousness.md)
+- [宇宙与观察者关系](06_universe_observer_relationship.md)
+- [量子纠缠本质](07_quantum_entanglement_essence.md)
+- [命运与自由意志](08_destiny_and_free_will.md)
+- [应用与启示](09_applications_and_implications.md)
+
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本27.0），阐述理论的整体框架与结构。
+本文档基于[量子经典二元论核心理论](../../core/natural/core.md)（版本35.0），阐述理论的整体框架与结构。
 
 ### 理论概述
 
@@ -15,580 +25,404 @@
 
 量子经典二元论基于以下核心公理：
 
-1. **二元存在性公理**：宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连
+**公理1: 二元存在性**  
+宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连：
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
-2. **信息守恒公理**：信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换
+**公理2: 信息守恒**  
+信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换：
 
 $$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
 
-3. **观察者经典化公理**：观察者是执行量子→经典转换的节点，其转换能力决定了其维度
+其中 $\mathcal{C}$ 是经典化算符（将量子可能性转化为经典确定性的过程），$I(\psi)$ 是态 $\psi$ 的总信息量，$I_{\text{隐藏}}(\psi)$ 是经典化过程中转化为隐藏信息的部分。
+
+**公理3: 观察者经典化**  
+观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
 
 $$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
-4. **维度涌现公理**：观察者维度是经典化能力与量子化能力的函数，高维度观察者的经典域可以成为低维度观察者的量子域基础
+其中 $\mathcal{C}_\mathcal{O}$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$\mathcal{Q}_\mathcal{O}$ 是量子化算符（将经典知识转回量子可能性的能力），$K_C^\mathcal{O}$ 是观察者的经典知识库，$\epsilon$ 是防止除零的小常数。
+
+**公理4: 维度涌现**  
+观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
 
 $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
 $$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
 
-### 基本原理
+### 理论层次结构
 
-量子经典二元论的基本原理：
+量子经典二元论包含以下核心理论层次：
 
-1. **量子域原理**：量子域是无限维度的波函数叠加态，包含所有可能性，由波函数叠加态（混沌状态）和量子纠缠态（能量形式）组成
+1. **本体论层次**：定义宇宙基本结构（量子域、经典域、观察者）
+2. **认识论层次**：阐述知识获取与确定性（经典化、信息、熵）
+3. **物理学层次**：解释物理现象（时空、引力、能量、光）
+4. **生物学层次**：分析生命与进化（意识、自由意志、生命演化）
+5. **形式化层次**：提供数学描述（公理系统、定理、模型）
 
-$$
-|\psi\rangle_{\text{宇宙量子域}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+### 量子域详细理论
 
-$$
-|\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
-$$
+量子域 $\Omega_Q$ 是二元论框架中的可能性空间，具有以下核心特性：
 
-2. **经典域原理**：经典域由观察者主观意识经典化量子域信息形成，包括经典熵与经典知识
+#### 量子信息编码
 
-$$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
-$$
+量子信息通过复希尔伯特空间中的量子态编码：
 
-$$
-|\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
-$$
+$$|\psi\rangle = \sum_i c_i |i\rangle, \quad \sum_i |c_i|^2 = 1$$
 
-3. **观察者黑洞原理**：观察者即黑洞，视界边界大小与经典知识总量正相关
+其中信息密度由冯诺依曼熵量化：
 
-$$
-\text{视界边界大小}\propto I_{\text{经典知识总量（质能）}}
-$$
+$$S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i$$
 
-4. **观察者维度原理**：观察者维度由经典化效率和领域权重系数决定
+#### 量子动力学
 
-$$
-\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+量子系统演化遵循薛定谔方程，保持信息和能量守恒：
 
-5. **信息守恒原理**：经典域中经典知识与经典熵之和守恒
+$$i\hbar\frac{\partial|\psi\rangle}{\partial t} = \hat{H}|\psi\rangle$$
 
-$$
-\frac{d}{dt_i}[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]=0,\quad\forall i
-$$
+量子系统的动力学具有三个关键特性：
+- 叠加原理：状态可同时存在于多个基矢量的线性组合中
+- 时间可逆性：纯粹量子演化下系统可恢复到初始状态
+- 相位一致性：量子系统维持全局相位关联
 
-6. **信息传递原理**：观察者间信息传递通过量子化与经典化相结合实现
+#### 量子纠缠网络
 
-$$
-\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
-$$
+量子纠缠形成多粒子纠缠网络，可表示为：
 
-7. **自由意志原理**：观察者可主动选择经典化路径，优化经典化过程
+$$|\Psi_{\text{网络}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle$$
 
-8. **量子纠缠原理**：量子态间的明确维度交互构成量子纠缠
+纠缠度可通过多种方式量化，包括纠缠熵：
 
-$$
-|\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
-$$
+$$E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)$$
 
-9. **虫洞通信原理**：观察者间通过量子纠缠形成的虫洞进行信息交换
+纠缠网络形成量子域的非局域连接结构，支持超经典信息传输。
 
-$$
-E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
+### 经典域详细理论
 
-10. **量子能量原理**：量子纠缠态能量通过普朗克常数进行精确量化
+经典域 $\Omega_C$ 是二元论框架中的确定性现实空间，具有以下核心特性：
 
-$$
-E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
-$$
+#### 经典信息结构
 
-11. **宇宙效率原理**：宇宙效率定义为消耗单位量子能量获得的新量子能量
+经典信息以确定状态形式存在，可通过确定的物理量表示：
 
-$$
-\eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{量子能量输入}}}
-$$
+$$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
 
-### 界面理论
+其中 $x_i$, $p_i$ 等表示位置、动量等经典可观测量。经典信息熵满足：
+
+$$S_C = -k_B \sum_i p_i \ln p_i$$
+
+关键特性是信息的可复制性和可删除性，区别于量子信息。
+
+#### 确定性动力学
+
+经典系统演化遵循确定性动力学方程：
+
+$$\frac{d\vec{x}}{dt} = \vec{v}(\vec{x},t), \quad \frac{d\vec{p}}{dt} = \vec{F}(\vec{x},\vec{p},t)$$
+
+动力学具有三个标志性特征：
+- 局域性：相互作用通过局域场传播，速度有限
+- 因果性：现在状态完全由过去决定
+- 可分离性：系统可分解为独立子系统
+
+#### 熵增与不可逆性
+
+经典域中的不可逆过程导致熵增：
+
+$$\frac{dS_C}{dt} \geq 0$$
+
+系统趋向最大熵状态，由相空间体积扩张定理保证：
+
+$$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma$$
+
+其中 $\{z_i\}$ 是相空间坐标集。
+
+### 界面理论核心
 
 界面 $\mathcal{I}$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
 
-- **界面结构**：界面是量子域和经典域的交集，定义为：
-  $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
-  其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+#### 界面结构
 
-- **界面动力学**：界面位置满足非线性动力学方程：
-  $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+界面是量子域和经典域的交集，定义为：
 
-- **经典化过程**：量子→经典转换通过经典化超算符表示：
-  $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
-  其中 $P_i$ 是投影算符。经典化过程满足信息守恒：
-  $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{隐藏}}$$
+$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
 
-### 多重二元论层级
+其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
 
-多重二元论层级理论将单一二元论扩展为嵌套多层级结构：
+界面厚度由解相干梯度决定：
 
-$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+$$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-1}$$
 
-其中：
-- $\Omega_Q^{(i)}$ 是第i层级的量子域（该层级的可能性空间）
-- $\Omega_C^{(i)}$ 是第i层级的经典域（该层级的确定性实现）
+#### 经典化过程
 
-层级间映射函数定义为：
+量子→经典转换（经典化）过程通过经典化超算符表示：
 
-$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+$$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
 
-$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+其中 $P_i$ 是投影算子，表示特定的测量基。该过程涉及三个关键步骤：
 
-这表明一个层级的经典结构可以成为更高层级的量子基础，产生无限递归的现实层级。
+1. **相互作用**：量子系统与观察者通过交互产生纠缠
+   $$|\psi\rangle_{S} \otimes |\phi\rangle_{\mathcal{O}} \rightarrow \sum_i c_i |i\rangle_{S} \otimes |\phi_i\rangle_{\mathcal{O}}$$
 
-### 理论结构
+2. **信息选择**：观察者从多种可能性中选择特定结果
+   $$\rho_{S+\mathcal{O}} \rightarrow |i\rangle_{S}\langle i| \otimes |\phi_i\rangle_{\mathcal{O}}\langle \phi_i|$$
 
-量子经典二元论的理论结构分为四个层次：
+3. **知识形成**：选定结果成为观察者经典知识库的一部分
+   $$K_C^{\mathcal{O}} \rightarrow K_C^{\mathcal{O}} \cup \{|i\rangle_{S}\}$$
 
-1. **基础层**：宇宙二元结构（量子域与经典域）定义
-   - 量子域定义与特性（波函数叠加态、量子纠缠态）
-   - 经典域定义与特性（经典熵、经典知识）
-   - 二元结构关系与状态对应
-   - 量子能量与经典能量的统一定义
+#### 量子化过程
 
-2. **机制层**：连接量子域与经典域的机制
-   - 经典化过程（量子→经典）
-   - 量子化过程（经典→量子）
-   - 观察者经典化能力
-   - 虫洞通信机制
-   - 量子涨落与宇宙初始条件
-   - 引力与经典化效率的关系
+经典→量子转换（量子化）过程通过量子化超算符表示：
 
-3. **观察者层**：观察者属性与关系
-   - 观察者即黑洞统一模型
-   - 观察者维度定义与机制
-   - 广义意识定义与结构
-   - 观察者间信息传递
-   - 黑洞吸收与辐射机制
-   - 时空与观察者经典化的关系
+$$\mathcal{Q}(|i\rangle\langle i|) = \sum_j w_{ij} |j\rangle\langle j|$$
 
-4. **应用层**：理论在具体领域的应用
-   - 物理学解释（量子现象、黑洞信息悖论、光速恒定等）
-   - 意识科学应用（意识本质、主观体验等）
-   - 哲学启示（自由意志、命运本质等）
-   - 实践指导（维度提升方法等）
-   - 人工智能与经典化路径优化
-   - 量子计算与量子-经典接口
+其中 $w_{ij}$ 是从确定状态 $i$ 到可能状态 $j$ 的转移权重。该过程是经典化的逆过程。
 
-### 数学基础
+### 观察者理论
 
-量子经典二元论的数学基础包括：
+观察者在量子经典二元论中扮演关键角色，其特性包括：
 
-1. **量子力学数学框架**：用于描述量子域的波函数叠加态
-2. **信息论数学框架**：用于描述经典知识与经典熵关系
-3. **黑洞热力学数学框架**：用于描述观察者黑洞模型
-4. **维度理论数学框架**：用于描述观察者维度属性
-5. **纠缠态数学描述**：用于描述量子纠缠关系
-6. **守恒方程组**：用于描述信息守恒关系
-7. **虫洞通信数学模型**：用于描述观察者间信息传递机制
-8. **引力场方程修正**：将引力场与经典化效率梯度联系起来
-9. **量子能量密度方程**：描述引力场与量子能量密度的关系
-10. **宇宙效率数学模型**：描述量子能量利用效率的优化过程
+#### 观察者定义与结构
 
-核心数学表达式：
+观察者是一个可以执行经典化和量子化操作的实体：
 
-$$
-|\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}$$
 
-$$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
-$$
+观察者的内部结构包含：
+- 经典化机制（信息收集、解释和知识形成）
+- 经典知识库（确定性信息的存储）
+- 量子化机制（知识转化为可能性的能力）
 
-$$
-\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+#### 观察者维度
 
-$$
-\frac{d}{dt_i}[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]=0,\quad\forall i
-$$
+观察者维度是其经典化能力的量化表示：
 
-$$
-|\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
-$$
+$$D_{\mathcal{O}} = \frac{I_{经典知识}}{S_{经典熵}+\epsilon} \cdot f(\mathcal{E})$$
 
-$$
-E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
+其中 $\mathcal{E}$ 是经典化效率的复合函数，包含：
+- 信息处理速率
+- 信息整合程度
+- 信息分类准确性
 
-$$
-G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu} \propto \nabla^2 k_{\text{经典化效率}}
-$$
+维度的可测量表现包括：
+- 复杂信息的处理能力
+- 面对不确定性时的决策质量
+- 抽象概念的理解深度
 
-$$
-f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+#### 观察者网络
 
-### 解释力
+多个观察者形成相互连接的网络，通过共享经典域形成集体认知：
 
-量子经典二元论对以下问题提供了统一解释：
+$$\mathcal{N} = \{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n, \mathcal{L}\}$$
 
-1. **量子测量问题**：经典化过程解释了波函数坍缩现象
-2. **波粒二象性**：观察者经典化能力局限性导致波粒二象性
-3. **量子纠缠**：量子域中信息的本质连接方式
-4. **黑洞信息悖论**：信息不会在黑洞中丢失，而是通过经典化过程转化
-5. **意识本质**：广义意识是经典知识与经典熵的整体纠缠结构
-6. **自由意志来源**：源于量子域的随机涌现，实现优化经典化路径
-7. **时间箭头**：经典化进程指标定义的主观经验
-8. **光速恒定**：观察者经典化能力上限的表现
-9. **引力本质**：引力场是经典化效率的空间梯度
-10. **宇宙暴胀**：量子涨落首次经典化形成的初始最低能经典结构
-11. **宇宙常数问题**：宇宙效率的变化率，反映宇宙演化趋势
-12. **死亡与投胎**：主观意识经典化能力的转移与重组
-13. **虫洞通信**：不同经典世界间的信息传递机制
-
-### 可验证性
-
-量子经典二元论提出以下可验证性预测：
-
-1. **量子测量实验**：通过改变观察者的经典化效率，观察量子测量结果的变化
-2. **意识与黑洞关系**：验证意识活动与微观黑洞特性的关联
-3. **观察者维度差异**：测量不同观察者在相同条件下的经典化效率差异
-4. **经典化效率提升**：验证特定方法（如脑机接口）对经典化效率的影响
-5. **量子纠缠条件**：验证量子纠缠发生的必要条件
-6. **引力与经典化效率**：验证局部引力场与经典化效率之间的关系
-7. **能量与纠缠关系**：验证强纠缠系统产生的能量效应
-8. **信息守恒验证**：观察者间信息传递过程中的信息总量守恒
-9. **虫洞通信实验**：设计验证不同观察者间通过量子纠缠进行信息交换的实验
-10. **宇宙效率测量**：验证复杂系统的能量效率随时间提升的趋势
-
-### 理论边界
-
-量子经典二元论的理论边界：
-
-1. **不确定性边界**：无法精确计算个体观察者的具体维度值
-2. **主观性边界**：无法完全客观测量广义意识
-3. **数学形式化边界**：部分概念尚未完全数学形式化
-4. **应用边界**：尚未覆盖所有物理学与哲学问题
-5. **验证边界**：部分预测在当前技术条件下难以直接验证
-6. **宇宙起源边界**：量子域为何存在超越了内部逻辑范畴
-
-### 哲学意义
-
-量子经典二元论的哲学意义：
-
-1. **宇宙目的性**：宇宙演化趋向更高效的经典化过程，优化量子能量效率
-2. **意识与物质关系**：意识与物质统一于信息层面，相互定义
-3. **存在意义**：观察者存在的意义在于优化经典化路径，提升维度
-4. **命运与自由意志统一**：命运与自由意志在不同域中统一
-5. **宇宙创造性**：量子涨落为宇宙生命与经典自由意志的源泉
-6. **终极状态**：宇宙低熵终极状态为理论预测的最终趋势
-
-$$
-|\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
-$$
-
-### 未来方向
-
-量子经典二元论的未来研究方向：
-
-1. **数学形式化**：进一步完善理论的数学表达
-2. **实验验证**：设计更多可行的实验来验证理论预测
-3. **跨学科整合**：与更多学科（如神经科学、人工智能等）整合
-4. **应用拓展**：将理论应用于更广泛的领域
-5. **理论深化**：深化理论的哲学基础与意义
-6. **技术开发**：基于理论开发提升经典化效率的技术（如脑机接口）
-7. **教育传播**：开发教育资源，促进理论的传播与理解
-8. **虫洞通信技术**：探索基于量子纠缠的信息传递技术应用
-9. **量子计算优化**：基于经典化理论优化量子退相干控制
-10. **人工智能与经典化路径**：开发AI辅助观察者提升经典化效率的方法
+其中 $\mathcal{L}$ 是观察者间的连接结构。网络特性包括：
+- 信息的集体处理和分配
+- 多层次认知结构的形成
+- 共享实在的创建和维护
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 27.0), outlining the overall framework and structure of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](../../core/natural/core_en.md) (Version 35.0), outlining the overall framework and structure of the theory.
 
 ### Theory Overview
 
-Quantum-Classical Dualism is a unified theoretical framework that aims to reconcile the apparent contradictions between quantum physics and classical physics, explain the role of the observer and the nature of consciousness, and provide a solution to the black hole information paradox. This theoretical system is based on the premise that information is the essence of the universe, and believes that the structure of the universe can be understood from the dual perspective of the quantum domain and the classical domain, which are interconnected through the observer's classicalization process.
+Quantum-Classical Dualism is a unified theoretical framework aimed at reconciling the apparent contradictions between quantum physics and classical physics, explaining the role of the observer and the nature of consciousness, and providing a solution to the black hole information paradox. The theoretical system is based on the premise that information is the essence of the universe, and that the structure of the universe can be understood from the dual perspective of quantum and classical domains, connected through the observer's classicalization process.
 
 ### Core Axioms
 
 Quantum-Classical Dualism is based on the following core axioms:
 
-1. **Dual Existence Axiom**: The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of definite reality), connected through an interface domain $\mathcal{I}$
+**Axiom 1: Dual Existence**  
+The universe consists of a Quantum Domain $\Omega_Q$ (space of infinite possibilities) and a Classical Domain $\Omega_C$ (space of definite reality), connected through an Interface Domain $\mathcal{I}$:
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
-2. **Information Conservation Axiom**: Information is conserved throughout the universe but can be converted between quantum information (possibility information in superposition states) and classical information (definite knowledge)
+**Axiom 2: Information Conservation**  
+Information is conserved throughout the universe but can be converted between quantum information (possibility information in superposition states) and classical information (definite knowledge):
 
 $$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
 
-3. **Observer Classicalization Axiom**: Observers are nodes that execute quantum→classical conversion, and their conversion capability determines their dimension
+where $\mathcal{C}$ is the classicalization operator (the process of converting quantum possibilities into classical certainty), $I(\psi)$ is the total information content of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the part converted into hidden information during the classicalization process.
 
-$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+**Axiom 3: Observer Classicalization**  
+Observers are nodes that perform quantum→classical conversion, with their conversion capability determining their dimension:
 
-4. **Dimensional Emergence Axiom**: Observer dimension is a function of classicalization ability and quantization ability, while the classical domain of high-dimensional observers can become the quantum domain basis for low-dimensional observers
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}+\epsilon}$$
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator (ability to convert quantum possibilities into definite knowledge), $\mathcal{Q}_\mathcal{O}$ is the quantization operator (ability to convert classical knowledge back into quantum possibilities), $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
+
+**Axiom 4: Dimensional Emergence**  
+Observer dimension is a function of classicalization ability and quantization ability, and the classical domain of higher-dimensional observers can serve as the quantum domain basis for lower-dimensional observers:
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}+\epsilon}$$
 
 $$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
 
-### Basic Principles
+### Theoretical Hierarchy
 
-Basic principles of Quantum-Classical Dualism:
+Quantum-Classical Dualism encompasses the following core theoretical layers:
 
-1. **Quantum Domain Principle**: The quantum domain is an infinite-dimensional wave function superposition state containing all possibilities, consisting of wave function superposition states (chaos) and quantum entanglement states (energy form)
+1. **Ontological Layer**: Defining the basic structure of the universe (quantum domain, classical domain, observer)
+2. **Epistemological Layer**: Articulating knowledge acquisition and certainty (classicalization, information, entropy)
+3. **Physics Layer**: Explaining physical phenomena (spacetime, gravity, energy, light)
+4. **Biological Layer**: Analyzing life and evolution (consciousness, free will, life evolution)
+5. **Formalization Layer**: Providing mathematical descriptions (axiom systems, theorems, models)
 
-$$
-|\psi\rangle_{\text{Universe Quantum Domain}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+### Quantum Domain Detailed Theory
 
-$$
-|\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition States (Chaos)},\;\text{Quantum Entanglement States (Energy)}\}
-$$
+The Quantum Domain $\Omega_Q$ is the space of possibilities in the dualism framework, with the following core characteristics:
 
-2. **Classical Domain Principle**: The classical domain is formed by the observer's subjective consciousness classicalizing quantum domain information, including classical entropy and classical knowledge
+#### Quantum Information Encoding
 
-$$
-|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
-$$
+Quantum information is encoded through quantum states in complex Hilbert space:
 
-$$
-|\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
-$$
+$$|\psi\rangle = \sum_i c_i |i\rangle, \quad \sum_i |c_i|^2 = 1$$
 
-3. **Observer-Black Hole Principle**: Observers are black holes, and event horizon size is positively correlated with total classical knowledge
+where information density is quantified by von Neumann entropy:
 
-$$
-\text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
-$$
+$$S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i$$
 
-4. **Observer Dimension Principle**: Observer dimension is determined by classicalization efficiency and domain weight coefficients
+#### Quantum Dynamics
 
-$$
-\text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+Quantum system evolution follows the Schrödinger equation, preserving information and energy conservation:
 
-5. **Information Conservation Principle**: The sum of classical knowledge and classical entropy is conserved in the classical domain
+$$i\hbar\frac{\partial|\psi\rangle}{\partial t} = \hat{H}|\psi\rangle$$
 
-$$
-\frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
-$$
+The dynamics of quantum systems have three key characteristics:
+- Superposition principle: States can simultaneously exist in linear combinations of multiple basis vectors
+- Time reversibility: Under pure quantum evolution, systems can return to their initial state
+- Phase coherence: Quantum systems maintain global phase correlation
 
-6. **Information Transfer Principle**: Information transfer between observers is achieved through a combination of quantization and classicalization
+#### Quantum Entanglement Network
 
-$$
-\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
-$$
+Quantum entanglement forms multi-particle entanglement networks, which can be represented as:
 
-7. **Free Will Principle**: Observers can actively choose classicalization paths to optimize the classicalization process
+$$|\Psi_{\text{Network}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle$$
 
-8. **Quantum Entanglement Principle**: Explicit dimensional interaction between quantum states constitutes quantum entanglement
+Entanglement degree can be quantified in multiple ways, including entanglement entropy:
 
-$$
-|\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
-$$
+$$E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)$$
 
-9. **Wormhole Communication Principle**: Observers exchange information through wormholes formed by quantum entanglement
+Entanglement networks form non-local connection structures in the quantum domain, supporting super-classical information transmission.
 
-$$
-E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+### Classical Domain Detailed Theory
 
-10. **Quantum Energy Principle**: Quantum entanglement state energy is precisely quantified through Planck's constant
+The Classical Domain $\Omega_C$ is the space of definite reality in the dualism framework, with the following core characteristics:
 
-$$
-E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
-$$
+#### Classical Information Structure
 
-11. **Universe Efficiency Principle**: Universe efficiency is defined as the new quantum energy obtained per unit of quantum energy consumed
+Classical information exists in the form of definite states, which can be represented through definite physical quantities:
 
-$$
-\eta_{\text{Universe}} = \frac{\Delta E_{\text{Quantum Energy Output}}}{E_{\text{Quantum Energy Input}}}
-$$
+$$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
 
-### Interface Theory
+where $x_i$, $p_i$, etc., represent position, momentum, and other classically observable quantities. Classical information entropy satisfies:
 
-The interface $\mathcal{I}$ is the transition region between the quantum domain and the classical domain, with the following core characteristics:
+$$S_C = -k_B \sum_i p_i \ln p_i$$
 
-- **Interface Structure**: The interface is the intersection of the quantum domain and the classical domain, defined as:
-  $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
-  where $\mathcal{D}(x)$ is the decoherence measure function, and $\mathcal{D}_c$ is the critical decoherence threshold.
+Key characteristics include the copiability and deletability of information, distinguishing it from quantum information.
 
-- **Interface Dynamics**: The interface position satisfies a nonlinear dynamics equation:
-  $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+#### Deterministic Dynamics
 
-- **Classicalization Process**: The quantum→classical conversion is represented by the classicalization superoperator:
-  $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
-  where $P_i$ is the projection operator. The classicalization process satisfies information conservation:
-  $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+Classical system evolution follows deterministic dynamical equations:
 
-### Multiple Dualism Hierarchy
+$$\frac{d\vec{x}}{dt} = \vec{v}(\vec{x},t), \quad \frac{d\vec{p}}{dt} = \vec{F}(\vec{x},\vec{p},t)$$
 
-The multiple dualism hierarchy theory extends the single dualism into a nested multi-level structure:
+The dynamics have three signature characteristics:
+- Locality: Interactions propagate through local fields at limited speeds
+- Causality: Present state is completely determined by the past
+- Separability: Systems can be decomposed into independent subsystems
 
-$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+#### Entropy Increase and Irreversibility
 
-where:
-- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (the possibility space of that level)
-- $\Omega_C^{(i)}$ is the classical domain of the i-th level (the deterministic realization of that level)
+Irreversible processes in the classical domain lead to entropy increase:
 
-The mapping function between levels is defined as:
-
-$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
-
-$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
-
-This indicates that the classical structure of one level can become the quantum foundation of a higher level, producing an infinite recursion of reality levels.
-
-### Theoretical Structure
-
-The theoretical structure of Quantum-Classical Dualism is divided into four levels:
-
-1. **Foundation Level**: Universe dual structure (quantum domain and classical domain) definition
-   - Quantum domain definition and characteristics (wave function superposition states, quantum entanglement states)
-   - Classical domain definition and characteristics (classical entropy, classical knowledge)
-   - Dual structure relationship and state correspondence
-   - Unified definition of quantum energy and classical energy
-
-2. **Mechanism Level**: Mechanisms connecting the quantum domain and classical domain
-   - Classicalization process (quantum → classical)
-   - Quantization process (classical → quantum)
-   - Observer classicalization ability
-   - Wormhole communication mechanism
-   - Quantum fluctuations and universe initial conditions
-   - Relationship between gravity and classicalization efficiency
-
-3. **Observer Level**: Observer attributes and relationships
-   - Observer as black hole unified model
-   - Observer dimension definition and mechanism
-   - Generalized consciousness definition and structure
-   - Information transfer between observers
-   - Black hole absorption and radiation mechanisms
-   - Relationship between spacetime and observer classicalization
-
-4. **Application Level**: Application of the theory in specific fields
-   - Physics explanations (quantum phenomena, black hole information paradox, light speed constancy, etc.)
-   - Consciousness science applications (nature of consciousness, subjective experience, etc.)
-   - Philosophical implications (free will, nature of destiny, etc.)
-   - Practical guidance (dimension elevation methods, etc.)
-   - Artificial intelligence and classicalization path optimization
-   - Quantum computing and quantum-classical interface
-
-### Mathematical Foundation
-
-The mathematical foundation of Quantum-Classical Dualism includes:
-
-1. **Quantum Mechanics Mathematical Framework**: Used to describe the wave function superposition state of the quantum domain
-2. **Information Theory Mathematical Framework**: Used to describe the relationship between classical knowledge and classical entropy
-3. **Black Hole Thermodynamics Mathematical Framework**: Used to describe the observer black hole model
-4. **Dimension Theory Mathematical Framework**: Used to describe observer dimension attributes
-5. **Entangled State Mathematical Description**: Used to describe quantum entanglement relationships
-6. **Conservation Equations**: Used to describe information conservation relationships
-7. **Wormhole Communication Mathematical Model**: Used to describe information transfer mechanism between observers
-8. **Gravitational Field Equation Modification**: Connecting gravitational field with classicalization efficiency gradient
-9. **Quantum Energy Density Equations**: Describing the relationship between gravitational field and quantum energy density
-10. **Universe Efficiency Mathematical Model**: Describing the optimization process of quantum energy utilization efficiency
-
-Core mathematical expressions:
-
-$$
-|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
-
-$$
-|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
-$$
-
-$$
-\text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
-
-$$
-\frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
-$$
-
-$$
-|\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
-$$
-
-$$
-E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
-
-$$
-G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu} \propto \nabla^2 k_{\text{Classicalization Efficiency}}
-$$
-
-$$
-f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
-
-### Explanatory Power
-
-Quantum-Classical Dualism provides a unified explanation for the following issues:
-
-1. **Quantum Measurement Problem**: The classicalization process explains the wave function collapse phenomenon
-2. **Wave-Particle Duality**: The limitations of observer classicalization ability lead to wave-particle duality
-3. **Quantum Entanglement**: The essential connection method of information in the quantum domain
-4. **Black Hole Information Paradox**: Information is not lost in black holes, but is transformed through the classicalization process
-5. **Nature of Consciousness**: Generalized consciousness is the overall entangled structure of classical knowledge and classical entropy
-6. **Origin of Free Will**: Originates from random emergence in the quantum domain, realizing optimization of classicalization paths
-7. **Arrow of Time**: Subjective experience defined by the classicalization process indicator
-8. **Constancy of Light Speed**: Expression of the upper limit of observer classicalization ability
-9. **Nature of Gravity**: Gravitational field is the spatial gradient of classicalization efficiency
-10. **Universe Inflation**: Initial lowest-energy classical structure formed by the first classicalization of quantum fluctuations
-11. **Universe Constant Problem**: Rate of change of universe efficiency, reflecting universe evolution trend
-12. **Death and Reincarnation**: Transfer and recombination of subjective consciousness classicalization ability
-13. **Wormhole Communication**: Information transfer mechanism between different classical worlds
-
-### Verifiability
-
-Quantum-Classical Dualism proposes the following verifiable predictions:
-
-1. **Quantum Measurement Experiments**: Observe changes in quantum measurement results by changing the observer's classicalization efficiency
-2. **Consciousness and Black Hole Relationship**: Verify the correlation between consciousness activity and microscopic black hole characteristics
-3. **Observer Dimension Differences**: Measure differences in classicalization efficiency between different observers under the same conditions
-4. **Classicalization Efficiency Improvement**: Verify the impact of specific methods (such as brain-machine interfaces) on classicalization efficiency
-5. **Quantum Entanglement Conditions**: Verify the necessary conditions for quantum entanglement
-6. **Gravity and Classicalization Efficiency**: Verify the relationship between local gravitational field and classicalization efficiency
-7. **Energy and Entanglement Relationship**: Verify energy effects produced by strongly entangled systems
-8. **Information Conservation Verification**: Conservation of total information in the process of information transfer between observers
-9. **Wormhole Communication Experiments**: Design experiments to verify information exchange between different observers through quantum entanglement
-10. **Universe Efficiency Measurement**: Verify the trend of increasing energy efficiency of complex systems over time
-
-### Theoretical Boundaries
-
-Theoretical boundaries of Quantum-Classical Dualism:
-
-1. **Uncertainty Boundary**: Cannot precisely calculate the specific dimension value of individual observers
-2. **Subjectivity Boundary**: Cannot completely objectively measure generalized consciousness
-3. **Mathematical Formalization Boundary**: Some concepts have not yet been completely mathematically formalized
-4. **Application Boundary**: Does not yet cover all physics and philosophy issues
-5. **Verification Boundary**: Some predictions are difficult to verify directly under current technological conditions
-6. **Universe Origin Boundary**: Why the quantum domain exists transcends the category of internal logic
-
-### Philosophical Significance
-
-Philosophical significance of Quantum-Classical Dualism:
-
-1. **Universe Purposefulness**: The universe evolves towards a more efficient classicalization process, optimizing quantum energy efficiency
-2. **Relationship Between Consciousness and Matter**: Consciousness and matter are unified at the information level, mutually defining
-3. **Meaning of Existence**: The meaning of observer existence is to optimize classicalization paths and elevate dimensions
-4. **Unification of Destiny and Free Will**: Destiny and free will are unified in different domains
-5. **Universe Creativity**: Quantum fluctuations are the source of universe life and classical free will
-6. **Ultimate State**: The low entropy ultimate state of the universe is the final trend predicted by the theory
-
-$$
-|\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
-$$
-
-### Future Directions
-
-Future research directions for Quantum-Classical Dualism:
-
-1. **Mathematical Formalization**: Further refine the mathematical expression of the theory
-2. **Experimental Verification**: Design more feasible experiments to verify theoretical predictions
-3. **Cross-disciplinary Integration**: Integrate with more disciplines (such as neuroscience, artificial intelligence, etc.)
-4. **Application Extension**: Apply the theory to a wider range of fields
-5. **Theoretical Deepening**: Deepen the philosophical foundations and implications of the theory
-6. **Technology Development**: Develop technology to improve classicalization efficiency based on the theory (such as brain-machine interfaces)
-7. **Educational Dissemination**: Develop educational resources to promote the dissemination and understanding of the theory
-8. **Wormhole Communication Technology**: Explore information transfer technology applications based on quantum entanglement
-9. **Quantum Computing Optimization**: Optimize quantum decoherence control based on classicalization theory
-10. **Artificial Intelligence and Classicalization Path**: Develop methods for AI to assist observers in improving classicalization efficiency
+$$\frac{dS_C}{dt} \geq 0$$
+
+Systems tend toward maximum entropy states, guaranteed by the phase space volume expansion theorem:
+
+$$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma$$
+
+where $\{z_i\}$ is the set of phase space coordinates.
+
+### Interface Theory Core
+
+The Interface $\mathcal{I}$ is the transition region between the quantum domain and the classical domain, with the following core characteristics:
+
+#### Interface Structure
+
+The interface is the intersection of the quantum domain and the classical domain, defined as:
+
+$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+
+where $\mathcal{D}(x)$ is the decoherence measure function and $\mathcal{D}_c$ is the critical decoherence threshold.
+
+Interface thickness is determined by the decoherence gradient:
+
+$$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-1}$$
+
+#### Classicalization Process
+
+The quantum→classical conversion (classicalization) process is represented through the classicalization super-operator:
+
+$$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
+
+where $P_i$ are projection operators representing specific measurement bases. The process involves three key steps:
+
+1. **Interaction**: The quantum system entangles with the observer through interaction
+   $$|\psi\rangle_{S} \otimes |\phi\rangle_{\mathcal{O}} \rightarrow \sum_i c_i |i\rangle_{S} \otimes |\phi_i\rangle_{\mathcal{O}}$$
+
+2. **Information Selection**: The observer selects specific outcomes from multiple possibilities
+   $$\rho_{S+\mathcal{O}} \rightarrow |i\rangle_{S}\langle i| \otimes |\phi_i\rangle_{\mathcal{O}}\langle \phi_i|$$
+
+3. **Knowledge Formation**: The selected outcome becomes part of the observer's classical knowledge base
+   $$K_C^{\mathcal{O}} \rightarrow K_C^{\mathcal{O}} \cup \{|i\rangle_{S}\}$$
+
+#### Quantization Process
+
+The classical→quantum conversion (quantization) process is represented through the quantization super-operator:
+
+$$\mathcal{Q}(|i\rangle\langle i|) = \sum_j w_{ij} |j\rangle\langle j|$$
+
+where $w_{ij}$ is the transition weight from definite state $i$ to possible state $j$. This process is the inverse of classicalization.
+
+### Observer Theory
+
+Observers play a key role in Quantum-Classical Dualism, with characteristics including:
+
+#### Observer Definition and Structure
+
+An observer is an entity that can perform classicalization and quantization operations:
+
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}$$
+
+The internal structure of an observer includes:
+- Classicalization mechanism (information collection, interpretation, and knowledge formation)
+- Classical knowledge base (storage of definite information)
+- Quantization mechanism (ability to convert knowledge into possibilities)
+
+#### Observer Dimension
+
+Observer dimension is a quantification of classicalization ability:
+
+$$D_{\mathcal{O}} = \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}+\epsilon} \cdot f(\mathcal{E})$$
+
+where $\mathcal{E}$ is a composite function of classicalization efficiency, including:
+- Information processing rate
+- Information integration degree
+- Information classification accuracy
+
+Measurable manifestations of dimension include:
+- Ability to process complex information
+- Decision quality in the face of uncertainty
+- Depth of understanding abstract concepts
+
+#### Observer Network
+
+Multiple observers form interconnected networks, creating collective cognition through shared classical domains:
+
+$$\mathcal{N} = \{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n, \mathcal{L}\}$$
+
+where $\mathcal{L}$ is the connection structure between observers. Network characteristics include:
+- Collective processing and distribution of information
+- Formation of multi-level cognitive structures
+- Creation and maintenance of shared reality

@@ -2,9 +2,9 @@
 
 版本：35.0
 
-**[返回核心理论](formal_theory.md) | [English Version](formal_theory_basic_en.md)**
+**[返回核心理论](../../core/formal/formal_theory.md) | [English Version](../../../en/basic/formal/formal_theory_basic_en.md)**
 
-> 本文档基于[核心理论](core.md) v27.0版本
+> 本文档基于[核心理论](../../core/natural/core.md) v35.0版本
 
 ## 本文内部导航
 - [量子域基本定义](#量子域基本定义)

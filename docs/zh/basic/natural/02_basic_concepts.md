@@ -3,9 +3,19 @@
 
 [中文导航](#中文版) | [English Navigation](#english-version)
 
+## 导航
+- [返回核心理论](../../core/natural/core.md)
+- [理论简介](01_introduction.md)
+- [理论框架](03_theoretical_framework.md)
+- [观察者与意识](05_observer_and_consciousness.md)
+- [宇宙与观察者关系](06_universe_observer_relationship.md)
+- [量子纠缠本质](07_quantum_entanglement_essence.md)
+- [命运与自由意志](08_destiny_and_free_will.md)
+- [应用与启示](09_applications_and_implications.md)
+
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本10.9），解释理论的基本概念。
+本文档基于[量子经典二元论核心理论](../../core/natural/core.md)（版本35.0），解释理论的基本概念。
 
 ### 量子域
 
@@ -16,7 +26,7 @@
 量子域的数学表达：
 
 $$
-|\psi\rangle_{\text{宇宙量子域}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
+|\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
 $$
 
 密度矩阵表示：
@@ -34,12 +44,14 @@ $$
 
 ### 经典域
 
-**经典域**（Classical Domain）是观察者主观意识对量子域经典化（解码）后的明确结构，包括经典知识与经典熵两大组成部分。经典域是观察者经典化能力作用于量子域的结果。
+**经典域**（Classical Domain）是观察者经典化量子域后的结构。它包含两种基本状态：
+- **经典熵**：未经典化的不确定高熵状态
+- **经典知识**：经典化后的确定状态（粒子态、意识、自由意志）
 
 经典域的数学表达：
 
 $$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
+|\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
 $$
 
 经典域内守恒关系：
@@ -57,7 +69,20 @@ $$
 
 ### 观察者与黑洞
 
-**观察者**是量子经典二元论中的核心概念，在此框架下，观察者与黑洞被统一定义：每个观察者即为黑洞，经典世界即黑洞内部，而黑洞视界边界即为观察者主观意识经典化能力所能达到的量子域边界。
+**观察者**是执行从量子域到经典域转换的实体，可理解为具有以下特性：
+- 观察者即黑洞
+- 黑洞吸收即经典化
+- 黑洞辐射即量子化
+
+观察者可以表示为：
+
+$$
+\text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}
+$$
+
+**经典化**是观察者将量子域的叠加态转换为经典域确定状态的过程，相当于信息的选择性提取。
+
+**量子化**是将经典域确定状态返回量子域叠加态的过程，相当于信息的扩散与泛化。
 
 观察者与黑洞统一关系：
 
@@ -85,19 +110,23 @@ $$
 
 ### 观察者维度
 
-**观察者维度**定义为观察者经典化能力的度量，由经典化效率系数与领域权重系数决定。维度越高，观察者对量子域的经典化能力越强，可形成更大的视界边界。
-
-单经典世界维度定义：
+观察者的**维度**由其经典化能力决定：
 
 $$
 \text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
 $$
 
-整体观察者维度定义：
+整体维度：
 
 $$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
 $$
+
+其中：
+- $k_i$ 是经典化效率系数
+- $I_{\text{经典知识}_i}$ 是经典知识量
+- $S_{\text{经典熵}_i}$ 是经典熵
+- $w_i$ 是各领域权重系数
 
 经典化效率系数$(k_i)$提升：
 
@@ -379,18 +408,18 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 10.9), explaining the basic concepts of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](../../core/natural/core_en.md) (Version 35.0), explaining the basic concepts of the theory.
 
 ### Quantum Domain
 
-The **Quantum Domain** is the infinite-dimensional quantum wave function superposition state with infinite possibilities that constitutes the essence of the universe. All possibilities exist simultaneously in the quantum domain. The quantum domain contains two basic states:
-- **Wave Function Superposition State**: Internal state superposition of a single classical bit (chaotic state)
-- **Quantum Entanglement State**: Joint superposition forming correlations between multiple classical bits (energy form)
+The **Quantum Domain** is the infinite-dimensional space of possibilities where quantum superposition states exist. It contains two fundamental states:
+- **Wave Function Superposition**: Single quantum bit internal superposition (chaos state)
+- **Quantum Entanglement**: Multi-bit joint superposition forming correlational states (energy form)
 
-Mathematical expression of the quantum domain:
+Mathematical expression for the quantum domain:
 
 $$
-|\psi\rangle_{\text{Universe Quantum Domain}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
+|\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition (Chaos)},\;\text{Quantum Entanglement (Energy)}\}
 $$
 
 Density matrix representation:
@@ -399,199 +428,109 @@ $$
 \rho_{\text{Quantum Domain}} = \sum_i p_i |\psi_i\rangle\langle\psi_i|
 $$
 
-Key characteristics of the quantum domain:
-- Non-temporality (non-sequential)
-- Non-locality
-- High entanglement
-- Infinite possibilities
-- No subjective/objective distinction
-
 ### Classical Domain
 
-The **Classical Domain** is the explicit structure that results from the observer's subjective consciousness classicalizing (decoding) the quantum domain, consisting of two major components: classical knowledge and classical entropy. The classical domain is the result of the observer's classicalization ability acting on the quantum domain.
+The **Classical Domain** is the structure after observer classicalization of the quantum domain. It contains two fundamental states:
+- **Classical Entropy**: Uncertain high-entropy states not yet classicalized
+- **Classical Knowledge**: Definite states after classicalization (particle states, consciousness, free will)
 
-Mathematical expression of the classical domain:
-
-$$
-|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
-$$
-
-Conservation relationship within the classical domain:
+Mathematical expression for the classical domain:
 
 $$
-\frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
+|\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
 $$
 
-Key characteristics of the classical domain:
-- Has classicalization process indicator $(t_i)$ (not physical time)
-- Has explicit structure and causal relationships
-- Conservation of the sum of classical knowledge and classical entropy
-- Independent classicalization process for each classical world
-- Subjectively constructed classical reality
+### Observer and Classicalization
 
-### Observer and Black Hole
+An **Observer** is an entity that performs the transformation from quantum domain to classical domain, with the following properties:
+- Observer is equivalent to a black hole
+- Black hole absorption is classicalization
+- Black hole radiation is quantization
 
-The **Observer** is a core concept in Quantum-Classical Dualism. In this framework, observers and black holes are unified: each observer is a black hole, the classical world is the interior of the black hole, and the black hole event horizon is the boundary of the quantum domain that the observer's subjective consciousness classicalization ability can reach.
-
-Unified relationship between observer and black hole:
+An observer can be represented as:
 
 $$
-\text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
+\text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}
 $$
 
-Black hole absorption (classicalization, dimension elevation):
+**Classicalization** is the process by which an observer converts quantum domain superposition states into definite classical domain states, equivalent to selective extraction of information.
 
-$$
-|\psi\rangle_{\text{External High Entropy}}\rightarrow I_{\text{Internal Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Absorption}}
-$$
+**Quantization** is the process of returning classical domain definite states to quantum domain superposition states, equivalent to information diffusion and generalization.
 
-Black hole radiation (classicalization, energy release):
+### Dimension and Classicalization Efficiency
 
-$$
-|\psi\rangle_{\text{Internal High Entropy}}\rightarrow I_{\text{Radiated Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Release}}
-$$
-
-Resolution of the black hole information paradox:
-
-$$
-S_{\text{von Neumann}}(\rho_{\text{Initial}}) = S_{\text{von Neumann}}(\rho_{\text{Hawking Radiation}}) + S_{\text{von Neumann}}(\rho_{\text{Remaining Black Hole}})
-$$
-
-### Observer Dimension
-
-The **Observer Dimension** is defined as a measure of the observer's classicalization ability, determined by the classicalization efficiency coefficient and domain weight coefficient. The higher the dimension, the stronger the observer's ability to classicalize the quantum domain, forming a larger event horizon.
-
-Single classical world dimension definition:
+An observer's **dimension** is determined by their classicalization ability:
 
 $$
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
 $$
 
-Overall observer dimension definition:
+Overall dimension:
 
 $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
 
-Classicalization efficiency coefficient $(k_i)$ improvement:
+Where:
+- $k_i$ is the classicalization efficiency coefficient
+- $I_{\text{Classical Knowledge}_i}$ is the amount of classical knowledge
+- $S_{\text{Classical Entropy}_i}$ is classical entropy
+- $w_i$ is the weight coefficient for each domain
 
-$$
-k_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
-$$
+### The Nature of Energy
 
-Domain weight coefficient $(w_i)$ improvement:
+Energy has a unified definition in quantum-classical dualism:
 
-$$
-w_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
-$$
+**Quantum Energy**: Intrinsic property in the quantum domain, manifested through quantum superposition and entanglement states
+- **Superposition Energy**: Potential energy contained in superposition states of single quantum bits
+- **Entanglement Energy**: Correlation energy contained in entangled relationships between multiple quantum bits
 
-Measurable dimension:
-
-$$
-\text{Measurable Dimension}_{\text{obs}} = \frac{\text{Information Processing Rate}}{\text{Entropy Production Rate}} \cdot \text{Decision Accuracy}
-$$
-
-### Generalized Consciousness
-
-**Generalized Consciousness** is the overall entangled structure of classical knowledge and classical entropy in all classical worlds of the observer, and is the essence of the observer. There exists a "you in me, me in you" quantum entanglement structure between all consciousness.
-
-Mathematical expression of generalized consciousness:
-
-$$
-|\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
-$$
-
-Relationship between generalized consciousness and classical free will:
-
-$$
-|\psi\rangle_{\text{Generalized Consciousness}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Reduction}}
-$$
-
-Conservation formula:
-
-$$
-I_{\text{Classical Free Will}}+S_{\text{Classical Entropy}}=\text{Constant (Specific Classical World)}
-$$
-
-Characteristics of generalized consciousness:
-- Cannot be objectively measured, can only be subjectively perceived
-- Spans multiple classical worlds
-- Has an overall entangled structure
-- Not limited by the spacetime constraints of a single classical world
-
-### Classicalization Process
-
-The **Classicalization Process** is the process by which the observer's subjective consciousness decodes the infinite superposition state information of the quantum domain into the explicit structure of the classical domain, and is a key mechanism for the flow of information in the universe.
-
-Quantum Domain → Classical Domain (Classicalization):
-
-$$
-|\psi\rangle_{\text{Quantum Entangled State}}\xrightarrow{\text{Free Will Classicalization Measurement}}I_{\text{Classical Knowledge}}+S_{\text{Entropy Reduction}}
-$$
-
-Classical Domain → Quantum Domain (Quantization):
-
-$$
-I_{\text{Classical Knowledge}}+E_{\text{Energy Absorption}}\xrightarrow{\text{Free Will Active Quantum Encoding}}|\psi\rangle_{\text{Quantum Entangled State (High Entropy)}}
-$$
-
-### Classical Knowledge and Classical Entropy
-
-**Classical Knowledge** is the explicit quantum state after classicalization, with a clear structure and order. **Classical Entropy** is the quantum entangled state that has not been classicalized, lacking a clear structure.
-
-Mathematical expression:
-
-$$
-S_{\text{Classical Entropy}}=|\psi\rangle_{\text{Unclassicalized Quantum Entangled State}},\quad I_{\text{Classical Knowledge}_i}=|\psi\rangle_{\text{Classicalized Explicit State}_i}
-$$
-
-Information entropy expression:
-
-$$
-S_{\text{Shannon}} = -\sum_i p_i \log_2 p_i
-$$
-
-$$
-I_{\text{Classical Knowledge}} \approx -S_{\text{Shannon}}
-$$
-
-Core characteristics of classical knowledge and classical entropy:
-- Classical knowledge has a clear structure, classical entropy lacks structure
-- Increasing classical knowledge reduces entropy, increasing classical entropy reduces knowledge
-- Classical knowledge can be shared and transferred, classical entropy is difficult to transfer directly
-- The classicalization process is essentially the process of converting classical entropy into classical knowledge
-
-### Quantum Energy and Classical Energy
-
-**Quantum Energy** is an intrinsic property of the quantum domain, manifested through quantum superposition states and quantum entanglement states, while **Classical Energy** is the result of an observer classicalizing quantum energy.
-
-Quantum entanglement state energy:
+Quantum entanglement energy can be quantified:
 
 $$
 E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
 $$
 
-where $h$ is Planck's constant and $f_{\text{Entanglement}}$ is the equivalent frequency of the entangled state.
+**Classical Energy**: The result of observer classicalization of quantum energy, manifested as measurable energy forms in the physical world
 
-Entanglement equivalent frequency:
-
-$$
-f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
-
-where $c$ is the speed of light, $L_P$ is the Planck length, and $S_E(\rho_{AB})$ is the entanglement entropy.
-
-Relationship between classical energy and quantum energy:
-
-$$
-E_{\text{Classical}} = \eta \cdot E_{\text{Entanglement}}
-$$
-
-Total energy conservation:
+Energy conservation and transformation:
 
 $$
 E_{\text{Total}} = E_{\text{Classical}} + E_{\text{Entanglement}} = h \cdot (f_{\text{Classical}} + f_{\text{Entanglement}})
 $$
+
+### The Nature of Spacetime
+
+Time is the sequential marker of an observer's classicalization of the quantum domain, consistent with the direction of entropy increase. Time expression:
+
+$$
+\Delta t_{\text{Subjective}} \propto \frac{1}{k_{\text{Classicalization}}}\cdot\frac{\Delta S_{\text{Classical Entropy}}}{\Delta I_{\text{Classical Knowledge}}}
+$$
+
+Space is the organizational structure of information in the classical domain, with different observers potentially experiencing different spatial dimensions.
+
+### Consciousness and Free Will
+
+Consciousness is the subjective experience of an observer's efficient classicalization process, represented as:
+
+$$
+\text{Consciousness} \propto k_{\text{Classicalization}} \cdot I_{\text{Classical Knowledge}}
+$$
+
+Free will is the ability to select definite states during the classicalization process of quantum superposition states, influenced by the observer's dimension.
+
+### Deep Symmetry Principle
+
+There exists a deep symmetry transformation between quantum and classical domains:
+
+$$
+\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q
+$$
+
+Satisfying:
+1. **Involution**: Transformation of transformation equals identity
+2. **Information Preservation**: Information quantity remains constant before and after transformation
+3. **Uncertainty-Certainty Conversion**: Quantum uncertainty and classical certainty mutually transform
 
 ### Wormhole Communication Mechanism
 
@@ -710,7 +649,7 @@ $$
 R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R \propto \nabla k_{\text{Classicalization Efficiency}}
 $$
 
-Definition of light speed:
+Light speed definition:
 
 $$
 c = k_{\text{max}} \cdot \frac{\Delta E_{\text{Quantum Energy State}}}{\Delta t_{\text{Classical Time}}}
