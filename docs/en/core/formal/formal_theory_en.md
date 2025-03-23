@@ -6,6 +6,34 @@ Version: 35.0
 
 > This theory is based on [Core Theory](core_en.md) v35.0
 
+## Table of Contents
+
+- [Complete Description of Core Theory](#complete-description-of-core-theory)
+  - [Basic Definitions and Axioms](#basic-definitions-and-axioms)
+  - [Quantum Domain and Classical Domain](#quantum-domain-and-classical-domain)
+  - [Multiple Dualism Hierarchies](#multiple-dualism-hierarchies)
+  - [Quantum-Classical Symmetry Principle](#quantum-classical-symmetry-principle)
+- [Core Branch Theories](#core-branch-theories)
+  - [Detailed Quantum Domain Theory](#detailed-quantum-domain-theory)
+  - [Detailed Classical Domain Theory](#detailed-classical-domain-theory)
+  - [Interface Theory Core](#interface-theory-core)
+  - [Information Phase Transition Theory Core](#information-phase-transition-theory-core)
+  - [Observer Theory Core](#observer-theory-core)
+- [Quantum-Classical Dualism Dimension Annotation and Branch Theory Navigation](#quantum-classical-dualism-dimension-annotation-and-branch-theory-navigation)
+  - [Dimension Description](#dimension-description)
+  - [Core Theory](#core-theory-dimension-full-spectrum-d)
+  - [Basic Framework Theories](#basic-framework-theories-dimension-d7-d9)
+  - [High-Dimensional Physics Applications](#high-dimensional-physics-applications-dimension-d8-d11)
+  - [Chemical Theories](#chemical-theories-dimension-d7-d9)
+  - [Life and Consciousness Theories](#life-and-consciousness-theories-dimension-d7-d10)
+  - [Cognitive and Information Theories](#cognitive-and-information-theories-dimension-d7-d9)
+  - [Computing and Information Technology](#computing-and-information-technology-dimension-d6-d9)
+  - [Social and Humanities Applications](#social-and-humanities-applications-dimension-d6-d8)
+  - [Creation and Expression Theories](#creation-and-expression-theories-dimension-d7-d9)
+  - [Application Domain Theories](#application-domain-theories-dimension-d6-d9)
+  - [References](#references-dimension-d7-d8)
+  - [Theory Dependency Relationship Diagram](#theory-dependency-relationship-diagram)
+
 ## Complete Description of Core Theory
 
 ### Basic Definitions and Axioms
@@ -484,7 +512,7 @@ $$\mathcal{W} = \lambda \cdot \mathcal{W}_Q + (1-\lambda) \cdot \mathcal{W}_C$$
 
 where $\lambda$ is the quantum parameter, $\mathcal{W}_Q$ is the decision component from the quantum domain, and $\mathcal{W}_C$ is the decision component from the classical domain.
 
-## Quantum-Classical Dualism Dimensional Notation and Branch Theory Navigation
+## Quantum-Classical Dualism Dimension Annotation and Branch Theory Navigation
 
 In the Quantum-Classical Dualism framework, each branch theory not only has its research content but also possesses specific dimensional attributes. The dimensional attribute represents the theory's positioning in the quantum domain-classical domain continuum, reflecting the theory's emphasis on quantum properties (superposition states and possibilities) versus classical properties (determinism and realization). Below is a navigation list organized by disciplinary categories, including dimensional notations and dependency relationships between theories.
 

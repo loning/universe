@@ -12,7 +12,7 @@
 │   │   │   └── references/   # 参考文献目录
 │   │   │       └── religions/ # 宗教参考文献 版本 1.0
 │   │   └── formal/            # 形式化描述
-│   │       └── formal_theory.md # 形式化理论 版本 35.0 无导航
+│   │       └── formal_theory.md # 形式化理论 版本 35.0 有导航
 │   │
 │   ├── shared/                # 共享资源
 │   │   ├── data/             # 数据资源
@@ -171,12 +171,12 @@
 │       │       ├── quantum_entanglement_essence_visualization.md # 量子纠缠本质可视化 版本 1.0 无导航
 │       │       └── universe_structure_visualization.md # 宇宙结构可视化 版本 1.0 无导航
 │       └── formal/            # 形式化描述
-│           └── formal_theory_practice.md # 实践应用形式化 版本 1.0 无导航
+│           └── formal_theory_practice.md # 实践应用形式化 版本 35.0 有导航
 │
 └── en/                         # 英文版
     ├── core/                   # 核心理论
     │   ├── formal/            # 形式化理论
-    │   │   ├── formal_theory_en.md                           # 形式化理论总论 版本 31.0 无导航
+    │   │   ├── formal_theory_en.md                           # 形式化理论总论 版本 31.0 有导航
     │   │   ├── formal_theory_aesthetics_en.md                # 美学形式化理论 版本 1.0 无导航
     │   │   ├── formal_theory_art_en.md                      # 艺术形式化理论 版本 1.0 无导航
     │   │   ├── formal_theory_artificial_intelligence_en.md   # 人工智能形式化理论 版本 1.0 无导航
@@ -185,4 +185,7 @@
     │   └── natural/           # 自然语言描述
     │       └── core_en.md     # 核心理论自然语言描述 版本 31.0 无导航
     └── shared/                # 共享资源
-        └── data/             # 数据资源 
+        └── data/             # 数据资源
+    └── practice/               # 实践应用
+        └── formal/            # 形式化描述
+            └── formal_theory_practice_en.md # 实践应用形式化 版本 35.0 有导航 
