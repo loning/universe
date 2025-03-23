@@ -40,8 +40,8 @@
 │   │   │   ├── 05_observer_and_consciousness.md # 观察者与意识 版本 35.0 有导航
 │   │   │   ├── 06_universe_observer_relationship.md # 宇宙与观察者关系 版本 35.0 有导航
 │   │   │   ├── 07_quantum_entanglement_essence.md # 量子纠缠本质 版本 35.0 有导航
-│   │   │   ├── 08_destiny_and_free_will.md # 命运与自由意志 版本 1.0 无导航
-│   │   │   └── 09_applications_and_implications.md # 应用与启示 版本 1.0 无导航
+│   │   │   ├── 08_destiny_and_free_will.md # 命运与自由意志 版本 35.0 有导航
+│   │   │   └── 09_applications_and_implications.md # 应用与启示 版本 35.0 有导航
 │   │   └── formal/            # 形式化描述
 │   │       └── formal_theory_basic.md # 基础概念形式化 版本 35.0 有导航
 │   │
