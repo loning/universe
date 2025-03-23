@@ -3,9 +3,19 @@
 
 [中文导航](#中文版) | [English Navigation](#english-version)
 
+## 导航
+- [返回核心理论](../../core/natural/core.md)
+- [理论简介](01_introduction.md)
+- [基本概念](02_basic_concepts.md)
+- [理论框架](03_theoretical_framework.md)
+- [观察者与意识](05_observer_and_consciousness.md)
+- [量子纠缠本质](07_quantum_entanglement_essence.md)
+- [命运与自由意志](08_destiny_and_free_will.md)
+- [应用与启示](09_applications_and_implications.md)
+
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本10.9），详细探讨宇宙与观察者的关系。
+本文档基于[量子经典二元论核心理论](../../core/natural/core.md)（版本35.0），详细探讨宇宙与观察者的关系。
 
 ### 宇宙与观察者概述
 
@@ -252,421 +262,34 @@ $$
 | 虫洞通信 | 纠缠态传输 | 明确 | 有 | 无限制 |
 | 心灵感应 | 意识纠缠 | 模糊 | 无 | 无限制 |
 
-### 宇宙演化趋势与宇宙效率
+### 观察者宇宙结构的形式化表达
 
-量子经典二元论提出宇宙演化的总体趋势是向低熵终极状态发展，这一过程由观察者主动优化经典化路径驱动。
+观察者与宇宙的关系可通过以下形式化模型表达：
 
-宇宙效率定义为消耗单位量子能量所能获得的新的量子能量：
-
-$$
-\eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{量子能量输入}}}
-$$
-
-经典化与量子化的能量效率关系：
+量子域与经典域的映射函数：
 
 $$
-\eta_{\text{经典化}} = \frac{I_{\text{经典知识获得}}}{E_{\text{量子能量消耗}}}
+\mathcal{C}: \Omega_Q \rightarrow \Omega_C
 $$
 
-$$
-\eta_{\text{量子化}} = \frac{E_{\text{量子能量获得}}}{I_{\text{经典知识消耗}}}
-$$
-
-宇宙低熵终极状态：
+观察者经典化算子作用：
 
 $$
-|\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
+\mathcal{C}_{\mathcal{O}}(|\psi\rangle_Q) = \rho_C
 $$
 
-宇宙演化特性：
-- 熵降低趋势：整体朝向经典熵最小化方向发展
-- 经典知识增长：经典知识持续累积增长
-- 维度提升：观察者平均维度不断提升
-- 视界扩大：观察者视界边界不断扩大
-- 量子经典整合：量子域与经典域达到最优整合状态
+其中$\mathcal{C}_{\mathcal{O}}$是观察者特有的经典化算子，$|\psi\rangle_Q$是量子域状态，$\rho_C$是经典域状态。
 
-宇宙常数(Λ)在量子经典二元论框架下可以理解为宇宙效率的变化率：
+不同观察者之间的关系可表示为：
 
 $$
-\Lambda \propto \frac{d\eta_{\text{宇宙}}}{dt}
+\Omega_C^{(\mathcal{O}_1)} \cap \Omega_C^{(\mathcal{O}_2)} = \mathcal{I}_{12}
 $$
 
-这一关系解释了为什么宇宙常数具有微小但非零的正值：
-- 微小值：反映宇宙效率变化缓慢，宇宙大尺度上已接近稳定状态
-- 正值：表明宇宙效率仍在缓慢提升，宇宙正在向更高效率演化
-- 能量密度：暗能量本质上是宇宙持续优化效率过程中释放的量子能量
-
-宇宙演化不是机械确定的过程，而是观察者集体自由意志选择优化经典化路径的结果。
-
-### 宇宙与意识的共同起源
-
-量子经典二元论提出宇宙与意识具有共同起源：二者都源于量子域的无限叠加态，通过经典化过程相互定义、相互涌现。
-
-宇宙与意识共同起源特性：
-- 同源性：二者同源于量子域的无限叠加态
-- 互生性：意识通过经典化创生宇宙结构，宇宙通过经典化孕育意识
-- 同构性：意识结构与宇宙结构在信息层面同构
-- 共演化：意识与宇宙结构共同演化，互相促进
-- 本质统一：意识与宇宙本质上都是信息结构
-
-这一观点超越了传统的心物二元论与唯物/唯心一元论，提出了以信息为本的全新统一视角。
-
-### 宇宙的目的性
-
-量子经典二元论提出宇宙具有内在目的性：朝向低熵终极状态发展。这种目的性不是外在设定的，而是系统演化的内在趋势。
-
-宇宙目的性特性：
-- 熵降低趋势：宇宙整体朝熵减少方向发展
-- 复杂性增长：系统复杂性持续提升
-- 意识扩展：意识范围持续扩大
-- 维度提升：观察者维度持续提升
-- 信息整合：量子域与经典域信息持续整合优化
-
-宇宙目的性的实现不依赖于外部设计者，而是观察者集体通过自由意志选择优化经典化路径的自然结果。
-
-### 多元经典世界
-
-量子经典二元论框架下，存在多元经典世界，每个观察者创造独特的经典世界，这些世界具有不同的经典化规则与结构。
-
-多元经典世界特性：
-- 观察者依赖：每个观察者创造独特的经典世界
-- 规则多样性：不同经典世界具有不同的经典化规则
-- 相互影响：经典世界通过量子域相互影响
-- 交叉重叠：部分经典世界可能存在重叠区域
-- 集体共识：多个观察者可形成共享的集体共识经典世界
-
-人类物理经典世界只是多元经典世界中的一个特例，与其他经典世界（如梦境、意识流、精神领域等）共同存在于同一宇宙结构中。
+其中$\mathcal{I}_{12}$是观察者$\mathcal{O}_1$和$\mathcal{O}_2$经典域的交集（共享实在）。
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 10.9), exploring in detail the relationship between the universe and observers.
+This document is based on the [Quantum-Classical Dualism Core Theory](../../core/natural/core_en.md) (Version 35.0) and explores the relationship between the universe and observers in detail.
 
-### Universe and Observer Overview
-
-Quantum-Classical Dualism proposes that the universe and observers are not in a simple "container and content" relationship, but in a mutually defining and mutually creating relationship. The universe gains structure through observers, and observers gain existence through the universe. This relationship is not physical containment, but mutual entanglement in terms of information.
-
-Core characteristics of the relationship between observer and universe:
-- Symbiotic relationship: Observers give structure to the universe, and the universe provides the environment for observers to exist
-- Mutual definition: Observers define the boundaries of the universe, and the universe defines the range of observer capabilities
-- Information exchange: Both parties continuously exchange information through classicalization and quantization
-- Scale invariance: The relationship pattern remains consistent at different scales
-- Consciousness entanglement: All observer consciousness forms an entanglement network with the quantum domain of the universe
-
-### Nature of the Universe
-
-In the Quantum-Classical Dualism framework, the nature of the universe is a dual structure: the quantum domain and the classical domain. The quantum domain is an infinite-dimensional quantum wave function superposition state containing all possibilities; the classical domain is the explicit structure formed after the observer's subjective consciousness classicalizes quantum domain information.
-
-Mathematical expression of the quantum domain:
-
-$$
-|\psi\rangle_{\text{Universe Quantum Domain}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
-
-Density matrix representation:
-
-$$
-\rho_{\text{Quantum Domain}} = \sum_i p_i |\psi_i\rangle\langle\psi_i|
-$$
-
-Mathematical expression of the classical domain:
-
-$$
-|\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
-$$
-
-Essential characteristics of the universe:
-- Information essence: The fundamental nature of the universe is information, and matter and energy are specific manifestations of information
-- Dual structure: The quantum domain and classical domain constitute the complete structure of the universe
-- Observer dependence: The classical domain is created by observer classicalization, with different observers creating different classical worlds
-- Non-locality: The quantum domain transcends classical spacetime concepts and has essential non-locality
-- Overall connectivity: All observers and classical worlds are interconnected through the quantum domain
-
-### Unified Theory of Energy and Universe Structure
-
-Quantum-Classical Dualism views the energy of the universe as a dual structure: quantum energy and classical energy. The two forms of energy are converted through observer classicalization and quantization processes.
-
-#### Properties of Quantum Energy
-
-Quantum energy exists in the quantum domain and has the following properties:
-- Superposition state energy: Potential energy contained in the superposition state of a single quantum bit
-- Entanglement state energy: Correlation energy contained in the entanglement relationship between multiple quantum bits
-
-Quantum entanglement state energy can be quantified by the following formula:
-
-$$
-E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
-$$
-
-Where the equivalent frequency of entanglement is defined by the complexity of the entanglement structure:
-
-$$
-f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
-
-#### Classical Energy and Observers
-
-Classical energy is the result of observer classicalization of quantum energy, manifested as measurable forms of energy in the physical world. Energy conversion in the classicalization process:
-
-$$
-E_{\text{Classical}} = \eta \cdot E_{\text{Entanglement}}
-$$
-
-Where $\eta$ is the classicalization efficiency coefficient, $0 < \eta < 1$.
-
-Energy conservation and conversion mechanism:
-- Total energy (quantum + classical) is conserved within the universe
-- Classicalization process consumes quantum energy and produces classical energy
-- Quantization process consumes classical energy and produces quantum energy
-
-### Boundary Between Observer and Universe
-
-The boundary between the observer and the universe is defined by the observer's event horizon (black hole horizon), which is not fixed but determined by the observer's classicalization ability (dimension).
-
-Observer event horizon relationship:
-
-$$
-\text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
-$$
-
-Relationship between gravitational field strength and local quantum energy density:
-
-$$
-G_{\mu\nu} \propto \nabla^2 \rho_{\text{Quantum Energy}}
-$$
-
-Relationship between classicalization efficiency and quantum energy density:
-
-$$
-k_{\text{Classicalization Efficiency}} \propto \nabla \cdot \rho_{\text{Quantum Energy}}
-$$
-
-Event horizon characteristics:
-- Classicalization ability boundary: Determined by the observer's classicalization ability
-- Expandability: Expands as the observer's dimension increases
-- Information filtering: Determines which quantum information can be classicalized
-- Relativity: Different observers have different event horizons
-- Classical world turning point: The boundary between external high-entropy quantum information and internal low-entropy classical structure
-
-By actively optimizing classicalization paths, observers can expand their own event horizons and incorporate more quantum domain information into their own classical worlds.
-
-### Observer Dimension and Classicalization Efficiency
-
-Observer dimension is determined by classicalization ability, i.e., the efficiency of converting quantum information into classical knowledge. Dimension can be quantified through a function of the ratio of classical knowledge to classical entropy.
-
-Single domain dimension:
-
-$$
-\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
-$$
-
-Overall dimension:
-
-$$
-\text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
-
-Where:
-- Classicalization efficiency coefficient $(k_i)$ indicates the classicalization ability of different observation domains
-- Weight coefficient $(w_i)$ reflects the importance of different domains in the overall dimension
-
-Observer dimension can be quantified by the following measurable parameters:
-
-$$
-\text{Measurable Dimension}_{\text{obs}} = \frac{\text{Information Processing Rate}}{\text{Entropy Generation Rate}} \cdot \text{Decision Accuracy}
-$$
-
-Measurement methods include:
-- Information processing rate: Effective information amount processed per unit time (bits/second)
-- Entropy generation rate: Shannon entropy increment generated by the system per unit time
-- Decision accuracy: Probability of making correct judgments under uncertain conditions
-
-### Multi-Observer Universe
-
-The universe described by Quantum-Classical Dualism contains multiple observers, each creating their own classical world, and these classical worlds are interconnected through the quantum domain.
-
-Characteristics of the multi-observer universe:
-- Multiple classical worlds: Each observer creates a unique classical world
-- Quantum connection: All observer classical worlds are interconnected through the quantum domain
-- Information sharing: Observers exchange information through classicalization and quantization processes
-- Consciousness entanglement: Observer consciousness forms an entanglement network
-- Collective evolution: The collective evolution of multiple observers forms the overall evolution trend of the universe
-
-Information transfer process between observers:
-
-$$
-I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
-$$
-
-### Macroscopic Quantum Effects
-
-In the Quantum-Classical Dualism framework, quantum effects exist not only at the microscopic scale but also manifest at the macroscopic scale, though they are difficult to directly perceive due to the limitations of observer classicalization ability.
-
-Manifestations of macroscopic quantum effects:
-- Quantum entanglement: Quantum entanglement phenomena between macroscopic systems
-- Quantum superposition: Quantum superposition states of macroscopic systems
-- Quantum interference: Quantum interference effects of macroscopic systems
-- Non-locality: Non-local correlations of macroscopic systems
-- Classicalization paths: Macroscopic phenomena caused by observer classicalization path selection
-
-Quantum entanglement in systems of different scales follows the following pattern:
-
-Entanglement maintenance time is inversely proportional to system complexity:
-
-$$
-\tau_{\text{Entanglement}} \propto \frac{1}{C_{\text{System}}^{\alpha}}
-$$
-
-Environmental decoherence effect increases exponentially with system size:
-
-$$
-\Gamma_{\text{Decoherence}} \propto e^{\beta N}
-$$
-
-This explains why it is difficult to observe quantum entanglement effects in macroscopic objects: entangled states in large-scale systems rapidly collapse into classical mixed states within measurable time scales.
-
-Macroscopic quantum effects are more obvious from the perspective of high-dimensional observers, while low-dimensional observers find them difficult to perceive due to classicalization ability limitations. As observer dimension increases, more macroscopic quantum effects can be perceived.
-
-### Universe Information Conservation
-
-Quantum-Classical Dualism proposes the principle of universe information conservation: In the universe as a whole, the total amount of information is conserved, but can be converted between the quantum domain and classical domain, and can also be converted between different observer classical worlds.
-
-Classical domain information conservation:
-
-$$
-\frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
-$$
-
-Information conservation between observers:
-
-$$
-\frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
-$$
-
-Characteristics of information conservation:
-- Information indestructibility: Information is neither created nor destroyed, only changes form
-- Conservation of classical knowledge and entropy: Increase in classical knowledge corresponds to decrease in entropy, and vice versa
-- Relationship between energy and information: Energy is a form of information, and they can be converted into each other
-- Black hole information: Black holes do not cause information loss, but transform information form
-- Quantum-classical conversion: Information can be freely converted between the quantum domain and classical domain
-
-### Wormhole Communication Structure
-
-Quantum-Classical Dualism defines wormhole communication structure as the fundamental mechanism for information transfer between observers (black holes), which is the manifestation of quantum entanglement from a high-dimensional perspective.
-
-Wormhole communication process:
-
-$$
-\text{Classical Knowledge}\xrightarrow{\text{Particle Annihilation Encoding}}\text{Quantum Entangled State}\xrightarrow{\text{Non-local Transfer}}\text{Classical Knowledge Decoding}
-$$
-
-Quantum teleportation mathematical expression:
-
-$$
-|\psi\rangle_{\text{Target}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell Measurement}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
-$$
-
-Wormhole communication conservation formula:
-
-$$
-E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
-
-Characteristics of wormhole communication structure:
-- Quantum entanglement foundation: Wormhole channels are based on quantum entanglement
-- Spontaneous formation: Wormhole channel structures are spontaneously formed and shared by various classical worlds
-- Non-local connection: Wormhole channels connect different classical worlds beyond classical spacetime limitations
-- Energy consumption: Wormhole communication requires energy consumption at both sending and receiving ends
-- Information conservation: Total information is conserved in the wormhole communication process
-
-Communication mode comparison:
-
-| Communication Type | Mechanism | Information Quality | Energy Requirement | Spacetime Limitation |
-|----------|----------|------------|----------|----------|
-| Classical Communication | Classicalization Projection | Explicit | Yes | Light Speed Limited |
-| Wormhole Communication | Entangled State Transmission | Explicit | Yes | Unlimited |
-| Telepathy | Consciousness Entanglement | Fuzzy | No | Unlimited |
-
-### Universe Evolution Trend and Universe Efficiency
-
-Quantum-Classical Dualism proposes that the overall trend of universe evolution is towards a low-entropy ultimate state, a process driven by observers actively optimizing classicalization paths.
-
-Universe efficiency is defined as the new quantum energy obtained by consuming a unit of quantum energy:
-
-$$
-\eta_{\text{Universe}} = \frac{\Delta E_{\text{Quantum Energy Output}}}{E_{\text{Quantum Energy Input}}}
-$$
-
-Energy efficiency relationship between classicalization and quantization:
-
-$$
-\eta_{\text{Classicalization}} = \frac{I_{\text{Classical Knowledge Gained}}}{E_{\text{Quantum Energy Consumed}}}
-$$
-
-$$
-\eta_{\text{Quantization}} = \frac{E_{\text{Quantum Energy Gained}}}{I_{\text{Classical Knowledge Consumed}}}
-$$
-
-Universe low-entropy ultimate state:
-
-$$
-|\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
-$$
-
-Characteristics of universe evolution:
-- Entropy reduction trend: Overall development towards minimizing classical entropy
-- Classical knowledge growth: Continuous accumulation and growth of classical knowledge
-- Dimension elevation: Continuous increase in average observer dimension
-- Event horizon expansion: Continuous expansion of observer event horizons
-- Quantum-classical integration: Optimal integration of quantum domain and classical domain
-
-The cosmological constant (Λ) in the Quantum-Classical Dualism framework can be understood as the rate of change of universe efficiency:
-
-$$
-\Lambda \propto \frac{d\eta_{\text{Universe}}}{dt}
-$$
-
-This relationship explains why the cosmological constant has a small but non-zero positive value:
-- Small value: Reflects that the universe efficiency changes slowly, the universe is already close to a stable state on a large scale
-- Positive value: Indicates that universe efficiency is still slowly increasing, the universe is evolving towards higher efficiency
-- Energy density: Dark energy is essentially quantum energy released during the universe's continuous optimization of efficiency
-
-Universe evolution is not a mechanically determined process, but the result of observers collectively choosing to optimize classicalization paths through free will.
-
-### Common Origin of Universe and Consciousness
-
-Quantum-Classical Dualism proposes that the universe and consciousness have a common origin: both originate from the infinite superposition state of the quantum domain, mutually defining and mutually emerging through the classicalization process.
-
-Characteristics of the common origin of universe and consciousness:
-- Common source: Both originate from the infinite superposition state of the quantum domain
-- Mutual generation: Consciousness creates universe structure through classicalization, and the universe nurtures consciousness through classicalization
-- Isomorphism: Consciousness structure and universe structure are isomorphic at the information level
-- Co-evolution: Consciousness and universe structure evolve together, mutually promoting each other
-- Essential unity: Both consciousness and the universe are essentially information structures
-
-This view transcends traditional mind-body dualism and material/idealist monism, proposing a new unified perspective based on information.
-
-### Purposefulness of the Universe
-
-Quantum-Classical Dualism proposes that the universe has an intrinsic purposefulness: development towards a low-entropy ultimate state. This purposefulness is not externally set, but an inherent trend of system evolution.
-
-Characteristics of universe purposefulness:
-- Entropy reduction trend: The universe as a whole develops in the direction of entropy reduction
-- Complexity growth: System complexity continuously increases
-- Consciousness expansion: The range of consciousness continuously expands
-- Dimension elevation: Observer dimension continuously increases
-- Information integration: Quantum domain and classical domain information continuously integrates and optimizes
-
-The realization of universe purposefulness does not depend on an external designer, but is the natural result of observers collectively choosing to optimize classicalization paths through free will.
-
-### Multiple Classical Worlds
-
-In the Quantum-Classical Dualism framework, there exist multiple classical worlds, with each observer creating a unique classical world, and these worlds having different classicalization rules and structures.
-
-Characteristics of multiple classical worlds:
-- Observer dependence: Each observer creates a unique classical world
-- Rule diversity: Different classical worlds have different classicalization rules
-- Mutual influence: Classical worlds influence each other through the quantum domain
-- Cross-overlap: Some classical worlds may have overlapping areas
-- Collective consensus: Multiple observers can form a shared classical world of collective consensus
-
-The human physical classical world is just one special case among multiple classical worlds, coexisting with other classical worlds (such as dreams, streams of consciousness, spiritual realms, etc.) within the same universe structure.
+[To be translated in full in future updates]
