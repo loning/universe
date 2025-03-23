@@ -1,0 +1,355 @@
+量子经典二元论项目目录结构 | Quantum-Classical Dualism Project Directory Structure
+
+/docs
+├── zh/                         # 中文版
+│   ├── core/                   # 核心理论
+│   │   ├── natural/           # 自然语言描述
+│   │   │   ├── core.md       # 核心理论自然语言描述 版本 31.0
+│   │   │   ├── unified_theory.md # 统一理论 版本 1.0
+│   │   │   └── universe_structure.md # 宇宙结构 版本 1.0
+│   │   └── formal/            # 形式化描述
+│   │       └── formal_theory.md # 形式化理论 版本 29.0
+│   │
+│   ├── basic/                  # 基础概念
+│   │   ├── natural/           # 自然语言描述
+│   │   │   ├── 01_introduction.md # 理论简介 版本 1.0
+│   │   │   ├── 02_basic_concepts.md # 基本概念 版本 1.0
+│   │   │   ├── 03_theoretical_framework.md # 理论框架 版本 1.0
+│   │   │   ├── 05_observer_and_consciousness.md # 观察者与意识 版本 1.0
+│   │   │   ├── 06_universe_observer_relationship.md # 宇宙与观察者关系 版本 1.0
+│   │   │   ├── 07_quantum_entanglement_essence.md # 量子纠缠本质 版本 1.0
+│   │   │   ├── 08_destiny_and_free_will.md # 命运与自由意志 版本 1.0
+│   │   │   └── 09_applications_and_implications.md # 应用与启示 版本 1.0
+│   │   └── formal/            # 形式化描述
+│   │       └── formal_theory_basic.md # 基础概念形式化 版本 1.0
+│   │
+│   ├── theory/                 # 理论应用
+│   │   ├── natural/           # 自然语言描述
+│   │   │   ├── physics/      # 物理学
+│   │   │   │   └── traditional_physics_explained.md # 传统物理理论解释 版本 1.0
+│   │   │   ├── chemistry/    # 化学
+│   │   │   │   └── chemical_reactions.md # 化学反应解释 版本 1.0
+│   │   │   ├── biology/      # 生物学
+│   │   │   │   ├── biological_explanations.md # 生物学问题解释 版本 1.0
+│   │   │   │   └── biology_explanation.md # 生物学理论解释 版本 1.0
+│   │   │   ├── social/       # 社会科学
+│   │   │   │   └── social_systems.md # 社会系统解释 版本 1.0
+│   │   │   ├── humanities/   # 人文科学
+│   │   │   │   └── human_experience.md # 人类经验解释 版本 1.0
+│   │   │   ├── applied/      # 应用学科
+│   │   │   │   ├── ai/      # 人工智能
+│   │   │   │   │   ├── ai_computation_explanations.md # 人工智能计算解释 版本 1.0
+│   │   │   │   │   └── ai_explanations.md # 人工智能理论解释 版本 1.0
+│   │   │   │   ├── education/ # 教育
+│   │   │   │   │   ├── educational_explanations.md # 教育理论解释 版本 1.0
+│   │   │   │   │   └── education_learning_explanations.md # 学习理论解释 版本 1.0
+│   │   │   │   ├── art/     # 艺术
+│   │   │   │   │   ├── art_aesthetics_explanations.md # 艺术美学解释 版本 1.0
+│   │   │   │   │   └── art_explanation.md # 艺术理论解释 版本 1.0
+│   │   │   │   ├── astrology/ # 占星
+│   │   │   │   │   ├── astrology_explanations.md # 占星理论解释 版本 1.0
+│   │   │   │   │   └── astrology.md # 占星学基础 版本 1.0
+│   │   │   │   ├── architecture/ # 建筑
+│   │   │   │   │   ├── architecture_explanation.md # 建筑理论解释 版本 1.0
+│   │   │   │   │   └── architecture_space_explanations.md # 空间理论解释 版本 1.0
+│   │   │   │   ├── finance/ # 金融
+│   │   │   │   │   └── finance_explanation.md # 金融理论解释 版本 1.0
+│   │   │   │   ├── law/ # 法律
+│   │   │   │   │   └── law_explanation.md # 法律理论解释 版本 1.0
+│   │   │   │   ├── management/ # 管理
+│   │   │   │   │   └── management_explanation.md # 管理理论解释 版本 1.0
+│   │   │   │   ├── marketing/ # 市场营销
+│   │   │   │   │   └── marketing_explanation.md # 市场营销理论解释 版本 1.0
+│   │   │   │   ├── media/ # 媒体
+│   │   │   │   │   └── media_information_explanations.md # 媒体信息理论解释 版本 1.0
+│   │   │   │   ├── music/ # 音乐
+│   │   │   │   │   └── music_explanations.md # 音乐理论解释 版本 1.0
+│   │   │   │   ├── sports/ # 体育
+│   │   │   │   │   └── sports_movement_explanations.md # 运动理论解释 版本 1.0
+│   │   │   │   ├── urban_planning/ # 城市规划
+│   │   │   │   │   └── urban_planning_development_explanations.md # 城市规划发展理论解释 版本 1.0
+│   │   │   │   ├── food/ # 饮食
+│   │   │   │   │   └── cooking_food_explanations.md # 烹饪食物理论解释 版本 1.0
+│   │   │   │   ├── psychology/ # 心理学
+│   │   │   │   │   └── dream_sleep_explanations.md # 梦境睡眠理论解释 版本 1.0
+│   │   │   │   ├── fashion/ # 时尚
+│   │   │   │   │   └── fashion_clothing_explanations.md # 时尚服装理论解释 版本 1.0
+│   │   │   │   └── entertainment/ # 娱乐
+│   │   │   │       └── game_entertainment_explanations.md # 游戏娱乐理论解释 版本 1.0
+│   │   │   ├── sci_fi/       # 科幻分析
+│   │   │   │   └── science_fiction_analysis.md # 科幻作品分析 版本 1.0
+│   │   │   ├── unsolved/     # 未解决问题
+│   │   │   │   ├── mathematics_unsolved_problems.md # 数学未解难题分析 版本 1.0
+│   │   │   │   ├── quantum_measurement_problem.md # 量子测量问题 版本 1.0
+│   │   │   │   ├── quantum_nonlocality.md # 量子非局域性 版本 1.0
+│   │   │   │   ├── consciousness_hard_problem.md # 意识产生的硬问题 版本 1.0
+│   │   │   │   ├── mind_body_problem.md # 心身问题 版本 1.0
+│   │   │   │   ├── free_will_determinism.md # 自由意志与决定论 版本 1.0
+│   │   │   │   ├── artificial_consciousness.md # 人工意识 版本 1.0
+│   │   │   │   ├── collective_consciousness.md # 集体意识 版本 1.0
+│   │   │   │   ├── black_hole_information_paradox.md # 黑洞信息悖论 版本 1.0
+│   │   │   │   ├── arrow_of_time.md # 时间箭头 版本 1.0
+│   │   │   │   ├── anthropic_principle.md # 人择原理 版本 1.0
+│   │   │   │   ├── fermi_paradox.md # 费米悖论 版本 1.0
+│   │   │   │   ├── origin_of_life.md # 生命起源 版本 1.0
+│   │   │   │   ├── origin_of_language.md # 语言起源 版本 1.0
+│   │   │   │   ├── origin_of_cooperation.md # 合作起源 版本 1.0
+│   │   │   │   ├── nature_of_aesthetics.md # 美学本质 版本 1.0
+│   │   │   │   ├── meaning_value_problem.md # 意义与价值问题 版本 1.0
+│   │   │   │   ├── p_vs_np.md # P vs NP问题 版本 1.0
+│   │   │   │   ├── unexplained_phenomena.md # 未解释现象 版本 1.0
+│   │   │   │   ├── unsolved_problems_formal_solutions.md # 未解问题形式化解决方案 版本 1.0
+│   │   │   │   └── README.md # 目录说明 版本 1.0
+│   │   │   └── future/       # 未来研究方向
+│   │   │       ├── consciousness/ # 意识研究
+│   │   │       │   └── consciousness_research.md # 意识研究展望 版本 1.0
+│   │   │       ├── entanglement/ # 纠缠理论
+│   │   │       │   └── entanglement_research.md # 纠缠理论研究展望 版本 1.0
+│   │   │       ├── visualization/ # 可视化
+│   │   │       │   ├── core_concepts.md # 核心概念可视化 版本 1.0
+│   │   │       │   ├── classicalization_process_visualization.md # 经典化过程可视化 版本 1.0
+│   │   │       │   ├── destiny_free_will_visualization.md # 命运与自由意志可视化 版本 1.0
+│   │   │       │   ├── observer_perception_visualization.md # 观察者感知可视化 版本 1.0
+│   │   │       │   ├── quantum_consciousness_visualization.md # 量子意识可视化 版本 1.0
+│   │   │       │   ├── quantum_entanglement_essence_visualization.md # 量子纠缠本质可视化 版本 1.0
+│   │   │       │   ├── universe_structure_visualization.md # 宇宙结构可视化 版本 1.0
+│   │   │       │   └── README.md # 目录说明 版本 1.0
+│   │   │       ├── medical/      # 医学应用
+│   │   │       │   ├── medicine_explanation.md # 医学视角下的量子经典二元论 版本 1.0
+│   │   │       │   ├── medicine_health_explanations.md # 医疗健康解释 版本 1.0
+│   │   │       │   └── pharmacy_explanation.md # 药学解释 版本 1.0
+│   │   │       ├── environment/  # 环境应用
+│   │   │       │   ├── environmental_explanations.md # 环境科学问题解释 版本 1.0
+│   │   │       │   └── environment_ecology_explanations.md # 环境生态学解释 版本 1.0
+│   │   │       └── mathematics/  # 数学应用
+│   │   │           ├── mathematics_explanation.md # 数学视角下的量子经典二元论 版本 1.0
+│   │   │           └── mathematics_nature_explanations.md # 数学本质解释 版本 1.0
+│   │   └── formal/            # 形式化描述
+│   │       └── formal_theory_applications.md # 理论应用形式化 版本 1.0
+│   │
+│   ├── practice/               # 实践应用
+│   │   ├── natural/           # 自然语言描述
+│   │   │   ├── observer/     # 观察者理论
+│   │   │   │   └── observer_practice.md # 观察者实践指南 版本 1.0
+│   │   │   ├── quantum/      # 量子计算
+│   │   │   │   └── quantum_computing_practice.md # 量子计算实践 版本 1.0
+│   │   │   ├── medical/      # 医学应用
+│   │   │   │   └── medical_applications.md # 医学应用实践 版本 1.0
+│   │   │   ├── education/    # 教育应用
+│   │   │   │   └── educational_practices.md # 教育实践指南 版本 1.0
+│   │   │   ├── leadership/   # 领导力应用
+│   │   │   │   └── leadership_practices.md # 领导力实践指南 版本 1.0
+│   │   │   ├── innovation/   # 创新应用
+│   │   │   │   └── innovation_practices.md # 创新实践指南 版本 1.0
+│   │   │   ├── economics/    # 经济应用
+│   │   │   │   └── economic_applications.md # 经济应用实践 版本 1.0
+│   │   │   ├── environment/  # 环境应用
+│   │   │   │   └── environmental_practices.md # 环境实践指南 版本 1.0
+│   │   │   ├── relationships/ # 关系应用
+│   │   │   │   └── relationship_practices.md # 关系实践指南 版本 1.0
+│   │   │   ├── social/       # 社会应用
+│   │   │   │   └── social_practices.md # 社会实践指南 版本 1.0
+│   │   │   └── figures/      # 重要人物
+│   │   │       ├── economists/ # 经济学家
+│   │   │       │   ├── adam_smith.md # 亚当·斯密 版本 1.0
+│   │   │       │   └── keynes.md # 凯恩斯 版本 1.0
+│   │   │       ├── entrepreneurs/ # 企业家
+│   │   │       │   ├── jobs.md # 乔布斯 版本 1.0
+│   │   │       │   └── steve_jobs.md # 史蒂夫·乔布斯 版本 1.0
+│   │   │       ├── environmentalists/ # 环保人士
+│   │   │       │   └── rachel_carson.md # 蕾切尔·卡森 版本 1.0
+│   │   │       ├── filmmakers/ # 电影人
+│   │   │       │   └── stanley_kubrick.md # 斯坦利·库布里克 版本 1.0
+│   │   │       ├── humanitarians/ # 人道主义者
+│   │   │       │   └── albert_schweitzer.md # 阿尔伯特·施韦泽 版本 1.0
+│   │   │       ├── innovators/ # 创新者
+│   │   │       │   └── bill_gates.md # 比尔·盖茨 版本 1.0
+│   │   │       ├── leaders/ # 领导者
+│   │   │       │   ├── alexander.md # 亚历山大大帝 版本 1.0
+│   │   │       │   └── mandela.md # 曼德拉 版本 1.0
+│   │   │       ├── mathematicians/ # 数学家
+│   │   │       │   ├── john_nash.md # 约翰·纳什 版本 1.0
+│   │   │       │   └── von_neumann.md # 冯·诺依曼 版本 1.0
+│   │   │       ├── philosophical/ # 哲学家
+│   │   │       │   └── simone_beauvoir.md # 西蒙娜·德·波伏娃 版本 1.0
+│   │   │       ├── political_leaders/ # 政治领袖
+│   │   │       │   ├── aung_san_suu_kyi.md # 昂山素季 版本 1.0
+│   │   │       │   ├── cleopatra.md # 克莉奥佩特拉 版本 1.0
+│   │   │       │   ├── elizabeth_i.md # 伊丽莎白一世 版本 1.0
+│   │   │       │   ├── gandhi.md # 甘地 版本 1.0
+│   │   │       │   ├── machiavelli.md # 马基雅维利 版本 1.0
+│   │   │       │   ├── martin_luther_king.md # 马丁·路德·金 版本 1.0
+│   │   │       │   ├── rosa_luxemburg.md # 罗莎·卢森堡 版本 1.0
+│   │   │       ├── psychologists/ # 心理学家
+│   │   │       │   ├── freud.md # 弗洛伊德 版本 1.0
+│   │   │       │   └── jung.md # 荣格 版本 1.0
+│   │   │       ├── religious_leaders/ # 宗教领袖
+│   │   │       │   ├── buddha.md # 佛陀 版本 1.0
+│   │   │       │   ├── dalai_lama.md # 达赖喇嘛 版本 1.0
+│   │   │       │   ├── jesus_christ.md # 耶稣基督 版本 1.0
+│   │   │       │   ├── martin_luther.md # 马丁·路德 版本 1.0
+│   │   │       │   ├── moses.md # 摩西 版本 1.0
+│   │   │       │   ├── mother_teresa.md # 特蕾莎修女 版本 1.0
+│   │   │       │   ├── muhammad.md # 穆罕默德 版本 1.0
+│   │   │       │   ├── pope_john_paul_ii.md # 教皇约翰·保罗二世 版本 1.0
+│   │   │       │   ├── saint_augustine.md # 圣奥古斯丁 版本 1.0
+│   │   │       │   ├── saint_paul.md # 圣保罗 版本 1.0
+│   │   │       │   ├── swami_vivekananda.md # 斯瓦米·维韦卡南达 版本 1.0
+│   │   │       │   └── thomas_aquinas.md # 托马斯·阿奎那 版本 1.0
+│   │   │       ├── scientists/ # 科学家
+│   │   │       │   ├── ada_lovelace.md # 艾达·洛夫莱斯 版本 1.0
+│   │   │       │   ├── darwin.md # 达尔文 版本 1.0
+│   │   │       │   ├── einstein.md # 爱因斯坦 版本 1.0
+│   │   │       │   ├── gauss.md # 高斯 版本 1.0
+│   │   │       │   ├── hawking.md # 霍金 版本 1.0
+│   │   │       │   ├── marie_curie.md # 居里夫人 版本 1.0
+│   │   │       │   ├── newton.md # 牛顿 版本 1.0
+│   │   │       │   ├── niels_bohr.md # 玻尔 版本 1.0
+│   │   │       │   ├── nikola_tesla.md # 特斯拉 版本 1.0
+│   │   │       │   └── turing.md # 图灵 版本 1.0
+│   │   │       └── strategists/ # 战略家
+│   │   │           └── sunzi.md # 孙子 版本 1.0
+│   │   └── formal/            # 形式化描述
+│   │       └── formal_theory_practice.md # 实践应用形式化 版本 1.0
+│   │
+│   ├── religion/               # 宗教与哲学
+│   │   ├── natural/           # 自然语言描述
+│   │   │   ├── buddhism/     # 佛教
+│   │   │   │   ├── Abhidhamma_Pitaka.md # 阿毗达磨藏 版本 1.0
+│   │   │   │   ├── Anguttara_Nikaya.md # 增支部 版本 1.0
+│   │   │   │   ├── Avatamsaka_Sutra.md # 华严经 版本 1.0
+│   │   │   │   ├── Blue_Cliff_Record.md # 碧岩录 版本 1.0
+│   │   │   │   ├── Dhammapada.md # 法句经 版本 1.0
+│   │   │   │   ├── Diamond_Sutra.md # 金刚经 版本 1.0
+│   │   │   │   ├── Digha_Nikaya.md # 长部 版本 1.0
+│   │   │   │   ├── Gateless_Gate.md # 无门关 版本 1.0
+│   │   │   │   ├── Heart_Sutra.md # 心经 版本 1.0
+│   │   │   │   ├── Khuddaka_Nikaya.md # 小部 版本 1.0
+│   │   │   │   ├── Lankavatara_Sutra.md # 楞伽经 版本 1.0
+│   │   │   │   ├── Lotus_Sutra.md # 法华经 版本 1.0
+│   │   │   │   ├── Madhyamaka.md # 中观论 版本 1.0
+│   │   │   │   ├── Mahaparinirvana_Sutra.md # 大般涅槃经 版本 1.0
+│   │   │   │   ├── Majjhima_Nikaya.md # 中部 版本 1.0
+│   │   │   │   ├── Platform_Sutra.md # 坛经 版本 1.0
+│   │   │   │   ├── Samyutta_Nikaya.md # 相应部 版本 1.0
+│   │   │   │   ├── Tantric_Texts.md # 密宗经典 版本 1.0
+│   │   │   │   ├── Tibetan_Book_of_Dead.md # 西藏度亡经 版本 1.0
+│   │   │   │   ├── Vimalakirti_Sutra.md # 维摩诘经 版本 1.0
+│   │   │   │   └── Vinaya_Pitaka.md # 律藏 版本 1.0
+│   │   │   ├── christianity/ # 基督教
+│   │   │   │   ├── Acts.md # 使徒行传 版本 1.0
+│   │   │   │   ├── Corinthians.md # 哥林多书 版本 1.0
+│   │   │   │   ├── Exodus.md # 出埃及记 版本 1.0
+│   │   │   │   ├── Galatians.md # 加拉太书 版本 1.0
+│   │   │   │   ├── Genesis.md # 创世记 版本 1.0
+│   │   │   │   ├── Isaiah.md # 以赛亚书 版本 1.0
+│   │   │   │   ├── John.md # 约翰福音 版本 1.0
+│   │   │   │   ├── Leviticus.md # 利未记 版本 1.0
+│   │   │   │   ├── Luke.md # 路加福音 版本 1.0
+│   │   │   │   ├── Mark.md # 马可福音 版本 1.0
+│   │   │   │   ├── Matthew.md # 马太福音 版本 1.0
+│   │   │   │   ├── Psalms.md # 诗篇 版本 1.0
+│   │   │   │   ├── Revelation.md # 启示录 版本 1.0
+│   │   │   │   ├── Romans.md # 罗马书 版本 1.0
+│   │   │   │   ├── Timothy.md # 提摩太书 版本 1.0
+│   │   │   │   └── Titus.md # 提多书 版本 1.0
+│   │   │   ├── islam/        # 伊斯兰教
+│   │   │   │   ├── Al-Baqarah.md # 黄牛章 版本 1.0
+│   │   │   │   ├── Al-Fatihah.md # 开端章 版本 1.0
+│   │   │   │   ├── Al-Imran.md # 仪姆兰章 版本 1.0
+│   │   │   │   ├── Forty_Hadiths.md # 四十圣训 版本 1.0
+│   │   │   │   ├── Sahih_al-Bukhari.md # 布哈里圣训实录 版本 1.0
+│   │   │   │   └── Surah_Ikhlas.md # 忠诚章 版本 1.0
+│   │   │   ├── philosophy/   # 哲学
+│   │   │   │   ├── aristotle.md # 亚里士多德 版本 1.0
+│   │   │   │   ├── camus.md # 加缪 版本 1.0
+│   │   │   │   ├── confucius.md # 孔子 版本 1.0
+│   │   │   │   ├── descartes.md # 笛卡尔 版本 1.0
+│   │   │   │   ├── hannah_arendt.md # 汉娜·阿伦特 版本 1.0
+│   │   │   │   ├── kant.md # 康德 版本 1.0
+│   │   │   │   ├── laozi.md # 老子 版本 1.0
+│   │   │   │   ├── mary_wollstonecraft.md # 玛丽·沃斯通克拉夫特 版本 1.0
+│   │   │   │   ├── nietzsche.md # 尼采 版本 1.0
+│   │   │   │   ├── plato.md # 柏拉图 版本 1.0
+│   │   │   │   ├── socrates.md # 苏格拉底 版本 1.0
+│   │   │   │   └── xunzi.md # 荀子 版本 1.0
+│   │   │   └── taoism/       # 道教
+│   │   │       ├── Cantong_Qi.md # 参同契 版本 1.0
+│   │   │       ├── Huangting_Jing.md # 黄庭经 版本 1.0
+│   │   │       ├── Qingjing_Jing.md # 清静经 版本 1.0
+│   │   │       ├── Taiping_Jing.md # 太平经 版本 1.0
+│   │   │       ├── Taishang_Ganying_Pian.md # 太上感应篇 版本 1.0
+│   │   │       ├── Tao_Te_Ching.md # 道德经 版本 1.0
+│   │   │       └── Zhuangzi.md # 庄子 版本 1.0
+│   │   └── formal/            # 形式化描述
+│   │       └── formal_theory_religion.md # 宗教哲学形式化 版本 1.0
+│   │
+│   ├── art/                    # 艺术与文化
+│   │   ├── natural/           # 自然语言描述
+│   │   │   ├── music/        # 音乐
+│   │   │   │   └── music_theory.md # 音乐理论 版本 1.0
+│   │   │   ├── literature/   # 文学
+│   │   │   │   └── literary_theory.md # 文学理论 版本 1.0
+│   │   │   └── visual/       # 视觉艺术
+│   │   │       └── visual_art_theory.md # 视觉艺术理论 版本 1.0
+│   │   └── formal/            # 形式化描述
+│   │       └── formal_theory_art.md # 艺术理论形式化 版本 1.0
+│   │
+│   ├── reference/              # 参考资料
+│   │   ├── natural/           # 自然语言描述
+│   │   │   ├── terminology_glossary.md  # 术语表 版本 1.0
+│   │   │   ├── references.md            # 参考文献 版本 1.0
+│   │   │   ├── figures_index.md         # 人物索引 版本 1.0
+│   │   │   └── religions/               # 宗教概述
+│   │   │       └── religion_overview.md # 宗教概述 版本 1.0
+│   │   └── formal/            # 形式化描述
+│   │       └── formal_theory_reference.md # 参考资料形式化 版本 1.0
+│   │
+│   └── shared/                 # 共享资源
+│       ├── images/            # 图片资源
+│       │   ├── core/         # 核心概念图示
+│       │   └── diagrams/     # 其他图表
+│       └── data/              # 数据资源
+│           └── datasets/      # 数据集
+│
+└── en/                         # 英文版（相同结构）
+    ├── core/
+    ├── basic/
+    ├── theory/
+    ├── practice/
+    ├── religion/
+    ├── art/
+    ├── reference/
+    └── shared/
+
+文件命名规范：
+1. 所有文件名使用小写字母，单词间用下划线连接
+2. 中文文件使用拼音命名，例如：quantum_theory.md -> liangzi_lilun.md
+3. 版本号在文件名中标注，例如：core_v1.0.md
+4. README.md 文件放在每个主要目录下，说明该目录的内容和结构
+5. 文件名应该清晰表达内容，避免使用数字编号
+6. 相关文件应该放在同一目录下，便于管理和查找
+
+目录说明：
+1. core/：核心理论文档，包含理论的基础定义和框架
+2. basic/：基础概念文档，包含入门级的解释和说明
+3. theory/：理论应用文档，包含在各个领域的理论应用
+4. practice/：实践应用文档，包含具体的应用案例和重要人物
+5. religion/：宗教与哲学文档，包含与各种信仰和思想体系的关联
+6. art/：艺术与文化文档，包含在艺术领域的应用和解释
+7. reference/：参考资料，包含术语表和参考文献
+8. shared/：共享资源，包含图片和数据等资源文件
+
+分类原则：
+1. natural/：使用自然语言描述的文档
+2. formal/：使用形式化方法（数学、逻辑等）描述的文档
+3. 按学科领域分类存放相关文档
+4. 保持中英文版本结构一致，便于对照和维护
+5. 相关内容应该集中存放，避免分散
+6. 保持目录层级清晰，不要过深
+7. 重要的通用资源放在 shared 目录下共享
+8. 宗教经典文献按教派分类存放
+9. 人物相关文档统一放在 figures 目录下
+10. 保持文件命名的一致性和可读性 
+
+注意：所有文件都基于量子经典二元论核心理论 v31.0 进行解释和阐述。 
