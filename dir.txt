@@ -48,8 +48,8 @@
 │   ├── theory/                 # 理论应用
 │   │   ├── natural/           # 自然语言描述
 │   │   │   ├── physics/      # 物理学
-│   │   │   │   ├── part1_basic_physics.md # 基础物理 版本 1.0 无导航
-│   │   │   │   ├── part2_quantum_mechanics.md # 量子力学 版本 1.0 无导航
+│   │   │   │   ├── part1_basic_physics.md # 基础物理 版本 35.0 有导航
+│   │   │   │   ├── part2_quantum_mechanics.md # 量子力学 版本 35.0 有导航
 │   │   │   │   ├── part3_relativity.md # 相对论 版本 1.0 无导航
 │   │   │   │   ├── part4_thermodynamics.md # 热力学 版本 1.0 无导航
 │   │   │   │   └── part5_unified_theory.md # 统一理论 版本 1.0 无导航
