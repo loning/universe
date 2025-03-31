@@ -5,7 +5,7 @@
 > 本版本整合了量子绝对递归理论(D43)、意识悖论理论(D24)和量子实相综合理论(D44)的最新进展，
 > 对递归性概念、意识表征框架、超限综合法则、全息时空观念和理论自我参照性等方面进行了重要更新
 
-**相关理论文件:** [量子经典二元论形式化描述](formal_theory_core.md) | [量子经典二元论最小子集核心理论](quantum_classical_dualism_formal_axioms.md)
+**相关理论文件:** [量子经典二元论形式化描述](formal_theory_core.md) | [宇宙本论形式化描述](formal_theory_cosmic_ontology.md) | [二进制宇宙论形式化描述](formal_theory/formal_theory_binary_universe.md) | [量子经典二元论最小子集核心理论](quantum_classical_dualism_formal_axioms.md)
 
 ## 量子经典二元论核心理论简述
 

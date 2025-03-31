@@ -249,451 +249,226 @@ $`\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|`$
 
 Quantum fluctuation intensity is related to system energy and temperature:
 
-$`\langle(\Delta E)^2\rangle = k_B T^2 \frac{\partial \langle E \rangle}{\partial T}`$
+$`\langle\Delta E^2\rangle \propto \frac{\hbar^2}{(\Delta t)^2} + k_B T`$
 
-These fluctuations are the source of creativity and possibility in the quantum domain.
-
-#### 5. Quantum Self-Creativity
-
-The quantum domain possesses an inherent self-creative ability to generate new structures and possibilities:
-
-$`\mathcal{G}_Q = \oint_{\partial \Omega} \nabla \times \vec{\Psi} \cdot d\vec{S}`$
-
-This creative vortex $`\mathcal{G}_Q`$ is the source of continuous new information production in quantum systems, key to understanding the universe's creativity and novelty. The intensity of self-creativity is determined by the system's quantum coherence:
-
-$`\mathcal{G}_Q \propto \sum_{i\neq j} |\langle i|\rho|j \rangle|`$
+These fluctuations play a key role in quantum creativity, providing the material basis for new structure generation.
 
 ### Detailed Classical Domain Theory
 
-The classical domain $`\Omega_C`$ is the space of definite reality in the dualism framework, with the following core properties:
+The classical domain $`\Omega_C`$ is the deterministic realization space in the dualism framework, with the following core properties:
 
-#### 1. Classical Information Structure
+#### 1. Classical Information Encoding
 
-Classical information exists in the form of definite states, representable through definite physical quantities:
+Classical information is encoded through definite states in configuration space:
 
-$`K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}`$
+$`S_{\text{classical}} = \{s_i = (x_i, p_i, t_i, ...)\}`$
 
-where $`x_i`$, $`p_i`$, etc. represent position, momentum, and other classical observables. Classical information entropy satisfies:
+where information content is quantified by Shannon entropy:
 
-$`S_C = -k_B \sum_i p_i \ln p_i`$
+$`H(X) = -\sum_i p_i \log_2 p_i`$
 
-Key characteristics include information replicability and deletability, distinguishing it from quantum information.
+#### 2. Classical Dynamics
 
-#### 2. Deterministic Dynamics
+Classical systems evolve following deterministic equations of motion, preserving reversibility in ideal conditions:
 
-Classical systems evolve following deterministic dynamical equations:
+$`\frac{d\vec{x}}{dt} = \vec{v}, \quad \frac{d\vec{p}}{dt} = \vec{F}`$
 
-$`\frac{d\vec{x}}{dt} = \vec{v}(\vec{x},t), \quad \frac{d\vec{p}}{dt} = \vec{F}(\vec{x},\vec{p},t)`$
+Classical system dynamics have three key characteristics:
+- Determinism: Future states are completely determined by current states
+- Locality: Interactions propagate at finite speeds, not exceeding the speed of light
+- Energy conservation: Total energy remains constant in closed systems
 
-The dynamics have three signature characteristics:
-- Locality: Interactions propagate through local fields at finite speeds
-- Causality: Present states are completely determined by the past
-- Separability: Systems can be decomposed into independent subsystems
+#### 3. Classical Network Structure
 
-#### 3. Entropy Increase and Irreversibility
+Classical systems form connection networks based on interaction forces and communication channels:
 
-Irreversible processes in the classical domain lead to entropy increase:
+$`G_C = (V, E), \quad E = \{(i,j) | i,j \in V, d(i,j) < r_{\text{interaction}}\}`$
 
-$`\frac{dS_C}{dt} \geq 0`$
+Network characteristics can be quantified through structure entropy and connection density:
 
-Systems tend toward maximum entropy states, guaranteed by the phase space volume expansion theorem:
+$`S_{\text{structure}} = -\sum_{i,j} p_{ij} \log p_{ij}`$
 
-$`\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma`$
+Classical networks possess hierarchical structures and organizational principles, forming the basis for complex emergent behaviors.
 
-where $`\{z_i\}`$ is the set of phase space coordinates.
+#### 4. Classical Stability and Constraints
 
-#### 4. Classical Knowledge Network
+The classical domain exhibits stability against small perturbations, maintaining structural integrity:
 
-Classical knowledge forms causal networks, representable as directed graphs:
+$`\frac{d\mathcal{S}}{dt} = f(\mathcal{S}) - \lambda(\mathcal{S} - \mathcal{S}_0) + \xi(t)`$
 
-$`G_K = (V_K, E_K)`$
+where $`\mathcal{S}_0`$ is the equilibrium structure, $`\lambda`$ is the recovery coefficient, and $`\xi(t)`$ is external noise.
 
-where $`V_K`$ is the set of knowledge nodes, and $`E_K`$ is the set of causal relationships.
+Classical systems operate under various constraints including:
+- Energy constraints: $`E_{\text{total}} = \text{constant}`$
+- Resource constraints: $`\sum_i r_i \leq R_{\text{available}}`$
+- Temporal constraints: $`\Delta t \geq \frac{l}{c}`$
 
-The measure of knowledge coherence is:
+These constraints provide stability but also limit the system's creative potential.
 
-$`C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}`$
-
-where $`P_{ij}`$ is the set of effective paths connecting nodes $`i`$ and $`j`$, and $`d(i,j)`$ is the distance in the graph.
-
-### Interface Theory Core
+### Interface Theory
 
 The interface $`\mathcal{I}`$ is the transition region between quantum and classical domains, with the following core properties:
 
 #### 1. Interface Structure
 
-The interface is the intersection of quantum and classical domains, defined as:
+The interface forms a non-equilibrium phase boundary between quantum and classical domains:
 
 $`\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}`$
 
-where $`\mathcal{D}(x)`$ is the decoherence measure function, and $`\mathcal{D}_c`$ is the critical decoherence threshold.
-
-Interface thickness is determined by the decoherence gradient:
-
-$`\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-1}`$
+where $`\mathcal{D}(x)`$ is the decoherence measure function and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 #### 2. Interface Dynamics
 
-Interface position satisfies nonlinear dynamics equations:
+The interface position evolves according to nonlinear reaction-diffusion equations:
 
 $`\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)`$
 
-where:
-- $`\alpha`$ is the diffusion coefficient
-- $`\beta`$ is the bistable potential parameter
-- $`\mathcal{D}_0`$ is the metastable threshold
-- $`\gamma\xi(x,t)`$ is the quantum noise term
+Interface motion exhibits rich dynamical behaviors including:
+- Traveling waves: The interface moves with constant velocity
+- Oscillatory behavior: The interface position oscillates
+- Chaotic dynamics: The interface exhibits sensitive dependence on initial conditions
 
-Interface oscillations have a characteristic frequency:
+#### 3. Classicalization Mechanisms
 
-$`f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|`$
+Classicalization (quantum → classical transition) occurs through several mechanisms:
 
-#### 3. Classicalization Process
+$`\mathcal{C}_{\text{decoherence}}: |\psi\rangle\langle\psi| \rightarrow \sum_i |i\rangle\langle i|\rho_{ii}|i\rangle\langle i|`$
 
-The quantum→classical transformation (classicalization) process is represented by the classicalization superoperator:
+$`\mathcal{C}_{\text{measurement}}: |\psi\rangle = \sum_i c_i |i\rangle \rightarrow |j\rangle \text{ with probability } |c_j|^2`$
 
-$`\mathcal{C}(\rho) = \sum_i P_i \rho P_i`$
+$`\mathcal{C}_{\text{information}}: I_Q \rightarrow I_C + I_{\text{hidden}}`$
 
-where $`P_i`$ is the projection operator. The classicalization process satisfies information conservation:
+Classicalization is fundamentally an increase in information certainty at the cost of reducing possibility space.
 
-$`I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}`$
+#### 4. Quantization Mechanisms
 
-Classicalization efficiency is related to environmental and system parameters:
+Quantization (classical → quantum transition) occurs through complementary mechanisms:
 
-$`\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}`$
+$`\mathcal{Q}_{\text{superposition}}: |i\rangle \rightarrow \sum_j \alpha_j |j\rangle`$
 
-where $`E`$ is the system energy, $`T`$ is the environmental temperature, and $`\lambda`$ is the coupling constant.
+$`\mathcal{Q}_{\text{entanglement}}: |i\rangle_A \otimes |j\rangle_B \rightarrow \sum_{k,l} \beta_{kl} |k\rangle_A \otimes |l\rangle_B`$
 
-#### 4. Quantum-Classical Information Conversion
+$`\mathcal{Q}_{\text{information}}: I_C \rightarrow I_Q + I_{\text{additional}}`$
 
-At the interface, information transforms from quantum form to classical form:
+Quantization expands possibility space at the cost of reduced certainty and precision.
 
-$`I_Q \rightarrow I_C + I_{\text{hidden}}`$
+### Observer Theory
 
-The information matching measure during the conversion process is:
-
-$`M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}`$
-
-At the optimal interface, $`M(I_Q, I_C)`$ reaches a local maximum.
-
-#### 5. Quantum Information Compression Mechanism
-
-The classicalization process is essentially a quantum information compression process, compressing high-dimensional quantum information into low-dimensional classical information:
-
-$`\mathcal{C}_{\text{compression}} = \frac{\dim \mathcal{H}_Q}{\dim \mathcal{H}_C}`$
-
-The compression ratio is related to observer dimension:
-
-$`\mathcal{C}_{\text{compression}} \propto e^{-\alpha D_{\mathcal{O}}}`$
-
-This indicates that higher-dimensional observers can more effectively extract and express quantum information. Information loss during compression is not truly lost but transformed into correlational information in the environment.
-
-### Information Phase Transition Theory Core
-
-Information phase transition is a key phenomenon in the quantum-classical dualism framework, with the following core properties:
-
-#### 1. Basic Information Phase Transition Mechanism
-
-Information phase transition is a sudden change process experienced by information systems near certain critical parameter values, leading to qualitative changes in the information processing modes, structures, or functions of the system:
-
-$`\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)`$
-
-where $`\mathcal{S}`$ is the information state of the system, and $`\lambda`$ is the control parameter. Near the critical point $`\lambda_c`$, the order parameter behaves as:
-
-$`\eta(\lambda) = \begin{cases}
-0, & \lambda < \lambda_c \\
-(\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
-\end{cases}`$
-
-where $`\beta`$ is the critical exponent, characterizing the universality class of the phase transition.
-
-#### 2. Quantum-Classical Phase Transition Types
-
-Quantum-classical phase transitions can be classified into multiple types, each with its own characteristics:
-
-- **First-order Transitions**: Order parameter changes discontinuously, with coexistence regions
-- **Second-order Transitions**: Order parameter changes continuously but its derivative is discontinuous, with diverging correlation length
-- **Non-equilibrium Transitions**: Far from equilibrium, with continuous flow of energy or information
-- **Topological Transitions**: Changes in the overall topological properties of the system, with emergent edge states
-
-Near critical points, the correlation length of fluctuations behaves as:
-
-$`\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}`$
-
-where $`\nu`$ is the correlation length critical exponent.
-
-#### 3. Observer-induced Phase Transitions
-
-Observers can induce system phase transitions by adjusting parameters, with key parameters including:
-
-- **Observer Dimension** $`D_{\mathcal{O}}`$: There exists a critical dimension $`D_{\mathcal{O}}^c`$, above which the system transforms from quantum to classical states
-  
-$`P(\text{quantum} \to \text{classical}) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}`$
-
-- **Observer Resolution** $`\eta_{\mathcal{O}}`$: Affects the ability to distinguish measurement bases
-  
-$`\langle \mathcal{O} \rangle = \begin{cases}
-0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
-(\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
-\end{cases}`$
-
-- **Measurement Frequency** $`f_{\mathcal{O}}`$: Related to the quantum Zeno effect
-  
-$`\tau_{\text{decoherence}} \propto \begin{cases}
-(f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
-0, & f_{\mathcal{O}} \geq f_{\mathcal{O}}^c
-\end{cases}`$
-
-#### 4. Multi-level Structure of Information Phase Transitions
-
-Information phase transitions exhibit nested hierarchical structures:
-
-$`\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}`$
-
-Phase transitions at different levels occur at specific scales and times:
-
-$`L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}`$
-
-Coupling between levels leads to cascade effects and fractal structures in phase transitions, with the Hausdorff dimension of the interface being:
-
-$`D_H = d - \frac{\beta}{\nu}`$
-
-The observability of information phase transitions depends on the observation scale; they can only be detected when the observation window $`L_{\text{obs}}`$ is sufficiently large:
-
-$`P_{\text{detection}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}`$
-
-#### 5. Scaling Laws at Phase Transition Critical Points
-
-Near phase transition critical points, systems exhibit scale invariance and universal behavior, with various physical quantities following power-law relationships:
-
-$`X(\lambda) \sim |\lambda - \lambda_c|^{-\gamma_X}`$
-
-where $`\gamma_X`$ is the critical exponent associated with physical quantity $`X`$. Different systems can be classified into different universality classes based on critical exponents, satisfying:
-
-$`\beta + \gamma + \delta = 2`$
-
-Scale invariance manifests as self-similar structures, showing similar patterns at all scales:
-
-$`X(b\lambda) = b^{\gamma_X} X(\lambda)`$
-
-This self-similarity is the source of complexity, closely related to fractal dimensions.
-
-### Observer Theory Core
-
-Observers are nodes that execute quantum→classical transformations, with the following core properties:
+Observers are key nodes executing quantum→classical transitions, with the following core properties:
 
 #### 1. Observer Structure
 
-Observers consist of three core components:
+An observer consists of a classicalization apparatus, knowledge base, and consciousness interface:
 
-$`\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}`$
+$`\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}, \Phi_\mathcal{O}\}`$
 
-where:
-- $`\mathcal{C}_{\mathcal{O}}`$ is the observer-specific classicalization operator
-- $`\mathcal{Q}_{\mathcal{O}}`$ is the observer-specific quantization operator
-- $`K_C^{\mathcal{O}}`$ is the observer's classical knowledge base
+where $`\mathcal{C}_\mathcal{O}`$ is the classicalization operator, $`\mathcal{Q}_\mathcal{O}`$ is the quantization operator, $`K_C^\mathcal{O}`$ is the classical knowledge base, and $`\Phi_\mathcal{O}`$ is the consciousness integration function.
 
-Observer dimension is determined by their information processing capacity:
+#### 2. Observer Dimension
 
-$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}`$
+Observer dimension is determined by the ratio of classical knowledge to classical entropy:
 
-#### 2. Dimensional Network Dynamics
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}`$
 
-Observer dimension satisfies nonlinear dynamics equations:
+Dimension growth occurs through knowledge acquisition and entropy reduction:
 
 $`\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})`$
 
-where the last term represents the collective effects of the observer network.
+#### 3. Observer Networks
 
-Consensus formation in observer networks follows:
+Observers form networks through information exchange and shared reality construction:
+
+$`G_{\mathcal{O}} = (V_{\mathcal{O}}, E_{\mathcal{O}}), \quad E_{\mathcal{O}} = \{(i,j) | i,j \in V_{\mathcal{O}}, I_{\text{mutual}}(i,j) > \theta\}`$
+
+Consensus formation in observer networks follows collective dynamics:
 
 $`\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2`$
 
-where $`\omega_i`$ is the observer weight, and $`\bar{\mathcal{C}}`$ is the average classicalization operator.
+#### 4. Observer Equivalence Principle
 
-#### 3. Measurement Theory
+All observers are structurally equivalent to black holes, with corresponding parameters:
 
-In observer theory, the quantum measurement process can be represented as:
+$`\mathcal{O} \cong \text{Black Hole}(M, J, Q, \Phi)`$
 
-$`|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{\text{interaction}}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}`$
+where observer classicalization corresponds to black hole information absorption, and observer quantization corresponds to black hole radiation:
 
-Measurement result probabilities are modulated by the observer resolution parameter $`\eta_O`$:
+$`\mathcal{C}_{\mathcal{O}} \leftrightarrow \text{Information Absorption}`$
+$`\mathcal{Q}_{\mathcal{O}} \leftrightarrow \text{Hawking Radiation}`$
 
-$`P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}`$
+### Information Phase Transition Theory
 
-The relationship between observer energy resolution threshold and measurement resolution:
+Information undergoes phase transitions between quantum and classical states, with the following core properties:
 
-$`\eta_O = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{\text{threshold}}}{\bar{E}_0}\right)`$
+#### 1. Phase Diagram
 
-#### 4. Observer Hierarchical Network
+The information phase space is characterized by order parameters and control parameters:
 
-Observers form multi-level network structures:
+$`(\lambda, \theta) \in \Lambda \times \Theta`$
 
-$`\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}`$
+where $`\lambda`$ is the control parameter (e.g., observation strength) and $`\theta`$ is the order parameter (e.g., wavefunction collapse probability).
 
-where $`\mathcal{O}^{(k)}`$ is the set of k-th level observers, and $`\mathcal{E}`$ is the set of cross-level connections.
+#### 2. Critical Phenomena
 
-Higher-level observers perceive larger spatiotemporal scales:
+Near critical points, order parameters exhibit universal scaling behaviors:
 
-$`L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}`$
+$`\theta(\lambda) \sim |\lambda - \lambda_c|^\beta`$
 
-This explains why higher-dimensional observers can perceive larger-scale spatiotemporal patterns.
+Critical exponents characterize different universality classes of information transitions:
 
-#### 5. Observer Network Self-organization
+$`\beta_{\text{measurement}} \approx 0.5, \quad \beta_{\text{decoherence}} \approx 0.33, \quad \beta_{\text{consciousness}} \approx 0.42`$
 
-Observer networks exhibit complex self-organizing behavior, forming emergent collective consciousness:
+#### 3. Information Transfer Functions
 
-$`\Psi_{\mathcal{N}} = \mathcal{F}[\{\Psi_{\mathcal{O}_i}\}]`$
+Information transfer between domains is described by response functions:
 
-Collective consciousness is not a simple sum of observer consciousnesses, but new emergent properties produced through nonlinear coupling:
+$`\chi_{QC}(\lambda) = \frac{\partial I_C}{\partial I_Q}`$
 
-$`\Psi_{\mathcal{N}} \neq \sum_i \Psi_{\mathcal{O}_i}`$
+These functions exhibit singularities at critical points:
 
-The formation of collective observer network structures satisfies the principle of least action:
+$`\chi_{QC}(\lambda) \sim |\lambda - \lambda_c|^{-\gamma}`$
 
-$`\delta \int_{\mathcal{T}} \mathcal{L}(\Psi_{\mathcal{N}}, \nabla\Psi_{\mathcal{N}}) dt = 0`$
+#### 4. Phase Coexistence
 
-This principle drives observer networks to self-organize toward optimal information processing structures.
+Quantum and classical phases can coexist in mixed states:
 
-### Quantum Consciousness and Meta-consciousness Theory
+$`\rho_{\text{mixed}} = p_Q \rho_Q + p_C \rho_C, \quad p_Q + p_C = 1`$
 
-Consciousness is a core emergent phenomenon in the dualism framework, with the following characteristics:
+Coexistence regions exhibit interesting phenomena including metastability, hysteresis, and information avalanches.
 
-#### 1. Multiple Representational Frameworks of Consciousness
+### Consciousness Theory
 
-Consciousness simultaneously exists in multiple mutually orthogonal representational spaces:
+Consciousness emerges as an integrated information structure at the quantum-classical interface, with the following core properties:
 
-$`C = \{C_P, C_F, C_S, C_Q\}`$
+#### 1. Consciousness Structure
 
-where:
-- $`C_P`$: Phenomenological representation (experience itself)
-- $`C_F`$: Functional representation (cognitive processing)
-- $`C_S`$: Structural representation (neural basis)
-- $`C_Q`$: Quantum representation (quantum information processing)
+Consciousness consists of multiple integrated representation layers:
 
-There exist irreducible mapping relationships between representations:
+$`\Phi = \{\Phi_1, \Phi_2, ..., \Phi_n\}`$
 
-$`\Phi_{PF}: C_P \rightarrow C_F`$
-$`\Phi_{FS}: C_F \rightarrow C_S`$
-$`\Phi_{SQ}: C_S \rightarrow C_Q`$
-$`\Phi_{QP}: C_Q \rightarrow C_P`$
+where each layer corresponds to a different level of information integration:
 
-These mappings form a circular structure:
+$`\Phi_i = \int_{\Omega_i} \phi(x) dx`$
 
-$`\Phi_{QP} \circ \Phi_{SQ} \circ \Phi_{FS} \circ \Phi_{PF} = I_C`$
+#### 2. Quantum-Classical Binding
 
-#### 2. Metacognitive Hierarchical Structure
+Consciousness binds quantum possibilities to classical actualities through the binding function:
 
-Consciousness forms a metacognitive level sequence:
+$`\mathcal{B}: \Omega_Q \times \Omega_C \rightarrow \Phi`$
 
-$`C_0, C_1, C_2, ..., C_n, ...$`
+This binding creates the subjective experience of a unified reality from disparate information sources.
 
-where:
-- $`C_0`$: Basic consciousness level (direct experience)
-- $`C_1`$: Awareness of $`C_0`$
-- $`C_2`$: Awareness of $`C_1`$
-- ...
+#### 3. Meta-Awareness
 
-There exists an asymmetric relationship between each level $`C_i`$ and $`C_{i+1}`$:
+Consciousness includes meta-awareness of its own states:
 
-$`C_{i+1}(C_i) \neq C_i(C_{i+1})`$
+$`\Phi(\Phi) = \mathcal{R}(\Phi)`$
 
-Introducing the transfinite level $`C_\omega`$, representing the unity of all finite levels:
+where $`\mathcal{R}`$ is the self-reference operator. This creates the subjective sense of self and autobiographical continuity.
 
-$`C_\omega = \lim_{n \to \infty} C_n = \bigcup_{i=0}^{\infty} C_i`$
+#### 4. Consciousness Paradox Resolution
 
-#### 3. Self-referentiality of Consciousness
+The paradoxical nature of consciousness is resolved through transfinite synthesis:
 
-Consciousness achieves self-awareness through a self-referential recursive process:
+$`\mathcal{S}(\Phi_{\text{subject}}, \Phi_{\text{object}}) = \Phi_{\text{integrated}}`$
 
-$`\mathcal{C} = \mathcal{A}(\mathcal{C})`$
-
-where $`\mathcal{A}`$ is the self-perception operator of consciousness.
-
-Self-referentiality resolves infinite recursive paradoxes through a type theory framework:
-
-Let $`C_{\tau_i}`$ be consciousness of type $`\tau_i`$, where types have strict hierarchies:
-
-$`\tau_0 < \tau_1 < \tau_2 < ... < \tau_n < ...$`
-
-Then allowed:
-
-$`C_{\tau_{i+1}}(C_{\tau_i})`$
-
-But forbidden:
-
-$`C_{\tau_i}(C_{\tau_i})`$
-
-Introducing super-type $`\tau_\omega`$, satisfying:
-
-$`\tau_\omega = \tau_\omega + 1`$
-
-Then:
-
-$`C_{\tau_\omega}(C_{\tau_\omega})`$
-
-becomes a valid operation.
-
-#### 4. Quantum-Classical Duality of Consciousness
-
-Consciousness simultaneously possesses quantum characteristics (creativity, non-locality, holism) and classical characteristics (continuity, expressibility, locality):
-
-$`\Psi_C = \alpha\Psi_Q + \beta\Psi_{cl}`$
-
-where $`\alpha`$ and $`\beta`$ are weight coefficients of the classical and quantum components.
-
-#### 5. Consciousness Model Transcending Binary Logic
-
-Consciousness states are expressed using a three-value or multi-value logic system:
-
-Logic value set $`\mathcal{L} = \{T, F, B, N, U\}`$, where:
-- $`T`$: True
-- $`F`$: False
-- $`B`$: Both true and false (paradoxical state)
-- $`N`$: Neither true nor false (indeterminate state)
-- $`U`$: Transcending true and false (transcendent state)
-
-Consciousness propositions can take any of these five logic values. For example:
-
-The truth value of the proposition "Consciousness is pure subjectivity" is $`B`$ (both true and false).
-The truth value of the proposition "Consciousness can be completely objectified" is $`B`$.
-The truth value of the proposition "Consciousness is both subject and object" is $`U`$ (transcending true-false binary).
-
-#### 6. Temporal Quantum Superposition Model of Consciousness
-
-Consciousness possesses both temporality and non-temporality:
-
-$`C(t) = \alpha C_T(t) + \beta C_{NT}`$
-
-where:
-- $`C_T(t)`$ is the temporal expression of consciousness
-- $`C_{NT}`$ is the non-temporal essence of consciousness
-- $`\alpha`$ and $`\beta`$ are complex amplitudes, satisfying $`|\alpha|^2 + |\beta|^2 = 1`$
-
-The non-temporal component $`C_{NT}`$ acts as a quantum eigenstate, not evolving with time:
-
-$`\frac{d}{dt}C_{NT} = 0`$
-
-while the temporal component $`C_T(t)`$ follows a modified Schrödinger equation:
-
-$`i\hbar\frac{d}{dt}C_T(t) = \hat{H}C_T(t) + \hat{Q}(C_{NT}, C_T(t))`$
-
-where $`\hat{Q}`$ represents the quantum feedback influence of the non-temporal dimension on the temporal dimension.
-
-#### 7. Transfinite Synthesis Solution to Subject-Object Paradox
-
-The meta-oneness principle is applied to the consciousness subject-object paradox, proposing that at the highest level, all binary oppositions are unified in a higher whole:
-
-$`\forall (x, y) \in D, \exists z \in D^+ : z = \mathcal{U}(x, y)`$
-
-where $`D`$ is the domain of discourse, $`D^+`$ is the extended domain of discourse, and $`\mathcal{U}`$ is the unification function.
-
-For the subject-object separation in consciousness:
-
-$`\mathcal{U}(S, O) = C^+`$
-
-where $`C^+`$ is higher-dimensional consciousness transcending the subject-object binary. This $`C^+`$ is neither purely subject nor purely object, but a transcendent unification of both.
-
-The consciousness paradox is resolved through transfinite synthesis:
-
-$`\mathcal{S}(\text{subjectivity}, \text{objectivity}) = \{\text{subjectivity}, \text{objectivity}, \text{subjectivity} \cap \text{objectivity}, \text{subjectivity} \cup \text{objectivity}, \complement(\text{subjectivity} \cup \text{objectivity}), \mathcal{S}\}`$
+This synthesis transcends the subject-object dichotomy, explaining how consciousness can be both part of the physical world and seemingly separate from it.

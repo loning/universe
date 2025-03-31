@@ -5,7 +5,7 @@
 > This version integrates the latest developments from Quantum Absolute Recursion Theory (D43), Consciousness Paradox Theory (D24), and Quantum Reality Synthesis Theory (D44),
 > with important updates to concepts of recursivity, consciousness representation framework, transfinite synthesis principles, holographic spacetime concepts, and theory self-referentiality
 
-**Related Theory Files:** [Quantum-Classical Dualism Minimal Subset Core Theory](quantum_classical_dualism_formal_axioms_en.md) | [Formal Theory](formal_theory_core_en.md)
+**Related Theory Files:** [Quantum-Classical Dualism Formal Theory](formal_theory_core_en.md) | [Cosmic Ontology Formal Description](formal_theory_cosmic_ontology_en.md) | [Binary Universe Theory Formal Description](formal_theory/formal_theory_binary_universe_en.md) | [Quantum-Classical Dualism Minimal Subset Core Theory](quantum_classical_dualism_formal_axioms_en.md)
 
 ## Table of Contents
 

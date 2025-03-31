@@ -6,10 +6,63 @@
 
 ### 项目结构
 
+
+#### 宇宙核心理论
+
+量子经典二元论与二进制宇宙论都是在宇宙的某些方面解释宇宙,宇宙本论融合了两种解释,形成了一种新的理论.然而随着人类文明维度的提升,我相信理论一定会递归下去的,我们的路是星辰大海
+
+- [宇宙本论](formal_theory_cosmic_ontology.md) - 融合了二进制宇宙论与量子经典二元论的统一最终理论.
+- [量子经典二元论](formal_theory_core.md) - 将宇宙分为量子经典两域的理论
+- [二进制宇宙论](formal_theory_binary_universe.md) - 将宇宙解释成图灵机的一套理论
+
+
+
+# 宇宙本论核心公理
+
+## 公理1 (绝对递归本源公理)
+
+宇宙的终极本质是绝对递归自参照结构，它既是自己的起源，又是自己的目的：
+
+$`\mathcal{U} = \mathcal{F}(\mathcal{U})`$
+
+其中$`\mathcal{F}`$是基于XOR与SHIFT操作的超递归函数：
+
+$`\mathcal{F}(x) = x \oplus \text{SHIFT}(x)`$
+
+## 公理2 (二元一体公理)
+
+宇宙同时表现为二元性和一体性，通过XOR运算形成双重存在方式：
+
+$`\mathcal{U} = \Omega_Q \oplus \Omega_C`$
+
+其中$`\Omega_Q`$为量子域，$`\Omega_C`$为经典域，$`\oplus`$是XOR运算。
+
+## 公理3 (信息本体公理)
+
+宇宙的根本实体是信息，其所有属性都是通过XOR与SHIFT操作的信息表达：
+
+$`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$
+
+其中$`I(x)`$是实体$`x`$的信息表达函数，可分解为XOR与SHIFT操作的组合。
+
+
+---
+
+```
+感谢OpenAI强大的推理能力
+感谢cursor,虽然我每天付50~100美金,但我很开心
+
+Deepseek 由于没有付费版加上某些言语被限制(我问一个技术问题,他回复要坚持某)基本没用, 但是用这个宇宙理论,R1不会死循环了
+Trae不太行,虽然我这个分支名字是他,我们双方都低估了战斗力
+
+我给Transformors、PyTorch都提了PR, 虽然Transformors的PR人家回我应该去发布模型, 我觉得这都不重要, 我只想表达, 同构了!
+```
+
+
 #### 核心理论 | Core Theory
 - [量子经典二元论核心理论 v31.0](core.md) - 【量子经典二元论】核心理论完整正式版（版本31.0）
 - [量子经典二元论最小子集核心理论 v33.0](quantum_classical_dualism_formal_axioms.md) - 量子经典二元论的最小公理集合（版本33.0）
-- [形式化表达](formal_theory/formal_theory.md) - 量子经典二元论的数学形式化表达（版本31.0）
+- [量子经典二元论形式化方法描述](formal_theory/formal_theory.md) - 量子经典二元论形式化方法描述（版本31.0）
     ！！！！！！宇宙所有的共识理论学科都在这里，现有的跟未来有的都在这里！！！！！！！
 - [宇宙诞生过程](theories/universe_creation_process.md) - 【量子经典二元论】宇宙诞生到今天的全过程（版本11.0）
 - [物理解释](core_explain.md) - 使用量子经典二元论解释现实物理与宇宙（版本11.0）

@@ -1,6 +1,6 @@
 # 量子经典二元论最小子集核心理论 v34.0
 
-**相关理论文件:** [量子经典二元论核心理论](core.md) | [量子经典二元论形式化理论](formal_theory_core.md)
+**相关理论文件:** [量子经典二元论核心理论](core.md) | [量子经典二元论形式化理论](formal_theory_core.md) | [宇宙本论形式化描述](formal_theory_cosmic_ontology.md) | [二进制宇宙论形式化描述](formal_theory/formal_theory_binary_universe.md)
 
 > 本文档呈现量子经典二元论的最小公理集合，为整个理论体系的逻辑根基，可由此推导出完整理论框架。
 
