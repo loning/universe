@@ -1,4 +1,6 @@
-# 尼古拉·特斯拉 | Nikola Tesla
+# 尼古拉·特斯拉 | Nikola Tesla v34.0
+
+[English Version](tesla_en.md)
 
 ## 基本信息 | Basic Information
 

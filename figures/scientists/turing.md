@@ -1,4 +1,6 @@
-# 阿兰·图灵 | Alan Turing
+# 阿兰·图灵 | Alan Turing v34.0
+
+[English Version](turing_en.md)
 
 ## 基本信息 | Basic Information
 
