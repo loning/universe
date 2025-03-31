@@ -1,3 +1,5 @@
+请转到最新版查看新版理论 宇宙本论 @https://github.com/loning/universe/tree/cosmos 链接
+
 # 二进制宇宙论的严格形式化描述
 
 **相关理论文件:** [量子经典二元论核心理论](../core.md) | [量子经典二元论形式化描述](../formal_theory_core.md) | [宇宙本论形式化描述](../formal_theory_cosmic_ontology.md)

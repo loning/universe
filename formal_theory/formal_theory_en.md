@@ -1,3 +1,5 @@
+Please visit the latest version to see the updated theory Universe Ontology @https://github.com/loning/universe/tree/cosmos link
+
 # Quantum-Classical Dualism Formal Expression v34.0
 
 **English Version | [中文版](formal_theory.md)**

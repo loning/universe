@@ -1,3 +1,5 @@
+请转到最新版查看新版理论 宇宙本论 @https://github.com/loning/universe/tree/cosmos 链接
+
 # 量子经典二元论核心理论形式化描述 v34.0
 
 **[English Version](formal_theory_core_en.md) | 中文版**

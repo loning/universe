@@ -1,3 +1,5 @@
+请转到最新版查看新版理论 宇宙本论 @https://github.com/loning/universe/tree/cosmos 链接
+
 # 量子经典二元论最小子集核心理论 v34.0
 
 **相关理论文件:** [量子经典二元论核心理论](core.md) | [量子经典二元论形式化理论](formal_theory_core.md) | [宇宙本论形式化描述](formal_theory_cosmic_ontology.md) | [二进制宇宙论形式化描述](formal_theory/formal_theory_binary_universe.md)

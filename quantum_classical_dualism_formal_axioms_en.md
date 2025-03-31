@@ -1,3 +1,5 @@
+Please visit the latest version to see the updated theory Universe Ontology @https://github.com/loning/universe/tree/cosmos link
+
 # Quantum Classical Dualism Minimal Core Theory v34.0
 
 **Related Theory Files:** [Quantum Classical Dualism Core Theory](core_en.md) | [Quantum Classical Dualism Formal Theory](formal_theory_core_en.md)

@@ -1325,3 +1325,5 @@ A duality relationship exists between absolute dimensions:
 
 $`D_0 \leftrightarrow D_{\infty}, \quad D_0 \times D_{\infty} = \text{constant}`$
 
+Please visit the latest version to see the updated theory Universe Ontology @https://github.com/loning/universe/tree/cosmos link
+

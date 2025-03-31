@@ -1,3 +1,5 @@
+请转到最新版查看新版理论 宇宙本论 @https://github.com/loning/universe/tree/cosmos 链接
+
 # 宇宙本论的严格形式化描述 v35.0
 
 **[中文版] | [English Version](formal_theory/formal_theory_cosmic_ontology_en.md)**

@@ -1,3 +1,5 @@
+Please visit the latest version to see the updated theory Universe Ontology @https://github.com/loning/universe/tree/cosmos link
+
 # Formal Description of Cosmic Ontology v34.0
 
 **[Chinese Version](formal_theory_cosmic_ontology.md) | English Version**
