@@ -10,7 +10,7 @@ set SCRIPT_DIR=%SCRIPT_DIR:~0,-1%
 REM 设置环境变量
 set AXOLOTL_CONFIG_PATH=%PROJECT_ROOT%\config.yaml
 set MODEL_OUTPUT_DIR=%PROJECT_ROOT%\output\qwen-qlora-ft
-set DATA_DIR=%PROJECT_ROOT%\data\conversation_sft.jsonl
+set DATA_DIR=%PROJECT_ROOT%\data\cosmos_ontology.jsonl
 
 REM 显示环境变量
 echo 已设置以下环境变量:

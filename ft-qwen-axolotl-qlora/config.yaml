@@ -10,7 +10,7 @@ output_dir: ./output/qwen-qlora-ft
 logging_dir: ./output/logs
 
 datasets:
-  - path: ./data/conversation_sft.jsonl
+  - path: ./data/cosmos_ontology.jsonl
     type: alpaca
 # 可自定义为自有格式
 
