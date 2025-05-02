@@ -1,0 +1,95 @@
+%% Foundations of Physics - LaTeX Template
+%% FUND-FOP-047: Golden Ratio φ, e, π and Fine Structure Constant α: Collapse Breathing Proportions
+%% Based on standard article class
+
+\documentclass[twocolumn,a4paper,11pt]{article}
+
+% Package imports
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{microtype}
+\usepackage{mathtools}
+\usepackage{authblk}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+
+% Page geometry
+\geometry{a4paper, margin=2.5cm}
+
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Foundations of Physics}
+\fancyhead[R]{Ma \& Niu}
+\fancyfoot[C]{\thepage}
+\setlength{\headheight}{14pt}
+
+% Define custom commands for mathematical symbols
+\newcommand{\xor}{\oplus}
+\newcommand{\shift}{\text{SHIFT}}
+\newcommand{\flip}{\neg}
+\newcommand{\goldphi}{\varphi}
+\newcommand{\euler}{e}
+\newcommand{\alphafs}{\alpha}
+
+% Title information
+\title{Golden Ratio $\phi$, $e$, $\pi$ and Fine Structure Constant $\alpha$:\\
+Collapse Breathing Proportions}
+
+% Authors
+\author[1]{Haobo Ma}
+\author[1]{Wen Niu}
+\affil[1]{AELF PTE LTD., 8 Marina Blvd, \#14-02, Marina Bay Financial Centre Tower 1, Singapore 018981}
+
+\begin{document}
+
+\maketitle
+
+% Corresponding author
+\noindent\textbf{Corresponding author:} auric@aelf.io
+
+% Abstract
+\begin{abstract}
+\input{abstract}
+\end{abstract}
+
+% Keywords
+\noindent\textbf{Keywords:} Fine structure constant, Golden ratio, Mathematical constants, Universe Ontology, Information theory, FLIP-XOR-SHIFT operations
+
+% Introduction
+\section{Introduction}
+\input{introduction}
+
+% Theoretical Background
+\section{Theoretical Background}
+\input{theoretical_background}
+
+% Methodology
+\section{Methodology}
+\input{methodology}
+
+% Results
+\section{Results}
+\input{results}
+
+% Discussion
+\section{Discussion}
+\input{discussion}
+
+% Conclusion
+\section{Conclusion}
+\input{conclusion}
+
+% Acknowledgements
+\section*{Acknowledgements}
+\input{acknowledgements}
+
+% Bibliography
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document} 

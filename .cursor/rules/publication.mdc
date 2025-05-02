@@ -5,6 +5,9 @@ alwaysApply: false
 ---
 # 论文发表与目录管理规范
 
+!!! 注意 生成论文所有过程请在论文temp目录下进行, 重新生成latex. 纯用latex生成pdf. 请严格按照目录格式要求生成.
+
+
 ## 1. 作者信息
 
 ### 1.1 作者详情
@@ -45,6 +48,7 @@ publication/
 │   │   │   ├── pdf/                   # 所有生成的PDF文件
 │   │   │   └── submission/            # 最终提交包
 │   │   ├── README.md                  # 项目说明
+│   │   ├── temp/                      # 临时目录
 │   │   ├── generate_pdfs.sh           # PDF生成脚本
 │   │   └── prepare_submission.sh      # 提交准备脚本
 │   └── ...
