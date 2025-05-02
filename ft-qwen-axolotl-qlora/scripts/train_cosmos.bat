@@ -15,6 +15,8 @@ set DATA_DIR=%PROJECT_ROOT%\\data\\cosmos_ontology_alpaca.jsonl
 set PYTHONPATH=C:\\Users\\USER\\cursor\\axolotl;%PYTHONPATH%
 set TOKENIZERS_PARALLELISM=true
 set WANDB_DISABLED=true
+set CUDA_VISIBLE_DEVICES=0
+set PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128
 
 REM 显示环境变量
 echo 已设置以下环境变量:
@@ -22,6 +24,8 @@ echo 模型配置路径: %AXOLOTL_CONFIG_PATH%
 echo 输出目录: %MODEL_OUTPUT_DIR%
 echo 数据目录: %DATA_DIR%
 echo Python路径: %PYTHONPATH%
+echo CUDA设备: %CUDA_VISIBLE_DEVICES%
+echo CUDA内存分配: %PYTORCH_CUDA_ALLOC_CONF%
 
 REM 确保输出目录存在
 if not exist "%MODEL_OUTPUT_DIR%" mkdir "%MODEL_OUTPUT_DIR%"
@@ -42,6 +46,7 @@ echo.
 echo 检查数据文件...
 if exist "%DATA_DIR%" (
     echo 数据文件存在: %DATA_DIR%
+    python -c "import json; print(f'样本数量: {sum(1 for _ in open('%DATA_DIR%', 'r', encoding='utf-8'))}')"
 ) else (
     echo 错误: 数据文件不存在: %DATA_DIR%
     goto end
@@ -52,6 +57,8 @@ echo 检查CUDA可用性...
 python -c "import torch; print(f'CUDA可用: {torch.cuda.is_available()}')"
 python -c "import torch; print(f'可用GPU数量: {torch.cuda.device_count()}')"
 python -c "import torch; print(f'当前设备: {torch.cuda.get_device_name(0) if torch.cuda.is_available() else \"CPU\"}')"
+python -c "import torch; print(f'CUDA版本: {torch.version.cuda}')"
+python -c "import torch; free_mem = torch.cuda.mem_get_info()[0]/1024**3 if torch.cuda.is_available() else 0; print(f'GPU可用内存: {free_mem:.2f} GB')"
 
 echo.
 echo 开始训练...

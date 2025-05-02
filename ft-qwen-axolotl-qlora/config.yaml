@@ -43,8 +43,12 @@ train:
   seed: 42
 
 # 其他参数
-max_seq_length: 2048
-packing: false
+max_seq_length: 512  # 减小序列长度，避免OOM
+sequence_len: 512    # 明确指定序列长度
+padding: true        # 启用填充
+truncation: true     # 启用截断
+packing: false       # 禁用packing，可能导致长度不一致
+pad_to_sequence_len: true  # 填充到指定长度
 
 # 明确禁用WandB，只使用tensorboard
 report_to: ["tensorboard"]
