@@ -1,3 +1,110 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{bailey2015high}
+D.~H. Bailey and J.~M. Borwein.
+\newblock High-precision arithmetic in mathematical physics.
+\newblock {\em Mathematics}, 3(2):337--367, 2015.
+
+\bibitem{borwein1987pi}
+J.~M. Borwein and P.~B. Borwein.
+\newblock {\em Pi and the AGM: a study in analytic number theory and
+  computational complexity}.
+\newblock Wiley, 1987.
+
+\bibitem{davies1982accidental}
+P.~C.~W. Davies.
+\newblock {\em The accidental universe}.
+\newblock Cambridge University Press, 1982.
+
+\bibitem{demanet2016thinking}
+L.~Demanet.
+\newblock Thinking of constants as eigenvalues.
+\newblock {\em Notices of the American Mathematical Society}, 63(6):632--633,
+  2016.
+
+\bibitem{eddington1946fundamental}
+A.~S. Eddington.
+\newblock {\em Fundamental theory}.
+\newblock Cambridge University Press, 1946.
+
+\bibitem{feynman1985qed}
+R.~P. Feynman.
+\newblock {\em QED: The Strange Theory of Light and Matter}.
+\newblock Princeton University Press, 1985.
+
+\bibitem{gabrielse2006new}
+G.~Gabrielse, D.~Hanneke, T.~Kinoshita, M.~Nio, and B.~Odom.
+\newblock New determination of the fine structure constant from the electron g
+  value and qed.
+\newblock {\em Physical Review Letters}, 97(3):030802, 2006.
+
+\bibitem{goyal2018information}
+P.~Goyal.
+\newblock Information physics—towards a new conception of physical reality.
+\newblock {\em Information}, 3(4):567--594, 2018.
+
+\bibitem{havil2003gamma}
+J.~Havil.
+\newblock {\em Gamma: Exploring Euler's constant}.
+\newblock Princeton University Press, 2003.
+
+\bibitem{livio2002golden}
+M.~Livio.
+\newblock {\em The golden ratio: The story of phi, the world's most astonishing
+  number}.
+\newblock Broadway Books, 2002.
+
+\bibitem{ma2025universe}
+H.~Ma.
+\newblock Universe ontology: Information field theory and reality emergence.
+\newblock {\em Foundations of Physics}, 55(3):200--245, 2025.
+
+\bibitem{miller2009jung}
+A.~I. Miller.
+\newblock {\em 137: Jung, Pauli, and the pursuit of a scientific obsession}.
+\newblock W.W. Norton \& Company, 2009.
+
+\bibitem{niu2024xor}
+W.~Niu and H.~Ma.
+\newblock Xor-shift operations and the quantum-classical interface.
+\newblock {\em Foundations of Physics}, 54(9):567--598, 2024.
+
+\bibitem{penrose2004road}
+R.~Penrose.
+\newblock {\em The road to reality: A complete guide to the laws of the
+  universe}.
+\newblock Jonathan Cape, 2004.
+
+\bibitem{posamentier2012glorious}
+A.~S. Posamentier and I.~Lehmann.
+\newblock {\em The glorious golden ratio}.
+\newblock Prometheus Books, 2012.
+
+\bibitem{sommerfeld1916quantentheorie}
+A.~Sommerfeld.
+\newblock Zur quantentheorie der spektrallinien.
+\newblock {\em Annalen der Physik}, 356(17):1--94, 1916.
+
+\bibitem{tegmark2014mathematical}
+M.~Tegmark.
+\newblock {\em Our mathematical universe: My quest for the ultimate nature of
+  reality}.
+\newblock Knopf, 2014.
+
+\bibitem{weinberg1994dreams}
+S.~Weinberg.
+\newblock {\em Dreams of a final theory: The scientist's search for the
+  ultimate laws of nature}.
+\newblock Vintage, 1994.
+
+\bibitem{weyl1952symmetry}
+H.~Weyl.
+\newblock {\em Symmetry}.
+\newblock Princeton University Press, 1952.
+
+\bibitem{wheeler1990information}
+J.~A. Wheeler.
+\newblock Information, physics, quantum: The search for links.
+\newblock {\em Complexity, entropy, and the physics of information}, 8, 1990.
 
 \end{thebibliography}
