@@ -23,6 +23,9 @@ This project provides a fine-tuning pipeline for Qwen small models using Axolotl
 - `data/`             —— 训练数据集（用户自备）
 - `output/`           —— 微调输出模型
 - `scripts/`          —— 常用脚本（启动、推理、评测等）
+  - `main.bat`        —— 主入口脚本（推荐使用）
+  - `train_cosmos.bat` —— 宇宙本论训练脚本
+  - `evaluate_logiqa.bat` —— LogiQA评估脚本
 
 ---
 
@@ -39,15 +42,44 @@ pip install -r requirements.txt  # 确保axolotl==0.9.0
 
 ## 快速开始 | Quick Start
 
+### 方法一：使用主入口脚本（推荐）
+
+最简单的方式是使用统一的主入口脚本，它提供了所有功能的菜单界面：
+
+```bash
+cd scripts
+main.bat
+```
+
+这将显示以下选项菜单：
+1. 使用宇宙本论数据训练模型
+2. 在LogiQA上评估模型
+3. 下载所需数据
+4. 退出
+
+### 方法二：手动执行各步骤
+
 1. 准备训练数据，放入`data/`目录。
 2. 根据需求修改`config.yaml`（已兼容axolotl 0.9.0）。
 3. 启动微调：
 
 ```bash
+# 使用专用脚本（推荐）
+cd scripts
+train_cosmos.bat
+
+# 或直接使用axolotl（高级用户）
 axolotl train config.yaml
 ```
 
-4. 微调模型保存在`output/`目录。
+4. 评估模型性能：
+
+```bash
+cd scripts
+evaluate_logiqa.bat
+```
+
+5. 微调模型保存在`output/qwen-qlora-ft`目录。
 
 ---
 

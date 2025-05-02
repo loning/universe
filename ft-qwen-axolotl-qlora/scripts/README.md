@@ -16,6 +16,7 @@ ft-qwen-axolotl-qlora/
 │   └── qwen-qlora-ft/       # 微调模型输出
 │       └── checkpoint-3/    # 模型检查点
 └── scripts/                 # 脚本目录
+    ├── main.bat             # 主入口脚本
     ├── train_cosmos.bat     # 宇宙本论训练脚本
     ├── download_data.py     # 数据下载脚本
     ├── evaluate_logiqa.py   # LogiQA评估实现
@@ -25,7 +26,26 @@ ft-qwen-axolotl-qlora/
 
 ## 快速开始
 
-### 训练模型
+### 使用主入口脚本（推荐）
+
+最简单的方式是使用统一的主入口脚本，它提供了所有功能的菜单界面：
+
+```bash
+cd scripts
+main.bat
+```
+
+这将显示以下选项菜单：
+1. 使用宇宙本论数据训练模型
+2. 在LogiQA上评估模型
+3. 下载所需数据
+4. 退出
+
+### 单独使用各功能脚本
+
+如果您想直接使用某个特定功能，也可以单独运行相应脚本：
+
+#### 训练模型
 
 使用宇宙本论(cosmos_ontology)数据集训练Qwen模型：
 
@@ -34,7 +54,7 @@ cd scripts
 train_cosmos.bat
 ```
 
-### 评估模型
+#### 评估模型
 
 在LogiQA逻辑推理基准测试上评估微调模型：
 
@@ -49,6 +69,14 @@ evaluate_logiqa.bat
 3. 运行快速评估（50个样本）
 
 ## 脚本说明
+
+### `main.bat`
+
+主入口脚本，整合了所有功能，提供统一的交互式菜单界面：
+- 训练模型功能
+- 评估模型功能
+- 数据下载管理
+- 用户友好的菜单导航
 
 ### `train_cosmos.bat`
 
@@ -118,6 +146,7 @@ lora:
 
 ## 工作流程
 
-1. 使用 `train_cosmos.bat` 在宇宙本论数据集上训练模型
-2. 使用 `evaluate_logiqa.bat` 评估训练后的模型在LogiQA上的表现
-3. 分析评估结果 
+1. 运行 `main.bat` 选择需要的功能
+2. 或直接使用 `train_cosmos.bat` 在宇宙本论数据集上训练模型
+3. 使用 `evaluate_logiqa.bat` 评估训练后的模型在LogiQA上的表现
+4. 分析评估结果 
