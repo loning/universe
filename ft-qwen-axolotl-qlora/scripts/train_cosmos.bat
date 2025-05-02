@@ -11,13 +11,15 @@ set SCRIPT_DIR=%SCRIPT_DIR:~0,-1%
 REM 设置环境变量
 set AXOLOTL_CONFIG_PATH=%PROJECT_ROOT%\\config.yaml
 set MODEL_OUTPUT_DIR=%PROJECT_ROOT%\\output\\qwen-qlora-ft
-set DATA_DIR=%PROJECT_ROOT%\\data\\cosmos_ontology.jsonl
+set DATA_DIR=%PROJECT_ROOT%\\data\\cosmos_ontology_alpaca.jsonl
+set PYTHONPATH=C:\\Users\\USER\\cursor\\axolotl;%PYTHONPATH%
 
 REM 显示环境变量
 echo 已设置以下环境变量:
 echo 模型配置路径: %AXOLOTL_CONFIG_PATH%
 echo 输出目录: %MODEL_OUTPUT_DIR%
 echo 数据目录: %DATA_DIR%
+echo Python路径: %PYTHONPATH%
 
 REM 确保输出目录存在
 if not exist "%MODEL_OUTPUT_DIR%" mkdir "%MODEL_OUTPUT_DIR%"
@@ -35,6 +37,15 @@ echo 检查必要依赖...
 pip install -q transformers>=4.35.0 peft>=0.7.0 bitsandbytes>=0.41.0 accelerate>=0.23.0 datasets>=2.12.0
 
 echo.
+echo 检查数据文件...
+if exist "%DATA_DIR%" (
+    echo 数据文件存在: %DATA_DIR%
+) else (
+    echo 错误: 数据文件不存在: %DATA_DIR%
+    goto end
+)
+
+echo.
 echo 检查CUDA可用性...
 python -c "import torch; print(f'CUDA可用: {torch.cuda.is_available()}')"
 python -c "import torch; print(f'可用GPU数量: {torch.cuda.device_count()}')"
@@ -42,9 +53,17 @@ python -c "import torch; print(f'当前设备: {torch.cuda.get_device_name(0) if
 
 echo.
 echo 开始训练...
-python -c "import axolotl; print(f'Axolotl版本: {axolotl.__version__}')"
-python -m axolotl.cli.train %AXOLOTL_CONFIG_PATH%
+python -c "import sys; print(f'Python路径: {sys.path}')"
+python -c "import os; print(f'当前工作目录: {os.getcwd()}')"
+
+echo.
+echo 使用Axolotl训练...
+set PYTHONPATH=C:\\Users\\USER\\cursor\\axolotl;%PYTHONPATH%
+cd "%PROJECT_ROOT%"
+python -m axolotl.cli.train %AXOLOTL_CONFIG_PATH% --debug
 
 echo.
 echo 训练完成!
+
+:end
 pause 
