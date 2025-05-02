@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 > nul
-REM Qwen QLoRA微调一键启动脚本（使用cosmos_ontology数据集）
+REM Qwen QLoRA微调直接训练脚本（使用direct_train.py，无需axolotl）
 REM 宇宙本论 v37.5
 
 REM 获取项目根目录
@@ -9,15 +9,15 @@ set PROJECT_ROOT=%SCRIPT_DIR%\..
 set SCRIPT_DIR=%SCRIPT_DIR:~0,-1%
 
 REM 设置环境变量
-set AXOLOTL_CONFIG_PATH=%PROJECT_ROOT%\config.yaml
-set MODEL_OUTPUT_DIR=%PROJECT_ROOT%\output\qwen-qlora-ft
+set MODEL_OUTPUT_DIR=%PROJECT_ROOT%\output\qwen-qlora-direct
 REM 优先使用简化版数据集
 if exist "%PROJECT_ROOT%\data\cosmos_ontology_alpaca_fixed.jsonl" (
     set DATA_DIR=%PROJECT_ROOT%\data\cosmos_ontology_alpaca_fixed.jsonl
-) else (
+) else if exist "%PROJECT_ROOT%\data\cosmos_ontology_alpaca.jsonl" (
     set DATA_DIR=%PROJECT_ROOT%\data\cosmos_ontology_alpaca.jsonl
+) else (
+    set DATA_DIR=%PROJECT_ROOT%\data\cosmos_ontology.jsonl
 )
-set PYTHONPATH=C:\Users\USER\cursor\axolotl;%PYTHONPATH%
 set TOKENIZERS_PARALLELISM=true
 set WANDB_DISABLED=true
 set CUDA_VISIBLE_DEVICES=0
@@ -25,10 +25,8 @@ set PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128
 
 REM 显示环境变量
 echo 已设置以下环境变量:
-echo 模型配置路径: %AXOLOTL_CONFIG_PATH%
 echo 输出目录: %MODEL_OUTPUT_DIR%
 echo 数据目录: %DATA_DIR%
-echo Python路径: %PYTHONPATH%
 echo CUDA设备: %CUDA_VISIBLE_DEVICES%
 echo CUDA内存分配: %PYTORCH_CUDA_ALLOC_CONF%
 
@@ -71,11 +69,11 @@ python -c "import sys; print(f'Python路径: {sys.path}')"
 python -c "import os; print(f'当前工作目录: {os.getcwd()}')"
 
 echo.
-echo 使用Axolotl训练...
-set PYTHONPATH=C:\Users\USER\cursor\axolotl;%PYTHONPATH%
+echo 使用direct_train.py直接训练...
+cd "%SCRIPT_DIR%"
+REM 设置环境变量以传递数据路径
 set "PYTHONIOENCODING=utf-8"
-cd "%PROJECT_ROOT%"
-python -m axolotl.cli.train %AXOLOTL_CONFIG_PATH% --report_to tensorboard --debug
+python direct_train.py
 
 echo.
 echo 训练完成!

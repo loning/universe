@@ -24,58 +24,71 @@ echo 2. 在LogiQA上评估模型
 echo 3. 下载所需数据
 echo 4. 退出
 echo.
-set /p choice=请选择操作 (1-4): 
+choice /c 1234 /n /m "请选择操作 (1-4): "
 
-if "%choice%"=="1" (
-    echo.
-    echo 启动模型训练...
-    call train_cosmos.bat
-    goto menu
-)
+if errorlevel 4 goto exit_program
+if errorlevel 3 goto download_menu
+if errorlevel 2 goto evaluation
+if errorlevel 1 goto training
 
-if "%choice%"=="2" (
-    echo.
-    echo 启动模型评估...
-    call evaluate_logiqa.bat
-    goto menu
-)
-
-if "%choice%"=="3" (
-    echo.
-    echo 数据下载菜单
-    
-    :data_menu
-    echo.
-    echo 1. 下载LogiQA数据集
-    echo 2. 返回主菜单
-    echo.
-    set /p data_choice=请选择操作 (1-2): 
-    
-    if "%data_choice%"=="1" (
-        echo.
-        echo 下载LogiQA数据集...
-        python download_data.py --dataset=logiqa --output_dir="%PROJECT_ROOT%\data"
-        goto data_menu
-    )
-    
-    if "%data_choice%"=="2" (
-        goto menu
-    )
-    
-    echo.
-    echo 无效选择，请重试.
-    goto data_menu
-)
-
-if "%choice%"=="4" (
-    echo.
-    echo 感谢使用!
-    goto end
-)
-
+:training
 echo.
-echo 无效选择，请重试.
+echo 训练模型菜单
+
+:train_menu
+echo.
+echo 1. 使用direct_train.py训练（不依赖Axolotl）
+echo 2. 使用Axolotl训练（使用train_cosmos.bat）
+echo 3. 返回主菜单
+echo.
+choice /c 123 /n /m "请选择训练方式 (1-3): "
+
+if errorlevel 3 goto menu
+if errorlevel 2 goto axolotl_train
+if errorlevel 1 goto direct_train
+
+:direct_train
+echo.
+echo 启动direct_train.py训练...
+call direct_train.bat
+goto train_menu
+
+:axolotl_train
+echo.
+echo 启动Axolotl训练...
+call train_cosmos.bat
+goto train_menu
+
+:evaluation
+echo.
+echo 启动模型评估...
+call evaluate_logiqa.bat
 goto menu
+
+:download_menu
+echo.
+echo 数据下载菜单
+
+:data_menu
+echo.
+echo 1. 下载LogiQA数据集
+echo 2. 返回主菜单
+echo.
+choice /c 12 /n /m "请选择操作 (1-2): "
+
+if errorlevel 2 goto menu
+if errorlevel 1 goto download_logiqa
+
+:download_logiqa
+echo.
+echo 下载LogiQA数据集...
+python download_data.py --dataset=logiqa --output_dir="%PROJECT_ROOT%\data"
+goto data_menu
+
+:exit_program
+echo.
+echo 感谢使用!
+goto end
 
 :end
 echo. 

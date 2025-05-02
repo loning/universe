@@ -40,13 +40,13 @@ except Exception as e:
 
 # 配置参数 - 优先使用环境变量，然后是配置文件，最后是默认值
 MODEL_NAME = config.get("base_model", "Qwen/Qwen-1_8B-Chat")
-DATA_PATH = os.environ.get("DATA_DIR", config.get("datasets", [{"path": "../data/conversation_sft.jsonl"}])[0]["path"])
-OUTPUT_DIR = os.environ.get("MODEL_OUTPUT_DIR", config.get("output_dir", "../output/qwen-qlora-ft"))
+DATA_PATH = os.environ.get("DATA_DIR", config.get("datasets", [{"path": "../data/cosmos_ontology.jsonl"}])[0]["path"])
+OUTPUT_DIR = os.environ.get("MODEL_OUTPUT_DIR", config.get("output_dir", "../output/qwen-qlora-direct"))
 MICRO_BATCH_SIZE = int(config.get("micro_batch_size", 4))
 GRADIENT_ACCUMULATION_STEPS = int(config.get("gradient_accumulation_steps", 8))
 LEARNING_RATE = float(config.get("learning_rate", 2e-4))
 NUM_EPOCHS = int(config.get("train", {}).get("num_train_epochs", 3))
-MAX_SEQ_LENGTH = int(config.get("max_seq_length", 2048))
+MAX_SEQ_LENGTH = int(config.get("max_seq_length", 512))
 
 # 打印主要配置
 logger.info(f"模型: {MODEL_NAME}")

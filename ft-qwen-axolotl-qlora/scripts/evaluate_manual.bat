@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 > nul
-REM Qwen微调模型LogiQA评估脚本
+REM Qwen微调模型LogiQA手动评估脚本（直接运行，不需要菜单交互）
 REM 宇宙本论 v37.5
 
 REM 获取项目根目录
@@ -31,40 +31,22 @@ echo.
 echo 切换到脚本目录...
 cd /d "%SCRIPT_DIR%"
 
-:menu
 echo.
-echo ===== Qwen 微调模型 LogiQA 评估 =====
-echo.
-echo 1. 下载LogiQA数据集（如果需要）
-echo 2. 运行完整评估
-echo 3. 运行快速评估（50个样本）
-echo 4. 返回上级菜单
-echo.
-choice /c 1234 /n /m "请选择操作 (1-4): "
+echo 检查数据文件...
+if exist "%DATA_PATH%" (
+    echo LogiQA数据文件存在: %DATA_PATH%
+    python -c "import json; data_path = r'%DATA_PATH%'; print(f'样本数量: {sum(1 for _ in open(data_path, \"r\", encoding=\"utf-8\"))}')"
+) else (
+    echo 警告: LogiQA数据文件不存在，将尝试下载
+    python download_data.py --dataset=logiqa --output_dir="%PROJECT_ROOT%\data"
+)
 
-if errorlevel 4 goto end
-if errorlevel 3 goto quick_eval
-if errorlevel 2 goto full_eval
-if errorlevel 1 goto download_logiqa
-
-:download_logiqa
-echo.
-echo 下载LogiQA数据集...
-python download_data.py --dataset=logiqa --output_dir="%PROJECT_ROOT%\data"
-goto menu
-
-:full_eval
-echo.
-echo 运行完整评估...
-python evaluate_logiqa.py --model_path="%MODEL_PATH%" --base_model="%BASE_MODEL%" --data_path="%DATA_PATH%" --output_path="%OUTPUT_PATH%" --device=cuda
-goto menu
-
-:quick_eval
 echo.
 echo 运行快速评估（50个样本）...
 python evaluate_logiqa.py --model_path="%MODEL_PATH%" --base_model="%BASE_MODEL%" --data_path="%DATA_PATH%" --output_path="%PROJECT_ROOT%\output\logiqa_results_quick.json" --max_samples=50 --device=cuda
-goto menu
+
+echo.
+echo 评估完成！结果保存在 %PROJECT_ROOT%\output\logiqa_results_quick.json
 
 :end
-echo.
 pause 
