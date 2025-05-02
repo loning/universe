@@ -4,12 +4,12 @@
 
 | 类别 | 计划论文数 | 准备中 | 已提交 | 审稿中 | 修改中 | 已接受 | 已出版 | 被拒绝 | 追踪文档 |
 |------|------------|---------|---------|--------|---------|---------|---------|---------|---------|
-| 物理学 | 21 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | - |
+| 物理学 | 21 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 信息科学 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 复杂系统 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 哲学 | 13 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 生命科学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
-| **总计** | **59** | **2** | **0** | **0** | **0** | **0** | **0** | **0** | - |
+| **总计** | **59** | **3** | **0** | **0** | **0** | **0** | **0** | **0** | - |
 
 ## 2. 文件组织结构
 
@@ -91,6 +91,8 @@ publication/
 | PHY-SCI-003 | Science | Information Ontology: Rewriting the Foundations of Physics | 4,500字 | COMPLETED | publication/papers/PHY-SCI-003/ | - | 2025-04-19 |
 | PHY-NCOM-004 | Nature Communications | Information Interpretation of Quantum-Classical Boundary | 5,000字 | PLAN | 待创建 | - | - |
 | PHY-NREV-005 | Nature Reviews Physics | Review of Information Field Theory Applications in Physics | 8-12页 | PLAN | 待创建 | - | - |
+| PHY-NAT-006 | Nature Physics | Quantum-Classical Transition Mediated by XOR Operations | 3,000-4,000字 | PLAN | publication/papers/PHY-NAT-006/ | - | - |
+| PHY-NAT-007 | Nature Physics | Collapse-Originated Quantum Gravity: A Prime-Resonant Unification | 3,000-4,000字 | PREP | publication/papers/PHY-NAT-007/ | - | 2025-05-16 |
 
 ### 3.2 专业物理期刊论文
 
@@ -206,6 +208,7 @@ publication/
 | PHY-NAT-001 | manuscript.md<br>outline.md<br>references.md | cover_letter.md<br>highlights.md<br>submission_checklist.md | figures/(2个文件)<br>supplementary/(无内容) | 未开始 | 待创建 | READY |
 | PHY-PRL-002 | manuscript.md<br>outline.md<br>references.md | cover_letter.md<br>highlights.md<br>submission_checklist.md | figures/figure1_description.md<br>supplementary/ | 未开始 | 待创建 | READY |
 | PHY-SCI-003 | manuscript.md<br>outline.md<br>references.md | cover_letter.md<br>highlights.md<br>submission_checklist.md<br>submission_instructions.md | figures/figure1.svg<br>figures/figure2.svg<br>figures/figure1_description.md<br>figures/figure2_description.md<br>simulations/quantum_interference_sim.py<br>supplementary/mathematical_proofs.md<br>supplementary/experimental_protocols.md<br>supplementary/data_availability.md | 已完成 | 待创建 | COMPLETED |
+| PHY-NAT-007 | manuscript.md | cover_letter.md<br>highlights.md<br>submission_checklist.md<br>status.md | figures/(无内容)<br>supplementary/(无内容) | 未开始 | author_info.md | PREP |
 | FUND-FOP-047 | manuscript.md<br>outline.md<br>references.md | cover_letter.md<br>highlights.md<br>submission_checklist.md<br>submission_instructions.md | figures/figure1.svg<br>figures/figure1_description.md<br>figures/figure2_description.md<br>simulations/constants_relationship_sim.py<br>supplementary/mathematical_proofs.md<br>supplementary/experimental_protocols.md<br>supplementary/data_availability.md | 未开始 | 已创建 | PREP |
 
 ### 7.2 LaTeX生成状态
@@ -357,6 +360,6 @@ publication/
    - 根据期刊格式要求验证
    - 校验所有交叉引用、引用和图表编号
 
-**上次更新：** 2025-05-01 - 更新了FUND-FOP-047论文状态为PREP，添加了figures/figure1.svg和figure2_description.md，以及simulations和supplementary目录下的关键文件，完成了基础实施代码和可视化工作。
+**上次更新：** 2025-05-15 - 创建了PHY-NAT-007论文"Collapse-Originated Quantum Gravity: A Prime-Resonant Unification of Time, Space, and Information"，完成了基本结构和主要内容，更新了追踪文档。
 
 版本：v38.0

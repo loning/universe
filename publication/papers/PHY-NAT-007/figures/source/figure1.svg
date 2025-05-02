@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: 'Arial', sans-serif;
+      font-size: 14px;
+    }
+    .title {
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .axis-label {
+      font-size: 16px;
+      font-style: italic;
+    }
+    .math {
+      font-style: italic;
+    }
+    .collapse-point {
+      fill: #ff5733;
+    }
+    .non-prime {
+      fill: #c0c0c0;
+    }
+    .grid line {
+      stroke: #e0e0e0;
+      stroke-width: 1;
+    }
+    .wave {
+      fill: none;
+      stroke-width: 2;
+    }
+    .prime-line {
+      stroke-dasharray: 5,5;
+      stroke: #333;
+    }
+    .golden-spiral {
+      fill: none;
+      stroke: #ffaa00;
+      stroke-width: 2;
+    }
+    .annotation {
+      font-size: 12px;
+    }
+  </style>
+  
+  <!-- Background grid -->
+  <g class="grid">
+    <g id="vertical-lines">
+      <line x1="100" y1="100" x2="100" y2="500" stroke="#e0e0e0" />
+      <line x1="200" y1="100" x2="200" y2="500" stroke="#e0e0e0" />
+      <line x1="300" y1="100" x2="300" y2="500" stroke="#e0e0e0" />
+      <line x1="400" y1="100" x2="400" y2="500" stroke="#e0e0e0" />
+      <line x1="500" y1="100" x2="500" y2="500" stroke="#e0e0e0" />
+      <line x1="600" y1="100" x2="600" y2="500" stroke="#e0e0e0" />
+      <line x1="700" y1="100" x2="700" y2="500" stroke="#e0e0e0" />
+    </g>
+    <g id="horizontal-lines">
+      <line x1="100" y1="100" x2="700" y2="100" stroke="#e0e0e0" />
+      <line x1="100" y1="200" x2="700" y2="200" stroke="#e0e0e0" />
+      <line x1="100" y1="300" x2="700" y2="300" stroke="#e0e0e0" />
+      <line x1="100" y1="400" x2="700" y2="400" stroke="#e0e0e0" />
+      <line x1="100" y1="500" x2="700" y2="500" stroke="#e0e0e0" />
+    </g>
+  </g>
+  
+  <!-- Axes -->
+  <g class="axes">
+    <line x1="100" y1="500" x2="700" y2="500" stroke="#000" stroke-width="2" />
+    <line x1="100" y1="100" x2="100" y2="500" stroke="#000" stroke-width="2" />
+    <!-- X-axis ticks -->
+    <g class="x-ticks">
+      <line x1="100" y1="500" x2="100" y2="510" stroke="#000" />
+      <line x1="200" y1="500" x2="200" y2="510" stroke="#000" />
+      <line x1="300" y1="500" x2="300" y2="510" stroke="#000" />
+      <line x1="400" y1="500" x2="400" y2="510" stroke="#000" />
+      <line x1="500" y1="500" x2="500" y2="510" stroke="#000" />
+      <line x1="600" y1="500" x2="600" y2="510" stroke="#000" />
+      <line x1="700" y1="500" x2="700" y2="510" stroke="#000" />
+    </g>
+    <!-- X-axis labels -->
+    <text x="100" y="530" text-anchor="middle">0</text>
+    <text x="150" y="530" text-anchor="middle">1</text>
+    <text x="200" y="530" text-anchor="middle">2</text>
+    <text x="250" y="530" text-anchor="middle">3</text>
+    <text x="300" y="530" text-anchor="middle">5</text>
+    <text x="350" y="530" text-anchor="middle">7</text>
+    <text x="400" y="530" text-anchor="middle">11</text>
+    <text x="450" y="530" text-anchor="middle">13</text>
+    <text x="500" y="530" text-anchor="middle">17</text>
+    <text x="550" y="530" text-anchor="middle">19</text>
+    <text x="600" y="530" text-anchor="middle">23</text>
+    <text x="650" y="530" text-anchor="middle">29</text>
+    <text x="700" y="530" text-anchor="middle">31</text>
+    
+    <!-- Y-axis ticks -->
+    <g class="y-ticks">
+      <line x1="90" y1="100" x2="100" y2="100" stroke="#000" />
+      <line x1="90" y1="200" x2="100" y2="200" stroke="#000" />
+      <line x1="90" y1="300" x2="100" y2="300" stroke="#000" />
+      <line x1="90" y1="400" x2="100" y2="400" stroke="#000" />
+      <line x1="90" y1="500" x2="100" y2="500" stroke="#000" />
+    </g>
+    <!-- Y-axis labels -->
+    <text x="80" y="500" text-anchor="end">0</text>
+    <text x="80" y="400" text-anchor="end">0.25</text>
+    <text x="80" y="300" text-anchor="end">0.5</text>
+    <text x="80" y="200" text-anchor="end">0.75</text>
+    <text x="80" y="100" text-anchor="end">1.0</text>
+  </g>
+  
+  <!-- Axis Labels -->
+  <text x="400" y="560" text-anchor="middle" class="axis-label">Prime Number Index</text>
+  <text x="50" y="300" text-anchor="middle" transform="rotate(-90 50,300)" class="axis-label">Collapse Amplitude</text>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" class="title">Prime-Indexed Collapse Attractors and φ-Modulated Resonance</text>
+  
+  <!-- Prime markers (vertical lines at prime positions) -->
+  <line x1="150" y1="100" x2="150" y2="500" class="prime-line" />
+  <line x1="200" y1="100" x2="200" y2="500" class="prime-line" />
+  <line x1="250" y1="100" x2="250" y2="500" class="prime-line" />
+  <line x1="300" y1="100" x2="300" y2="500" class="prime-line" />
+  <line x1="350" y1="100" x2="350" y2="500" class="prime-line" />
+  <line x1="400" y1="100" x2="400" y2="500" class="prime-line" />
+  <line x1="450" y1="100" x2="450" y2="500" class="prime-line" />
+  <line x1="500" y1="100" x2="500" y2="500" class="prime-line" />
+  <line x1="550" y1="100" x2="550" y2="500" class="prime-line" />
+  <line x1="600" y1="100" x2="600" y2="500" class="prime-line" />
+  <line x1="650" y1="100" x2="650" y2="500" class="prime-line" />
+  <line x1="700" y1="100" x2="700" y2="500" class="prime-line" />
+  
+  <!-- Prime collapse points -->
+  <circle cx="150" cy="350" r="8" class="collapse-point" />
+  <circle cx="200" cy="320" r="8" class="collapse-point" />
+  <circle cx="250" cy="280" r="10" class="collapse-point" />
+  <circle cx="300" cy="260" r="12" class="collapse-point" />
+  <circle cx="350" cy="230" r="12" class="collapse-point" />
+  <circle cx="400" cy="210" r="14" class="collapse-point" />
+  <circle cx="450" cy="200" r="14" class="collapse-point" />
+  <circle cx="500" cy="190" r="15" class="collapse-point" />
+  <circle cx="550" cy="180" r="15" class="collapse-point" />
+  <circle cx="600" cy="170" r="16" class="collapse-point" />
+  <circle cx="650" cy="160" r="16" class="collapse-point" />
+  <circle cx="700" cy="150" r="16" class="collapse-point" />
+  
+  <!-- Wave functions -->
+  <path d="M100,300 C120,320 130,280 150,350 C170,420 180,300 200,320 C220,340 230,220 250,280 C270,340 280,220 300,260 C320,300 330,180 350,230 C370,280 380,160 400,210 C420,260 430,150 450,200 C470,250 480,140 500,190 C520,240 530,130 550,180 C570,230 580,120 600,170 C620,220 630,110 650,160 C670,210 680,100 700,150" class="wave" stroke="#3366ff" />
+  
+  <!-- Golden spiral -->
+  <path d="M400,300 C410,300 420,290 420,280 C420,270 410,260 400,260 C390,260 380,270 380,280 C380,290 390,300 400,300 Z" class="golden-spiral" />
+  <path d="M400,300 C390,300 380,310 380,320 C380,330 390,340 400,340 C410,340 420,330 420,320 C420,310 410,300 400,300 Z" class="golden-spiral" />
+  <path d="M400,300 C415,300 430,285 430,270 C430,255 415,240 400,240 C385,240 370,255 370,270 C370,285 385,300 400,300 Z" class="golden-spiral" />
+  <path d="M400,300 C375,300 350,325 350,350 C350,375 375,400 400,400 C425,400 450,375 450,350 C450,325 425,300 400,300 Z" class="golden-spiral" />
+  
+  <!-- Formula annotation -->
+  <g class="formula">
+    <rect x="550" y="120" width="200" height="60" fill="white" fill-opacity="0.8" rx="5" ry="5" />
+    <text x="560" y="140" class="math">F_p: Fibonacci-indexed</text>
+    <text x="560" y="160" class="math">φ: Golden ratio (≈1.618)</text>
+    <text x="560" y="180" class="math">p ∈ ℙ: Prime attractor</text>
+  </g>
+  
+  <!-- Annotations -->
+  <g class="annotations">
+    <text x="250" y="260" class="annotation">Prime attractor</text>
+    <line x1="250" y1="262" x2="250" y2="280" stroke="#333" />
+    
+    <text x="400" y="235" class="annotation">Collapse amplitude</text>
+    <line x1="400" y1="237" x2="400" y2="210" stroke="#333" />
+    
+    <text x="485" y="420" class="annotation">φ-modulated oscillation</text>
+    <path d="M485,422 C500,400 520,370 540,320" stroke="#333" fill="none" />
+    
+    <text x="650" y="330" class="annotation">Golden ratio breathing</text>
+    <path d="M650,332 C620,320 580,310 450,300" stroke="#333" fill="none" />
+  </g>
+</svg> 
