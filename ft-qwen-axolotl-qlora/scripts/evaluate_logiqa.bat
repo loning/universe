@@ -36,49 +36,32 @@ echo.
 echo 1. 下载LogiQA数据集（如果需要）
 echo 2. 运行完整评估
 echo 3. 运行快速评估（50个样本）
-echo 4. 查看最近评估结果
-echo 5. 退出
+echo 4. 返回上级菜单
 echo.
-set /p choice=请选择操作 (1-5): 
+set /p choice=请选择操作 (1-4): 
 
 if "%choice%"=="1" (
     echo.
-    echo 正在下载LogiQA数据集...
-    python download_logiqa.py --output_dir="%PROJECT_ROOT%\data"
+    echo 下载LogiQA数据集...
+    python download_data.py --dataset=logiqa --output_dir="%PROJECT_ROOT%\data"
     goto menu
 )
 
 if "%choice%"=="2" (
     echo.
-    echo 正在运行完整LogiQA评估...
-    python evaluate_logiqa.py --model_path="%MODEL_PATH%" --base_model="%BASE_MODEL%" --data_path="%DATA_PATH%" --output_path="%OUTPUT_PATH%" --use_4bit
+    echo 运行完整评估...
+    python evaluate_logiqa.py --model_path="%MODEL_PATH%" --base_model="%BASE_MODEL%" --data_path="%DATA_PATH%" --output_path="%OUTPUT_PATH%" --device=cuda
     goto menu
 )
 
 if "%choice%"=="3" (
     echo.
-    echo 正在运行快速LogiQA评估（50个样本）...
-    python evaluate_logiqa.py --model_path="%MODEL_PATH%" --base_model="%BASE_MODEL%" --data_path="%DATA_PATH%" --output_path="%PROJECT_ROOT%\output\logiqa_results_quick.json" --use_4bit --max_samples=50
+    echo 运行快速评估（50个样本）...
+    python evaluate_logiqa.py --model_path="%MODEL_PATH%" --base_model="%BASE_MODEL%" --data_path="%DATA_PATH%" --output_path="%PROJECT_ROOT%\output\logiqa_results_quick.json" --max_samples=50 --device=cuda
     goto menu
 )
 
 if "%choice%"=="4" (
-    echo.
-    echo 查看最近评估结果...
-    
-    if exist "%OUTPUT_PATH%" (
-        echo 评估结果文件存在，正在提取关键信息...
-        python -c "import json; data=json.load(open('%OUTPUT_PATH%', 'r', encoding='utf-8')); print(f'模型: {data[\"model\"]}\nAdapter: {data[\"adapter\"]}\n准确率: {data[\"accuracy\"]:.4f} ({data[\"correct_samples\"]}/{data[\"samples_evaluated\"]})')"
-    ) else (
-        echo 未找到评估结果文件，请先运行评估。
-    )
-    
-    goto menu
-)
-
-if "%choice%"=="5" (
-    echo.
-    echo 谢谢使用!
     goto end
 )
 
