@@ -20,14 +20,18 @@ echo    宇宙本论 v37.5
 echo ===================================
 echo.
 echo 1. 使用宇宙本论数据训练模型
-echo 2. 在LogiQA上评估模型
-echo 3. 下载所需数据
-echo 4. 退出
+echo 2. 在LogiQA上评估微调模型
+echo 3. 在LogiQA上评估基准模型（未微调）
+echo 4. 比较评估结果
+echo 5. 下载所需数据
+echo 6. 退出
 echo.
-choice /c 1234 /n /m "请选择操作 (1-4): "
+choice /c 123456 /n /m "请选择操作 (1-6): "
 
-if errorlevel 4 goto exit_program
-if errorlevel 3 goto download_menu
+if errorlevel 6 goto exit_program
+if errorlevel 5 goto download_menu
+if errorlevel 4 goto compare_results
+if errorlevel 3 goto evaluate_baseline
 if errorlevel 2 goto evaluation
 if errorlevel 1 goto training
 
@@ -61,8 +65,20 @@ goto train_menu
 
 :evaluation
 echo.
-echo 启动模型评估...
+echo 启动微调模型评估...
 call evaluate_logiqa.bat
+goto menu
+
+:evaluate_baseline
+echo.
+echo 启动基准模型评估...
+call evaluate_baseline.bat
+goto menu
+
+:compare_results
+echo.
+echo 启动评估结果比较工具...
+call compare_results.bat
 goto menu
 
 :download_menu
