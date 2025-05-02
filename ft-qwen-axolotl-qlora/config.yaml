@@ -19,7 +19,7 @@ lora:
   r: 64
   alpha: 16
   dropout: 0.05
-  target_modules: ["q_proj", "v_proj"]
+  target_modules: ["c_attn", "c_proj"]
   bias: none
   task_type: CAUSAL_LM
 
