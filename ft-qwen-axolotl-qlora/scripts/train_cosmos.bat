@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 REM Qwen QLoRA微调一键启动脚本（使用cosmos_ontology数据集）
 REM 宇宙本论 v37.5
 
@@ -31,13 +32,17 @@ call "%CONDA_PATH%\\Scripts\\activate.bat" %CONDA_ENV%
 
 echo.
 echo 检查必要依赖...
-pip install transformers peft bitsandbytes accelerate numpy datasets pyyaml --quiet
+pip install -q transformers>=4.35.0 peft>=0.7.0 bitsandbytes>=0.41.0 accelerate>=0.23.0 datasets>=2.12.0
 
 echo.
-echo 开始训练...
+echo 检查CUDA可用性...
+python -c "import torch; print(f'CUDA可用: {torch.cuda.is_available()}')"
 python -c "import torch; print(f'可用GPU数量: {torch.cuda.device_count()}')"
 python -c "import torch; print(f'当前设备: {torch.cuda.get_device_name(0) if torch.cuda.is_available() else \"CPU\"}')"
 
+echo.
+echo 开始训练...
+python -c "import axolotl; print(f'Axolotl版本: {axolotl.__version__}')"
 python -m axolotl.cli.train %AXOLOTL_CONFIG_PATH%
 
 echo.

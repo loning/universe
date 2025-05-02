@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 REM Qwen微调与评估主入口脚本
 REM 宇宙本论 v37.5
 

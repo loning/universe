@@ -3,7 +3,7 @@
 
 base_model: Qwen/Qwen-1_8B-Chat
 trust_remote_code: true
-device: cpu
+device: cuda
 # 可选: Qwen/Qwen-1_8B-Chat
 
 output_dir: ./output/qwen-qlora-ft
@@ -11,8 +11,12 @@ logging_dir: ./output/logs
 
 datasets:
   - path: ./data/cosmos_ontology.jsonl
-    type: alpaca
-# 可自定义为自有格式
+    type: json
+    field_system: "system"
+    field_instruction: "instruction"
+    field_input: "input"
+    field_output: "output"
+# 使用json类型并明确指定字段映射
 
 # QLoRA参数
 lora:
