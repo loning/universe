@@ -13,6 +13,8 @@ set AXOLOTL_CONFIG_PATH=%PROJECT_ROOT%\\config.yaml
 set MODEL_OUTPUT_DIR=%PROJECT_ROOT%\\output\\qwen-qlora-ft
 set DATA_DIR=%PROJECT_ROOT%\\data\\cosmos_ontology_alpaca.jsonl
 set PYTHONPATH=C:\\Users\\USER\\cursor\\axolotl;%PYTHONPATH%
+set TOKENIZERS_PARALLELISM=true
+set WANDB_DISABLED=true
 
 REM 显示环境变量
 echo 已设置以下环境变量:
@@ -60,7 +62,7 @@ echo.
 echo 使用Axolotl训练...
 set PYTHONPATH=C:\\Users\\USER\\cursor\\axolotl;%PYTHONPATH%
 cd "%PROJECT_ROOT%"
-python -m axolotl.cli.train %AXOLOTL_CONFIG_PATH% --debug
+python -m axolotl.cli.train %AXOLOTL_CONFIG_PATH% --report_to tensorboard --debug
 
 echo.
 echo 训练完成!

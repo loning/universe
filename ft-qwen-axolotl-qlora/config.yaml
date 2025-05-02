@@ -45,7 +45,15 @@ train:
 # 其他参数
 max_seq_length: 2048
 packing: false
+
+# 明确禁用WandB，只使用tensorboard
 report_to: ["tensorboard"]
+use_wandb: false
+wandb:
+  project: null
+  run_name: null
+  watch: false
+
 resume_from_checkpoint: null
 
 # 推理/评测参数可在scripts/中单独配置 
