@@ -1,0 +1,24 @@
+PHY-CQG-011 提交清单
+============================
+提交日期: 2025-05-11
+论文标题: Subharmonic Corrections in Gravitational Wave Ringdowns: A Semi-Empirical Approach with Resonant Extensions
+作者: Haobo Ma, Wen Niu
+
+包含文件:
+1. PHY-CQG-011_manuscript.pdf - 主论文
+2. PHY-CQG-011_supplement.pdf - 补充材料
+3. 额外文档目录 (additional_docs/)
+   - author_info.pdf - 作者信息
+   - conflict_of_interest.pdf - 利益冲突声明
+   - data_availability.pdf - 数据可用性声明
+   - funding_statement.pdf - 资金支持声明
+4. LaTeX源文件目录 (latex_source/)
+   - main.tex - 主文档源文件
+   - supplement.tex - 补充材料源文件
+   - references.bib - 参考文献BibTeX文件
+5. 图表目录 (figures/)
+   - figure1.pdf - QNM与亚谐波模型比较
+   - figure2.pdf - 亚谐波参数的统计分析
+
+备注:
+此提交包根据Classical and Quantum Gravity期刊要求准备。

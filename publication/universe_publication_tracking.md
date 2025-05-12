@@ -1,15 +1,15 @@
-# 宇宙本论出版计划追踪 [v38.0]
+# 宇宙本论出版计划追踪 [v39.0]
 
 ## 1. 总体追踪状态
 
 | 类别 | 计划论文数 | 准备中 | 已提交 | 审稿中 | 修改中 | 已接受 | 已出版 | 被拒绝 | 追踪文档 |
 |------|------------|---------|---------|--------|---------|---------|---------|---------|---------|
-| 物理学 | 21 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | - |
+| 物理学 | 21 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 信息科学 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 复杂系统 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 哲学 | 13 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 生命科学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
-| **总计** | **59** | **3** | **0** | **0** | **0** | **0** | **0** | **0** | - |
+| **总计** | **59** | **4** | **0** | **0** | **0** | **0** | **0** | **0** | - |
 
 ## 2. 文件组织结构
 
@@ -103,6 +103,7 @@ publication/
 | PHY-CQG-008 | Classical and Quantum Gravity | Information-Theoretic Foundations of Quantum Gravity | 15-25页 | PLAN | 待创建 | - | - |
 | PHY-PRX-009 | Physical Review X | Information Entropy and Physical Cosmology | 8-12页 | PLAN | 待创建 | - | - |
 | PHY-EPJC-010 | European Physical Journal C | XOR Operations and Standard Model of Particle Physics | 无严格限制 | PLAN | 待创建 | - | - |
+| PHY-CQG-011 | Classical and Quantum Gravity | Subharmonic Corrections in Gravitational Wave Ringdowns: A Semi-Empirical Approach with Resonant Extensions | 15-25页 | READY | publication/papers/PHY-CQG-011/ | - | 2025-05-27 |
 
 ### 3.3 跨学科物理期刊论文
 
@@ -360,6 +361,6 @@ publication/
    - 根据期刊格式要求验证
    - 校验所有交叉引用、引用和图表编号
 
-**上次更新：** 2025-05-15 - 创建了PHY-NAT-007论文"Collapse-Originated Quantum Gravity: A Prime-Resonant Unification of Time, Space, and Information"，完成了基本结构和主要内容，更新了追踪文档。
+**上次更新：** 2025-05-27 - 完成了PHY-CQG-011论文的最终提交准备工作，创建了PDF生成和提交准备脚本，生成了完整的提交包（含main.tex、supplement.tex、references.bib和所有必要图表）。论文提出了引力波黑洞铃振中的亚谐波修正模型，发现亚谐波参数ε≈0.18在多个黑洞合并事件中保持一致，并与基本物理常数（如黄金分割比和精细结构常数）有深刻联系。预计于2025-05-30提交给Classical and Quantum Gravity期刊。
 
-版本：v38.0
+版本：v39.0

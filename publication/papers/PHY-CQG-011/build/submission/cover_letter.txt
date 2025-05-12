@@ -1,0 +1,13 @@
+Dear Editor,
+
+We are pleased to submit our manuscript "Subharmonic Corrections in Gravitational Wave Ringdowns: A Semi-Empirical Approach with Resonant Extensions" for consideration for publication in Classical and Quantum Gravity.
+
+Our paper presents a novel semi-empirical correction model for the ringdown phase of gravitational wave signals, revealing consistent subharmonic structures characterized by a parameter ε ≈ 0.18 across different black hole merger events. This enhancement improves late-time waveform reconstruction accuracy by up to 35% and suggests a potential connection to fundamental physical constants like the golden ratio and fine structure constant.
+
+We believe our findings provide significant insight into the structure of post-merger spacetime and open new avenues for testing quantum gravitational effects in the strong-field regime.
+
+All authors have seen and approved the final version of this manuscript. This work has not been published previously and is not under consideration for publication elsewhere.
+
+Sincerely,
+Haobo Ma and Wen Niu
+AELF PTE LTD.

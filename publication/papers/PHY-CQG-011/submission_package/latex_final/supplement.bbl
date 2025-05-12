@@ -1,0 +1,50 @@
+\begin{thebibliography}{1}
+
+\bibitem{berti2009quasinormal}
+Emanuele Berti, Vitor Cardoso, and Andrei~O Starinets.
+\newblock Quasinormal modes of black holes and black branes.
+\newblock {\em Classical and Quantum Gravity}, 26(16):163001, 2009.
+
+\bibitem{yang2012quasinormal}
+Huan Yang, David~A Nichols, Fan Zhang, Aaron Zimmerman, Zhongyang Zhang, and
+  Yanbei Chen.
+\newblock Quasinormal modes of black holes in antide sitter space: A numerical
+  study of the eikonal limit.
+\newblock {\em Physical Review D}, 86(10):104006, 2012.
+
+\bibitem{london2018modeling}
+Lionel London, Sebastian Khan, Edward Fauchon-Jones, et~al.
+\newblock Modeling ringdown: Beyond the fundamental quasi-normal modes.
+\newblock {\em Physical review letters}, 120(16):161102, 2018.
+
+\bibitem{giesler2019black}
+Matthew Giesler, Maximiliano Isi, Mark~A Scheel, and Saul~A Teukolsky.
+\newblock Black hole ringdown: the importance of overtones.
+\newblock {\em Physical Review X}, 9(4):041060, 2019.
+
+\bibitem{buonanno2007matching}
+Alessandra Buonanno, Yi~Pan, John~G Baker, Joan Centrella, Bernard~J Kelly,
+  Sean~T McWilliams, and James~R van Meter.
+\newblock Matching post-newtonian and numerical relativity waveforms:
+  Systematic errors and a new phenomenological model for nonprecessing black
+  hole binaries.
+\newblock {\em Physical Review D}, 76(10):104049, 2007.
+
+\bibitem{abbott2016observation}
+Benjamin~P Abbott et~al.
+\newblock Observation of gravitational waves from a binary black hole merger.
+\newblock {\em Physical review letters}, 116(6):061102, 2016.
+
+\bibitem{isi2019testing}
+Maximiliano Isi, Matthew Giesler, Will~M Farr, Mark~A Scheel, and Saul~A
+  Teukolsky.
+\newblock Testing the no-hair theorem with gw150914.
+\newblock {\em Physical review letters}, 123(11):111102, 2019.
+
+\bibitem{abbott2017gw170817}
+Benjamin~P Abbott et~al.
+\newblock Gw170817: observation of gravitational waves from a binary neutron
+  star inspiral.
+\newblock {\em Physical Review Letters}, 119(16):161101, 2017.
+
+\end{thebibliography}

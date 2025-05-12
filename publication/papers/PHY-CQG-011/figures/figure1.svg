@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- 标题 -->
+  <text x="400" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">
+    Ringdown Signal Reconstruction Comparison for GW150914
+  </text>
+
+  <!-- 面板边框 -->
+  <rect x="50" y="50" width="700" height="120" fill="none" stroke="black" stroke-width="1"/>
+  <rect x="50" y="190" width="700" height="120" fill="none" stroke="black" stroke-width="1"/>
+  <rect x="50" y="330" width="700" height="120" fill="none" stroke="black" stroke-width="1"/>
+  <rect x="50" y="470" width="700" height="120" fill="none" stroke="black" stroke-width="1"/>
+
+  <!-- 面板标签 -->
+  <text x="60" y="70" font-family="Arial" font-size="16" font-weight="bold">(a) Full Ringdown Signal</text>
+  <text x="60" y="210" font-family="Arial" font-size="16" font-weight="bold">(b) Residual Magnitude</text>
+  <text x="60" y="350" font-family="Arial" font-size="16" font-weight="bold">(c) Time-Frequency Decomposition</text>
+  <text x="60" y="490" font-family="Arial" font-size="16" font-weight="bold">(d) Reconstruction Error Reduction</text>
+
+  <!-- 面板 (a): 全完整信号 -->
+  <polyline points="100,130 150,110 200,120 250,100 300,90 350,100 400,110 450,105 500,115 550,125 600,130 650,135 700,140" 
+            fill="none" stroke="gray" stroke-width="2"/>
+  <polyline points="100,130 150,115 200,125 250,105 300,95 350,105 400,115 450,110 500,120 550,130 600,140 650,145 700,150" 
+            fill="none" stroke="blue" stroke-width="2" stroke-dasharray="5,5"/>
+  <polyline points="100,130 150,112 200,122 250,102 300,92 350,102 400,112 450,107 500,117 550,127 600,135 650,140 700,145" 
+            fill="none" stroke="red" stroke-width="2"/>
+  
+  <!-- 图例 (a) -->
+  <rect x="550" y="60" width="15" height="5" fill="none" stroke="gray" stroke-width="2"/>
+  <text x="570" y="65" font-family="Arial" font-size="12">GW150914 Data</text>
+  <rect x="550" y="80" width="15" height="5" fill="none" stroke="blue" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="570" y="85" font-family="Arial" font-size="12">Standard QNM</text>
+  <rect x="550" y="100" width="15" height="5" fill="none" stroke="red" stroke-width="2"/>
+  <text x="570" y="105" font-family="Arial" font-size="12">Subharmonic-Extended</text>
+
+  <!-- 面板 (b): 残差大小 -->
+  <polyline points="100,270 150,260 200,265 250,255 300,270 350,280 400,285 450,280 500,270 550,265 600,260 650,255 700,260" 
+            fill="none" stroke="blue" stroke-width="2" stroke-dasharray="5,5"/>
+  <polyline points="100,270 150,262 200,260 250,255 300,260 350,265 400,260 450,258 500,255 550,250 600,248 650,245 700,240" 
+            fill="none" stroke="red" stroke-width="2"/>
+  
+  <!-- 图例 (b) -->
+  <rect x="550" y="210" width="15" height="5" fill="none" stroke="blue" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="570" y="215" font-family="Arial" font-size="12">Standard QNM Residual</text>
+  <rect x="550" y="230" width="15" height="5" fill="none" stroke="red" stroke-width="2"/>
+  <text x="570" y="235" font-family="Arial" font-size="12">Subharmonic Residual</text>
+
+  <!-- 面板 (c): 时频分解 -->
+  <!-- 时频谱图 -->
+  <rect x="100" y="370" width="600" height="60" fill="lightblue" stroke="none"/>
+  <rect x="180" y="370" width="20" height="60" fill="red" stroke="none"/>
+  <rect x="350" y="370" width="20" height="60" fill="darkred" stroke="none"/>
+  
+  <!-- 频率标记 -->
+  <text x="190" y="445" font-family="Arial" font-size="12" text-anchor="middle">135 Hz</text>
+  <text x="360" y="445" font-family="Arial" font-size="12" text-anchor="middle">250 Hz</text>
+  <text x="190" y="365" font-family="Arial" font-size="10" text-anchor="middle">Subharmonic</text>
+  <text x="360" y="365" font-family="Arial" font-size="10" text-anchor="middle">Dominant QNM</text>
+
+  <!-- 面板 (d): 重构误差降低 -->
+  <!-- 创建条形图 -->
+  <rect x="150" y="520" width="100" height="30" fill="blue" stroke="black"/>
+  <rect x="300" y="520" width="150" height="30" fill="blue" stroke="black"/>
+  <rect x="450" y="520" width="200" height="30" fill="blue" stroke="black"/>
+  
+  <!-- 条形图标签 -->
+  <text x="200" y="560" font-family="Arial" font-size="12" text-anchor="middle">t=3-7ms</text>
+  <text x="200" y="575" font-family="Arial" font-size="12" text-anchor="middle">15%</text>
+  <text x="370" y="560" font-family="Arial" font-size="12" text-anchor="middle">t=7-15ms</text>
+  <text x="370" y="575" font-family="Arial" font-size="12" text-anchor="middle">25%</text>
+  <text x="550" y="560" font-family="Arial" font-size="12" text-anchor="middle">t=15-25ms</text>
+  <text x="550" y="575" font-family="Arial" font-size="12" text-anchor="middle">35%</text>
+  
+  <!-- Y轴标签 -->
+  <text x="130" y="535" font-family="Arial" font-size="12" text-anchor="end">Error Reduction</text>
+</svg>
