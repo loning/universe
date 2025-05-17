@@ -1,0 +1,62 @@
+# Figure 2: Collapse Entropy and Resonance Coherence Visualization
+
+## Title
+**Collapse Entropy (ℰ_collapse) and Resonance Coherence (Γ) as Determinants of Molecular Stability**
+
+## Description
+This figure illustrates the mathematical relationship between collapse entropy, resonance coherence, and molecular stability, presenting the Collapse Stability Index (CSI) as the quantitative measure that governs molecular behavior.
+
+### Panel A: Collapse Entropy Landscape
+- 3D surface plot showing collapse entropy (ℰ_collapse) as a function of molecular configuration parameters
+- X and Y axes represent configuration space coordinates (conformational/structural variables)
+- Z axis (height) represents collapse entropy value
+- Color gradient indicates entropy magnitude (blue = low, red = high)
+- Stable molecular structures positioned at local minima in the landscape
+- Annotation of key molecular configurations at entropy minima and maxima
+
+### Panel B: Resonance Coherence Visualization
+- Graph visualization of the bond-resonance matrix for different molecular structures
+- Network diagrams showing bond connectivity and resonance coupling strengths
+- Eigenvalue spectra displayed for each structure
+- Calculation of Γ(ψ) = (Σλ_i²)/(Σλ_i) shown as visual process
+- Comparison between aromatic (high coherence) and non-aromatic (low coherence) systems
+- Color intensity representing resonance coupling strength
+
+### Panel C: CSI Calculation Framework
+- Schematic showing how CSI = [1/ℰ_collapse] · Γ integrates the two factors
+- Side-by-side comparison of several molecular classes with their calculated:
+  * Collapse entropy values
+  * Resonance coherence factors
+  * Resulting CSI values
+- Molecules arranged in order of increasing stability
+- Clear numerical tables with calculated values
+- Correlation plot showing relationship between calculated CSI and experimental stability data
+
+### Panel D: Temperature Dependence
+- Plots showing CSI variation with temperature for different molecular classes
+- Visualization of the relationship T ∝ ∂_ψℰ_collapse
+- Multiple curves showing different molecular behaviors across temperature ranges
+- Phase transition points marked at critical temperatures
+- Explanation of how temperature influences both entropy and coherence factors
+
+## Key Elements to Highlight
+1. Inverse relationship between collapse entropy and stability
+2. Direct relationship between resonance coherence and stability
+3. Quantitative nature of the CSI calculation
+4. Structural features that minimize collapse entropy
+5. Molecular features that maximize resonance coherence
+6. Temperature as a collapse-field excitation parameter
+
+## Technical Specifications
+- Size: Full page width, double column (7 inches wide)
+- Format: Vector graphic with embedded high-resolution molecular structures
+- Style: Technical schematic with clear data visualization elements
+- Color scheme: Consistent with Figure 1, using blue-purple-red gradient for entropy
+- Text elements: Clear annotations of all mathematical relationships
+- Data plots: Clear axes labels, legends, and data point markers
+
+## Caption
+**Figure 2. Collapse entropy and resonance coherence as determinants of molecular stability.** (A) Three-dimensional landscape of collapse entropy (ℰ_collapse) across molecular configuration space, with stable structures located at entropy minima. (B) Resonance coherence (Γ) visualization through bond-resonance matrices and eigenvalue analysis, showing higher coherence in aromatic systems. (C) Calculation framework for the Collapse Stability Index (CSI), integrating entropy and coherence factors into a unified stability metric. (D) Temperature dependence of CSI for different molecular classes, illustrating how thermal excitation affects stability through entropy gradient modulation.
+
+Version: [宇宙本论版本号]
+Last updated: 2025-06-01 

@@ -1,0 +1,153 @@
+# Submission Instructions - CHEM-JCTC-060
+
+## Journal of Chemical Theory and Computation - Submission Guidelines
+
+### Journal Overview
+
+**Journal of Chemical Theory and Computation (JCTC)** publishes papers reporting new theories, methodology, and/or important applications in quantum chemistry, molecular dynamics, and statistical mechanics. The journal focuses on theoretical and computational papers that drive the field forward intellectually rather than papers that merely use existing computational methods.
+
+**Publisher**: American Chemical Society (ACS)  
+**Impact Factor** (2024): 5.8  
+**Website**: [https://pubs.acs.org/journal/jctcce](https://pubs.acs.org/journal/jctcce)
+
+### Article Types
+
+This paper should be submitted as a **Full Paper** - a comprehensive account of original research presenting a thorough analysis of the work and its implications.
+
+### Submission Process
+
+1. **Submission Platform**: Manuscript submissions must be made through the ACS Paragon Plus system at [https://pubs.acs.org/page/submit/](https://pubs.acs.org/page/submit/)
+
+2. **Account Registration**: Create an account on the ACS Paragon Plus system if you don't already have one.
+
+3. **File Upload Process**:
+   - Main manuscript (Word or LaTeX format)
+   - Figures (individual files in TIFF, PDF, or EPS format)
+   - Supporting Information (single PDF file)
+   - Cover letter
+   - Graphical abstract (TOC graphic)
+   - Author information and affiliations
+
+### Manuscript Format Requirements
+
+1. **Article Structure**:
+   - Title page
+   - Abstract (150-250 words)
+   - Keywords (3-5)
+   - Introduction
+   - Theory/Methods
+   - Results and Discussion
+   - Conclusions
+   - Associated Content (Supporting Information description)
+   - Author Information
+   - Acknowledgments
+   - References
+   - Tables and Figures
+
+2. **Formatting**:
+   - Double-spaced text
+   - 12-point font
+   - Page numbers
+   - Line numbers for review process
+   - LaTeX submissions should use the ACS template (achemso class)
+
+3. **Length**: No strict limit, but typically manuscripts should be concise and focused. The average JCTC paper is approximately 8-12 printed journal pages.
+
+4. **Figures and Tables**:
+   - High-resolution figures (600 dpi for line art, 300 dpi for photos)
+   - Each figure and table must be numbered and cited in the text
+   - Figure captions should be concise but complete
+   - Color figures are published at no cost to authors
+   - Maximum width: 3.25 inches (single column) or 7 inches (double column)
+
+5. **Mathematics**:
+   - Equations should be numbered consecutively
+   - Use proper LaTeX formatting for mathematical expressions
+   - Define all variables and symbols at first use
+   - Complex equations should be displayed on separate lines
+   - For LaTeX submissions, use ACS-compatible math environments
+
+6. **References**:
+   - Follow ACS Style Guide for references
+   - Use numerical superscripts for citations in text
+   - References should be comprehensive and up-to-date
+   - DOIs should be included when available
+   - References to unpublished work should be minimized
+
+### Specific Requirements for Theoretical Papers
+
+1. **Theoretical Framework**:
+   - Clearly identify the level of theory used
+   - Provide complete mathematical derivations (may be in Supporting Information)
+   - Compare with previous theoretical approaches when applicable
+
+2. **Computational Methods**:
+   - Describe computational methodologies in detail
+   - Specify software packages used and versions
+   - For novel methods, provide evidence of validation
+   - Address numerical accuracy and convergence issues
+
+3. **Supporting Information Requirements**:
+   - Detailed mathematical derivations
+   - Additional methodological details
+   - Supplementary results
+   - Raw data necessary for reproducibility
+   - Sample input files or pseudocode for novel methods
+
+### Ethical Requirements
+
+1. **Ethics Statement**: Include a statement that the research was conducted ethically.
+
+2. **Conflicts of Interest**: Provide a statement disclosing any potential conflicts of interest.
+
+3. **Funding Information**: Disclose all sources of funding.
+
+4. **Author Contributions**: Clearly state the contributions of each author.
+
+### Review Process Information
+
+1. **Initial Screening**: The Editor-in-Chief or Associate Editor performs an initial assessment.
+
+2. **Peer Review**: External review by typically 2-3 reviewers with expertise in theoretical and computational chemistry.
+
+3. **Expected Timeline**:
+   - Initial decision: 4-6 weeks
+   - If revision requested: 2-3 months for resubmission
+   - Final decision after revision: 2-4 weeks
+
+4. **Revision Criteria**: Address all reviewer comments systematically in a point-by-point response letter.
+
+### Open Access Options
+
+1. **Standard Publication**: No author fees for traditional subscription access.
+
+2. **ACS AuthorChoice**: Optional open access for a fee ($5,000 for non-ACS members, $4,000 for ACS members).
+
+3. **Self-Archiving Policy**: Authors may deposit the accepted manuscript in institutional repositories after 12 months.
+
+### ACS Journal-Specific Preferences
+
+1. **Method Development Focus**: JCTC particularly values papers that advance theoretical methods.
+
+2. **Broad Applicability**: Methods should have applicability beyond a single specific system.
+
+3. **Comparison with Experiment**: When relevant, theoretical results should be compared with experimental data.
+
+4. **Code Availability**: While not required, the journal encourages code sharing for new methods.
+
+### Cover Letter Recommendations
+
+1. **Significance Statement**: Clearly articulate the significance of the work to theoretical chemistry.
+
+2. **Methodological Innovation**: Highlight the novel theoretical frameworks introduced.
+
+3. **Fit to Journal**: Explain why JCTC is the appropriate venue for this manuscript.
+
+4. **Suggested Reviewers**: Provide 3-5 names of potential reviewers with appropriate expertise.
+
+---
+
+*These submission instructions are based on the journal's guidelines as of 2025. Verify the most current requirements before submission at [https://pubs.acs.org/page/jctcce/submission/index.html](https://pubs.acs.org/page/jctcce/submission/index.html).*
+
+Version: 1.0
+Last Updated: 2025-06-01 

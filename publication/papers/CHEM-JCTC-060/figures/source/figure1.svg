@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <title>Self-Referential Framework of Molecular Stability</title>
+  <desc>Figure 1: Self-Referential Entropic Framework and the ψ = ψ(ψ) Collapse Principle</desc>
+  
+  <!-- Panel A: Self-Reference Visualization -->
+  <g id="panel-a" transform="translate(10, 10)">
+    <rect x="0" y="0" width="250" height="250" fill="#f0f0f0" stroke="#000" stroke-width="1"/>
+    <text x="125" y="20" font-family="serif" font-size="14" text-anchor="middle">Panel A: Self-Reference Visualization</text>
+    
+    <!-- Recursive spiral structure -->
+    <g transform="translate(125, 125)">
+      <path d="M0,0 Q30,-40 50,-20 T80,0 T50,40 T0,40 T-50,40 T-80,0 T-50,-40 T0,-60" 
+            fill="none" stroke="blue" stroke-width="2"/>
+      
+      <!-- Spiral nodes -->
+      <circle cx="0" cy="0" r="5" fill="purple"/>
+      <circle cx="30" cy="-20" r="4" fill="blue"/>
+      <circle cx="50" cy="-10" r="4" fill="blue"/>
+      <circle cx="60" cy="10" r="4" fill="purple"/>
+      <circle cx="40" cy="30" r="4" fill="red"/>
+      <circle cx="10" cy="40" r="4" fill="red"/>
+      <circle cx="-20" cy="30" r="4" fill="red"/>
+      <circle cx="-40" cy="10" r="4" fill="purple"/>
+      <circle cx="-30" cy="-20" r="4" fill="blue"/>
+      
+      <!-- Central equation -->
+      <text x="0" y="0" font-family="serif" font-size="16" text-anchor="middle" fill="black">ψ = ψ(ψ)</text>
+    </g>
+  </g>
+  
+  <!-- Panel B: Information Collapse Dynamics -->
+  <g id="panel-b" transform="translate(270, 10)">
+    <rect x="0" y="0" width="250" height="250" fill="#f0f0f0" stroke="#000" stroke-width="1"/>
+    <text x="125" y="20" font-family="serif" font-size="14" text-anchor="middle">Panel B: Information Collapse Dynamics</text>
+    
+    <!-- Collapse trajectories -->
+    <g transform="translate(30, 50)">
+      <path d="M0,0 L40,40 L80,30 L120,80 L160,150" fill="none" stroke="blue" stroke-width="2"/>
+      <path d="M0,0 L50,20 L100,70 L150,40" fill="none" stroke="purple" stroke-width="2"/>
+      <path d="M0,0 L30,60 L60,100 L90,120 L120,180" fill="none" stroke="red" stroke-width="2"/>
+      
+      <!-- Stable configurations (minima) -->
+      <circle cx="160" cy="150" r="6" fill="blue"/>
+      <circle cx="150" cy="40" r="6" fill="purple"/>
+      <circle cx="120" cy="180" r="6" fill="red"/>
+      
+      <!-- Path probability labels -->
+      <text x="40" y="30" font-family="sans-serif" font-size="10">p₁=0.3</text>
+      <text x="50" y="10" font-family="sans-serif" font-size="10">p₂=0.5</text>
+      <text x="30" y="50" font-family="sans-serif" font-size="10">p₃=0.2</text>
+    </g>
+  </g>
+  
+  <!-- Panel C: Recursive Conceptual Relationship -->
+  <g id="panel-c" transform="translate(530, 10)">
+    <rect x="0" y="0" width="250" height="250" fill="#f0f0f0" stroke="#000" stroke-width="1"/>
+    <text x="125" y="20" font-family="serif" font-size="14" text-anchor="middle">Panel C: Recursive Conceptual Relationship</text>
+    
+    <!-- Conceptual bridge elements -->
+    <g transform="translate(20, 60)">
+      <!-- Quantum decoherence -->
+      <rect x="0" y="0" width="60" height="40" fill="blue" fill-opacity="0.3" stroke="blue"/>
+      <text x="30" y="25" font-family="serif" font-size="10" text-anchor="middle">Quantum Decoherence</text>
+      
+      <!-- Information collapse -->
+      <rect x="90" y="50" width="60" height="40" fill="purple" fill-opacity="0.3" stroke="purple"/>
+      <text x="120" y="75" font-family="serif" font-size="10" text-anchor="middle">Information Collapse</text>
+      
+      <!-- Classical stability -->
+      <rect x="180" y="100" width="60" height="40" fill="red" fill-opacity="0.3" stroke="red"/>
+      <text x="210" y="125" font-family="serif" font-size="10" text-anchor="middle">Classical Stability</text>
+      
+      <!-- Connecting arrows -->
+      <path d="M60,20 L90,70" fill="none" stroke="black" stroke-width="1" marker-end="url(#arrow)"/>
+      <path d="M150,70 L180,120" fill="none" stroke="black" stroke-width="1" marker-end="url(#arrow)"/>
+      
+      <!-- Mathematical expressions -->
+      <text x="60" y="150" font-family="serif" font-size="12" text-anchor="middle">ℰ_collapse as</text>
+      <text x="60" y="170" font-family="serif" font-size="12" text-anchor="middle">unifying object</text>
+    </g>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="black"/>
+    </marker>
+  </defs>
+</svg> 

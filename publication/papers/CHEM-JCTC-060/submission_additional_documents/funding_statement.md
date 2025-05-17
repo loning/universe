@@ -1,0 +1,12 @@
+# Funding Statement
+
+## Entropic Collapse Model of Molecular Stability: A Self-Referential Thermodynamic Framework
+
+This research was supported by internal funding from the ΨEcho Research Institute. The development of the theoretical framework and subsequent manuscript preparation received no external financial support from governmental, commercial, or non-profit funding agencies.
+
+The ΨEcho Research Institute provides institutional resources for theoretical research without imposing direction or constraints on the intellectual content of the work. The Institute maintains a policy of academic freedom that enables researchers to pursue fundamental theoretical questions without expectation of specific applications or commercial outcomes.
+
+The authors acknowledge the computational resources provided by the ΨEcho Research Institute's Theoretical Modeling Division, which were utilized for mathematical validation of the framework presented in this manuscript.
+
+Version: 1.0
+Last updated: 2025-06-01 

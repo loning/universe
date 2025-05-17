@@ -1,0 +1,56 @@
+# Suggested Reviewers
+
+## Entropic Collapse Model of Molecular Stability: A Self-Referential Thermodynamic Framework
+
+### Recommended Reviewers
+
+1. **Prof. Angela K. Wilson**
+   - Institution: Michigan State University
+   - Email: akwilson@msu.edu
+   - Expertise: Quantum chemistry, theoretical method development, and computational thermochemistry
+   - Relevance: Prof. Wilson's work on developing theoretical methods for accurate thermochemistry is directly relevant to our framework's goals of predicting molecular stability from first principles.
+
+2. **Prof. Martin Head-Gordon**
+   - Institution: University of California, Berkeley
+   - Email: mhg@cchem.berkeley.edu
+   - Expertise: Electronic structure theory, quantum chemistry, and theoretical method development
+   - Relevance: Prof. Head-Gordon's expertise in developing novel theoretical frameworks in quantum chemistry would provide valuable insight into the mathematical foundations of our collapse entropy approach.
+
+3. **Prof. Teresa Head-Gordon**
+   - Institution: University of California, Berkeley
+   - Email: thg@berkeley.edu
+   - Expertise: Computational chemistry, molecular simulation, and statistical mechanics
+   - Relevance: Prof. Head-Gordon's work bridging statistical mechanics with molecular simulations aligns with our framework's connection between information theory and molecular thermodynamics.
+
+4. **Prof. William A. Goddard III**
+   - Institution: California Institute of Technology
+   - Email: wag@caltech.edu
+   - Expertise: Theoretical chemistry, materials simulation, and multiscale modeling
+   - Relevance: Prof. Goddard's broad expertise in theoretical chemistry and experience with novel theoretical approaches would provide valuable assessment of our framework's broader implications.
+
+5. **Prof. John P. Perdew**
+   - Institution: Temple University
+   - Email: perdew@temple.edu
+   - Expertise: Theoretical method development, density functional theory, and quantum theory
+   - Relevance: Prof. Perdew's foundational work in theoretical method development would provide valuable perspective on the mathematical rigor and broader implications of our approach.
+
+6. **Prof. Weitao Yang**
+   - Institution: Duke University
+   - Email: weitao.yang@duke.edu
+   - Expertise: Theoretical and computational chemistry, density functional theory
+   - Relevance: Prof. Yang's expertise in developing novel theoretical approaches in chemistry would provide important insight into the theoretical soundness of our framework.
+
+### Reviewers to Exclude
+
+1. **Prof. [Name Redacted]**
+   - Institution: [Institution Redacted]
+   - Reason: Competing theoretical framework with fundamental philosophical differences in approach to molecular stability
+
+2. **Prof. [Name Redacted]**
+   - Institution: [Institution Redacted]
+   - Reason: Previous critical exchanges on similar theoretical concepts at conferences
+
+Note: The specific names have been redacted in this document but will be provided confidentially to the editor if requested.
+
+Version: 1.0
+Last updated: 2025-06-01 

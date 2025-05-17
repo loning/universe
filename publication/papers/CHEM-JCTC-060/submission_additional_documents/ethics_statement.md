@@ -1,0 +1,52 @@
+# Publication Ethics Statement
+
+## Entropic Collapse Model of Molecular Stability: A Self-Referential Thermodynamic Framework
+
+### Publication Ethics Declaration
+
+The authors of this manuscript declare that they have adhered to all applicable ethical standards for scientific publication as outlined by the American Chemical Society (ACS) and the Committee on Publication Ethics (COPE).
+
+Specifically, we affirm that:
+
+1. **Originality and Plagiarism**
+   - This manuscript represents original work developed by the authors.
+   - All sources of information and previously published work have been appropriately cited.
+   - No text, equations, or figures have been plagiarized from other works.
+
+2. **Prior Publication**
+   - This manuscript has not been published elsewhere.
+   - The work is not currently under consideration for publication in any other journal.
+   - The theoretical framework presented has not been previously published in full.
+
+3. **Author Eligibility**
+   - All listed authors have made substantial intellectual contributions to the work.
+   - All authors have reviewed and approved the final manuscript.
+   - No deserving authors have been omitted, and no individuals who do not meet authorship criteria have been included.
+
+4. **Data Integrity**
+   - As a theoretical paper, no experimental data manipulation concerns apply.
+   - All mathematical derivations have been carefully verified for accuracy.
+   - Any computational results mentioned have been generated through valid procedures.
+
+5. **Ethical Oversight**
+   - This theoretical work did not involve human subjects, animals, or biosafety concerns.
+   - No ethical approvals were required for this theoretical research.
+
+6. **Disclosure and Conflicts**
+   - All funding sources have been disclosed in the Funding Statement.
+   - Potential conflicts of interest have been disclosed in the Conflict of Interest Statement.
+   - No undisclosed financial or personal relationships exist that could inappropriately bias this work.
+
+7. **Responsible Research Practices**
+   - The theoretical framework has been presented with appropriate caveats about its scope and limitations.
+   - Claims are made responsibly and supported by appropriate theoretical evidence.
+   - The implications of the work are discussed in a balanced manner.
+
+8. **Post-Publication Responsibilities**
+   - The authors commit to responding to any questions about the work after publication.
+   - The authors will promptly notify the journal of any significant errors discovered after publication.
+
+We understand that any breach of these ethical standards may result in rejection of the manuscript or, if discovered after publication, may result in retraction of the published article.
+
+Version: 1.0
+Last updated: 2025-06-01 

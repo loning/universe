@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <title>Collapse Entropy and Resonance Coherence Visualization</title>
+  <desc>Figure 2: Collapse Entropy (ℰ_collapse) and Resonance Coherence (Γ) as Determinants of Molecular Stability</desc>
+  
+  <!-- Panel A: Collapse Entropy Landscape -->
+  <g id="panel-a" transform="translate(10, 10)">
+    <rect x="0" y="0" width="380" height="380" fill="#f0f0f0" stroke="#000" stroke-width="1"/>
+    <text x="190" y="20" font-family="serif" font-size="14" text-anchor="middle">Panel A: Collapse Entropy Landscape</text>
+    
+    <!-- 3D Surface plot representation -->
+    <g transform="translate(40, 40)">
+      <!-- Grid lines for 3D effect -->
+      <g id="grid-lines">
+        <!-- X-Y grid -->
+        <path d="M0,300 L300,300" stroke="#999" stroke-width="1"/>
+        <path d="M0,260 L300,260" stroke="#999" stroke-width="1"/>
+        <path d="M0,220 L300,220" stroke="#999" stroke-width="1"/>
+        <path d="M0,180 L300,180" stroke="#999" stroke-width="1"/>
+        <path d="M0,140 L300,140" stroke="#999" stroke-width="1"/>
+        <path d="M0,100 L300,100" stroke="#999" stroke-width="1"/>
+        <path d="M0,60 L300,60" stroke="#999" stroke-width="1"/>
+        <path d="M0,20 L300,20" stroke="#999" stroke-width="1"/>
+        
+        <path d="M0,0 L0,300" stroke="#999" stroke-width="1"/>
+        <path d="M40,0 L40,300" stroke="#999" stroke-width="1"/>
+        <path d="M80,0 L80,300" stroke="#999" stroke-width="1"/>
+        <path d="M120,0 L120,300" stroke="#999" stroke-width="1"/>
+        <path d="M160,0 L160,300" stroke="#999" stroke-width="1"/>
+        <path d="M200,0 L200,300" stroke="#999" stroke-width="1"/>
+        <path d="M240,0 L240,300" stroke="#999" stroke-width="1"/>
+        <path d="M280,0 L280,300" stroke="#999" stroke-width="1"/>
+      </g>
+      
+      <!-- 3D surface (simplified representation) -->
+      <path d="M0,300 C50,250 100,220 150,280 S250,200 300,300" 
+            fill="url(#entropy-gradient)" stroke="black" stroke-width="1" fill-opacity="0.7"/>
+      
+      <!-- Stable minima points -->
+      <circle cx="100" cy="220" r="6" fill="blue"/>
+      <text x="100" cy="210" font-family="sans-serif" font-size="10" text-anchor="middle">Stable Structure A</text>
+      
+      <circle cx="250" cy="200" r="6" fill="blue"/>
+      <text x="250" cy="190" font-family="sans-serif" font-size="10" text-anchor="middle">Stable Structure B</text>
+      
+      <!-- Axes labels -->
+      <text x="150" y="320" font-family="serif" font-size="12" text-anchor="middle">Configuration Space</text>
+      <text x="-20" y="150" font-family="serif" font-size="12" text-anchor="middle" transform="rotate(-90, -20, 150)">ℰ_collapse</text>
+    </g>
+  </g>
+  
+  <!-- Panel B: Resonance Coherence Visualization -->
+  <g id="panel-b" transform="translate(410, 10)">
+    <rect x="0" y="0" width="380" height="380" fill="#f0f0f0" stroke="#000" stroke-width="1"/>
+    <text x="190" y="20" font-family="serif" font-size="14" text-anchor="middle">Panel B: Resonance Coherence Visualization</text>
+    
+    <!-- Bond-resonance matrix visualization -->
+    <g transform="translate(30, 50)">
+      <!-- Aromatic system (high coherence) -->
+      <g transform="translate(0, 0)">
+        <text x="0" y="-10" font-family="serif" font-size="12">Aromatic (High Γ)</text>
+        
+        <!-- Benzene representation -->
+        <polygon points="40,0 20,35 -20,35 -40,0 -20,-35 20,-35" 
+                 fill="none" stroke="black" stroke-width="1"/>
+        
+        <!-- Resonance bonds -->
+        <line x1="40" y1="0" x2="20" y2="35" stroke="purple" stroke-width="3"/>
+        <line x1="20" y1="35" x2="-20" y2="35" stroke="purple" stroke-width="3"/>
+        <line x1="-20" y1="35" x2="-40" y2="0" stroke="purple" stroke-width="3"/>
+        <line x1="-40" y1="0" x2="-20" y2="-35" stroke="purple" stroke-width="3"/>
+        <line x1="-20" y1="-35" x2="20" y2="-35" stroke="purple" stroke-width="3"/>
+        <line x1="20" y1="-35" x2="40" y2="0" stroke="purple" stroke-width="3"/>
+        
+        <!-- Eigenvalue representation -->
+        <text x="60" y="0" font-family="sans-serif" font-size="10">λ₁ = 4.8</text>
+        <text x="60" y="15" font-family="sans-serif" font-size="10">λ₂ = 2.6</text>
+        <text x="60" y="30" font-family="sans-serif" font-size="10">λ₃ = 1.5</text>
+        <text x="60" y="45" font-family="sans-serif" font-size="10">Γ = 2.87</text>
+      </g>
+      
+      <!-- Non-aromatic system (low coherence) -->
+      <g transform="translate(200, 0)">
+        <text x="0" y="-10" font-family="serif" font-size="12">Non-Aromatic (Low Γ)</text>
+        
+        <!-- Chain representation -->
+        <line x1="-40" y1="0" x2="-20" y2="0" stroke="black" stroke-width="1"/>
+        <line x1="-20" y1="0" x2="0" y2="0" stroke="black" stroke-width="1"/>
+        <line x1="0" y1="0" x2="20" y2="0" stroke="black" stroke-width="1"/>
+        <line x1="20" y1="0" x2="40" y2="0" stroke="black" stroke-width="1"/>
+        
+        <!-- Resonance bonds (weaker) -->
+        <line x1="-40" y1="0" x2="-20" y2="0" stroke="blue" stroke-width="2"/>
+        <line x1="0" y1="0" x2="20" y2="0" stroke="blue" stroke-width="2"/>
+        
+        <!-- Eigenvalue representation -->
+        <text x="60" y="0" font-family="sans-serif" font-size="10">λ₁ = 2.1</text>
+        <text x="60" y="15" font-family="sans-serif" font-size="10">λ₂ = 1.4</text>
+        <text x="60" y="30" font-family="sans-serif" font-size="10">λ₃ = 0.8</text>
+        <text x="60" y="45" font-family="sans-serif" font-size="10">Γ = 1.32</text>
+      </g>
+    </g>
+    
+    <!-- Γ calculation visualization -->
+    <g transform="translate(190, 150)">
+      <rect x="-150" y="0" width="300" height="60" fill="#eef" stroke="black" stroke-width="1"/>
+      <text x="0" y="30" font-family="serif" font-size="16" text-anchor="middle">Γ(ψ) = (Σλ_i²)/(Σλ_i)</text>
+    </g>
+  </g>
+  
+  <!-- Panel C: CSI Calculation Framework -->
+  <g id="panel-c" transform="translate(10, 410)">
+    <rect x="0" y="0" width="380" height="380" fill="#f0f0f0" stroke="#000" stroke-width="1"/>
+    <text x="190" y="20" font-family="serif" font-size="14" text-anchor="middle">Panel C: CSI Calculation Framework</text>
+    
+    <!-- CSI Formula -->
+    <g transform="translate(190, 50)">
+      <rect x="-150" y="0" width="300" height="40" fill="#eef" stroke="black" stroke-width="1"/>
+      <text x="0" y="25" font-family="serif" font-size="16" text-anchor="middle">CSI = [1/ℰ_collapse] · Γ</text>
+    </g>
+    
+    <!-- Comparison table -->
+    <g transform="translate(40, 120)">
+      <rect x="0" y="0" width="300" height="200" fill="none" stroke="black" stroke-width="1"/>
+      
+      <!-- Table headers -->
+      <rect x="0" y="0" width="75" height="25" fill="#eee" stroke="black" stroke-width="1"/>
+      <rect x="75" y="0" width="75" height="25" fill="#eee" stroke="black" stroke-width="1"/>
+      <rect x="150" y="0" width="75" height="25" fill="#eee" stroke="black" stroke-width="1"/>
+      <rect x="225" y="0" width="75" height="25" fill="#eee" stroke="black" stroke-width="1"/>
+      
+      <text x="37.5" y="17" font-family="sans-serif" font-size="10" text-anchor="middle">Molecule</text>
+      <text x="112.5" y="17" font-family="sans-serif" font-size="10" text-anchor="middle">ℰ_collapse</text>
+      <text x="187.5" y="17" font-family="sans-serif" font-size="10" text-anchor="middle">Γ</text>
+      <text x="262.5" y="17" font-family="sans-serif" font-size="10" text-anchor="middle">CSI</text>
+      
+      <!-- Table rows -->
+      <!-- Row 1 -->
+      <rect x="0" y="25" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="75" y="25" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="150" y="25" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="225" y="25" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      
+      <text x="37.5" y="42" font-family="sans-serif" font-size="10" text-anchor="middle">Benzene</text>
+      <text x="112.5" y="42" font-family="sans-serif" font-size="10" text-anchor="middle">0.42</text>
+      <text x="187.5" y="42" font-family="sans-serif" font-size="10" text-anchor="middle">2.87</text>
+      <text x="262.5" y="42" font-family="sans-serif" font-size="10" text-anchor="middle">6.83</text>
+      
+      <!-- Row 2 -->
+      <rect x="0" y="50" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="75" y="50" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="150" y="50" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="225" y="50" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      
+      <text x="37.5" y="67" font-family="sans-serif" font-size="10" text-anchor="middle">Cyclohexane</text>
+      <text x="112.5" y="67" font-family="sans-serif" font-size="10" text-anchor="middle">0.67</text>
+      <text x="187.5" y="67" font-family="sans-serif" font-size="10" text-anchor="middle">1.54</text>
+      <text x="262.5" y="67" font-family="sans-serif" font-size="10" text-anchor="middle">2.30</text>
+      
+      <!-- Row 3 -->
+      <rect x="0" y="75" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="75" y="75" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="150" y="75" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="225" y="75" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      
+      <text x="37.5" y="92" font-family="sans-serif" font-size="10" text-anchor="middle">Hexane</text>
+      <text x="112.5" y="92" font-family="sans-serif" font-size="10" text-anchor="middle">0.89</text>
+      <text x="187.5" y="92" font-family="sans-serif" font-size="10" text-anchor="middle">1.32</text>
+      <text x="262.5" y="92" font-family="sans-serif" font-size="10" text-anchor="middle">1.48</text>
+      
+      <!-- Row 4 -->
+      <rect x="0" y="100" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="75" y="100" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="150" y="100" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      <rect x="225" y="100" width="75" height="25" fill="white" stroke="black" stroke-width="1"/>
+      
+      <text x="37.5" y="117" font-family="sans-serif" font-size="10" text-anchor="middle">Naphthalene</text>
+      <text x="112.5" y="117" font-family="sans-serif" font-size="10" text-anchor="middle">0.36</text>
+      <text x="187.5" y="117" font-family="sans-serif" font-size="10" text-anchor="middle">3.12</text>
+      <text x="262.5" y="117" font-family="sans-serif" font-size="10" text-anchor="middle">8.67</text>
+    </g>
+  </g>
+  
+  <!-- Panel D: Temperature Dependence -->
+  <g id="panel-d" transform="translate(410, 410)">
+    <rect x="0" y="0" width="380" height="380" fill="#f0f0f0" stroke="#000" stroke-width="1"/>
+    <text x="190" y="20" font-family="serif" font-size="14" text-anchor="middle">Panel D: Temperature Dependence</text>
+    
+    <!-- Temperature plot -->
+    <g transform="translate(40, 60)">
+      <!-- Axes -->
+      <line x1="0" y1="0" x2="0" y2="220" stroke="black" stroke-width="1"/>
+      <line x1="0" y1="220" x2="300" y2="220" stroke="black" stroke-width="1"/>
+      
+      <!-- Tick marks -->
+      <line x1="-5" y1="0" x2="0" y2="0" stroke="black" stroke-width="1"/>
+      <line x1="-5" y1="55" x2="0" y2="55" stroke="black" stroke-width="1"/>
+      <line x1="-5" y1="110" x2="0" y2="110" stroke="black" stroke-width="1"/>
+      <line x1="-5" y1="165" x2="0" y2="165" stroke="black" stroke-width="1"/>
+      <line x1="-5" y1="220" x2="0" y2="220" stroke="black" stroke-width="1"/>
+      
+      <line x1="0" y1="225" x2="0" y2="220" stroke="black" stroke-width="1"/>
+      <line x1="75" y1="225" x2="75" y2="220" stroke="black" stroke-width="1"/>
+      <line x1="150" y1="225" x2="150" y2="220" stroke="black" stroke-width="1"/>
+      <line x1="225" y1="225" x2="225" y2="220" stroke="black" stroke-width="1"/>
+      <line x1="300" y1="225" x2="300" y2="220" stroke="black" stroke-width="1"/>
+      
+      <!-- Axis labels -->
+      <text x="-20" y="0" font-family="sans-serif" font-size="10" text-anchor="middle">10</text>
+      <text x="-20" y="55" font-family="sans-serif" font-size="10" text-anchor="middle">8</text>
+      <text x="-20" y="110" font-family="sans-serif" font-size="10" text-anchor="middle">6</text>
+      <text x="-20" y="165" font-family="sans-serif" font-size="10" text-anchor="middle">4</text>
+      <text x="-20" y="220" font-family="sans-serif" font-size="10" text-anchor="middle">2</text>
+      
+      <text x="0" y="240" font-family="sans-serif" font-size="10" text-anchor="middle">0</text>
+      <text x="75" y="240" font-family="sans-serif" font-size="10" text-anchor="middle">100</text>
+      <text x="150" y="240" font-family="sans-serif" font-size="10" text-anchor="middle">200</text>
+      <text x="225" y="240" font-family="sans-serif" font-size="10" text-anchor="middle">300</text>
+      <text x="300" y="240" font-family="sans-serif" font-size="10" text-anchor="middle">400</text>
+      
+      <text x="-30" y="110" font-family="sans-serif" font-size="12" text-anchor="middle" transform="rotate(-90, -30, 110)">CSI</text>
+      <text x="150" y="260" font-family="sans-serif" font-size="12" text-anchor="middle">Temperature (K)</text>
+      
+      <!-- Temperature curves -->
+      <path d="M0,20 C75,35 150,110 225,180 S300,220 300,220" 
+            fill="none" stroke="blue" stroke-width="2" stroke-dasharray="none"/>
+      <text x="50" y="30" font-family="sans-serif" font-size="10" fill="blue">Aromatic</text>
+      
+      <path d="M0,140 C75,145 150,160 225,190 S300,220 300,220" 
+            fill="none" stroke="red" stroke-width="2" stroke-dasharray="none"/>
+      <text x="50" y="140" font-family="sans-serif" font-size="10" fill="red">Non-aromatic</text>
+      
+      <path d="M0,170 C75,175 150,180 225,200 S300,220 300,220" 
+            fill="none" stroke="green" stroke-width="2" stroke-dasharray="none"/>
+      <text x="50" y="170" font-family="sans-serif" font-size="10" fill="green">Aliphatic</text>
+      
+      <!-- Phase transition point -->
+      <circle cx="150" cy="110" r="5" fill="purple"/>
+      <text x="160" y="100" font-family="sans-serif" font-size="10" fill="purple">Phase transition</text>
+    </g>
+    
+    <!-- Temperature relationship -->
+    <text x="190" y="320" font-family="serif" font-size="16" text-anchor="middle">T ∝ ∂_ψℰ_collapse</text>
+  </g>
+  
+  <!-- Gradient definitions -->
+  <defs>
+    <linearGradient id="entropy-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:blue;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:purple;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:red;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg> 

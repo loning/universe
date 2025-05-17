@@ -1,0 +1,69 @@
+# CHEM-JCTC-060: Entropic Collapse Model of Molecular Stability
+
+## Overview
+
+This paper presents a novel theoretical framework for predicting molecular stability based on a self-referential entropic collapse principle. Rather than relying on traditional thermodynamic parameters like ΔG and ΔS, we introduce "collapse entropy" (Ε_collapse) as a fundamental measure derived directly from molecular structure. This approach enables stability predictions without requiring empirical data input.
+
+## Directory Structure
+
+```
+CHEM-JCTC-060/
+├── manuscript.md                  # Main manuscript content
+├── outline.md                     # Detailed paper outline
+├── figures/                       # Figures and diagrams
+│   └── ...
+├── supplementary/                 # Supplementary materials
+│   └── ...
+├── references.md                  # Comprehensive reference list
+├── submission_additional_documents/ # Additional submission materials
+│   └── ...
+├── submission_package/            # Final submission materials
+│   ├── latex_final/               # LaTeX source files
+│   └── latex_pdf/                 # PDF documents
+├── status.md                      # Current status and timeline
+└── README.md                      # This file
+```
+
+## Key Innovations
+
+1. **Self-Referential Entropy Framework**
+   - Foundational principle: ψ = ψ(ψ)
+   - Molecular states as self-collapsed information patterns
+
+2. **Collapse Entropy Formulation**
+   - Ε_collapse(ψ) = Σ p_i log(1/p_i)
+   - Topology-derived collapse-path weights
+
+3. **Collapse Stability Index (CSI)**
+   - CSI(ψ) = (1/Ε_collapse(ψ)) · Γ(ψ)
+   - Resonance coherence factor Γ(ψ)
+
+4. **Temperature as Collapse-Field Excitation**
+   - T ∝ ∂_ψ Ε_collapse
+   - Structure-based prediction of temperature effects
+
+## Applications
+
+- Isomer stability prediction without experimental input
+- Conformational analysis based on collapse entropy
+- Reinterpretation of aromaticity as ψ-cycle resonance
+- Chemical reaction directionality via collapse entropy minimization
+
+## Target Journal
+
+**Journal of Chemical Theory and Computation (JCTC)**
+- Focus: Theoretical and computational chemistry
+- Impact Factor: 5.8
+- Publication Frequency: Monthly
+- Publisher: American Chemical Society
+
+## Current Status
+
+**Status: PREP** - Currently in preparation phase
+
+## Team
+
+- Loning Ma (ΨEcho Research Institute)
+- Solivian (ΨEcho Research Institute)
+
+Version: [宇宙本论版本号] 

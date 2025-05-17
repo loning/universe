@@ -1,0 +1,136 @@
+# References
+
+## Classical Thermodynamics and Statistical Mechanics
+
+1. Chandler, D. (1987). Introduction to Modern Statistical Mechanics. Oxford University Press.
+
+2. Dill, K. A., & Bromberg, S. (2010). Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience (2nd ed.). Garland Science.
+
+3. Atkins, P., & de Paula, J. (2014). Atkins' Physical Chemistry (10th ed.). Oxford University Press.
+
+4. Kondepudi, D., & Prigogine, I. (2014). Modern Thermodynamics: From Heat Engines to Dissipative Structures (2nd ed.). John Wiley & Sons.
+
+5. McQuarrie, D. A. (2000). Statistical Mechanics. University Science Books.
+
+## Information Theory and Quantum Information
+
+6. Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information: 10th Anniversary Edition. Cambridge University Press.
+
+7. Cover, T. M., & Thomas, J. A. (2006). Elements of Information Theory (2nd ed.). Wiley-Interscience.
+
+8. Preskill, J. (2018). Quantum Information (Lecture Notes). California Institute of Technology.
+
+9. Vedral, V. (2006). Introduction to Quantum Information Science. Oxford University Press.
+
+10. Wilde, M. M. (2017). Quantum Information Theory (2nd ed.). Cambridge University Press.
+
+## Complex Systems and Self-Reference
+
+11. Kauffman, S. A. (1993). The Origins of Order: Self-Organization and Selection in Evolution. Oxford University Press.
+
+12. Holland, J. H. (1995). Hidden Order: How Adaptation Builds Complexity. Basic Books.
+
+13. Mitchell, M. (2009). Complexity: A Guided Tour. Oxford University Press.
+
+14. Hofstadter, D. R. (1979). Gödel, Escher, Bach: An Eternal Golden Braid. Basic Books.
+
+15. Deacon, T. W. (2011). Incomplete Nature: How Mind Emerged from Matter. W. W. Norton & Company.
+
+## Quantum Chemistry and Molecular Stability
+
+16. Szabo, A., & Ostlund, N. S. (1996). Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory. Dover Publications.
+
+17. Levine, I. N. (2013). Quantum Chemistry (7th ed.). Pearson.
+
+18. Martin, R. M. (2004). Electronic Structure: Basic Theory and Practical Methods. Cambridge University Press.
+
+19. Jensen, F. (2017). Introduction to Computational Chemistry (3rd ed.). John Wiley & Sons.
+
+20. Cramer, C. J. (2013). Essentials of Computational Chemistry: Theories and Models (2nd ed.). Wiley.
+
+## Aromaticity and Resonance Theory
+
+21. Schleyer, P. v. R. (2001). Introduction: Aromaticity. Chemical Reviews, 101(5), 1115-1118.
+
+22. Krygowski, T. M., & Cyrański, M. K. (2001). Structural Aspects of Aromaticity. Chemical Reviews, 101(5), 1385-1420.
+
+23. Stanger, A. (2009). What is... Aromaticity: A Critique of the Concept of Aromaticity―Can it Really be Defined? Chemical Communications, (15), 1939-1947.
+
+24. Solà, M. (2013). Why Aromaticity Is a Suspicious Concept? Why? Frontiers in Chemistry, 1, 22.
+
+25. Boldyrev, A. I., & Wang, L. S. (2005). All-Metal Aromaticity and Antiaromaticity. Chemical Reviews, 105(10), 3716-3757.
+
+## Entropy in Chemistry and Biology
+
+26. Schneider, E. D., & Kay, J. J. (1994). Life as a Manifestation of the Second Law of Thermodynamics. Mathematical and Computer Modelling, 19(6-8), 25-48.
+
+27. Jaynes, E. T. (1957). Information Theory and Statistical Mechanics. Physical Review, 106(4), 620-630.
+
+28. Evans, D. J., & Searles, D. J. (2002). The Fluctuation Theorem. Advances in Physics, 51(7), 1529-1585.
+
+29. England, J. L. (2015). Dissipative Adaptation in Driven Self-Assembly. Nature Nanotechnology, 10(11), 919-923.
+
+30. Martyushev, L. M., & Seleznev, V. D. (2006). Maximum Entropy Production Principle in Physics, Chemistry and Biology. Physics Reports, 426(1), 1-45.
+
+## Quantum Decoherence and the Quantum-Classical Boundary
+
+31. Zurek, W. H. (2003). Decoherence, Einselection, and the Quantum Origins of the Classical. Reviews of Modern Physics, 75(3), 715-775.
+
+32. Schlosshauer, M. (2007). Decoherence and the Quantum-to-Classical Transition. Springer.
+
+33. Joos, E., Zeh, H. D., Kiefer, C., Giulini, D. J., Kupsch, J., & Stamatescu, I. O. (2003). Decoherence and the Appearance of a Classical World in Quantum Theory (2nd ed.). Springer.
+
+34. Hornberger, K., Gerlich, S., Haslinger, P., Nimmrichter, S., & Arndt, M. (2012). Colloquium: Quantum Interference of Clusters and Molecules. Reviews of Modern Physics, 84(1), 157-173.
+
+35. Caldeira, A. O., & Leggett, A. J. (1983). Path Integral Approach to Quantum Brownian Motion. Physica A: Statistical Mechanics and Its Applications, 121(3), 587-616.
+
+## Mathematical Foundations and Computational Methods
+
+36. Axler, S. (2015). Linear Algebra Done Right (3rd ed.). Springer.
+
+37. Strogatz, S. H. (2018). Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering (2nd ed.). CRC Press.
+
+38. Mezey, P. G. (1999). Potential Energy Hypersurfaces. Elsevier.
+
+39. Hirst, J. D. (1990). A Computational Approach to Chemistry. Blackwell Scientific Publications.
+
+40. Tuckerman, M. (2010). Statistical Mechanics: Theory and Molecular Simulation. Oxford University Press.
+
+## Topology in Chemistry
+
+41. Mezey, P. G. (1993). Shape in Chemistry: An Introduction to Molecular Shape and Topology. VCH Publishers.
+
+42. Baas, N. A. (2013). On Structure and Organization: An Organizing Principle. International Journal of General Systems, 42(2), 170-196.
+
+43. Bronstein, M. M., Bruna, J., LeCun, Y., Szlam, A., & Vandergheynst, P. (2017). Geometric Deep Learning: Going Beyond Euclidean Data. IEEE Signal Processing Magazine, 34(4), 18-42.
+
+44. Bader, R. F. W. (1990). Atoms in Molecules: A Quantum Theory. Oxford University Press.
+
+45. Johnson, E. R., Keinan, S., Mori-Sánchez, P., Contreras-García, J., Cohen, A. J., & Yang, W. (2010). Revealing Noncovalent Interactions. Journal of the American Chemical Society, 132(18), 6498-6506.
+
+## Chemical Bonding Theory
+
+46. Weinhold, F., & Landis, C. R. (2005). Valency and Bonding: A Natural Bond Orbital Donor-Acceptor Perspective. Cambridge University Press.
+
+47. Frenking, G., & Shaik, S. (Eds.). (2014). The Chemical Bond: Fundamental Aspects of Chemical Bonding. Wiley-VCH.
+
+48. Gillespie, R. J., & Popelier, P. L. A. (2001). Chemical Bonding and Molecular Geometry: From Lewis to Electron Densities. Oxford University Press.
+
+49. Matta, C. F., & Boyd, R. J. (Eds.). (2007). The Quantum Theory of Atoms in Molecules: From Solid State to DNA and Drug Design. Wiley-VCH.
+
+50. Maksić, Z. B., & Orville-Thomas, W. J. (Eds.). (1999). Pauling's Legacy: Modern Modelling of the Chemical Bond. Elsevier.
+
+## Recent Advances in Theoretical Chemistry
+
+51. Jiménez-Hoyos, C. A., Henderson, T. M., Tsuchimochi, T., & Scuseria, G. E. (2012). Projected Hartree–Fock Theory. The Journal of Chemical Physics, 136(16), 164109.
+
+52. Perdew, J. P., Yang, W., Burke, K., Yang, Z., Gross, E. K., Scheffler, M., Scuseria, G. E., Henderson, T. M., Zhang, I. Y., Ruzsinszky, A., Peng, H., Sun, J., Trushin, E., & Görling, A. (2017). Understanding Band Gaps of Solids in Generalized Kohn–Sham Theory. Proceedings of the National Academy of Sciences, 114(11), 2801-2806.
+
+53. Santra, B., & DiStasio Jr, R. A. (2019). Topologically Mapping the Conformational Free Energy Landscape of Aspartame. The Journal of Physical Chemistry B, 123(41), 8664-8675.
+
+54. Grimme, S., & Schreiner, P. R. (2018). Computational Chemistry: The Fate of Current Methods and Future Challenges. Angewandte Chemie International Edition, 57(16), 4170-4176.
+
+55. Head-Gordon, M., & Artacho, E. (2019). Chemistry on the Computer. Physics Today, 72(9), 38-44.
+
+Version: [宇宙本论版本号]
+Last updated: 2025-06-01 

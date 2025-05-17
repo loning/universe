@@ -9,7 +9,8 @@
 | 复杂系统 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 哲学 | 13 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 生命科学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
-| **总计** | **59** | **4** | **0** | **0** | **0** | **0** | **0** | **0** | - |
+| 化学 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | - |
+| **总计** | **61** | **5** | **0** | **0** | **0** | **0** | **0** | **0** | - |
 
 ## 2. 文件组织结构
 
@@ -189,7 +190,16 @@ publication/
 | LIFE-IF-057 | Interface Focus | Information Processing Principles in Living Systems | 无严格限制 | PLAN | 待创建 | - | - |
 | LIFE-BC-058 | Biological Cybernetics | XOR-SHIFT Mechanisms in Biological Systems | 无严格限制 | PLAN | 待创建 | - | - |
 
-## 7. 目录迁移计划
+## 7. 化学科学论文追踪
+
+### 7.1 理论化学论文
+
+| 追踪ID | 期刊 | 论文主题 | 字数限制 | 当前状态 | 目录路径 | 提交日期 | 最近更新 |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| CHEM-JPCL-059 | Journal of Physical Chemistry Letters | [论文主题] | 无严格限制 | PREP | publication/papers/CHEM-JPCL-059/ | - | - |
+| CHEM-JCTC-060 | Journal of Chemical Theory and Computation | Entropic Collapse Model of Molecular Stability | 无严格限制 | PREP | publication/papers/CHEM-JCTC-060/ | - | 2025-06-01 |
+
+## 8. 目录迁移计划
 
 现有的论文文件将按照以下计划从`top_papers`目录迁移到新的`papers`目录结构：
 
@@ -202,7 +212,7 @@ publication/
 
 迁移计划将于2025年4月25日前完成，确保不影响当前进行中的论文准备工作。
 
-### 7.1 已完成论文目录结构
+### 8.1 已完成论文目录结构
 
 | 追踪ID | 主要文件 | 提交文件 | 补充材料 | LaTeX状态 | 额外文件 | 状态 |
 |---------|---------|---------|---------|---------|---------|---------|
@@ -212,7 +222,7 @@ publication/
 | PHY-NAT-007 | manuscript.md | cover_letter.md<br>highlights.md<br>submission_checklist.md<br>status.md | figures/(无内容)<br>supplementary/(无内容) | 未开始 | author_info.md | PREP |
 | FUND-FOP-047 | manuscript.md<br>outline.md<br>references.md | cover_letter.md<br>highlights.md<br>submission_checklist.md<br>submission_instructions.md | figures/figure1.svg<br>figures/figure1_description.md<br>figures/figure2_description.md<br>simulations/constants_relationship_sim.py<br>supplementary/mathematical_proofs.md<br>supplementary/experimental_protocols.md<br>supplementary/data_availability.md | 未开始 | 已创建 | PREP |
 
-### 7.2 LaTeX生成状态
+### 8.2 LaTeX生成状态
 
 | 追踪ID | LaTeX任务 | 完成状态 | 开始日期 | 完成日期 | 备注 |
 |---------|---------|---------|---------|---------|---------|
@@ -223,9 +233,9 @@ publication/
 | PHY-SCI-003 | PDF编译 | 100% | 2025-04-21 | 2025-04-19 | 编译成功并解决所有问题 |
 | PHY-SCI-003 | 最终验证 | 100% | 2025-04-25 | 2025-04-19 | 完成所有功能验证 |
 
-## 8. 额外提交文件要求
+## 9. 额外提交文件要求
 
-### 8.1 作者信息要求
+### 9.1 作者信息要求
 
 1. **作者信息文件** (`author_info.md`):
    - 每位作者的完整姓名
@@ -248,7 +258,7 @@ publication/
    - 资助方在研究中的角色（如有）
    - 机构支持的致谢
 
-### 8.2 关键词和媒体材料
+### 9.2 关键词和媒体材料
 
 1. **关键词文件** (`keywords.md`):
    - 3-5个准确代表论文内容的关键词
@@ -267,7 +277,7 @@ publication/
    - 许可偏好（如CC BY, CC BY-NC）
    - 论文存档计划
 
-### 8.3 审稿人建议和伦理
+### 9.3 审稿人建议和伦理
 
 1. **审稿人建议** (`reviewer_suggestions.md`):
    - 4-6位推荐审稿人的完整信息：
@@ -284,7 +294,7 @@ publication/
    - 验证所有研究符合适用的伦理指南
    - 特殊伦理批准的声明（如相关）
 
-### 8.4 期刊特定额外要求
+### 9.4 期刊特定额外要求
 
 对于Science期刊提交:
    - 提供用于目录的一句话摘要（最多40个单词）
@@ -303,7 +313,7 @@ publication/
    - 如使用补充文件，包括补充材料声明
    - 如果工作具有更广泛影响，考虑物理学观点建议
 
-## 9. 自动化管理工具
+## 10. 自动化管理工具
 
 以下自动化工具将用于管理出版过程：
 
@@ -318,7 +328,7 @@ publication/
 
 这些工具将位于`/publication/tools/`目录中。
 
-### 9.1 LaTeX生成流程
+### 10.1 LaTeX生成流程
 
 每篇论文的LaTeX文件生成遵循以下流程：
 

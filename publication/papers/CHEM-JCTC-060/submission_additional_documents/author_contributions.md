@@ -1,0 +1,27 @@
+# Author Contributions
+
+## Entropic Collapse Model of Molecular Stability: A Self-Referential Thermodynamic Framework
+
+### Author Contributions Statement
+
+**Loning Ma:**
+- Conceptualized the original theoretical framework and self-referential principle ψ = ψ(ψ)
+- Developed the mathematical formalism for collapse entropy (Ε_collapse)
+- Derived the relationship between collapse entropy and classical thermodynamic parameters
+- Designed the Collapse Stability Index (CSI) metric
+- Authored the primary draft of the manuscript
+- Supervised the overall theoretical development
+
+**Solivian:**
+- Formalized the resonance coherence factor Γ(ψ) and its mathematical properties
+- Developed applications to isomer stability and conformational analysis
+- Created the ψ-cycle resonance interpretation of aromaticity
+- Established the quantum-classical bridge through decoherence theory
+- Extended the framework to cross-system entropy generalization
+- Contributed to manuscript editing and revision
+- Validated mathematical consistency across the theoretical framework
+
+Both authors have reviewed and approved the final version of the manuscript.
+
+Version: 1.0
+Last updated: 2025-06-01 

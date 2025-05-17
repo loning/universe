@@ -1,0 +1,52 @@
+# Figure 1: Self-Referential Framework of Molecular Stability
+
+## Title
+**Self-Referential Entropic Framework and the ψ = ψ(ψ) Collapse Principle**
+
+## Description
+This figure illustrates the core conceptual foundation of the entropic collapse model through a visual representation of the self-referential principle ψ = ψ(ψ). The figure is designed to communicate how molecular stability emerges from recursive information dynamics rather than traditional thermodynamic parameters.
+
+### Panel A: Self-Reference Visualization
+- A central spiral structure visualizing the recursive application of ψ to itself
+- The spiral contains discrete nodes representing molecular information states
+- Arrows indicate the recursive mapping of states back onto themselves
+- Color gradient transitions from quantum domain (blue) to classical domain (red)
+- Mathematical notation overlay showing ψ = ψ(ψ) at the center
+
+### Panel B: Information Collapse Dynamics
+- Multiple branching paths representing possible collapse trajectories
+- Stable molecular configurations shown as energy minima
+- Path probabilities (p_i) labeled along each trajectory
+- Arrows indicating progressive collapse toward stable states
+- Unstable configurations shown at trajectory branching points
+
+### Panel C: Recursive Conceptual Relationship
+- Diagram showing the conceptual bridge between:
+  * Quantum decoherence (left side)
+  * Information collapse (center)
+  * Classical thermodynamic stability (right side)
+- Connecting arrows with mathematical relationships
+- Mathematical expressions showing:
+  * Von Neumann entropy → Collapse entropy → Classical entropy
+  * ℰ_collapse as the unifying mathematical object
+
+## Key Elements to Highlight
+1. Self-reference as the fundamental principle
+2. Recursive nature of the collapse process
+3. Seamless progression from quantum to classical regimes
+4. Multi-path collapse dynamics
+5. Structural origin of entropy
+
+## Technical Specifications
+- Size: Full page width, double column (7 inches wide)
+- Format: Vector graphic (SVG for editing, PDF for publication)
+- Style: Clean, minimalist design with clear mathematical annotations
+- Color scheme: Blue (quantum) → Purple (transition) → Red (classical) gradient
+- Text elements: Sans-serif fonts for labels, serif for equations
+- Resolution: 600 dpi for all embedded bitmap elements
+
+## Caption
+**Figure 1. Self-referential framework of molecular stability based on the ψ = ψ(ψ) principle.** (A) Visualization of the recursive self-application that creates information echo patterns. (B) Multiple collapse paths representing different molecular configurations, with stable structures emerging at collapse entropy minima. (C) Conceptual bridge connecting quantum decoherence, information collapse, and classical thermodynamic stability through the unifying framework of collapse entropy (ℰ_collapse).
+
+Version: [宇宙本论版本号]
+Last updated: 2025-06-01 
